@@ -1,0 +1,212 @@
+{
+  "_meta": {
+    "description": "Party policy summaries for UK local elections 7 May 2026. Each summary is a short, AI-generated overview of the party's publicly stated positions — with particular emphasis on issues relevant to local government in England (housing, council tax, social care, planning, local services). Summaries are provided for general orientation only. For definitive policy, consult each party's official manifesto.",
+    "last_reviewed": "2026-04-18",
+    "disclaimer": "AI-generated, non-partisan, not affiliated with any party."
+  },
+
+  "labour": {
+    "display_name": "Labour",
+    "colour": "#E4003B",
+    "summary": "Labour's platform centres on five missions: growth, clean energy, NHS reform, safer streets, and opportunity. For councils, this means multi-year funding settlements, mandatory housing targets, stronger renters' rights (abolishing Section 21 evictions), and a Warm Homes Plan funding insulation and heat pumps. The party supports devolution deals for combined authorities.",
+    "themes": [
+      "Housebuilding targets",
+      "Renters' rights",
+      "NHS & social care",
+      "Clean energy",
+      "Council funding"
+    ],
+    "manifesto_url": "https://labour.org.uk/plan-for-change/"
+  },
+
+  "labour-coop": {
+    "display_name": "Labour & Co-operative",
+    "colour": "#E4003B",
+    "summary": "Labour & Co-operative candidates stand on the Labour platform with an additional emphasis on co-operative and community-owned models — such as housing co-ops, community energy schemes, and employee-owned businesses. They sit within the Labour group if elected and support the wider Labour Party programme.",
+    "themes": [
+      "Co-operative models",
+      "Community ownership",
+      "Labour platform",
+      "Housing co-ops",
+      "Local economies"
+    ],
+    "manifesto_url": "https://party.coop/"
+  },
+
+  "conservative": {
+    "display_name": "Conservative",
+    "colour": "#0087DC",
+    "summary": "The Conservatives emphasise low council tax, fiscal discipline, and opposition to what they characterise as heavy top-down housing targets. Priorities include weekly bin collections, protection of the Green Belt, efficient local services, tougher planning safeguards for local communities, and supporting small businesses on the high street.",
+    "themes": [
+      "Low council tax",
+      "Green Belt protection",
+      "Local services",
+      "Planning safeguards",
+      "Fiscal discipline"
+    ],
+    "manifesto_url": "https://www.conservatives.com/our-plan"
+  },
+
+  "libdem": {
+    "display_name": "Liberal Democrats",
+    "colour": "#FAA61A",
+    "summary": "The Liberal Democrats campaign on fixing adult social care, tackling sewage pollution, investment in the NHS and GP access, and a fairer deal for carers. Locally, they support community-led planning, proportional representation in local government, stronger environmental protections, and extra funding for pothole repairs and bus services.",
+    "themes": [
+      "Social care reform",
+      "Sewage & rivers",
+      "NHS access",
+      "Community planning",
+      "Local transport"
+    ],
+    "manifesto_url": "https://www.libdems.org.uk/manifesto"
+  },
+
+  "green": {
+    "display_name": "Green Party",
+    "colour": "#02A95B",
+    "summary": "The Greens prioritise climate action, public transport, building retrofits, and genuinely affordable social housing. At the council level, they campaign on protecting green spaces, low-traffic neighbourhoods, ending sewage discharges, rent controls where possible, wildlife-friendly planning, and community-owned renewable energy.",
+    "themes": [
+      "Climate action",
+      "Affordable housing",
+      "Green spaces",
+      "Active travel",
+      "Community energy"
+    ],
+    "manifesto_url": "https://greenparty.org.uk/about/our-manifesto/"
+  },
+
+  "reform": {
+    "display_name": "Reform UK",
+    "colour": "#12B6CF",
+    "summary": "Reform UK campaigns on lower taxation, reduced immigration, and what it calls \"commonsense\" local government — prioritising frontline services over administrative spending, opposing low-traffic neighbourhoods and ULEZ-style schemes, and scrapping diversity and net-zero roles in councils. The party emphasises value for money for council taxpayers.",
+    "themes": [
+      "Lower council tax",
+      "Frontline services",
+      "Oppose LTNs/ULEZ",
+      "Immigration",
+      "Spending cuts"
+    ],
+    "manifesto_url": "https://www.reformparty.uk/policies"
+  },
+
+  "plaid": {
+    "display_name": "Plaid Cymru",
+    "colour": "#005B54",
+    "summary": "Plaid Cymru campaigns for Welsh independence and stronger community powers within Wales. Locally, the party emphasises protecting the Welsh language, affordable housing for local people (including second-home controls), supporting Welsh farmers, investment in rural services, and action on the climate and nature emergencies.",
+    "themes": [
+      "Welsh independence",
+      "Welsh language",
+      "Local housing",
+      "Rural services",
+      "Climate & nature"
+    ],
+    "manifesto_url": "https://www.partyof.wales/policies"
+  },
+
+  "snp": {
+    "display_name": "Scottish National Party",
+    "colour": "#FDF38E",
+    "summary": "The SNP supports Scottish independence and invests in free prescriptions, free university tuition, and expanded childcare. In local government it emphasises tackling child poverty, council-led housebuilding, the Scottish Child Payment, climate action, and protecting public services from Westminster spending pressures.",
+    "themes": [
+      "Scottish independence",
+      "Child poverty",
+      "Council housing",
+      "Free public services",
+      "Climate action"
+    ],
+    "manifesto_url": "https://www.snp.org/policies/"
+  },
+
+  "sinn-fein": {
+    "display_name": "Sinn Féin",
+    "colour": "#326760",
+    "summary": "Sinn Féin campaigns for Irish reunification and invests in public services. Locally the party emphasises affordable housing, workers' rights, support for the Irish language, and opposition to austerity. In Northern Ireland it is the largest party of local government.",
+    "themes": [
+      "Irish unity",
+      "Affordable housing",
+      "Workers' rights",
+      "Irish language",
+      "Public services"
+    ],
+    "manifesto_url": "https://www.sinnfein.ie/policies"
+  },
+
+  "dup": {
+    "display_name": "Democratic Unionist Party",
+    "colour": "#D46A4C",
+    "summary": "The DUP supports Northern Ireland's place in the United Kingdom and campaigns for strong local services, lower rates where possible, and policies reflecting its socially conservative values. Locally it emphasises investment in infrastructure, support for small businesses, and protecting the union.",
+    "themes": [
+      "Union with UK",
+      "Lower rates",
+      "Local infrastructure",
+      "Small business",
+      "Social conservatism"
+    ],
+    "manifesto_url": "https://mydup.com/policies"
+  },
+
+  "alliance": {
+    "display_name": "Alliance Party",
+    "colour": "#F6CB2F",
+    "summary": "Alliance is a cross-community, liberal party in Northern Ireland. It campaigns for reformed Stormont institutions, integrated education, strong public services, action on the climate, and moving beyond sectarian politics. Locally it emphasises shared communities and evidence-based council decision-making.",
+    "themes": [
+      "Cross-community",
+      "Integrated education",
+      "Stormont reform",
+      "Climate action",
+      "Good governance"
+    ],
+    "manifesto_url": "https://www.allianceparty.org/policy"
+  },
+
+  "sdlp": {
+    "display_name": "Social Democratic and Labour Party",
+    "colour": "#2AA82C",
+    "summary": "The SDLP is a social-democratic, nationalist party in Northern Ireland. It supports Irish unity by consent, strong public services, action on the cost of living, and reconciliation across communities. Locally it emphasises investment in schools, housing and healthcare.",
+    "themes": [
+      "Irish unity by consent",
+      "Social democracy",
+      "Reconciliation",
+      "Public services",
+      "Cost of living"
+    ],
+    "manifesto_url": "https://www.sdlp.ie/policies"
+  },
+
+  "uup": {
+    "display_name": "Ulster Unionist Party",
+    "colour": "#48A5EE",
+    "summary": "The UUP is a unionist, centrist party in Northern Ireland. It supports the union with the UK alongside pragmatic, pro-business policies, investment in health and education, and cross-community working. Locally it emphasises good governance, lower rates, and support for local enterprise.",
+    "themes": [
+      "Union with UK",
+      "Centre-ground",
+      "Health & education",
+      "Pro-business",
+      "Good governance"
+    ],
+    "manifesto_url": "https://uup.org/policies"
+  },
+
+  "independent": {
+    "display_name": "Independent",
+    "colour": "#666666",
+    "summary": "Independent candidates do not represent a political party. They campaign on their own priorities — often focused on specific local issues in their ward, rather than a national programme. To learn what an individual independent candidate stands for, see their personal campaign links or contact details above.",
+    "themes": [
+      "Local priorities",
+      "No party whip",
+      "Individual platform"
+    ],
+    "manifesto_url": null
+  },
+
+  "other": {
+    "display_name": "Other party",
+    "colour": "#666666",
+    "summary": "This candidate stands for a smaller or local party not covered by our policy summaries. See the candidate's links above, or search for the party's own website, for their platform.",
+    "themes": [
+      "See candidate links",
+      "Smaller party"
+    ],
+    "manifesto_url": null
+  }
+}

@@ -1,0 +1,62 @@
+name: Nightly candidate data enrichment
+
+# Runs once a day and also on manual trigger.
+# The job fetches the latest Democracy Club data for the 7 May 2026
+# local elections, builds data/candidate-extras.json, and commits if the
+# content has changed.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"     # 03:17 UTC every day (quiet hour, off-peak for the API)
+  workflow_dispatch:           # allow manual runs from the Actions tab
+
+# Grant the workflow permission to push back to the repo
+permissions:
+  contents: write
+
+# Avoid overlapping runs
+concurrency:
+  group: enrich-candidates
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    name: Build candidate-extras.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The enrichment script uses only the Python standard library,
+      # so no `pip install` step is needed.
+
+      - name: Run enrichment script
+        run: python scripts/enrich_candidates.py
+
+      - name: Check for changes
+        id: diff
+        run: |
+          if git diff --quiet -- data/candidate-extras.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to commit."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected:"
+            git diff --stat -- data/candidate-extras.json
+          fi
+
+      - name: Commit and push if changed
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidate-extras.json
+          git commit -m "chore: nightly candidate-extras refresh"
+          git push

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light only" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Your Ballot · UK Local Elections, 7 May 2026</title>
+  <meta name="description" content="Enter your postcode to see the candidates standing in your area for the UK local elections on Thursday 7 May 2026." />
+
+  <!-- Fonts: Fraunces (serif display) + Inter Tight (sans body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter+Tight:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <p class="eyebrow">UK Local Elections &middot; Thursday 7 May 2026</p>
+      <h1 class="site-title">Your Ballot</h1>
+      <p class="site-tagline">
+        Enter your postcode to see who&rsquo;s standing in your ward, the parties they represent,
+        and what those parties stand for.
+      </p>
+    </div>
+  </header>
+
+  <main id="main" class="container">
+
+    <!-- Search -->
+    <section class="search-section" aria-labelledby="search-heading">
+      <h2 id="search-heading" class="visually-hidden">Find your candidates</h2>
+      <form id="postcode-form" class="postcode-form" novalidate>
+        <label for="postcode-input" class="postcode-label">Your postcode</label>
+        <div class="postcode-row">
+          <input
+            id="postcode-input"
+            name="postcode"
+            type="text"
+            inputmode="text"
+            autocomplete="postal-code"
+            autocapitalize="characters"
+            spellcheck="false"
+            placeholder="e.g. BN43 5WE"
+            aria-describedby="postcode-help"
+            required
+          />
+          <button type="submit" id="postcode-submit">
+            <span class="btn-label">Find candidates</span>
+            <span class="btn-spinner" aria-hidden="true"></span>
+          </button>
+        </div>
+        <p id="postcode-help" class="postcode-help">
+          We only use your postcode to look up your electoral ward. Nothing is stored.
+        </p>
+        <p id="postcode-error" class="postcode-error" role="alert" hidden></p>
+      </form>
+    </section>
+
+    <!-- Status / loading area -->
+    <div id="status-region" class="status-region" aria-live="polite"></div>
+
+    <!-- Results -->
+    <section id="results" class="results" hidden>
+      <header class="results-header">
+        <p class="results-kicker" id="results-kicker"></p>
+        <h2 class="results-heading" id="results-heading"></h2>
+        <p class="results-sub" id="results-sub"></p>
+      </header>
+
+      <div class="results-grid" id="candidates-grid"></div>
+
+      <section class="parties-section" id="parties-section" hidden>
+        <h3 class="parties-heading">Where the parties stand</h3>
+        <p class="parties-note">
+          Short, AI-generated summaries of each party&rsquo;s public positions.
+          Always check official manifestos before voting.
+        </p>
+        <div class="parties-grid" id="parties-grid"></div>
+      </section>
+    </section>
+
+    <!-- Empty / no-election state -->
+    <section id="no-election" class="no-election" hidden>
+      <h2>No local election found for this postcode</h2>
+      <p>
+        We couldn&rsquo;t find a local election on 7 May 2026 for your area.
+        This may mean your council isn&rsquo;t holding an election this year, or the
+        data hasn&rsquo;t been published yet.
+      </p>
+      <p>
+        Try <a href="https://whocanivotefor.co.uk/" rel="noopener">Who Can I Vote For?</a> for
+        the most up-to-date information.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Candidate data from
+        <a href="https://candidates.democracyclub.org.uk/" rel="noopener">Democracy Club</a>.
+        Postcode lookup by
+        <a href="https://postcodes.io/" rel="noopener">postcodes.io</a>.
+      </p>
+      <p class="disclaimer">
+        Party policy summaries on this site are AI-generated and provided for general orientation only.
+        For definitive policy positions, please consult each party&rsquo;s official manifesto.
+        This site is non-partisan and not affiliated with any political party.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
