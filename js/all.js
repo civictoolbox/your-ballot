@@ -265,6 +265,30 @@
     }
   };
 
+  // ---------- Deep links ----------
+  // ?council=<slug> auto-expands that council on load.
+  // ?council=<slug>&ward=<ward-name> also highlights and scrolls to the ward.
+  const handleDeepLink = async () => {
+    const params = new URLSearchParams(location.search);
+    const slug = params.get('council');
+    if (!slug) return;
+    const row = listEl.querySelector(`.council-row[data-slug="${CSS.escape(slug)}"]`);
+    if (!row) return;
+    const btn = row.querySelector('.council-toggle');
+    if (!btn) return;
+
+    // Pre-fill ward into the search box so it highlights when the detail loads.
+    const ward = params.get('ward');
+    if (ward) {
+      searchInput.value = ward;
+      currentQuery = ward.toLowerCase();
+    }
+
+    btn.click();
+    // Scroll the expanded council to the top of the viewport
+    setTimeout(() => row.scrollIntoView({ behavior: 'smooth', block: 'start' }), 50);
+  };
+
   // ---------- Boot ----------
   const init = async () => {
     try {
@@ -286,6 +310,7 @@
 
       setSummary(councils.length, councils.length);
       renderCouncils(councils);
+      await handleDeepLink();
     } catch (e) {
       statusEl.innerHTML = `
         <p class="status-msg">

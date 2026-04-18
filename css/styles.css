@@ -115,7 +115,8 @@ a:hover { text-decoration-thickness: 2px; }
   gap: .5rem;
   align-items: stretch;
 }
-#postcode-input {
+#postcode-input,
+#council-search {
   flex: 1 1 auto;
   min-width: 0;
   font: inherit;
@@ -129,8 +130,10 @@ a:hover { text-decoration-thickness: 2px; }
   letter-spacing: .04em;
   transition: border-color .15s ease;
 }
-#postcode-input::placeholder { color: var(--ink-mute); text-transform: none; letter-spacing: 0; }
-#postcode-input:focus {
+#postcode-input::placeholder,
+#council-search::placeholder { color: var(--ink-mute); text-transform: none; letter-spacing: 0; }
+#postcode-input:focus,
+#council-search:focus {
   outline: 3px solid var(--accent);
   outline-offset: 2px;
 }
@@ -150,6 +153,10 @@ a:hover { text-decoration-thickness: 2px; }
   white-space: nowrap;
 }
 #postcode-submit:hover:not([disabled]) { background: var(--accent); border-color: var(--accent); }
+#postcode-submit:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
 #postcode-submit[disabled] { opacity: .6; cursor: progress; }
 #postcode-submit .btn-spinner {
   display: none;
@@ -566,6 +573,11 @@ a:hover { text-decoration-thickness: 2px; }
 .browse-link a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
+}
+.browse-link a:focus-visible,
+.back-link:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
 }
 
 /* ---------- Back link in eyebrow on all.html ---------- */
