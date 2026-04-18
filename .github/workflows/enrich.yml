@@ -23,7 +23,7 @@ jobs:
   enrich:
     name: Build candidate-extras.json
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 120
 
     steps:
       - name: Check out repository
@@ -43,13 +43,14 @@ jobs:
       - name: Check for changes
         id: diff
         run: |
-          if git diff --quiet -- data/candidate-extras.json; then
+          git add -N data/
+          if git diff --quiet -- data/; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes to commit."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
             echo "Changes detected:"
-            git diff --stat -- data/candidate-extras.json
+            git diff --stat -- data/
           fi
 
       - name: Commit and push if changed
@@ -57,6 +58,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/candidate-extras.json
-          git commit -m "chore: nightly candidate-extras refresh"
+          git add data/
+          git commit -m "chore: nightly data refresh (candidates, browse index)"
           git push

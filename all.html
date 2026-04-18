@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light only" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Browse all councils · Your Ballot</title>
+  <meta name="description" content="Every UK council with elections on Thursday 7 May 2026, with wards and candidates." />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter+Tight:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container">
+      <p class="eyebrow"><a href="./" class="back-link">← Your Ballot</a> &middot; Browse all councils</p>
+      <h1 class="site-title">All councils</h1>
+      <p class="site-tagline" id="all-tagline">
+        Every council with an election on Thursday 7 May 2026.
+        Click a council to see its wards and candidates.
+      </p>
+    </div>
+  </header>
+
+  <main id="main" class="container">
+
+    <section class="search-section" aria-labelledby="search-heading">
+      <h2 id="search-heading" class="visually-hidden">Search councils</h2>
+      <label for="council-search" class="postcode-label">Search by council name</label>
+      <div class="postcode-row">
+        <input
+          id="council-search"
+          type="search"
+          inputmode="text"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="e.g. Adur, Tower Hamlets, Westminster"
+        />
+      </div>
+      <p id="all-summary" class="postcode-help" aria-live="polite">Loading councils…</p>
+    </section>
+
+    <section class="status-region" id="all-status" aria-live="polite"></section>
+
+    <section id="council-list" class="council-list" aria-label="Councils list"></section>
+
+    <section id="no-match" class="no-election" hidden>
+      <h2>No councils match your search</h2>
+      <p>Try a different name or clear the search box to see all councils.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Candidate data from
+        <a href="https://candidates.democracyclub.org.uk/" rel="noopener">Democracy Club</a>.
+        Every council shown below has at least one seat up for election on 7 May 2026.
+      </p>
+      <p class="disclaimer">
+        Town, parish, and community council elections are not included — Democracy Club does not
+        collect this data. If your postcode returns no election, this page will not fill that gap.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/all.js" defer></script>
+</body>
+</html>

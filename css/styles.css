@@ -390,6 +390,190 @@ a:hover { text-decoration-thickness: 2px; }
   .candidate-aside { text-align: left; }
 }
 
+/* ---------- Browse link on home page ---------- */
+.browse-link {
+  margin: 1.75rem 0 0;
+  font-size: 1rem;
+  color: var(--ink-mute);
+}
+.browse-link a {
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1.5px solid var(--ink);
+  padding-bottom: 2px;
+  transition: color .15s, border-color .15s;
+}
+.browse-link a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ---------- Back link in eyebrow on all.html ---------- */
+.back-link {
+  color: var(--ink-mute);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: color .15s, border-color .15s;
+}
+.back-link:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink);
+}
+
+/* ---------- Council list (all.html) ---------- */
+.council-list {
+  padding-bottom: 5rem;
+  border-top: 1px solid var(--line);
+}
+.council-row {
+  border-bottom: 1px solid var(--line);
+}
+.council-toggle {
+  width: 100%;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: 1.4rem 0;
+  background: none;
+  border: 0;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background .1s ease;
+}
+.council-toggle:hover {
+  background: var(--paper-alt);
+}
+.council-toggle:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+.council-name {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1.3rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  color: var(--ink);
+}
+.council-meta {
+  font-size: .88rem;
+  color: var(--ink-mute);
+  justify-self: end;
+  white-space: nowrap;
+}
+.council-chevron {
+  font-size: 1rem;
+  color: var(--ink-mute);
+  transition: transform .18s ease;
+  display: inline-block;
+  width: 1rem;
+  text-align: center;
+}
+.council-row.is-open .council-chevron {
+  transform: rotate(90deg);
+  color: var(--ink);
+}
+
+.council-wards {
+  padding: 0 0 2rem 0;
+  border-top: 1px solid var(--line-soft);
+  background: var(--paper-alt);
+}
+.ward {
+  padding: 1.2rem clamp(.5rem, 2vw, 1.25rem);
+  border-bottom: 1px solid var(--line-soft);
+}
+.ward:last-child { border-bottom: 0; }
+.ward-head {
+  margin-bottom: .75rem;
+}
+.ward-name {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1.1rem;
+  letter-spacing: -0.005em;
+  margin: 0 0 .15rem;
+  color: var(--ink);
+}
+.ward-meta {
+  margin: 0;
+  font-size: .82rem;
+  color: var(--ink-mute);
+  letter-spacing: .02em;
+}
+.candidate-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: .2rem;
+}
+.candidate-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: baseline;
+  padding: .55rem 0;
+  border-bottom: 1px dotted var(--line);
+  font-size: .95rem;
+}
+.candidate-item:last-child { border-bottom: 0; }
+.candidate-item-name {
+  color: var(--ink);
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.candidate-item-party {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  color: var(--ink-soft);
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.candidate-item-link {
+  font-size: .85rem;
+  color: var(--ink-soft);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1px;
+  white-space: nowrap;
+  transition: color .15s, border-color .15s;
+}
+.candidate-item-link:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .council-toggle {
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: .5rem;
+    align-items: start;
+  }
+  .council-meta {
+    grid-column: 1 / -1;
+    justify-self: start;
+    white-space: normal;
+    font-size: .82rem;
+  }
+  .council-chevron {
+    grid-row: 1;
+    grid-column: 2;
+    align-self: center;
+  }
+  .candidate-item {
+    grid-template-columns: 1fr;
+    gap: .15rem;
+    padding: .7rem 0;
+  }
+  .candidate-item-link { justify-self: start; }
+}
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
