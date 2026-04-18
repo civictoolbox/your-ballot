@@ -6,7 +6,25 @@
   <meta name="color-scheme" content="light only" />
   <meta name="theme-color" content="#ffffff" />
   <title>Browse all councils · Your Ballot</title>
-  <meta name="description" content="Every UK council with elections on Thursday 7 May 2026, with wards and candidates." />
+  <meta name="description" content="Every UK council with elections on Thursday 7 May 2026, with wards and candidates. Non-partisan, ad-free, no accounts." />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+  <!-- Canonical + Open Graph + Twitter -->
+  <link rel="canonical" href="https://civictoolbox.github.io/your-ballot/all.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://civictoolbox.github.io/your-ballot/all.html" />
+  <meta property="og:title" content="Browse all councils · Your Ballot" />
+  <meta property="og:description" content="Every UK council with a local election on Thursday 7 May 2026 — wards, seats, candidates." />
+  <meta property="og:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="en_GB" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Browse all councils · Your Ballot" />
+  <meta name="twitter:description" content="Every UK council with a local election on Thursday 7 May 2026." />
+  <meta name="twitter:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -47,9 +65,30 @@
       </p>
     </aside>
 
+    <!-- Election day details -->
+    <details class="election-day" aria-label="Everything else you need to know about voting">
+      <summary>Everything else you need to know about voting on 7 May 2026</summary>
+      <div class="election-day-body">
+        <dl>
+          <dt>Polling hours</dt>
+          <dd>Polling stations are open from <strong>7am to 10pm</strong> on Thursday 7 May 2026. If you're in the queue at 10pm, you can still vote.</dd>
+          <dt>Where to vote</dt>
+          <dd>You can only vote at the polling station printed on your poll card. Look up yours at <a href="https://wheredoivote.co.uk/" rel="noopener" target="_blank">wheredoivote.co.uk</a>. Don't have a poll card? You can still vote — just bring photo ID.</dd>
+          <dt>Accessibility</dt>
+          <dd>Every polling station has a Tactile Voting Device for visually impaired voters. You can also bring a companion to help you, or ask the Presiding Officer for assistance.</dd>
+          <dt>Postal and proxy vote deadlines</dt>
+          <dd>Postal vote applications must reach your council by <strong>5pm on Wednesday 22 April 2026</strong>. Proxy vote applications close at <strong>5pm on Wednesday 29 April 2026</strong>. Apply at <a href="https://www.gov.uk/apply-postal-vote" rel="noopener" target="_blank">gov.uk/apply-postal-vote</a> or <a href="https://www.gov.uk/apply-vote-proxy" rel="noopener" target="_blank">gov.uk/apply-vote-proxy</a>.</dd>
+          <dt>Can't make it on the day?</dt>
+          <dd>Apply for an emergency proxy vote up to <strong>5pm on 7 May 2026</strong> if something unexpected (illness, work) means you can't get to your polling station.</dd>
+          <dt>If you make a mistake on your ballot</dt>
+          <dd>Ask the Presiding Officer for a replacement. They'll mark your first paper as spoilt and give you a fresh one.</dd>
+        </dl>
+      </div>
+    </details>
+
     <section class="search-section" aria-labelledby="search-heading">
       <h2 id="search-heading" class="visually-hidden">Search councils</h2>
-      <label for="council-search" class="postcode-label">Search by council name</label>
+      <label for="council-search" class="postcode-label">Search by council or ward name</label>
       <div class="postcode-row">
         <input
           id="council-search"
@@ -57,7 +96,7 @@
           inputmode="text"
           autocomplete="off"
           spellcheck="false"
-          placeholder="e.g. Adur, Tower Hamlets, Westminster"
+          placeholder="e.g. Adur, Tower Hamlets, Bethnal Green"
         />
       </div>
       <p id="all-summary" class="postcode-help" aria-live="polite">Loading councils…</p>

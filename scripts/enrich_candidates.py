@@ -343,6 +343,10 @@ def write_elections_browse_data(
             "ward_count": ward_count,
             "candidate_count": candidate_count,
             "seat_count": seat_count,
+            # Ward names are included in the index so the browse page can
+            # search by ward ("Bethnal Green" → Tower Hamlets) without
+            # having to lazy-load every council first.
+            "wards": [w.get("ward_name") or "" for w in wards_sorted],
         })
 
     index_entries.sort(key=lambda e: e["name"].lower())

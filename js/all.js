@@ -25,6 +25,7 @@
   let councils = [];                // full index, from elections-index.json
   const councilCache = new Map();   // slug -> { wards: [...] }
   const expanded = new Set();       // slugs currently expanded
+  let currentQuery = '';            // the active search query (for ward highlighting)
 
   // ---------- Helpers ----------
   const esc = (s) => String(s ?? '')
@@ -140,10 +141,13 @@
       return;
     }
 
+    const q = currentQuery;
     container.innerHTML = wards.map(w => {
       const seatLabel = w.seats_contested === 1 ? '1 seat' : `${w.seats_contested} seats`;
       const nCands = (w.candidates || []).length;
       const candLabel = nCands === 1 ? '1 candidate' : `${nCands} candidates`;
+      const wardName = w.ward_name || '';
+      const matches = q && wardName.toLowerCase().includes(q);
       const candidates = (w.candidates || []).map(c => {
         const colour = COLOURS[partyKey(c.party_name)] || COLOURS.other;
         const profile = c.person_id ? `https://whocanivotefor.co.uk/person/${c.person_id}/` : null;
@@ -159,15 +163,21 @@
         `;
       }).join('');
       return `
-        <section class="ward">
+        <section class="ward ${matches ? 'is-match' : ''}">
           <header class="ward-head">
-            <h3 class="ward-name">${esc(w.ward_name)}</h3>
+            <h3 class="ward-name">${esc(wardName)}</h3>
             <p class="ward-meta">${seatLabel} &middot; ${candLabel}</p>
           </header>
           <ul class="candidate-list">${candidates}</ul>
         </section>
       `;
     }).join('');
+
+    // Scroll to first matching ward so the user sees why they got this council
+    if (q) {
+      const match = container.querySelector('.ward.is-match');
+      if (match) match.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
   };
 
   const fetchCouncilDetail = async (slug) => {
@@ -223,20 +233,36 @@
   };
 
   // ---------- Search ----------
+  const councilMatchesQuery = (c, q, qSlug) => {
+    if (!q) return true;
+    const name = (c.name || '').toLowerCase();
+    if (name.includes(q) || c.slug.includes(qSlug)) return true;
+    // Ward-name match: typing "Bethnal Green" should surface Tower Hamlets
+    const wards = c.wards || [];
+    return wards.some(w => (w || '').toLowerCase().includes(q));
+  };
+
   const applyFilter = () => {
     const q = normaliseSearch(searchInput.value);
+    currentQuery = q;
     if (!q) {
       renderCouncils(councils);
       setSummary(councils.length, councils.length);
       return;
     }
     const qSlug = slugify(q);
-    const filtered = councils.filter(c => {
-      const name = (c.name || '').toLowerCase();
-      return name.includes(q) || c.slug.includes(qSlug);
-    });
+    const filtered = councils.filter(c => councilMatchesQuery(c, q, qSlug));
     renderCouncils(filtered);
     setSummary(filtered.length, councils.length);
+
+    // If exactly one council matches, auto-expand it so the user sees the ward.
+    if (filtered.length === 1) {
+      const only = filtered[0];
+      if (!expanded.has(only.slug)) {
+        const btn = listEl.querySelector(`.council-row[data-slug="${CSS.escape(only.slug)}"] .council-toggle`);
+        if (btn) btn.click();
+      }
+    }
   };
 
   // ---------- Boot ----------
