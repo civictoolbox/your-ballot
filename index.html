@@ -34,6 +34,20 @@
 
   <main id="main" class="container">
 
+    <!-- Voter ID reminder -->
+    <aside class="voter-id-banner" role="note" aria-label="Voter ID requirement">
+      <p>
+        <strong>You'll need photo ID to vote</strong> on 7 May 2026.
+        A UK passport, driving licence, or Older Person's Bus Pass all work.
+        <a href="https://www.gov.uk/how-to-vote/photo-id-youll-need" rel="noopener" target="_blank">Full list of accepted IDs →</a>
+      </p>
+      <p class="voter-id-fallback">
+        No photo ID? Apply for a free Voter Authority Certificate — deadline
+        <strong>5pm on Wednesday 29 April 2026</strong>.
+        <a href="https://www.gov.uk/apply-for-photo-id-voter-authority-certificate" rel="noopener" target="_blank">Apply here →</a>
+      </p>
+    </aside>
+
     <!-- Search -->
     <section class="search-section" aria-labelledby="search-heading">
       <h2 id="search-heading" class="visually-hidden">Find your candidates</h2>
@@ -79,6 +93,17 @@
       </header>
 
       <div class="results-grid" id="candidates-grid"></div>
+
+      <section class="next-steps" id="next-steps" hidden>
+        <a id="polling-station-link" class="next-step-link" href="#" rel="noopener" target="_blank">
+          <span class="next-step-label">Find your polling station</span>
+          <span class="next-step-host">on wheredoivote.co.uk →</span>
+        </a>
+        <button type="button" id="share-btn" class="next-step-link next-step-button">
+          <span class="next-step-label">Share this ward</span>
+          <span class="next-step-host" id="share-btn-host">Copy link</span>
+        </button>
+      </section>
 
       <section class="parties-section" id="parties-section" hidden>
         <h3 class="parties-heading">Where the parties stand</h3>

@@ -35,6 +35,10 @@
   const grid       = document.getElementById('candidates-grid');
   const partiesSec = document.getElementById('parties-section');
   const partiesGrid= document.getElementById('parties-grid');
+  const nextSteps  = document.getElementById('next-steps');
+  const pollingLink= document.getElementById('polling-station-link');
+  const shareBtn   = document.getElementById('share-btn');
+  const shareHost  = document.getElementById('share-btn-host');
 
   // ---------- Preloaded data (lazy) ----------
   let partiesDataPromise = null;
@@ -364,6 +368,56 @@
     }
   };
 
+  const renderNextSteps = (postcode) => {
+    if (!nextSteps) return;
+    const pcCompact = normalisePostcode(postcode);
+    if (pollingLink) {
+      pollingLink.href = `https://wheredoivote.co.uk/postcode/${encodeURIComponent(pcCompact)}/`;
+    }
+    if (shareBtn) {
+      shareBtn.dataset.postcode = pcCompact;
+      if (shareHost) shareHost.textContent = 'Copy link';
+    }
+    nextSteps.hidden = false;
+  };
+
+  const buildShareUrl = (postcode) => {
+    const base = `${location.origin}${location.pathname.replace(/[^/]*$/, '')}`;
+    return `${base}?postcode=${encodeURIComponent(postcode)}`;
+  };
+
+  const handleShare = async () => {
+    if (!shareBtn) return;
+    const postcode = shareBtn.dataset.postcode || '';
+    if (!postcode) return;
+    const url = buildShareUrl(postcode);
+    const setHost = (msg) => { if (shareHost) shareHost.textContent = msg; };
+
+    // Prefer the native share sheet on mobile; fall back to clipboard.
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: 'Your Ballot',
+          text: `Candidates on my ballot for 7 May 2026`,
+          url,
+        });
+        setHost('Shared');
+        return;
+      } catch {
+        // User cancelled or share failed — fall through to clipboard
+      }
+    }
+
+    try {
+      await navigator.clipboard.writeText(url);
+      setHost('Link copied');
+    } catch {
+      setHost('Copy failed');
+      console.error('Clipboard write failed');
+    }
+    setTimeout(() => setHost('Copy link'), 2500);
+  };
+
   const renderResults = async ({ district, ward, postcode }, ballot, enriched, extras) => {
     noElection.hidden = true;
     results.hidden = false;
@@ -375,6 +429,7 @@
     sub.textContent = `${nCand} candidate${nCand === 1 ? '' : 's'} standing for ${seats} seat${seats === 1 ? '' : 's'} on Thursday 7 May 2026.`;
 
     renderCandidates(ballot, enriched, extras);
+    renderNextSteps(postcode);
     await renderParties(ballot);
 
     // Smooth scroll into view
@@ -384,6 +439,7 @@
   const renderNoElection = ({ district, ward, postcode }) => {
     results.hidden = true;
     partiesSec.hidden = true;
+    if (nextSteps) nextSteps.hidden = true;
     noElection.hidden = false;
     // Personalise the no-election message slightly
     noElection.querySelector('h2').textContent =
@@ -450,6 +506,7 @@
   };
 
   form.addEventListener('submit', handleSubmit);
+  if (shareBtn) shareBtn.addEventListener('click', handleShare);
 
   // Handle ?postcode= in URL for shareable links
   const params = new URLSearchParams(location.search);
