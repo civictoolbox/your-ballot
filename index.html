@@ -35,9 +35,54 @@
   />
 
   <link rel="stylesheet" href="css/styles.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://civictoolbox.github.io/your-ballot/#website",
+        "url": "https://civictoolbox.github.io/your-ballot/",
+        "name": "Your Ballot",
+        "description": "Enter your postcode to see the candidates standing in your ward at the UK local elections on Thursday 7 May 2026.",
+        "inLanguage": "en-GB",
+        "publisher": {
+          "@type": "Organization",
+          "name": "civictoolbox",
+          "url": "https://civictoolbox.github.io/"
+        }
+      },
+      {
+        "@type": "Event",
+        "name": "UK Local Elections 2026",
+        "startDate": "2026-05-07T07:00:00+01:00",
+        "endDate": "2026-05-07T22:00:00+01:00",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "location": {
+          "@type": "Country",
+          "name": "United Kingdom"
+        },
+        "description": "Local council elections held across England, with some by-elections in Scotland and Wales."
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <a href="#main" class="skip-link">Skip to content</a>
+
+  <noscript>
+    <aside class="voter-id-banner" role="note" style="margin:1rem auto;max-width:1040px;">
+      <p>
+        <strong>This site needs JavaScript</strong> to look up your candidates.
+        If you can't enable JS, head straight to
+        <a href="https://whocanivotefor.co.uk/" rel="noopener">whocanivotefor.co.uk</a>
+        — Democracy Club's own tool — which works without JavaScript.
+      </p>
+    </aside>
+  </noscript>
 
   <header class="site-header">
     <div class="container">
