@@ -5,6 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="light only" />
   <meta name="theme-color" content="#ffffff" />
+
+  <!-- Security: Content Security Policy, referrer hardening. Deliberate
+       trust-boundary: scripts, styles, fonts, images, XHR/fetch are all
+       whitelisted to known civic data sources only (Democracy Club YNR,
+       postcodes.io). See SECURITY.md for rationale and caveats of
+       meta-delivered CSP. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-27lUGhEs+obshPZiTGT3aqrkzlzxQXEiIPs3VfZWTvY=' 'sha256-OsLObyIPJ7+JVXh6M7ayK64Dzvxe0828+A/XZj1Cp4s=' 'sha256-hD/Wktsfec+99YOd64qZM9pO0VhZDZ+yru89PD+6JT8='; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self' https://api.postcodes.io https://candidates.democracyclub.org.uk; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-Content-Type-Options" content="nosniff" />
   <title>Browse all councils · Your Ballot</title>
   <meta name="description" content="Every UK council with elections on Thursday 7 May 2026, with wards and candidates. Non-partisan, ad-free, no accounts." />
 
