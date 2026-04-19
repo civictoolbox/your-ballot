@@ -54,10 +54,12 @@ ELECTION_DATE = "2026-05-07"
 YNR_BASE = "https://candidates.democracyclub.org.uk/api/next"
 USER_AGENT = "YourBallot-Enrichment/1.0 (+https://github.com/) nightly"
 REQUEST_TIMEOUT = 30            # seconds per HTTP call
-INTER_REQUEST_SLEEP = 0.6       # be polite to YNR — empirically needed to avoid 429s
+INTER_REQUEST_SLEEP = 1.5       # be polite to YNR — local testing showed 0.6s
+                                # puts us in the rate-limit penalty box fast
 PAGE_SIZE = 100                 # max per API page
 MAX_PAGES = 60                  # safety cap (6000 ballots would be huge)
-MAX_ATTEMPTS = 6                # retry more aggressively on 429/5xx
+MAX_ATTEMPTS = 4                # don't burn too long on a single bad URL;
+                                # move on and let a follow-up run catch it
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUTPUT_PATH = DATA_DIR / "candidate-extras.json"
