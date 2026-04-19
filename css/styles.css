@@ -881,12 +881,13 @@ a:hover { text-decoration-thickness: 2px; }
   font-size: .95rem;
 }
 
-/* Make candidate names in the postcode results + parties page clickable */
+/* Make candidate names visibly clickable — a subtle but visible
+   underline so users know the name links to the candidate's profile */
 .candidate-name a,
 .candidate-item-name a {
   color: inherit;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
+  border-bottom: 1px solid var(--line);
   transition: border-color .15s, color .15s;
 }
 .candidate-name a:hover,
