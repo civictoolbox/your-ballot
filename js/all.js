@@ -151,14 +151,17 @@
       const candidates = (w.candidates || []).map(c => {
         const colour = COLOURS[partyKey(c.party_name)] || COLOURS.other;
         const profile = c.person_id ? `https://whocanivotefor.co.uk/person/${c.person_id}/` : null;
+        const nameHtml = c.person_id
+          ? `<a href="candidate.html?id=${encodeURIComponent(c.person_id)}">${esc(c.name)}</a>`
+          : esc(c.name);
         return `
           <li class="candidate-item">
-            <span class="candidate-item-name">${esc(c.name)}</span>
+            <span class="candidate-item-name">${nameHtml}</span>
             <span class="candidate-item-party">
               <span class="party-swatch" style="background:${colour}"></span>
               ${esc(c.party_name)}
             </span>
-            ${profile ? `<a class="candidate-item-link" href="${esc(profile)}" rel="noopener" target="_blank">Full profile →</a>` : ''}
+            ${profile ? `<a class="candidate-item-link" href="${esc(profile)}" rel="noopener" target="_blank">Profile →</a>` : ''}
           </li>
         `;
       }).join('');

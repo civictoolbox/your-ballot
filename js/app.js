@@ -298,10 +298,13 @@
       // Always include WCIVF profile
       if (person.id) pushLink('Full profile', `https://whocanivotefor.co.uk/person/${person.id}/`);
 
+      const nameHtml = person.id
+        ? `<a href="candidate.html?id=${encodeURIComponent(person.id)}">${esc(displayName)}</a>`
+        : esc(displayName);
       return `
         <article class="candidate">
           <div class="candidate-main">
-            <h3 class="candidate-name">${esc(displayName)}</h3>
+            <h3 class="candidate-name">${nameHtml}</h3>
             <p class="candidate-party">
               <span class="party-swatch" style="background:${colour}"></span>
               ${esc(partyName)}

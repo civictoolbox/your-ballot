@@ -52,15 +52,20 @@ jobs:
         timeout-minutes: 5
         run: python scripts/build_party_data.py
 
-      - name: Commit browse + party data
+      - name: Build candidates index (person_id → council_slug)
+        if: success()
+        timeout-minutes: 2
+        run: python scripts/build_candidates_index.py
+
+      - name: Commit browse + party + candidates data
         if: success()
         run: |
-          git add data/elections-index.json data/councils data/ballot_person_ids.json data/parties-index.json data/parties-candidates 2>/dev/null || true
+          git add data/elections-index.json data/councils data/ballot_person_ids.json data/parties-index.json data/parties-candidates data/candidates-index.json 2>/dev/null || true
           if git diff --cached --quiet; then
-            echo "No browse/party data changes."
+            echo "No browse/party/candidates data changes."
           else
             git diff --cached --stat
-            git commit -m "chore: refresh browse + party data"
+            git commit -m "chore: refresh browse + party + candidates data"
             git push
           fi
 

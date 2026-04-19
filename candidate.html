@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light only" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Candidate · Your Ballot</title>
+  <meta name="description" content="A candidate standing in the UK local elections on Thursday 7 May 2026." />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+  <!-- Canonical + Open Graph + Twitter. Title/description are patched in by JS
+       once we know the candidate. -->
+  <meta id="og-title" property="og:title" content="Candidate · Your Ballot" />
+  <meta id="og-description" property="og:description" content="A candidate standing in the UK local elections on Thursday 7 May 2026." />
+  <meta property="og:type" content="profile" />
+  <meta property="og:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
+  <meta property="og:locale" content="en_GB" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter+Tight:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <noscript>
+    <aside class="voter-id-banner" role="note" style="margin:1rem auto;max-width:1040px;">
+      <p>
+        <strong>This site needs JavaScript</strong> to display candidate details.
+        Visit <a href="https://whocanivotefor.co.uk/" rel="noopener">whocanivotefor.co.uk</a>
+        — Democracy Club's own tool — which works without JavaScript.
+      </p>
+    </aside>
+  </noscript>
+
+  <header class="site-header">
+    <div class="container">
+      <p class="eyebrow"><a href="./" class="back-link">← Your Ballot</a> &middot; Candidate</p>
+      <h1 class="site-title" id="candidate-name">Loading…</h1>
+      <p class="site-tagline" id="candidate-kicker"></p>
+    </div>
+  </header>
+
+  <main id="main" class="container">
+    <div id="candidate-status" class="status-region" aria-live="polite"></div>
+
+    <article id="candidate-body" class="candidate-page" hidden>
+      <!-- Top info card -->
+      <section class="candidate-top">
+        <div class="candidate-top-meta">
+          <p class="candidate-party" id="candidate-party"></p>
+          <p class="candidate-ward" id="candidate-ward"></p>
+          <p class="candidate-seat" id="candidate-seat"></p>
+        </div>
+        <div class="candidate-top-photo" id="candidate-photo-wrap" hidden>
+          <img id="candidate-photo" alt="" />
+        </div>
+      </section>
+
+      <!-- Personal statement -->
+      <section class="candidate-section" id="statement-section" hidden>
+        <h2>In their own words</h2>
+        <div class="candidate-statement" id="candidate-statement"></div>
+        <p class="candidate-statement-source" id="statement-source"></p>
+      </section>
+
+      <!-- Contact + socials -->
+      <section class="candidate-section" id="links-section">
+        <h2>Contact &amp; links</h2>
+        <ul class="candidate-links-list" id="candidate-links"></ul>
+        <p class="candidate-links-empty" id="links-empty" hidden>
+          This candidate hasn't listed any public contact details.
+          <a id="wcivf-fallback" href="#" rel="noopener" target="_blank">Check Democracy Club's profile →</a>
+        </p>
+      </section>
+
+      <!-- History -->
+      <section class="candidate-section" id="history-section">
+        <h2>Past elections</h2>
+        <ol class="candidate-history" id="candidate-history"></ol>
+        <p class="candidate-history-empty" id="history-empty" hidden>
+          No previous nominations on record. This may be their first time standing.
+        </p>
+      </section>
+
+      <!-- Party context -->
+      <section class="candidate-section" id="party-context-section" hidden>
+        <h2 id="party-context-heading">About their party</h2>
+        <div class="party-card" id="party-context-card"></div>
+      </section>
+
+      <!-- Other candidates in same ward -->
+      <section class="candidate-section" id="ward-context-section" hidden>
+        <h2>Also standing in this ward</h2>
+        <ul class="ward-others" id="ward-others"></ul>
+      </section>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Candidate data from
+        <a href="https://candidates.democracyclub.org.uk/" rel="noopener">Democracy Club</a>,
+        live from their public YNR API.
+      </p>
+      <p class="disclaimer">
+        Party policy summaries are AI-generated and provided for general orientation only.
+        For definitive policy positions, consult each party's official manifesto.
+        This site is non-partisan and not affiliated with any political party.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/candidate.js" defer></script>
+</body>
+</html>
