@@ -1,0 +1,78 @@
+name: Traffic stats snapshot
+
+# Snapshots GitHub's repo-traffic API once a day (and on manual trigger)
+# and commits the JSON to data/traffic-stats.json so Mission Control can
+# fetch it as public static data.
+
+on:
+  schedule:
+    - cron: "43 2 * * *"     # 02:43 UTC, off-peak, avoids enrich.yml's 03:17 slot
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: traffic-stats
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    name: Snapshot traffic to data/traffic-stats.json
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch traffic and write snapshot
+        run: |
+          mkdir -p data
+          REPO="${{ github.repository }}"
+
+          # Fetch each endpoint into a local file so nested JSON doesn't
+          # have to thread through environment variables.
+          gh api "/repos/${REPO}/traffic/views"             > /tmp/views.json
+          gh api "/repos/${REPO}/traffic/clones"            > /tmp/clones.json
+          gh api "/repos/${REPO}/traffic/popular/referrers" > /tmp/refs.json
+          gh api "/repos/${REPO}/traffic/popular/paths"     > /tmp/paths.json
+
+          python3 - <<'PY'
+          import json, datetime, os, pathlib
+          def load(p): return json.loads(pathlib.Path(p).read_text())
+          out = {
+            "_meta": {
+              "generated_at": datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+              "repo": os.environ.get("GITHUB_REPOSITORY", ""),
+              "source": "GitHub Repo Traffic API",
+              "window": "14 days rolling",
+            },
+            "views":         load("/tmp/views.json"),
+            "clones":        load("/tmp/clones.json"),
+            "referrers":     load("/tmp/refs.json"),
+            "popular_paths": load("/tmp/paths.json"),
+          }
+          pathlib.Path("data").mkdir(exist_ok=True)
+          pathlib.Path("data/traffic-stats.json").write_text(
+            json.dumps(out, indent=2)
+          )
+          v = out["views"]
+          print(f"Wrote data/traffic-stats.json — {v.get('count', 0)} views, {v.get('uniques', 0)} uniques (14d).")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/traffic-stats.json
+          if git diff --cached --quiet; then
+            echo "No traffic changes since last snapshot."
+          else
+            git diff --cached --stat
+            git commit -m "chore: daily traffic stats snapshot"
+            git push
+          fi
