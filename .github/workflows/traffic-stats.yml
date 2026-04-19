@@ -23,7 +23,13 @@ jobs:
     timeout-minutes: 5
 
     env:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # The repo traffic API requires push-level access, which the default
+      # GITHUB_TOKEN doesn't have even with contents:write. Use a repo
+      # secret TRAFFIC_READ_TOKEN (a fine-grained PAT with 'Administration:
+      # read' or a classic PAT with 'repo' scope). If the secret isn't set,
+      # fall back to GITHUB_TOKEN so the workflow still runs and the commit
+      # step is a no-op.
+      GH_TOKEN: ${{ secrets.TRAFFIC_READ_TOKEN || secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Check out repository
