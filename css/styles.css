@@ -895,6 +895,72 @@ a:hover { text-decoration-thickness: 2px; }
   border-bottom-color: var(--accent);
 }
 
+/* ---------- Party positions block ---------- */
+.party-positions {
+  margin: 1.25rem 0 0;
+  padding: 1.1rem 0 0;
+  border-top: 1px solid var(--line);
+}
+.party-positions-heading {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: .78rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--ink-mute);
+  margin: 0 0 .85rem;
+}
+.party-positions-list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0;
+}
+.party-position {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: baseline;
+  padding: .7rem 0;
+  border-bottom: 1px dotted var(--line);
+}
+.party-position:last-child { border-bottom: 0; }
+.party-position dt {
+  font-weight: 600;
+  font-size: .92rem;
+  color: var(--ink);
+  margin: 0;
+}
+.party-position dd {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: .95rem;
+  line-height: 1.55;
+}
+.party-positions-disclaimer {
+  margin: 1rem 0 0;
+  font-size: .82rem;
+  color: var(--ink-mute);
+  line-height: 1.5;
+  font-style: italic;
+  padding: .65rem .85rem;
+  background: var(--paper-alt);
+  border-left: 3px solid var(--line);
+}
+@media (max-width: 560px) {
+  .party-position {
+    grid-template-columns: 1fr;
+    gap: .2rem;
+    padding: .75rem 0;
+  }
+  .party-position dt {
+    font-size: .75rem;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--ink-mute);
+  }
+}
+
 /* ---------- Party row tweaks on parties.html ---------- */
 .party-row .council-name {
   display: inline-flex;

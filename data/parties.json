@@ -2,9 +2,42 @@
   "_meta": {
     "description": "Party policy summaries for UK local elections 7 May 2026. Each summary is a short, AI-generated overview of the party's publicly stated positions — with particular emphasis on issues relevant to local government in England (housing, council tax, social care, planning, local services). Summaries are provided for general orientation only. For definitive policy, consult each party's official manifesto.",
     "last_reviewed": "2026-04-19",
-    "disclaimer": "AI-generated, non-partisan, not affiliated with any party."
+    "disclaimer": "AI-generated, non-partisan, not affiliated with any party.",
+    "issues": [
+      {
+        "key": "housing",
+        "label": "Housing & planning"
+      },
+      {
+        "key": "council_tax",
+        "label": "Council tax"
+      },
+      {
+        "key": "social_care",
+        "label": "Adult social care"
+      },
+      {
+        "key": "transport",
+        "label": "Transport"
+      },
+      {
+        "key": "waste",
+        "label": "Waste & recycling"
+      },
+      {
+        "key": "climate",
+        "label": "Climate & energy"
+      },
+      {
+        "key": "community_safety",
+        "label": "Community safety"
+      },
+      {
+        "key": "migration",
+        "label": "Immigration"
+      }
+    ]
   },
-
   "labour": {
     "display_name": "Labour",
     "colour": "#E4003B",
@@ -16,9 +49,18 @@
       "Clean energy",
       "Council funding"
     ],
-    "manifesto_url": "https://labour.org.uk/plan-for-change/"
+    "manifesto_url": "https://labour.org.uk/plan-for-change/",
+    "positions": {
+      "housing": "Backs mandatory housing targets for councils, planning reform to unlock new building, and a Warm Homes Plan for insulation and heat pumps. Abolishes Section 21 'no-fault' evictions and strengthens renters' rights.",
+      "council_tax": "Supports multi-year funding settlements so councils can plan beyond one year. Opposes above-inflation rises where government funding lets councils avoid them.",
+      "social_care": "Commits to a 10-year National Care Service with a fair-pay agreement for care workers and closer integration with the NHS locally.",
+      "transport": "Supports bus franchising (giving councils control of routes), active-travel investment, and road repair funding. Local Labour groups' approach to LTNs varies by council.",
+      "waste": "Backs consistent national recycling rules including weekly food-waste collections. Action on fly-tipping a priority.",
+      "climate": "'Clean power by 2030' mission: GB Energy, major home-retrofit programme, and local renewable projects. Councils play a role via planning.",
+      "community_safety": "13,000 more neighbourhood police officers nationally, new Respect orders for persistent ASB, and more youth-diversion funding for councils.",
+      "migration": "Ends the Rwanda scheme, targets smuggling gangs, supports a properly-resourced asylum system. Councils remain involved via asylum dispersal and ESOL."
+    }
   },
-
   "labour-coop": {
     "display_name": "Labour & Co-operative",
     "colour": "#E4003B",
@@ -30,9 +72,18 @@
       "Housing co-ops",
       "Local economies"
     ],
-    "manifesto_url": "https://party.coop/"
+    "manifesto_url": "https://party.coop/",
+    "positions": {
+      "housing": "Labour's platform plus a stronger push for housing co-operatives and community land trusts as part of the affordable-housing mix.",
+      "council_tax": "Same as Labour, with added interest in credit-union-style council-tax support and mutual aid schemes.",
+      "social_care": "Labour's National Care Service plus promotion of cooperative and mutual care providers.",
+      "transport": "Labour's platform plus emphasis on community transport cooperatives in rural and low-service areas.",
+      "waste": "Labour's recycling reforms plus community-run repair cafes and circular-economy co-ops.",
+      "climate": "Labour's Green Prosperity Plan plus community-owned renewable energy and municipal energy companies.",
+      "community_safety": "Labour's policing plan plus cooperative and restorative-justice approaches at council level.",
+      "migration": "Identical to Labour's position."
+    }
   },
-
   "conservative": {
     "display_name": "Conservative",
     "colour": "#0087DC",
@@ -44,9 +95,18 @@
       "Planning safeguards",
       "Fiscal discipline"
     ],
-    "manifesto_url": "https://www.conservatives.com/our-plan"
+    "manifesto_url": "https://www.conservatives.com/our-plan",
+    "positions": {
+      "housing": "Opposes 'top-down' housing targets; prioritises local-led planning and Green Belt protection. Backs homeownership via First Homes and Right to Buy.",
+      "council_tax": "Favours freezing or reducing council tax where possible; strong emphasis on tax transparency, efficiency, and opposing above-inflation rises.",
+      "social_care": "Integrated health and care via Integrated Care Systems; supports reforming the social-care funding cap rather than a new national service.",
+      "transport": "Prioritises road investment, pothole repair, and the bus funding settlement. Generally opposes blanket LTNs and ULEZ expansions as 'anti-motorist'.",
+      "waste": "Strongly backs weekly bin collections; resists mandatory separation schemes imposed from Whitehall; local discretion preferred.",
+      "climate": "Net-zero by 2050, but opposes 'top-down' green mandates that raise household costs. Pragmatic approach to heat pumps and EVs.",
+      "community_safety": "More police officers, tougher sentencing for repeat offenders, zero-tolerance ASB approach partnered with councils.",
+      "migration": "Strict reduction of legal and illegal migration, stronger border enforcement. Council role in asylum dispersal should be consultative, not mandatory."
+    }
   },
-
   "libdem": {
     "display_name": "Liberal Democrats",
     "colour": "#FAA61A",
@@ -58,9 +118,18 @@
       "Community planning",
       "Local transport"
     ],
-    "manifesto_url": "https://www.libdems.org.uk/manifesto"
+    "manifesto_url": "https://www.libdems.org.uk/manifesto",
+    "positions": {
+      "housing": "Backs 150,000 new social homes a year UK-wide, stronger renters' rights, better rural housing, and community-led planning with meaningful local input.",
+      "council_tax": "Opposes large rises, argues the funding formula under-rewards rural and shire councils, and pushes for fairer central grant settlements.",
+      "social_care": "Party's flagship priority: free personal care at home, higher pay for care workers, paid carer's leave, and support for unpaid carers.",
+      "transport": "Bus re-regulation locally, active-travel investment, road repairs. Generally supports LTNs where well-consulted.",
+      "waste": "Weekly recycling including food waste, tougher action on fly-tipping, and sewage / river-pollution reform.",
+      "climate": "Net-zero by 2045, major home-insulation push, protection of rivers and green spaces, community energy projects.",
+      "community_safety": "Community policing, youth services as crime prevention, restorative justice, addressing root causes of ASB.",
+      "migration": "Safe and legal routes for refugees, efficient asylum processing, managed migration to meet skills shortages. Opposes hostile-environment policies."
+    }
   },
-
   "green": {
     "display_name": "Green Party",
     "colour": "#02A95B",
@@ -72,9 +141,18 @@
       "Active travel",
       "Community energy"
     ],
-    "manifesto_url": "https://greenparty.org.uk/about/our-manifesto/"
+    "manifesto_url": "https://greenparty.org.uk/about/our-manifesto/",
+    "positions": {
+      "housing": "Strong support for council-built social housing, rent controls where permitted, retrofits for existing stock, brownfield-first development.",
+      "council_tax": "Argues council tax is regressive and overdue for reform. Supports revaluation and higher-band increases to fund local services.",
+      "social_care": "A publicly-funded National Care Service, substantially higher pay for care workers, dignity and integration with the NHS.",
+      "transport": "Strongly pro-active-travel and LTN-supportive, expanded bus services, lower residential speed limits, opposes airport expansion.",
+      "waste": "Weekly food-waste collection, zero-waste targets, restrictions on single-use plastics at council level, strong recycling push.",
+      "climate": "Flagship issue. Emergency-scale net-zero action, mass retrofitting, rewilding, community energy, opposition to new fossil-fuel infrastructure.",
+      "community_safety": "Prevention through youth services and mental-health support; community-based rather than enforcement-led approaches to ASB.",
+      "migration": "Expansion of safe and legal routes, family reunion, humane treatment of asylum seekers, opposition to indefinite detention."
+    }
   },
-
   "reform": {
     "display_name": "Reform UK",
     "colour": "#12B6CF",
@@ -86,9 +164,18 @@
       "Immigration",
       "Spending cuts"
     ],
-    "manifesto_url": "https://www.reformparty.uk/policies"
+    "manifesto_url": "https://www.reformparty.uk/policies",
+    "positions": {
+      "housing": "Opposes top-down housing targets, backs local residents' objections to over-development, prefers brownfield-first approaches.",
+      "council_tax": "Campaigns to freeze or cut council tax. Strong emphasis on value for money; opposes spending on what the party calls 'diversity' roles.",
+      "social_care": "Priority is protecting frontline services from being squeezed by rising cost pressures; broader reform plans less developed.",
+      "transport": "Strongly opposes LTNs and ULEZ-style expansions; road investment and pothole repair a priority; pro-motorist stance.",
+      "waste": "Weekly general-waste collections a core demand; opposes what it calls 'recycling box chaos' imposed on households.",
+      "climate": "Opposes the UK's current net-zero trajectory. Supports abundant affordable energy including domestic oil, gas, and nuclear.",
+      "community_safety": "Strong pro-police stance, zero-tolerance ASB, tougher approach to repeat and prolific offenders.",
+      "migration": "Headline issue. Large reductions in net migration, tighter borders, leaving the ECHR to enable stronger removal powers."
+    }
   },
-
   "plaid": {
     "display_name": "Plaid Cymru",
     "colour": "#005B54",
@@ -100,9 +187,18 @@
       "Rural services",
       "Climate & nature"
     ],
-    "manifesto_url": "https://www.partyof.wales/policies"
+    "manifesto_url": "https://www.partyof.wales/policies",
+    "positions": {
+      "housing": "Council housebuilding in Wales; controls on second-home ownership in rural communities; affordable housing priority for local residents.",
+      "council_tax": "Supports reform of Wales's Council Tax system; opposes its regressive aspects.",
+      "social_care": "Free personal care in Wales; integrated health and care; proper Welsh-language provision.",
+      "transport": "Investment in Welsh public transport; active travel; 20mph residential default already adopted in Wales.",
+      "waste": "Supports Wales's world-leading recycling record and circular-economy strategy.",
+      "climate": "Wales to reach net-zero ahead of the UK; community energy; opposition to new fossil-fuel extraction in Wales.",
+      "community_safety": "Devolution of policing and justice to Wales; community-based approaches.",
+      "migration": "Managed immigration in line with Wales's workforce and population needs; welcomes refugees."
+    }
   },
-
   "snp": {
     "display_name": "Scottish National Party",
     "colour": "#FDF38E",
@@ -114,9 +210,18 @@
       "Free public services",
       "Climate action"
     ],
-    "manifesto_url": "https://www.snp.org/policies/"
+    "manifesto_url": "https://www.snp.org/policies/",
+    "positions": {
+      "housing": "Record of social-rent housebuilding in Scotland; land reform; controls on short-term lets in pressured areas.",
+      "council_tax": "Long-running council tax freeze in Scotland; ongoing work on local-taxation reform.",
+      "social_care": "National Care Service Scotland; free personal care for over-65s; higher pay for carers.",
+      "transport": "Free bus travel for under-22s and over-60s; significant active-travel investment; devolved rail via ScotRail.",
+      "waste": "Deposit return scheme; circular-economy strategy; household recycling priorities.",
+      "climate": "Scotland's 2045 net-zero target ahead of UK; just-transition funding for oil-and-gas workers.",
+      "community_safety": "Preventative, community-based policing; focus on reducing Scotland's prison population through community sentences.",
+      "migration": "Supports Scotland remaining open to immigration to meet population and workforce needs; opposes Home Office restrictions."
+    }
   },
-
   "sinn-fein": {
     "display_name": "Sinn Féin",
     "colour": "#326760",
@@ -130,7 +235,6 @@
     ],
     "manifesto_url": "https://www.sinnfein.ie/policies"
   },
-
   "dup": {
     "display_name": "Democratic Unionist Party",
     "colour": "#D46A4C",
@@ -144,7 +248,6 @@
     ],
     "manifesto_url": "https://mydup.com/policies"
   },
-
   "alliance": {
     "display_name": "Alliance Party",
     "colour": "#F6CB2F",
@@ -158,7 +261,6 @@
     ],
     "manifesto_url": "https://www.allianceparty.org/policy"
   },
-
   "sdlp": {
     "display_name": "Social Democratic and Labour Party",
     "colour": "#2AA82C",
@@ -172,7 +274,6 @@
     ],
     "manifesto_url": "https://www.sdlp.ie/policies"
   },
-
   "uup": {
     "display_name": "Ulster Unionist Party",
     "colour": "#48A5EE",
@@ -186,7 +287,6 @@
     ],
     "manifesto_url": "https://uup.org/policies"
   },
-
   "tusc": {
     "display_name": "Trade Unionist and Socialist Coalition",
     "colour": "#C8102E",
@@ -198,9 +298,18 @@
       "Higher worker pay",
       "No-cuts budgets"
     ],
-    "manifesto_url": "https://www.tusc.org.uk/policies/"
+    "manifesto_url": "https://www.tusc.org.uk/policies/",
+    "positions": {
+      "housing": "Mass council-house building programme at genuinely affordable rents; opposition to estate demolition and transfers to housing associations.",
+      "council_tax": "Supports 'no-cuts budgets' — voting against any reductions to services. Open to rises when used to protect services, not to fill government funding gaps.",
+      "social_care": "Fully-funded, publicly-owned adult social care; end to privatised provision; proper pay, terms and conditions for care workers.",
+      "transport": "Public ownership of buses and rail; free fares for young people and pensioners; pro-active-travel.",
+      "waste": "Weekly collections; waste services kept in-house; opposed to privatisation.",
+      "climate": "Rapid decarbonisation through public investment and public ownership; rejects market-based solutions as insufficient.",
+      "community_safety": "Opposes cuts to neighbourhood policing, but equally opposes cuts to youth services, libraries and community facilities that prevent crime.",
+      "migration": "Supports refugees' rights and freedom of movement; rejects 'hostile environment' policies as divisive."
+    }
   },
-
   "workers-party": {
     "display_name": "Workers Party of Britain",
     "colour": "#b41f24",
@@ -212,9 +321,18 @@
       "Anti-NATO stance",
       "Social conservatism"
     ],
-    "manifesto_url": "https://www.workerspartygb.org/"
+    "manifesto_url": "https://www.workerspartygb.org/",
+    "positions": {
+      "housing": "Large-scale council housebuilding; caps on rent rises; an end to Right to Buy that depletes council housing stock.",
+      "council_tax": "Opposes cuts to services. Council tax should not rise to cover Westminster under-funding; central government should pay its share.",
+      "social_care": "Publicly-owned, properly funded social care; end to private-equity ownership of care homes.",
+      "transport": "Re-nationalisation of transport; cheaper public transport; council control of bus services.",
+      "waste": "Waste services kept publicly owned; investment in recycling infrastructure and circular economy.",
+      "climate": "Supports decarbonisation but with emphasis on protecting working-class jobs and industries in transition.",
+      "community_safety": "Pro-police funding and tough on crime; opposes what the party describes as 'woke' policing priorities.",
+      "migration": "Favours controlled, managed migration; opposes large-scale immigration described as putting downward pressure on wages."
+    }
   },
-
   "sdp": {
     "display_name": "Social Democratic Party",
     "colour": "#004B87",
@@ -226,9 +344,18 @@
       "Immigration control",
       "Communitarian values"
     ],
-    "manifesto_url": "https://sdp.org.uk/policies/"
+    "manifesto_url": "https://sdp.org.uk/policies/",
+    "positions": {
+      "housing": "State-led housebuilding; new towns; preference for family-sized homes. Opposes developer-led overexpansion and unchecked buy-to-let.",
+      "council_tax": "Sceptical of above-inflation council tax rises; argues wasteful spending should be cut first.",
+      "social_care": "Interventionist — universal basic adult social care funded through taxation; properly paid workforce.",
+      "transport": "Pro-motorist; opposes LTNs that restrict local residents; supports bus re-regulation and road investment.",
+      "waste": "Weekly general-waste collection; opposed to complex recycling bureaucracy imposed on households.",
+      "climate": "Pragmatic decarbonisation that preserves British industry; backs new nuclear and domestic energy security.",
+      "community_safety": "Robust stance: more police, tougher sentencing, zero tolerance for persistent ASB.",
+      "migration": "Major reduction in legal net migration; opposes multiculturalism as state policy in favour of integration."
+    }
   },
-
   "heritage": {
     "display_name": "Heritage Party",
     "colour": "#2E7D32",
@@ -240,9 +367,18 @@
       "Local empowerment",
       "Energy self-sufficiency"
     ],
-    "manifesto_url": "https://heritageparty.org/manifesto/"
+    "manifesto_url": "https://heritageparty.org/manifesto/",
+    "positions": {
+      "housing": "Opposes mass housebuilding targets that threaten green spaces; supports strong local planning control and brownfield-first development.",
+      "council_tax": "Supports tax reduction; argues councils should be leaner, with fewer non-frontline roles.",
+      "social_care": "Mix of free-market and safety-net approaches; strong focus on family as primary carer where possible.",
+      "transport": "Pro-motorist; strong opposition to LTNs and ULEZ expansions.",
+      "waste": "Backs weekly bin collections; opposes what the party calls 'recycling complexity'.",
+      "climate": "Opposes net-zero mandates and what the party describes as climate alarmism. Supports affordable energy including fossil fuels.",
+      "community_safety": "Tough-on-crime; opposes what the party describes as 'two-tier policing'; supports wider use of imprisonment.",
+      "migration": "Strict reduction of all immigration; leaving the ECHR; restoration of what the party describes as traditional British culture."
+    }
   },
-
   "rejoin-eu": {
     "display_name": "Rejoin EU",
     "colour": "#003399",
@@ -254,9 +390,18 @@
       "Climate action",
       "Progressive social policy"
     ],
-    "manifesto_url": "https://rejoinparty.org.uk/"
+    "manifesto_url": "https://rejoinparty.org.uk/",
+    "positions": {
+      "housing": "Progressive: supports social housebuilding, stronger renters' rights, and policies to reverse what the party sees as housing dysfunction worsened by Brexit.",
+      "council_tax": "Supports fairer funding for councils; opposes austerity-driven cuts to local services.",
+      "social_care": "Supports welfare-state integration with EU cooperation on healthcare and workforce mobility.",
+      "transport": "Generally supports active travel and public transport investment.",
+      "waste": "Supports alignment with EU environmental and circular-economy standards.",
+      "climate": "Alignment with EU environmental targets and the European Green Deal.",
+      "community_safety": "Re-joining EU policing and justice cooperation (Europol, European Arrest Warrant).",
+      "migration": "Supports restoration of free movement with the EU; opposes the post-Brexit immigration framework."
+    }
   },
-
   "advance-uk": {
     "display_name": "Advance UK",
     "colour": "#0D3B66",
@@ -268,9 +413,18 @@
       "Tougher justice",
       "Constitutional reform"
     ],
-    "manifesto_url": "https://advanceuk.com/"
+    "manifesto_url": "https://advanceuk.com/",
+    "positions": {
+      "housing": "Opposes top-down housing targets; supports local planning control and Green Belt protection.",
+      "council_tax": "Backs freezing or reducing council tax where possible; supports external value-for-money audits.",
+      "social_care": "Funding through tighter spending controls elsewhere; opposes tax rises to fund care.",
+      "transport": "Pro-motorist; opposes LTNs and ULEZ expansions; road investment a priority.",
+      "waste": "Weekly collections; simpler recycling systems with less household admin.",
+      "climate": "Opposes current net-zero trajectory; supports domestic energy production including North Sea oil and gas.",
+      "community_safety": "Tougher policing, more prison capacity, stronger action on prolific offenders.",
+      "migration": "Strict reduction of net migration; stronger border enforcement; the party's headline issue."
+    }
   },
-
   "ukip": {
     "display_name": "UK Independence Party (UKIP)",
     "colour": "#70147A",
@@ -282,9 +436,18 @@
       "Traditional values",
       "Border security"
     ],
-    "manifesto_url": "https://ukip.org/policies/"
+    "manifesto_url": "https://ukip.org/policies/",
+    "positions": {
+      "housing": "Opposes large-scale housebuilding on the Green Belt; favours brownfield sites; 'British workers first' stance on construction.",
+      "council_tax": "Backs reductions; argues councils waste money on diversity and green initiatives.",
+      "social_care": "Supports properly funded adult social care; opposes privatisation of NHS-linked services.",
+      "transport": "Pro-motorist; opposes LTNs and ULEZ; strong road investment.",
+      "waste": "Weekly collections; simpler recycling with fewer bins per household.",
+      "climate": "Opposes net-zero mandates; supports affordable energy including continued fossil-fuel use.",
+      "community_safety": "Tough on crime; more police; tougher sentencing; zero-tolerance ASB.",
+      "migration": "Headline issue. Radical reduction of immigration, strict border enforcement, leaving the ECHR."
+    }
   },
-
   "aspire": {
     "display_name": "Aspire",
     "colour": "#F7941D",
@@ -298,7 +461,6 @@
     ],
     "manifesto_url": null
   },
-
   "communist": {
     "display_name": "Communist Party of Britain",
     "colour": "#CC0000",
@@ -310,9 +472,18 @@
       "Collective bargaining",
       "Anti-imperialism"
     ],
-    "manifesto_url": "https://communistparty.org.uk/"
+    "manifesto_url": "https://communistparty.org.uk/",
+    "positions": {
+      "housing": "Mass public housebuilding; end sell-offs of council homes; rent controls; anti-gentrification stance.",
+      "council_tax": "Opposes its regressive structure; argues for wealth and land taxes at national level to fund local services.",
+      "social_care": "Fully publicly-owned adult social care; sectoral collective bargaining for care workers.",
+      "transport": "Public ownership of transport; free public transport for under-25s and pensioners; active-travel investment.",
+      "waste": "Waste services kept publicly owned; investment in recycling and circular-economy infrastructure.",
+      "climate": "Rapid decarbonisation through public ownership and planning; opposition to what the party calls corporate 'greenwashing'.",
+      "community_safety": "Supports community policing with democratic accountability; heavy emphasis on preventing causes of crime through youth services.",
+      "migration": "Welcomes refugees; opposes 'hostile environment'; rejects scapegoating of migrants for economic problems."
+    }
   },
-
   "independent": {
     "display_name": "Independent",
     "colour": "#666666",
@@ -324,7 +495,6 @@
     ],
     "manifesto_url": null
   },
-
   "other": {
     "display_name": "Other party",
     "colour": "#666666",

@@ -232,6 +232,29 @@
     );
     const themes = info?.themes || [];
     const manifesto = info?.manifesto_url;
+    const positions = info?.positions || null;
+    const issueLabels = (partiesData._meta && partiesData._meta.issues) || [];
+
+    const positionsHtml = (positions && issueLabels.length) ? `
+      <div class="party-positions">
+        <h4 class="party-positions-heading">Where ${esc(displayName)} stands on council-level issues</h4>
+        <dl class="party-positions-list">
+          ${issueLabels.map(({ key: k, label }) => {
+            const text = positions[k];
+            if (!text) return '';
+            return `
+              <div class="party-position">
+                <dt>${esc(label)}</dt>
+                <dd>${esc(text)}</dd>
+              </div>`;
+          }).join('')}
+        </dl>
+        <p class="party-positions-disclaimer">
+          These are the <strong>party's</strong> published positions, not this specific candidate's.
+          Individual candidates may differ. Check the candidate's links above for their own view,
+          and the manifesto below for the authoritative version.
+        </p>
+      </div>` : '';
 
     partyCtxHead.textContent = `About ${displayName}`;
     partyCtxCard.innerHTML = `
@@ -244,6 +267,7 @@
         <ul class="party-card-themes">
           ${themes.map(t => `<li>${esc(t)}</li>`).join('')}
         </ul>` : ''}
+      ${positionsHtml}
       ${manifesto ? `<a class="party-card-link" href="${esc(manifesto)}" rel="noopener" target="_blank">Read the full manifesto →</a>` : ''}
     `;
     partyCtxSec.hidden = false;
