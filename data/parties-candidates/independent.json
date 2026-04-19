@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-04-19T02:28:14+00:00",
+    "generated_at": "2026-04-19T03:35:57+00:00",
     "party_key": "independent",
     "display_name": "Independent",
-    "candidate_count": 1209,
+    "candidate_count": 1214,
     "council_count": 124,
     "raw_party_names": [
       "Ashtead Independents",
@@ -23,6 +23,7 @@
       "Independent",
       "Independent Loughton Residents Association",
       "Independent Network",
+      "Independent Oxford Alliance",
       "Independents for Tunbridge Wells",
       "Islington Community Independents",
       "Kingston Independent Residents Group",
@@ -3282,6 +3283,14 @@
       "ward_name": "Valentines"
     },
     {
+      "person_id": 125620,
+      "name": "Richard Peter Garbutt",
+      "party_name": "Independent Oxford Alliance",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Wolvercote"
+    },
+    {
       "person_id": 138917,
       "name": "Vicki Gardener",
       "party_name": "Independent",
@@ -4754,6 +4763,14 @@
       "ward_name": "Southall Broadway"
     },
     {
+      "person_id": 125622,
+      "name": "Zack Iqbal",
+      "party_name": "Independent Oxford Alliance",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Rose Hill & Iffley"
+    },
+    {
       "person_id": 137139,
       "name": "Aslam Mohammed Iqbal",
       "party_name": "Redbridge Independents",
@@ -5136,6 +5153,14 @@
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Jubilee"
+    },
+    {
+      "person_id": 125621,
+      "name": "Alison Kahn",
+      "party_name": "Independent Oxford Alliance",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Quarry & Risinghurst"
     },
     {
       "person_id": 89494,
@@ -5936,6 +5961,14 @@
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Wall End"
+    },
+    {
+      "person_id": 117937,
+      "name": "Nasreen Majeed",
+      "party_name": "Independent Oxford Alliance",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Headington Hill & Northway"
     },
     {
       "person_id": 137603,
@@ -8048,6 +8081,14 @@
       "council_slug": "kingston-upon-thames",
       "council_name": "Kingston upon Thames",
       "ward_name": "Kingston Gate"
+    },
+    {
+      "person_id": 109215,
+      "name": "Emily Frances Scaysbrook",
+      "party_name": "Independent Oxford Alliance",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Marston"
     },
     {
       "person_id": 131529,

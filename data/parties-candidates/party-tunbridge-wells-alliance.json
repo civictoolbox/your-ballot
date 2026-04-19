@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-tunbridge-wells-alliance",
+    "display_name": "Tunbridge Wells Alliance",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Tunbridge Wells Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 113109,
+      "name": "Kit Hawes-Webb",
+      "party_name": "Tunbridge Wells Alliance",
+      "council_slug": "tunbridge-wells",
+      "council_name": "Tunbridge Wells",
+      "ward_name": "Rusthall & Speldhurst"
+    },
+    {
+      "person_id": 83096,
+      "name": "Ellen Neville",
+      "party_name": "Tunbridge Wells Alliance",
+      "council_slug": "tunbridge-wells",
+      "council_name": "Tunbridge Wells",
+      "ward_name": "Hawkhurst, Sandhurst & Benenden"
+    },
+    {
+      "person_id": 39545,
+      "name": "Nick Pope",
+      "party_name": "Tunbridge Wells Alliance",
+      "council_slug": "tunbridge-wells",
+      "council_name": "Tunbridge Wells",
+      "ward_name": "Park"
+    }
+  ]
+}

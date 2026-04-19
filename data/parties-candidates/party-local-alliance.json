@@ -1,22 +1,22 @@
 {
   "_meta": {
     "generated_at": "2026-04-19T03:35:57+00:00",
-    "party_key": "party-pirate-party-uk",
-    "display_name": "Pirate Party UK",
+    "party_key": "party-local-alliance",
+    "display_name": "Local Alliance",
     "candidate_count": 1,
     "council_count": 1,
     "raw_party_names": [
-      "Pirate Party UK"
+      "Local Alliance"
     ]
   },
   "candidates": [
     {
-      "person_id": 125862,
-      "name": "Nathan Griffiths",
-      "party_name": "Pirate Party UK",
+      "person_id": 26413,
+      "name": "Donna Frances Johnson",
+      "party_name": "Local Alliance",
       "council_slug": "west-sussex",
       "council_name": "West Sussex",
-      "ward_name": "Burgess Hill North"
+      "ward_name": "Selsey"
     }
   ]
 }

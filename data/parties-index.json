@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-04-19T02:28:14+00:00",
-    "party_count": 87,
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_count": 94,
     "candidate_count": 25046
   },
   "parties": [
@@ -38,7 +38,7 @@
     {
       "key": "independent",
       "display_name": "Independent",
-      "candidate_count": 1209,
+      "candidate_count": 1214,
       "council_count": 124
     },
     {
@@ -48,31 +48,25 @@
       "council_count": 92
     },
     {
-      "key": "party-trade-unionist-and-socialist-coalition",
+      "key": "tusc",
       "display_name": "Trade Unionist and Socialist Coalition",
       "candidate_count": 286,
       "council_count": 63
     },
     {
-      "key": "party-workers-party-of-britain",
+      "key": "workers-party",
       "display_name": "Workers Party of Britain",
-      "candidate_count": 68,
-      "council_count": 16
+      "candidate_count": 69,
+      "council_count": 17
     },
     {
-      "key": "alliance",
-      "display_name": "Alliance Party",
-      "candidate_count": 58,
-      "council_count": 15
-    },
-    {
-      "key": "party-social-democratic-party",
+      "key": "sdp",
       "display_name": "Social Democratic Party",
       "candidate_count": 48,
       "council_count": 18
     },
     {
-      "key": "party-aspire",
+      "key": "aspire",
       "display_name": "Aspire",
       "candidate_count": 45,
       "council_count": 1
@@ -84,19 +78,25 @@
       "council_count": 1
     },
     {
+      "key": "party-christian-peoples-alliance",
+      "display_name": "Christian Peoples Alliance",
+      "candidate_count": 28,
+      "council_count": 8
+    },
+    {
       "key": "party-your-party",
       "display_name": "Your Party",
       "candidate_count": 20,
       "council_count": 12
     },
     {
-      "key": "party-heritage-party",
+      "key": "heritage",
       "display_name": "Heritage Party",
       "candidate_count": 18,
       "council_count": 13
     },
     {
-      "key": "party-advance-uk",
+      "key": "advance-uk",
       "display_name": "Advance UK",
       "candidate_count": 17,
       "council_count": 7
@@ -108,7 +108,7 @@
       "council_count": 1
     },
     {
-      "key": "party-rejoin-eu",
+      "key": "rejoin-eu",
       "display_name": "Rejoin EU",
       "candidate_count": 15,
       "council_count": 2
@@ -126,7 +126,7 @@
       "council_count": 12
     },
     {
-      "key": "party-communist-party-of-britain",
+      "key": "communist",
       "display_name": "Communist Party of Britain",
       "candidate_count": 13,
       "council_count": 9
@@ -168,8 +168,8 @@
       "council_count": 1
     },
     {
-      "key": "party-uk-independence-party-ukip",
-      "display_name": "UK Independence Party (UKIP)",
+      "key": "ukip",
+      "display_name": "UK Independence Party",
       "candidate_count": 9,
       "council_count": 7
     },
@@ -192,8 +192,26 @@
       "council_count": 1
     },
     {
+      "key": "party-camden-people-s-alliance",
+      "display_name": "Camden People's Alliance",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
+      "key": "party-community-alliance-kirklees",
+      "display_name": "Community Alliance Kirklees",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
       "key": "party-farnham-residents",
       "display_name": "Farnham Residents",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
+      "key": "party-haringey-socialist-alliance",
+      "display_name": "Haringey Socialist Alliance",
       "candidate_count": 6,
       "council_count": 1
     },
@@ -312,6 +330,12 @@
       "council_count": 1
     },
     {
+      "key": "party-tunbridge-wells-alliance",
+      "display_name": "Tunbridge Wells Alliance",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
       "key": "party-formby-residents-action-group",
       "display_name": "Formby Residents Action Group",
       "candidate_count": 2,
@@ -426,8 +450,20 @@
       "council_count": 1
     },
     {
+      "key": "party-freedom-alliance",
+      "display_name": "Freedom Alliance",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
       "key": "party-imagine",
       "display_name": "Imagine",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-local-alliance",
+      "display_name": "Local Alliance",
       "candidate_count": 1,
       "council_count": 1
     },
@@ -446,6 +482,12 @@
     {
       "key": "party-patria",
       "display_name": "Patria",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-people-s-alliance-for-change-and-equality",
+      "display_name": "People's Alliance for Change and Equality",
       "candidate_count": 1,
       "council_count": 1
     },
@@ -480,6 +522,12 @@
       "council_count": 1
     },
     {
+      "key": "party-the-christian-party-christian-peoples-alliance",
+      "display_name": "The Christian Party Christian Peoples Alliance",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
       "key": "party-the-moon-and-serpent-party",
       "display_name": "The Moon And Serpent Party",
       "candidate_count": 1,
@@ -506,12 +554,6 @@
     {
       "key": "party-whitehill-bordon-community-party",
       "display_name": "Whitehill & Bordon Community Party",
-      "candidate_count": 1,
-      "council_count": 1
-    },
-    {
-      "key": "party-workers-party-oldham-group",
-      "display_name": "Workers Party - Oldham Group",
       "candidate_count": 1,
       "council_count": 1
     },

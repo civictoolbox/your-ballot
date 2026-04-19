@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-people-s-alliance-for-change-and-equality",
+    "display_name": "People's Alliance for Change and Equality",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "People's Alliance for Change and Equality"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 6436,
+      "name": "Mike Forster",
+      "party_name": "People's Alliance for Change and Equality",
+      "council_slug": "kirklees",
+      "council_name": "Kirklees",
+      "ward_name": "Ashbrow"
+    }
+  ]
+}

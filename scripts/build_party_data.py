@@ -63,12 +63,34 @@ def party_key(party_name: str) -> str:
         return "sinn-fein"
     if ("dup" in n) or ("democratic unionist" in n):
         return "dup"
-    if "alliance" in n:
+    # Alliance Party of NI — check BEFORE generic Alliance
+    if "alliance party" in n:
+        return "alliance"
+    if n.strip() == "alliance":
         return "alliance"
     if "sdlp" in n:
         return "sdlp"
     if "uup" in n or "ulster unionist" in n:
         return "uup"
+    # Minor national parties with published platforms
+    if "trade unionist and socialist" in n:
+        return "tusc"
+    if "workers party" in n:
+        return "workers-party"
+    if "social democratic party" in n or n.strip() == "sdp":
+        return "sdp"
+    if "heritage party" in n:
+        return "heritage"
+    if "rejoin eu" in n:
+        return "rejoin-eu"
+    if "advance uk" in n:
+        return "advance-uk"
+    if "ukip" in n or "uk independence party" in n:
+        return "ukip"
+    if n.strip() == "aspire":
+        return "aspire"
+    if "communist party of britain" in n:
+        return "communist"
     if "independent" in n:
         return "independent"
     # Anything else becomes its own slot rather than collapsing into "other".
@@ -90,6 +112,15 @@ DISPLAY_NAMES = {
     "alliance":     "Alliance Party",
     "sdlp":         "Social Democratic and Labour Party",
     "uup":          "Ulster Unionist Party",
+    "tusc":         "Trade Unionist and Socialist Coalition",
+    "workers-party":"Workers Party of Britain",
+    "sdp":          "Social Democratic Party",
+    "heritage":     "Heritage Party",
+    "rejoin-eu":    "Rejoin EU",
+    "advance-uk":   "Advance UK",
+    "ukip":         "UK Independence Party",
+    "aspire":       "Aspire",
+    "communist":    "Communist Party of Britain",
     "independent":  "Independent",
     "other":        "Other parties",
 }

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Party policy summaries for UK local elections 7 May 2026. Each summary is a short, AI-generated overview of the party's publicly stated positions — with particular emphasis on issues relevant to local government in England (housing, council tax, social care, planning, local services). Summaries are provided for general orientation only. For definitive policy, consult each party's official manifesto.",
-    "last_reviewed": "2026-04-18",
+    "last_reviewed": "2026-04-19",
     "disclaimer": "AI-generated, non-partisan, not affiliated with any party."
   },
 
@@ -185,6 +185,132 @@
       "Good governance"
     ],
     "manifesto_url": "https://uup.org/policies"
+  },
+
+  "tusc": {
+    "display_name": "Trade Unionist and Socialist Coalition",
+    "colour": "#C8102E",
+    "summary": "TUSC (Trade Unionist and Socialist Coalition) is a socialist electoral coalition with roots in the trade-union movement, founded by figures including the late Bob Crow. At council level, its candidates stand on 'no-cuts budgets' — voting against any reductions to jobs, services or pay — and for council-led housebuilding, bringing privatised services in-house, and higher pay for council workers. TUSC describes itself as a coalition 'for the millions not millionaires'.",
+    "themes": [
+      "Oppose council cuts",
+      "Council housing",
+      "In-house public services",
+      "Higher worker pay",
+      "No-cuts budgets"
+    ],
+    "manifesto_url": "https://www.tusc.org.uk/policies/"
+  },
+
+  "workers-party": {
+    "display_name": "Workers Party of Britain",
+    "colour": "#b41f24",
+    "summary": "The Workers Party of Britain was founded in 2019 and is led by George Galloway. Its platform combines traditional left-economic positions — public ownership of utilities, rebuilding British industry, strong trade unions — with socially conservative cultural positions and opposition to NATO. For the 2026 local elections the party is running a substantial slate of candidates.",
+    "themes": [
+      "Public ownership",
+      "Workers' rights",
+      "Industrial rebuild",
+      "Anti-NATO stance",
+      "Social conservatism"
+    ],
+    "manifesto_url": "https://www.workerspartygb.org/"
+  },
+
+  "sdp": {
+    "display_name": "Social Democratic Party",
+    "colour": "#004B87",
+    "summary": "The Social Democratic Party describes itself as 'the Party of the Patriotic State' — combining a social-market economy (state-guided industrial policy, affordable energy, nationalised utilities) with communitarian and socially conservative cultural positions. The party supports democratic control of immigration on evidence-based grounds, family-focused welfare, and a 'capable state' funded by a robust tax base.",
+    "themes": [
+      "Social-market economy",
+      "Nationalised utilities",
+      "Affordable housing",
+      "Immigration control",
+      "Communitarian values"
+    ],
+    "manifesto_url": "https://sdp.org.uk/policies/"
+  },
+
+  "heritage": {
+    "display_name": "Heritage Party",
+    "colour": "#2E7D32",
+    "summary": "The Heritage Party, founded in 2020 and led by David Kurten, campaigns on the themes of 'Freedom, Family, Nation'. It advocates low taxation and free-market economics, immigration control, socially conservative cultural policy, and what it calls 'energy self-sufficiency'. Locally, the party favours greater council independence from Whitehall and protection of local heritage.",
+    "themes": [
+      "Traditional values",
+      "Low taxation",
+      "Immigration control",
+      "Local empowerment",
+      "Energy self-sufficiency"
+    ],
+    "manifesto_url": "https://heritageparty.org/manifesto/"
+  },
+
+  "rejoin-eu": {
+    "display_name": "Rejoin EU",
+    "colour": "#003399",
+    "summary": "Rejoin EU is a single-issue party founded in 2020 whose central platform is the United Kingdom rejoining the European Union. Beyond that, the party generally supports progressive social policy, climate action, and reversing what it sees as Brexit-related economic and cultural damage. Its local-election candidates use campaigns to keep the Rejoin case in public view.",
+    "themes": [
+      "Rejoin the EU",
+      "Reverse Brexit",
+      "European cooperation",
+      "Climate action",
+      "Progressive social policy"
+    ],
+    "manifesto_url": "https://rejoinparty.org.uk/"
+  },
+
+  "advance-uk": {
+    "display_name": "Advance UK",
+    "colour": "#0D3B66",
+    "summary": "Advance UK is a right-leaning party founded in 2025 by former Reform MEP Ben Habib. Its platform emphasises strict immigration control, rolling back what it calls 'net-zero extremism', lower taxation, tougher criminal justice, and constitutional reform. The party positions itself to the right of the Conservatives on immigration and culture.",
+    "themes": [
+      "Immigration control",
+      "Lower taxation",
+      "Oppose net-zero targets",
+      "Tougher justice",
+      "Constitutional reform"
+    ],
+    "manifesto_url": "https://advanceuk.com/"
+  },
+
+  "ukip": {
+    "display_name": "UK Independence Party (UKIP)",
+    "colour": "#70147A",
+    "summary": "UKIP was a major force in the 2016 Brexit referendum but has substantially diminished since, with most of its former support moving to Reform UK. The party continues to campaign on strict immigration control, opposition to EU re-engagement, low taxation, and traditional social values. Its 2026 local presence is small.",
+    "themes": [
+      "Immigration control",
+      "Oppose EU re-entry",
+      "Low taxation",
+      "Traditional values",
+      "Border security"
+    ],
+    "manifesto_url": "https://ukip.org/policies/"
+  },
+
+  "aspire": {
+    "display_name": "Aspire",
+    "colour": "#F7941D",
+    "summary": "Aspire is a local party active only in the London Borough of Tower Hamlets, led by the directly-elected mayor Lutfur Rahman. Its platform focuses on community-first local politics — investment in housing, youth services, crime prevention, and support for the borough's diverse communities, with a particular base among Tower Hamlets' Bangladeshi and Muslim residents. Aspire has no programme outside Tower Hamlets.",
+    "themes": [
+      "Tower Hamlets only",
+      "Community politics",
+      "Housing investment",
+      "Youth services",
+      "Local priorities"
+    ],
+    "manifesto_url": null
+  },
+
+  "communist": {
+    "display_name": "Communist Party of Britain",
+    "colour": "#CC0000",
+    "summary": "The Communist Party of Britain stands in the Marxist-Leninist tradition and has historic links to the trade union movement. Its platform calls for large-scale public ownership of utilities, transport and the financial sector; council housebuilding; strong workers' rights including sectoral collective bargaining; and what it describes as an anti-imperialist foreign policy. The party contests a small number of seats at most elections.",
+    "themes": [
+      "Public ownership",
+      "Council housing",
+      "Workers' rights",
+      "Collective bargaining",
+      "Anti-imperialism"
+    ],
+    "manifesto_url": "https://communistparty.org.uk/"
   },
 
   "independent": {

@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-the-christian-party-christian-peoples-alliance",
+    "display_name": "The Christian Party Christian Peoples Alliance",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Christian Party Christian Peoples Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 6332,
+      "name": "Ashley Dickenson",
+      "party_name": "The Christian Party Christian Peoples Alliance",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Carshalton Central"
+    }
+  ]
+}

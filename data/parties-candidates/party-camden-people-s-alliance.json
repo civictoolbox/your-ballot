@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-camden-people-s-alliance",
+    "display_name": "Camden People's Alliance",
+    "candidate_count": 6,
+    "council_count": 1,
+    "raw_party_names": [
+      "Camden People's Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 138577,
+      "name": "Joel Anderson",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "King's Cross"
+    },
+    {
+      "person_id": 138842,
+      "name": "Sha Abdul Majeed Bakth",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "St Pancras & Somers Town"
+    },
+    {
+      "person_id": 138845,
+      "name": "Sarah Friday",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "St Pancras & Somers Town"
+    },
+    {
+      "person_id": 138847,
+      "name": "Raqhib Islam",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "St Pancras & Somers Town"
+    },
+    {
+      "person_id": 138582,
+      "name": "Paul Renny",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "King's Cross"
+    },
+    {
+      "person_id": 138583,
+      "name": "Shezan Renny",
+      "party_name": "Camden People's Alliance",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "King's Cross"
+    }
+  ]
+}

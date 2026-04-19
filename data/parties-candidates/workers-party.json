@@ -1,11 +1,12 @@
 {
   "_meta": {
-    "generated_at": "2026-04-19T02:28:14+00:00",
-    "party_key": "party-workers-party-of-britain",
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "workers-party",
     "display_name": "Workers Party of Britain",
-    "candidate_count": 68,
-    "council_count": 16,
+    "candidate_count": 69,
+    "council_count": 17,
     "raw_party_names": [
+      "Workers Party - Oldham Group",
       "Workers Party of Britain"
     ]
   },
@@ -337,6 +338,14 @@
       "council_slug": "bury",
       "council_name": "Bury",
       "ward_name": "Unsworth"
+    },
+    {
+      "person_id": 129713,
+      "name": "Rangzib Nazir",
+      "party_name": "Workers Party - Oldham Group",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Werneth"
     },
     {
       "person_id": 125329,

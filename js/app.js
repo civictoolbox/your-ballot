@@ -139,9 +139,18 @@
     if (name.includes('scottish national'))      return 'snp';
     if (name.includes('sinn féin') || name.includes('sinn fein')) return 'sinn-fein';
     if (name.includes('dup') || name.includes('democratic unionist')) return 'dup';
-    if (name.includes('alliance'))               return 'alliance';
+    if (name.includes('alliance party') || name.trim() === 'alliance') return 'alliance';
     if (name.includes('sdlp'))                   return 'sdlp';
     if (name.includes('uup') || name.includes('ulster unionist')) return 'uup';
+    if (name.includes('trade unionist and socialist')) return 'tusc';
+    if (name.includes('workers party'))          return 'workers-party';
+    if (name.includes('social democratic party') || name.trim() === 'sdp') return 'sdp';
+    if (name.includes('heritage party'))         return 'heritage';
+    if (name.includes('rejoin eu'))              return 'rejoin-eu';
+    if (name.includes('advance uk'))             return 'advance-uk';
+    if (name.includes('ukip') || name.includes('uk independence party')) return 'ukip';
+    if (name.trim() === 'aspire')                return 'aspire';
+    if (name.includes('communist party of britain')) return 'communist';
     if (name.includes('independent'))            return 'independent';
     return 'other';
   };
@@ -161,6 +170,15 @@
     'alliance':     '#F6CB2F',
     'sdlp':         '#2AA82C',
     'uup':          '#48A5EE',
+    'tusc':         '#C8102E',
+    'workers-party':'#b41f24',
+    'sdp':          '#004B87',
+    'heritage':     '#2E7D32',
+    'rejoin-eu':    '#003399',
+    'advance-uk':   '#0D3B66',
+    'ukip':         '#70147A',
+    'aspire':       '#F7941D',
+    'communist':    '#CC0000',
     'independent':  '#666666',
     'other':        '#666666',
   };

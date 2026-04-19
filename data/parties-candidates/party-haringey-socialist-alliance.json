@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-haringey-socialist-alliance",
+    "display_name": "Haringey Socialist Alliance",
+    "candidate_count": 6,
+    "council_count": 1,
+    "raw_party_names": [
+      "Haringey Socialist Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 132310,
+      "name": "Paul John Burnham",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Bruce Castle"
+    },
+    {
+      "person_id": 132099,
+      "name": "Amelie Cooper",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Bruce Castle"
+    },
+    {
+      "person_id": 132459,
+      "name": "Alison Davy",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Northumberland Park"
+    },
+    {
+      "person_id": 132520,
+      "name": "Gary Alexander Joseph McFarlane",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Northumberland Park"
+    },
+    {
+      "person_id": 132671,
+      "name": "John Sinha",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "West Green"
+    },
+    {
+      "person_id": 132656,
+      "name": "Meryem Ulger",
+      "party_name": "Haringey Socialist Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "West Green"
+    }
+  ]
+}

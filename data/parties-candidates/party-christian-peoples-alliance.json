@@ -1,0 +1,238 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-christian-peoples-alliance",
+    "display_name": "Christian Peoples Alliance",
+    "candidate_count": 28,
+    "council_count": 8,
+    "raw_party_names": [
+      "Christian Peoples Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 128848,
+      "name": "Gabriel Abe",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "barking-and-dagenham",
+      "council_name": "Barking and Dagenham",
+      "ward_name": "Barking Riverside"
+    },
+    {
+      "person_id": 92434,
+      "name": "Amelia Allao",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Stroud Green"
+    },
+    {
+      "person_id": 6475,
+      "name": "Yemi Awolola",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton Rush Common"
+    },
+    {
+      "person_id": 76811,
+      "name": "Lucy Baiye-Gaman",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "barking-and-dagenham",
+      "council_name": "Barking and Dagenham",
+      "ward_name": "Thames View"
+    },
+    {
+      "person_id": 44707,
+      "name": "Victoria Bapu",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Wall End"
+    },
+    {
+      "person_id": 137678,
+      "name": "Jayanthi Dadi",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Wall End"
+    },
+    {
+      "person_id": 117056,
+      "name": "David Nigel Edgar",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "cheltenham",
+      "council_name": "Cheltenham",
+      "ward_name": "Springbank"
+    },
+    {
+      "person_id": 137585,
+      "name": "Simon Gibson",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Boleyn"
+    },
+    {
+      "person_id": 138544,
+      "name": "Suze Gurmeseva",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Custom House"
+    },
+    {
+      "person_id": 34807,
+      "name": "Katherine Susan Hortense",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Forest Hill"
+    },
+    {
+      "person_id": 45608,
+      "name": "Paul Martin Jobson",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow North"
+    },
+    {
+      "person_id": 137919,
+      "name": "Samuel Kazibwe",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Little Ilford"
+    },
+    {
+      "person_id": 135290,
+      "name": "Myrtle Verona Laing",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town South"
+    },
+    {
+      "person_id": 91347,
+      "name": "Idiat Lawal",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Custom House"
+    },
+    {
+      "person_id": 136658,
+      "name": "Nancy Momoh",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "islington",
+      "council_name": "Islington",
+      "ward_name": "Hillrise"
+    },
+    {
+      "person_id": 93725,
+      "name": "Peter Murengera",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Little Ilford"
+    },
+    {
+      "person_id": 47745,
+      "name": "Prossy Namwanje",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town South"
+    },
+    {
+      "person_id": 137008,
+      "name": "Goodness Nkire",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town North"
+    },
+    {
+      "person_id": 137009,
+      "name": "Precious Nkire",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town North"
+    },
+    {
+      "person_id": 137924,
+      "name": "Pauline Rose",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Little Ilford"
+    },
+    {
+      "person_id": 7988,
+      "name": "Helen Spiby-Vann",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Stroud Green"
+    },
+    {
+      "person_id": 93890,
+      "name": "Bharath Swamy",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Wall End"
+    },
+    {
+      "person_id": 47241,
+      "name": "June Taylor",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Beckton"
+    },
+    {
+      "person_id": 135157,
+      "name": "Kocotchy Tchesse",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow South"
+    },
+    {
+      "person_id": 137590,
+      "name": "Venkat Vabanagiri",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Boleyn"
+    },
+    {
+      "person_id": 137591,
+      "name": "Leela Vitnam",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Boleyn"
+    },
+    {
+      "person_id": 5106,
+      "name": "Neville Kenneth Watson",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Enfield Lock"
+    },
+    {
+      "person_id": 136389,
+      "name": "Thomas Rhys Williams",
+      "party_name": "Christian Peoples Alliance",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Crouch End"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T03:35:57+00:00",
+    "party_key": "party-freedom-alliance",
+    "display_name": "Freedom Alliance",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Freedom Alliance"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 87816,
+      "name": "Ken Moore",
+      "party_name": "Freedom Alliance",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Wollaston & Stourbridge Town"
+    }
+  ]
+}
