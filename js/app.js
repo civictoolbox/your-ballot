@@ -258,6 +258,8 @@
       return la.localeCompare(lb);
     });
 
+    const currentBpi = ballot.ballot_paper_id || '';
+
     grid.innerHTML = sorted.map((c, i) => {
       const person = enriched[i] || c.person || {};
       const displayName = person.name || [c.sopn_first_names, c.sopn_last_name].filter(Boolean).join(' ');
@@ -265,7 +267,7 @@
       const partyKey    = partyKeyForCandidate(c);
       const colour      = FALLBACK_COLOURS[partyKey] || FALLBACK_COLOURS.other;
 
-      // Collect links from YNR identifiers + candidate-extras
+      // ── Links (socials + email + profile) ─────────────────────────
       const identifiers = person.identifiers || [];
       const personalEmail = person.email;
       const extra = extras[person.id] || extras[c.person?.id] || {};
@@ -289,30 +291,72 @@
         else if (v === 'wikipedia_url')     pushLink('Wikipedia',   val);
         else if (v === 'blog_url')          pushLink('Blog',        val);
       });
-
-      // Extras from nightly scraper
       (extra.links || []).forEach(l => pushLink(l.label, l.href));
-
       if (personalEmail) pushLink('Email', `mailto:${personalEmail}`);
 
-      // Always include WCIVF profile
-      if (person.id) pushLink('Full profile', `https://whocanivotefor.co.uk/person/${person.id}/`);
+      // ── Past elections count (from YNR candidacies) ───────────────
+      const pastCandidacies = (person.candidacies || person.memberships || [])
+        .filter(m => {
+          const bpi = m.ballot?.ballot_paper_id || '';
+          if (bpi === currentBpi) return false;
+          const date = (bpi.match(/(\d{4}-\d{2}-\d{2})$/) || [])[1] || '';
+          return !!date && date !== ELECTION_DATE;
+        });
+      const pastCount = pastCandidacies.length;
+      const pastWon = pastCandidacies.filter(m => m.elected === true).length;
+      const pastLabel = pastCount === 0
+        ? 'First-time candidate'
+        : `${pastCount} past election${pastCount === 1 ? '' : 's'}${pastWon > 0 ? ` · won ${pastWon}` : ''}`;
 
+      // ── Statement ─────────────────────────────────────────────────
+      const statement = (person.statement_to_voters || '').trim();
+      const statementSnippet = statement
+        ? (statement.length > 180 ? statement.slice(0, 177).trim() + '…' : statement)
+        : '';
+
+      // ── Photo ─────────────────────────────────────────────────────
+      const photoUrl = person.thumbnail || person.image || '';
+
+      // ── Name, always linked to profile page when we have an ID ────
       const nameHtml = person.id
         ? `<a href="candidate.html?id=${encodeURIComponent(person.id)}">${esc(displayName)}</a>`
         : esc(displayName);
+
+      const profileHref = person.id
+        ? `candidate.html?id=${encodeURIComponent(person.id)}`
+        : null;
+
       return `
-        <article class="candidate">
+        <article class="candidate candidate-compare">
+          <div class="candidate-photo ${photoUrl ? '' : 'is-placeholder'}" aria-hidden="true">
+            ${photoUrl ? `<img src="${esc(photoUrl)}" alt="" loading="lazy" />` : '<span class="photo-placeholder-mark" aria-hidden="true"></span>'}
+          </div>
           <div class="candidate-main">
             <h3 class="candidate-name">${nameHtml}</h3>
             <p class="candidate-party">
               <span class="party-swatch" style="background:${colour}"></span>
               ${esc(partyName)}
             </p>
+            <dl class="candidate-facts">
+              <div class="fact">
+                <dt>History</dt>
+                <dd>${esc(pastLabel)}</dd>
+              </div>
+              <div class="fact">
+                <dt>Statement</dt>
+                <dd>${statement ? 'Submitted' : '<span class="fact-empty">Not submitted</span>'}</dd>
+              </div>
+              <div class="fact">
+                <dt>Contact</dt>
+                <dd>${links.length ? `${links.length} link${links.length === 1 ? '' : 's'}` : '<span class="fact-empty">None listed</span>'}</dd>
+              </div>
+            </dl>
+            ${statementSnippet ? `<blockquote class="candidate-statement-snippet">${esc(statementSnippet)}</blockquote>` : ''}
             ${links.length ? `
               <p class="candidate-links">
                 ${links.map(l => `<a href="${esc(l.href)}" rel="noopener" target="_blank">${esc(l.label)}</a>`).join('')}
               </p>` : ''}
+            ${profileHref ? `<p class="candidate-profile-link"><a href="${esc(profileHref)}">Full profile →</a></p>` : ''}
           </div>
         </article>
       `;
