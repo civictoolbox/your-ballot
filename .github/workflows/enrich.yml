@@ -25,7 +25,7 @@ jobs:
   enrich:
     name: Build browse data + candidate extras
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 180
 
     steps:
       - name: Check out repository
@@ -44,7 +44,7 @@ jobs:
       # ── Stage 1: browse data (fast, always commits) ────────────────────
       - name: Build browse data
         id: browse
-        timeout-minutes: 45
+        timeout-minutes: 90
         run: python scripts/build_browse_data.py
 
       - name: Commit browse data
@@ -63,7 +63,7 @@ jobs:
       - name: Enrich candidates
         id: enrich
         continue-on-error: true
-        timeout-minutes: 60
+        timeout-minutes: 80
         run: python scripts/enrich_candidates.py
 
       - name: Commit candidate extras
