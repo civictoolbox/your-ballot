@@ -1,0 +1,740 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "bolton",
+    "council_name": "Bolton"
+  },
+  "wards": [
+    {
+      "ward_name": "Astley Bridge",
+      "ballot_paper_id": "local.bolton.astley-bridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128907,
+          "name": "Ryan Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128908,
+          "name": "Sarita Chohan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128909,
+          "name": "Peter Brett Hopkinson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128910,
+          "name": "Lee Thorne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42757,
+          "name": "John Walsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128911,
+          "name": "Phil Warren",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bradshaw",
+      "ballot_paper_id": "local.bolton.bradshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 111522,
+          "name": "Jennifer Entwistle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127697,
+          "name": "Peter Dennis Firth",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 106744,
+          "name": "Sandra Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108629,
+          "name": "Christine Anne Strawbridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89248,
+          "name": "Les Webb",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Breightmet",
+      "ballot_paper_id": "local.bolton.breightmet.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127329,
+          "name": "Gillian Fernley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11716,
+          "name": "Derek John Gradwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127330,
+          "name": "Wendy Ann Hopkinson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 95583,
+          "name": "Kate Elizabeth Taylor",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127331,
+          "name": "Mike Tucker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42774,
+          "name": "Adele Kay Warren",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromley Cross",
+      "ballot_paper_id": "local.bolton.bromley-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127335,
+          "name": "Joe Burton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123845,
+          "name": "Charlotte Anne Cadden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127336,
+          "name": "Jayden Cain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 106746,
+          "name": "Bill Lovat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89312,
+          "name": "Jim Priest",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farnworth North",
+      "ballot_paper_id": "local.bolton.farnworth-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 74931,
+          "name": "Nadeem Ayub",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123540,
+          "name": "Sandra Baker",
+          "party_name": "Farnworth and Kearsley First Party"
+        },
+        {
+          "person_id": 127356,
+          "name": "Ryan Cain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18877,
+          "name": "Rees Gibbon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105696,
+          "name": "Phillip Kochitty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11661,
+          "name": "Champak Mistry",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 106669,
+          "name": "Andrew John Tonge",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farnworth South",
+      "ballot_paper_id": "local.bolton.farnworth-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 105699,
+          "name": "Kubbar Alom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127375,
+          "name": "Wesley McArdle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43246,
+          "name": "Julie Pattison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35745,
+          "name": "Paul Sanders",
+          "party_name": "Farnworth and Kearsley First Party"
+        },
+        {
+          "person_id": 106806,
+          "name": "Jennifer Louise Tonge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127376,
+          "name": "David Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Lever",
+      "ballot_paper_id": "local.bolton.great-lever.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 105702,
+          "name": "Mahboob Alom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127392,
+          "name": "Yusuf Butt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127393,
+          "name": "Rishikesh Ratilal Chohan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127394,
+          "name": "Gus Heyes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11351,
+          "name": "Mohammed Iqbal",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halliwell",
+      "ballot_paper_id": "local.bolton.halliwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129027,
+          "name": "Philip Booth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18876,
+          "name": "Elizabeth Anne Elliott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129028,
+          "name": "Baggy Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74927,
+          "name": "Safwaan Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77383,
+          "name": "Caroline Anne Turner-Preece",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heaton, Lostock & Chew Moor",
+      "ballot_paper_id": "local.bolton.heaton-lostock-chew-moor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126458,
+          "name": "Hetan Ajwani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11672,
+          "name": "Anne Barbara Galloway",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106652,
+          "name": "Paul Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129039,
+          "name": "Salim Quereshi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129040,
+          "name": "Alexander James Rostron",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horwich North",
+      "ballot_paper_id": "local.bolton.horwich-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128949,
+          "name": "Helena Carman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128950,
+          "name": "Graham Dawson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73256,
+          "name": "Andrea Jane Finney",
+          "party_name": "Horwich & Blackrod First Independents"
+        },
+        {
+          "person_id": 11670,
+          "name": "Carol Forshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128951,
+          "name": "Stephen Martindale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128952,
+          "name": "Charlotte Chloe Minnie Moncado-Sears",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 77742,
+          "name": "Scott Turner-Preece",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horwich South & Blackrod",
+      "ballot_paper_id": "local.bolton.horwich-south-blackrod.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 60624,
+          "name": "Joshua Johnathan Callum Cook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129077,
+          "name": "Michael Jarvis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129078,
+          "name": "Matthew Kyle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129079,
+          "name": "Antony Moncado-Sears",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 106677,
+          "name": "Paul Norris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108630,
+          "name": "John William Strawbridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59257,
+          "name": "Peter Wright",
+          "party_name": "Horwich & Blackrod First Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hulton",
+      "ballot_paper_id": "local.bolton.hulton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128995,
+          "name": "Derek Bullock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5608,
+          "name": "Alan Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 106687,
+          "name": "Linda Christine Maher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77747,
+          "name": "Shafi Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123681,
+          "name": "Emma Julia Schofield",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kearsley",
+      "ballot_paper_id": "local.bolton.kearsley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 89369,
+          "name": "George Butler",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 11680,
+          "name": "David Charles Tyas Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129127,
+          "name": "Roger Pedley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129128,
+          "name": "Toby Brendon Sandy Peers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108628,
+          "name": "Glenys Ratcliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129129,
+          "name": "Jack Tebay",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 73206,
+          "name": "Tracey Wilkinson",
+          "party_name": "Farnworth and Kearsley First Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Lever & Darcy Lever",
+      "ballot_paper_id": "local.bolton.little-lever-darcy-lever.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129158,
+          "name": "Fin Cozens-Stott",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 129159,
+          "name": "Ben Dolata",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129160,
+          "name": "Rach Gilmour",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111597,
+          "name": "Susan Mary Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42698,
+          "name": "David Michael Meehan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43326,
+          "name": "Derek Wunderley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queens Park & Central",
+      "ballot_paper_id": "local.bolton.queens-park-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129171,
+          "name": "Zan Arif",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11688,
+          "name": "Richard Elliott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11667,
+          "name": "Rebekah Susan Mary Fairhurst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11675,
+          "name": "Richard Silvester",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126460,
+          "name": "Nimesh Vara",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rumworth",
+      "ballot_paper_id": "local.bolton.rumworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 105671,
+          "name": "Sajid Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43270,
+          "name": "Ismail Ibrahim",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126459,
+          "name": "Gansham Hiriji Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 106668,
+          "name": "Shahjahan Shah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106861,
+          "name": "Gillian Elizabeth Wroe",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Smithills",
+      "ballot_paper_id": "local.bolton.smithills.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125808,
+          "name": "Elora Hunt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111609,
+          "name": "Raymond Ndokwo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129190,
+          "name": "Liam O'Callaghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 62354,
+          "name": "Sue Priest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129191,
+          "name": "Simon Roscoe",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tonge with the Haulgh",
+      "ballot_paper_id": "local.bolton.tonge-with-the-haulgh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11698,
+          "name": "Hafiz Tahir-Mahmood Butt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34653,
+          "name": "Rebecca Forrest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 62384,
+          "name": "Trevor Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43325,
+          "name": "Nick Peel",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129197,
+          "name": "Gaynor Margaret Richards",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westhoughton North & Hunger Hill",
+      "ballot_paper_id": "local.bolton.westhoughton-north-hunger-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129205,
+          "name": "David Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77677,
+          "name": "Neil Maher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129206,
+          "name": "Paul Leslie Saunders",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11720,
+          "name": "Martin Tighe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129207,
+          "name": "Louise Warburton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westhoughton South",
+      "ballot_paper_id": "local.bolton.westhoughton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 42771,
+          "name": "Richard Adam Bates",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126490,
+          "name": "Glen Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111601,
+          "name": "Colin Higson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125792,
+          "name": "Simon Penhallow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129226,
+          "name": "Christina Ruth Saunders",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43387,
+          "name": "Jack Speight",
+          "party_name": "Westhoughton First Independents"
+        },
+        {
+          "person_id": 11722,
+          "name": "David Arthur Wilkinson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

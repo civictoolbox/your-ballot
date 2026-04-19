@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "chelmsford",
+    "council_name": "Chelmsford"
+  },
+  "wards": [
+    {
+      "ward_name": "Broomfield and The Walthams",
+      "ballot_paper_id": "local.chelmsford.broomfield-and-the-walthams.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132524,
+          "name": "Chris Davy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31772,
+          "name": "David Howell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132525,
+          "name": "Kevin Terence Kuken",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65791,
+          "name": "Seena Shah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132526,
+          "name": "Rachel Wheelhouse",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

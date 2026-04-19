@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-socialist-party-of-great-britain",
+    "display_name": "The Socialist Party of Great Britain",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Socialist Party of Great Britain"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 125678,
+      "name": "Anya Krycek",
+      "party_name": "The Socialist Party of Great Britain",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton North"
+    },
+    {
+      "person_id": 5675,
+      "name": "Jacqueline Shodeke",
+      "party_name": "The Socialist Party of Great Britain",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham Common & Abbeville"
+    },
+    {
+      "person_id": 125779,
+      "name": "César Ramon Sotillo",
+      "party_name": "The Socialist Party of Great Britain",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Stockwell West & Larkhall"
+    }
+  ]
+}

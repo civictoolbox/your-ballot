@@ -1,0 +1,1654 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "southwark",
+    "council_name": "Southwark"
+  },
+  "wards": [
+    {
+      "ward_name": "Borough & Bankside",
+      "ballot_paper_id": "local.southwark.borough-bankside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 125447,
+          "name": "Samuel Aurelius",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124100,
+          "name": "Hellen Benavides",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5641,
+          "name": "Victor Max Mark Chamberlain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44051,
+          "name": "Graham Davison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123958,
+          "name": "Jack Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125449,
+          "name": "Sam Hills",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45255,
+          "name": "Barry Norman Joseph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48634,
+          "name": "Richard John Packer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125450,
+          "name": "Alastair John Ritchie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123956,
+          "name": "Hadi Sharifi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133687,
+          "name": "Simon Vardigans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86201,
+          "name": "David Watson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123957,
+          "name": "Ruth Wilson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Camberwell Green",
+      "ballot_paper_id": "local.southwark.camberwell-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133910,
+          "name": "Sarah Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133912,
+          "name": "Theodore Aririahusim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126319,
+          "name": "Joe Lee Campbell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48154,
+          "name": "Dora Dixon-Fyle",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133913,
+          "name": "Lola Josephine Victoria Garratt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48156,
+          "name": "Robert Antony Hayward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133914,
+          "name": "Freddy Kinsella",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124054,
+          "name": "James Moyse",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133911,
+          "name": "Ismael Antequera Rodriguez",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133915,
+          "name": "Rakesh Shah",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133916,
+          "name": "Gavin Terry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88318,
+          "name": "Jen Thornton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 87713,
+          "name": "Rupert George Watson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Champion Hill",
+      "ballot_paper_id": "local.southwark.champion-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 39255,
+          "name": "Michael Barge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48663,
+          "name": "Sarah King",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136826,
+          "name": "Christine Helene Langhoff",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48664,
+          "name": "Michael Ronald Millar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136827,
+          "name": "Folake Oladeinde",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126195,
+          "name": "Cato Sandford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117912,
+          "name": "Max Shillam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36075,
+          "name": "Irina Stephanie Von Wiese",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45506,
+          "name": "Bill Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chaucer",
+      "ballot_paper_id": "local.southwark.chaucer.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 87580,
+          "name": "Monsur Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124107,
+          "name": "Anna Marie Bayraktar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87581,
+          "name": "Andrew Overs Dowsett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126173,
+          "name": "Felix George Hamer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124108,
+          "name": "Arif Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133871,
+          "name": "Anisa Said Jama",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126111,
+          "name": "Pascale Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133872,
+          "name": "Emmanuel Muyong Ngwengi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124056,
+          "name": "Saidat Oketunde",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133873,
+          "name": "David Pavitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124055,
+          "name": "Robert Smeath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87772,
+          "name": "Ralph Cleland Tiffin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87585,
+          "name": "Joseph Vambe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126176,
+          "name": "Suzanne Elizabeth Wise",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dulwich Hill",
+      "ballot_paper_id": "local.southwark.dulwich-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 43612,
+          "name": "David Savile Bradbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36110,
+          "name": "Michael Adewale Bukola",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124057,
+          "name": "Tori Griffiths",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12758,
+          "name": "Simon Alexander Heap",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36132,
+          "name": "William Houngbo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48100,
+          "name": "Jane Barbara Lyons",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133434,
+          "name": "Catherine Louise Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133435,
+          "name": "Stephen Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133436,
+          "name": "Janice Gail White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dulwich Village",
+      "ballot_paper_id": "local.southwark.dulwich-village.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 87745,
+          "name": "Philip John Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124102,
+          "name": "Ed Hill-Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84565,
+          "name": "Tristan Honeyborne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136489,
+          "name": "Robert Hope",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48099,
+          "name": "Richard Michael Leeming",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 87445,
+          "name": "Vincent Denis Matley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48102,
+          "name": "Margy Newens",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 84564,
+          "name": "Clive Leslie Rates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84286,
+          "name": "Richard Christopher Wingfield",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dulwich Wood",
+      "ballot_paper_id": "local.southwark.dulwich-wood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 124058,
+          "name": "Ruth Bannister",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126401,
+          "name": "Anna Crowley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87443,
+          "name": "Aiken Furlong",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77064,
+          "name": "Sean Hannigan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 88378,
+          "name": "Lewis Jack Allan Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136620,
+          "name": "James Lucas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35354,
+          "name": "Andrew MacKay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126368,
+          "name": "Guy William Rupert Matthews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136621,
+          "name": "Ralph James Smyth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136622,
+          "name": "John Whiteford",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Faraday",
+      "ballot_paper_id": "local.southwark.faraday.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 126103,
+          "name": "David Rupert Battersby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134150,
+          "name": "Sophie Corinne Beeley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134151,
+          "name": "Edward Charles Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117901,
+          "name": "Mohamed Deen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134152,
+          "name": "Doran Moshe Doeh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126104,
+          "name": "Giancarlo Durante Elizondo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134153,
+          "name": "Khadija Gebo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126105,
+          "name": "Suzy Gillett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124059,
+          "name": "Felicia Johnston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89315,
+          "name": "Rebecca Anne Kadritzke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134154,
+          "name": "Robert Killick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134155,
+          "name": "Edward Andrew O'Connor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 116791,
+          "name": "Sasjkia Otto",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134156,
+          "name": "Paul Wendt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Goose Green",
+      "ballot_paper_id": "local.southwark.goose-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 4493,
+          "name": "James Barber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133923,
+          "name": "Damian Cluskey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124103,
+          "name": "Kaz Doyle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40388,
+          "name": "Domonic Adrian Garriques",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125445,
+          "name": "Kole James Gjikolaj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126106,
+          "name": "George Ronald Grime",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133924,
+          "name": "Simon Alan Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43617,
+          "name": "James Robert McAsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124060,
+          "name": "Liam McGrath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124104,
+          "name": "Luke McSorley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87747,
+          "name": "Portia Mwangangye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133925,
+          "name": "Charlie Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126123,
+          "name": "Eloise Amanda Waldon-Day",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133926,
+          "name": "Marcus Walford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133927,
+          "name": "Simon Antony West",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "London Bridge & West Bermondsey",
+      "ballot_paper_id": "local.southwark.london-bridge-west-bermondsey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 19611,
+          "name": "Siobhan Gite Aarons",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46119,
+          "name": "William Paul Amor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87766,
+          "name": "Sam Dalton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133478,
+          "name": "Stephen Fitzgerald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124062,
+          "name": "Selena Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124061,
+          "name": "Rugie Kanu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87707,
+          "name": "Andrew James Neville",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36084,
+          "name": "David Noakes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124110,
+          "name": "Sonay Ozkutayli",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124111,
+          "name": "Uthman Ukueku",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133479,
+          "name": "Emily Ward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133480,
+          "name": "Jonathan Mark Woolhouse",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newington",
+      "ballot_paper_id": "local.southwark.newington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 35656,
+          "name": "John Batteson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126174,
+          "name": "Kevin Chih-Cheng Chuah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84730,
+          "name": "Natasha Ennin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136807,
+          "name": "Maria Dimitra Gkaripi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87880,
+          "name": "Nicola Hearn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136808,
+          "name": "Michael Patrick Hession",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89043,
+          "name": "Ryan Kingsbury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136809,
+          "name": "Anastasios Maragiannis",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87584,
+          "name": "Thomas Edmund Packer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117902,
+          "name": "Dhiren Ponnambalam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136810,
+          "name": "Dominic Reader",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136811,
+          "name": "Peter Anthony Reid",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126101,
+          "name": "Joel Natanael Alexander Resare",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136812,
+          "name": "Leigh Richman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136813,
+          "name": "Daniel Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136814,
+          "name": "Paola Uribe",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Bermondsey",
+      "ballot_paper_id": "local.southwark.north-bermondsey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133577,
+          "name": "Sophie Elizabeth Ainsworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133578,
+          "name": "Amer Salih Alic",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124066,
+          "name": "Carys Allsopp",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133579,
+          "name": "Susi Arnott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86195,
+          "name": "Rachel Elizabeth Bentley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124065,
+          "name": "Andy Bruce",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 48121,
+          "name": "Robert McNeil Ferguson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133580,
+          "name": "Jonathan Frost",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123963,
+          "name": "Francesco Guerrieri",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 116698,
+          "name": "Seb Newsam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86196,
+          "name": "Patrickson Amechi Obanya",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124064,
+          "name": "Robin Pollard",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133581,
+          "name": "Theodore James Seely",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Walworth",
+      "ballot_paper_id": "local.southwark.north-walworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 46344,
+          "name": "Lucy Carrington",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136766,
+          "name": "Paul Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126109,
+          "name": "Rebecca Elizabeth Corn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136767,
+          "name": "Sam Foster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136768,
+          "name": "Mohamed Sheku Kamara",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124069,
+          "name": "Saba Manzoor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124113,
+          "name": "lon Martea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124068,
+          "name": "Zaid Moosa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136769,
+          "name": "Frank Potaczek",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136770,
+          "name": "Rasim Sen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124112,
+          "name": "Ignas Stankaitis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126098,
+          "name": "Vanessa Joan Threadgold",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136771,
+          "name": "Richard Feather Wheater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124067,
+          "name": "Philip James Wheeler",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nunhead & Queen's Road",
+      "ballot_paper_id": "local.southwark.nunhead-queens-road.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124070,
+          "name": "Marq Bailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37335,
+          "name": "Catherine Alice Dawkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40387,
+          "name": "Gavin Edwards",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48621,
+          "name": "Novelette Ellis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135991,
+          "name": "Eddie Heywood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135992,
+          "name": "Gavin James Outteridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135993,
+          "name": "Darryl Pitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35671,
+          "name": "Luisa Porritt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40389,
+          "name": "Sandra Dean Rhule",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48361,
+          "name": "Claire Frances Sheppard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89066,
+          "name": "Richard Joseph Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135994,
+          "name": "Fabio Tresoldi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72126,
+          "name": "Tarsilo Ugarte-Onuluk",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Kent Road",
+      "ballot_paper_id": "local.southwark.old-kent-road.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 47313,
+          "name": "Evelyn Akoto",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126423,
+          "name": "Alexandra Austin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136711,
+          "name": "Adithya Ganesh Avadhani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136712,
+          "name": "Julie Crawford",
+          "party_name": "Communist League Election Campaign"
+        },
+        {
+          "person_id": 136713,
+          "name": "Tom Giles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59708,
+          "name": "Edward Graham Heckels",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47311,
+          "name": "Richard Livingstone",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136714,
+          "name": "Jazmin Moesha McMullen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136715,
+          "name": "Sharon Ellen Noonan-Gunning",
+          "party_name": "Southwark Independent Socialists"
+        },
+        {
+          "person_id": 126320,
+          "name": "Christopher Francis Stuart Payne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45618,
+          "name": "Tony Sharp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47315,
+          "name": "Michael Situ",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 34202,
+          "name": "Emily Louise Tester",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 34520,
+          "name": "Rachel Janet Wolf",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peckham",
+      "ballot_paper_id": "local.southwark.peckham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133713,
+          "name": "Maurice Acton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133714,
+          "name": "Chinonye Amauche Anumodu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133715,
+          "name": "Babatunde Olawale Awolesi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126113,
+          "name": "Ryan Denis Cox",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48440,
+          "name": "Sabina Emmanuel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48378,
+          "name": "Barrie John Hargrove",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133716,
+          "name": "Nena Linforth-Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36489,
+          "name": "Philomena Ofodu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125023,
+          "name": "Dean Douglas Peters",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5188,
+          "name": "Storm Poorun",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48381,
+          "name": "Cleo Soanes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133717,
+          "name": "Jacky Tran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133718,
+          "name": "Andrew Robert Woodruff",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peckham Rye",
+      "ballot_paper_id": "local.southwark.peckham-rye.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 133974,
+          "name": "Michael Barnard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133975,
+          "name": "Adi Dar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48359,
+          "name": "Renata Hamvas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126108,
+          "name": "Francisca Jacqueline Nanteza Mayambala",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48360,
+          "name": "Victoria Mills",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88060,
+          "name": "Steven Sheppard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133977,
+          "name": "Alex Edward Simpson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45619,
+          "name": "Ian David Twinn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87710,
+          "name": "Lorraine Zuleta",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rotherhithe",
+      "ballot_paper_id": "local.southwark.rotherhithe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 77121,
+          "name": "Vikas Aggarwal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45500,
+          "name": "Colin James Boyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133814,
+          "name": "Aditya Chathli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124077,
+          "name": "Sorcha Ni Chonghaile",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45502,
+          "name": "Stephanie Cryan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 36134,
+          "name": "JK Doran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117674,
+          "name": "Barry Colin Duckett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133815,
+          "name": "James William Reginald Hatt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133816,
+          "name": "Tatiana Hernandez",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133817,
+          "name": "Andy Kekwick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133818,
+          "name": "Christopher James Mottau",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46246,
+          "name": "Tom Murray",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 85193,
+          "name": "Bethan Roberts",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126097,
+          "name": "Aadi Venkatesh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133819,
+          "name": "Peter Way",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45505,
+          "name": "Kath Whittam",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rye Lane",
+      "ballot_paper_id": "local.southwark.rye-lane.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 45248,
+          "name": "Jasmine Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133958,
+          "name": "Mark Lewis Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84731,
+          "name": "Esme Dobson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36128,
+          "name": "Clare Elizabeth Donachie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89174,
+          "name": "Peter John Felix",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87868,
+          "name": "James Gurling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126281,
+          "name": "Rouge Hawk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133959,
+          "name": "Guy Hotchin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133960,
+          "name": "Alfredo Iorio",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124631,
+          "name": "Danny Lester",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84570,
+          "name": "David Parton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84733,
+          "name": "Reginald Popoola",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133961,
+          "name": "Elizabeth Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133962,
+          "name": "Jason Valentine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44056,
+          "name": "Oliver Hugh Wooller",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Bermondsey",
+      "ballot_paper_id": "local.southwark.south-bermondsey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124072,
+          "name": "Fatmata Bah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124115,
+          "name": "Vinayak Banerjee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124071,
+          "name": "Andy Bates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133529,
+          "name": "Laura Collins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87879,
+          "name": "Ravi Gulab Gidwani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37472,
+          "name": "Harriet Rosalie Gould",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124116,
+          "name": "Kathleen Heather",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45614,
+          "name": "Sunny Lambe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47221,
+          "name": "Sandra Elizabeth Lane",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124117,
+          "name": "Gordon Mackay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89179,
+          "name": "Peter Augustus Reder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133530,
+          "name": "Colin West",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133531,
+          "name": "Timothy James Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St George's",
+      "ballot_paper_id": "local.southwark.st-georges.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133734,
+          "name": "Suzie Bridgen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124074,
+          "name": "Diana Chichande",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133735,
+          "name": "Ruben David Duendia",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124073,
+          "name": "Tom Heys",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133736,
+          "name": "Nick Hoile",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133737,
+          "name": "William Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36500,
+          "name": "Graham James Neale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133739,
+          "name": "Thomas Robert Philpott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46348,
+          "name": "Lina Maria Usma",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133738,
+          "name": "Nita Patel Woods",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Giles",
+      "ballot_paper_id": "local.southwark.st-giles.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 43613,
+          "name": "Robert Alan Broomhead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48114,
+          "name": "Lindsay Chathli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136730,
+          "name": "David Christian",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36109,
+          "name": "Poddy Clark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47863,
+          "name": "Ellie Cumbo",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126100,
+          "name": "Callum Anand Fowler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125600,
+          "name": "Andy Higson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44052,
+          "name": "Jason Ochere",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 47586,
+          "name": "Edith Okparaocha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126102,
+          "name": "Rachael Mary Anne Penny",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87870,
+          "name": "Josh Sharman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136731,
+          "name": "Warren Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44055,
+          "name": "Ian Wingfield",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136732,
+          "name": "Dillon Andrew Yeh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Surrey Docks",
+      "ballot_paper_id": "local.southwark.surrey-docks.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133746,
+          "name": "Omnya Elzubier Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130582,
+          "name": "Alex Peter Baynham",
+          "party_name": "Build"
+        },
+        {
+          "person_id": 124075,
+          "name": "Henry George Bottomley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133747,
+          "name": "Francesca Letitia Corscadden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133748,
+          "name": "Selcuk Cosar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133749,
+          "name": "Danny Lee Draper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86199,
+          "name": "Adam Hood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42010,
+          "name": "Richard MacMillan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12253,
+          "name": "Moya O'Rourke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133750,
+          "name": "Joseph Nnabugwu Nwakaram Omeji",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133751,
+          "name": "Jane Patricia Reid",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36508,
+          "name": "Jane Salmon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124076,
+          "name": "Adam Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133752,
+          "name": "Alexander John Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

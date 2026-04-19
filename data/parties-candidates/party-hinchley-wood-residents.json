@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-hinchley-wood-residents",
+    "display_name": "Hinchley Wood Residents",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Hinchley Wood Residents"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 138217,
+      "name": "Simon Francis Anthony Crome",
+      "party_name": "Hinchley Wood Residents",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Long Ditton, Hinchley Wood & Weston Green"
+    },
+    {
+      "person_id": 138219,
+      "name": "Scott William Dodkins",
+      "party_name": "Hinchley Wood Residents",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Long Ditton, Hinchley Wood & Weston Green"
+    }
+  ]
+}

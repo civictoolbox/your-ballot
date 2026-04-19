@@ -1,0 +1,1880 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "enfield",
+    "council_name": "Enfield"
+  },
+  "wards": [
+    {
+      "ward_name": "Arnos Grove",
+      "ballot_paper_id": "local.enfield.arnos-grove.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 124727,
+          "name": "Shamshia Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134028,
+          "name": "Donald Farquharson Berry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134029,
+          "name": "Chris Bushill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43494,
+          "name": "Joan Bushill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124726,
+          "name": "Andrew Gilbert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40711,
+          "name": "Shyamala Lennon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84427,
+          "name": "Paul Pratt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134030,
+          "name": "Eugene Secchi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134031,
+          "name": "John Philip Shields",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88539,
+          "name": "Jon Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bowes",
+      "ballot_paper_id": "local.enfield.bowes.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135542,
+          "name": "Steven Adderley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135543,
+          "name": "Mark Brobyn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 115942,
+          "name": "Alex Diner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135544,
+          "name": "Helen Linda Karamallakis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40981,
+          "name": "Dino Lemonides",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84421,
+          "name": "Ediz Mevlit",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123696,
+          "name": "Kakoly Pande",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40775,
+          "name": "Dan Stachow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90327,
+          "name": "Steve Stavrinou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90472,
+          "name": "Karl Vidol",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135545,
+          "name": "Heidi Voorbraeck",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brimsdown",
+      "ballot_paper_id": "local.enfield.brimsdown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 136749,
+          "name": "Gungor Buldu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136750,
+          "name": "Antonio Campaniello",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90242,
+          "name": "Hivran Dalkaya",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43479,
+          "name": "Ahmet Hasan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136751,
+          "name": "Simon Heathwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136752,
+          "name": "Hasan Hurer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42508,
+          "name": "Ertan Hurer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136753,
+          "name": "Teslime Karaoglan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136754,
+          "name": "Syed Kazmi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35456,
+          "name": "Andreea Malin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90243,
+          "name": "Bektas Ozer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136756,
+          "name": "Ozlem Polat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136755,
+          "name": "Ismail Polat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36254,
+          "name": "Sarah Sachs-Eldridge",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bullsmoor",
+      "ballot_paper_id": "local.enfield.bullsmoor.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 93520,
+          "name": "Bea Gardner Asker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 84426,
+          "name": "Margaret Brady",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134895,
+          "name": "Anthony Damianou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134896,
+          "name": "Richard James Ashford Davey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96139,
+          "name": "Destiny Karakus",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134897,
+          "name": "John Lacey-Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134898,
+          "name": "Adonaï Mungombe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123691,
+          "name": "Faye Nimoh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134899,
+          "name": "Millie Chinwe Okeke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134900,
+          "name": "Tessa Frances Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134901,
+          "name": "Jocelyn Helen Whittaker-Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bush Hill Park",
+      "ballot_paper_id": "local.enfield.bush-hill-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136679,
+          "name": "Kasha-Marie Ababio",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6790,
+          "name": "Luke Ashley Balnave",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136680,
+          "name": "Rebecca Cruickshank",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40978,
+          "name": "Peter David Fallart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136681,
+          "name": "Jessica Gold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90278,
+          "name": "Pat Gregory",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 1625,
+          "name": "James Hockney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136684,
+          "name": "Helmi Van Leur",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136682,
+          "name": "George Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90279,
+          "name": "John Henry Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42947,
+          "name": "Angie McEvoy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44002,
+          "name": "Mike McGowan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136683,
+          "name": "Mary Ann McKenna",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36264,
+          "name": "Paula Jane Mitchell",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 43163,
+          "name": "Norman Whitby",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carterhatch",
+      "ballot_paper_id": "local.enfield.carterhatch.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 90304,
+          "name": "Nawshad Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79062,
+          "name": "John Dolan",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135025,
+          "name": "Carmela Fetta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79063,
+          "name": "Ayten Guzel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135026,
+          "name": "Erol Huseyin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135027,
+          "name": "Wang June",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135028,
+          "name": "David Alfred Kruyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90308,
+          "name": "Robert Stephen Page",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45706,
+          "name": "Stephen Viney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45705,
+          "name": "Anne Viney",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cockfosters",
+      "ballot_paper_id": "local.enfield.cockfosters.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 124728,
+          "name": "Arzu Aydemir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136716,
+          "name": "Alara Ayyildiz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90502,
+          "name": "Mutlu Beyzade",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136717,
+          "name": "Felicity Aoibhinn Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90469,
+          "name": "Brian Cronk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43557,
+          "name": "Alessandro Georgiou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136718,
+          "name": "Samuel Norris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136719,
+          "name": "Caley Elizabeth Powell-Mitchell-Dolby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90326,
+          "name": "Paul Shaverin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Edmonton Green",
+      "ballot_paper_id": "local.enfield.edmonton-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 90347,
+          "name": "Abdul Abdullahi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90348,
+          "name": "Gunes Akbulut",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90179,
+          "name": "Clayton Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134621,
+          "name": "Julia Davenport",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43492,
+          "name": "Ergin Erbil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134622,
+          "name": "Ersoy Halil",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 90717,
+          "name": "Rahman Hifjur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134623,
+          "name": "Ruzhka Ivanova",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46032,
+          "name": "Stefan Kasprzyk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134624,
+          "name": "Sevda Kaygili",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 134625,
+          "name": "Richard Stephen Loughlin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134626,
+          "name": "Claudia Mayuba",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134627,
+          "name": "Paul McCannah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134632,
+          "name": "Tathy Yoka Mpela",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134628,
+          "name": "Shakira Ortiz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134629,
+          "name": "Katreece Efua Thelma Roberts",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 134630,
+          "name": "Gokan Mustafa Salim",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134631,
+          "name": "Milesh Shah",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Enfield Lock",
+      "ballot_paper_id": "local.enfield.enfield-lock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 43219,
+          "name": "Ratip Alsulaiman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90241,
+          "name": "Josh Asker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134695,
+          "name": "John Joseph Bennet",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134696,
+          "name": "Tim Cela",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134697,
+          "name": "Paul Stephen Conway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134698,
+          "name": "Blueu Eves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90362,
+          "name": "Suna Hurman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134699,
+          "name": "Sarah Jons",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90653,
+          "name": "Chris Le'Cand-Harwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46227,
+          "name": "Sabri Ozaydin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90363,
+          "name": "Bernie Rees",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134700,
+          "name": "Gary Alan Robbens",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134701,
+          "name": "Austin Spreadbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134702,
+          "name": "Michael Steel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45794,
+          "name": "Margaret Steel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5106,
+          "name": "Neville Kenneth Watson",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 90364,
+          "name": "Eylem Yuruk",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grange Park",
+      "ballot_paper_id": "local.enfield.grange-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 136147,
+          "name": "Stephen Berndes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35647,
+          "name": "Chris Dey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4618,
+          "name": "David Christopher Flint",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42405,
+          "name": "Stuart Laycock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136148,
+          "name": "Tracey Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35646,
+          "name": "Andy Milne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136149,
+          "name": "Ben Rogers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136150,
+          "name": "Elizabeth Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136151,
+          "name": "Olivia Ann Thurley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136152,
+          "name": "Fadime Tonbul",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 90390,
+          "name": "Claire Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haselbury",
+      "ballot_paper_id": "local.enfield.haselbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 90178,
+          "name": "Lenuta Abdullah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43491,
+          "name": "Mahym Bedekova",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43425,
+          "name": "Christine Bellas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123692,
+          "name": "Ibrahim Cam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43376,
+          "name": "Mustafa Cetinkaya",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 90349,
+          "name": "Oktay Cinpolat",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 90415,
+          "name": "Frank Greene",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135618,
+          "name": "Clare Naomi Louise Grierson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135620,
+          "name": "Akis Hajittofi",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 135622,
+          "name": "Peter Dominic Holder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135623,
+          "name": "Douglas Christopher Peter Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40713,
+          "name": "Brendan Malone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43226,
+          "name": "Richard Morgan-Ash",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135624,
+          "name": "Peter Brian Rust",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43380,
+          "name": "George Savva",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135625,
+          "name": "Dag Irving Tirsen",
+          "party_name": "Communist League Election Campaign"
+        },
+        {
+          "person_id": 135626,
+          "name": "Bassey Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135627,
+          "name": "Daniel Zsombor",
+          "party_name": "Enfield Community Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highfield",
+      "ballot_paper_id": "local.enfield.highfield.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 90532,
+          "name": "Nicki Adeleke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135438,
+          "name": "Hasan Ali",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 135439,
+          "name": "Nuran Ali",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 135440,
+          "name": "Bambos Charalambous",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84428,
+          "name": "Peter Charalambous",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90399,
+          "name": "Darya Paun",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135441,
+          "name": "Duarte Goncalves Dias da Silva",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135442,
+          "name": "Stuart John Sime",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135443,
+          "name": "Ferhan Sterk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135444,
+          "name": "Eunice Szekir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135445,
+          "name": "James Andrew Theochari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124889,
+          "name": "Gizem Tiskaya",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Jubilee",
+      "ballot_paper_id": "local.enfield.jubilee.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134323,
+          "name": "Murat Alma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134324,
+          "name": "Tulay Bacak",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42625,
+          "name": "Ian Barnes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43223,
+          "name": "Alev Cazimoglu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134325,
+          "name": "Lansana Conteh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134326,
+          "name": "Kevin Cordes",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 134327,
+          "name": "Candace Cruickshank",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134329,
+          "name": "Derya Ekici",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134328,
+          "name": "Ayse Ekici",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43085,
+          "name": "Susan Erbil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133413,
+          "name": "Josh Guillen-Caamano",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45788,
+          "name": "Kay Natalie Heather",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134330,
+          "name": "Shehzad Jummun",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 134331,
+          "name": "Sophie Kingsbury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43481,
+          "name": "Leonard Munasinghe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lower Edmonton",
+      "ballot_paper_id": "local.enfield.lower-edmonton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136687,
+          "name": "Georgina Bavetta",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90252,
+          "name": "Thomas Alan Bellas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43150,
+          "name": "Sinan Boztas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136688,
+          "name": "Sevda Bulduk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43427,
+          "name": "Patrick Hewitt Drysdale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123693,
+          "name": "Siddo Dwyer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43428,
+          "name": "Elif Erbil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136689,
+          "name": "Sharron Hope",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 136690,
+          "name": "Mariya Kochankova",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136691,
+          "name": "Sudha Matta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90428,
+          "name": "Aidan Neligan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136692,
+          "name": "Sarah Onifade",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 136693,
+          "name": "Paula Gaye Philippou",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136694,
+          "name": "Suleyman Polat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136695,
+          "name": "Louise Sandra Anne Rodway",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Southgate",
+      "ballot_paper_id": "local.enfield.new-southgate.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 133855,
+          "name": "Andrew Beale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133856,
+          "name": "Madeline Church",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43556,
+          "name": "Laura Davenport",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133857,
+          "name": "James Michael Doolan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133858,
+          "name": "Shelley Jane Doolan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133859,
+          "name": "John Ennis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90458,
+          "name": "Nelly Gyosheva",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133860,
+          "name": "George Kourtellaris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42863,
+          "name": "Diana Medlicott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133861,
+          "name": "Joselene Peres",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133862,
+          "name": "Nadeen Stockhouse",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 40990,
+          "name": "Hass Yusuf",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oakwood",
+      "ballot_paper_id": "local.enfield.oakwood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 136724,
+          "name": "Michael Akubueze",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136725,
+          "name": "James Bone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40709,
+          "name": "Basil Thomas Clarke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136726,
+          "name": "John Gristwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136727,
+          "name": "Adamantios Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124733,
+          "name": "Linda Shaverin Hirsh",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124734,
+          "name": "Adam Kayani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84429,
+          "name": "Thomas M O'Halloran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43560,
+          "name": "David Peters",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136728,
+          "name": "Nabila Porte",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Palmers Green",
+      "ballot_paper_id": "local.enfield.palmers-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 134497,
+          "name": "Ben Bleet",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134498,
+          "name": "Angela Evangelou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134499,
+          "name": "Nigel Gibbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79057,
+          "name": "Chris James",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46224,
+          "name": "Tony Kidman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134500,
+          "name": "Brendan Alexander Geraghty Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43430,
+          "name": "Richard Mapleston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134501,
+          "name": "Oscar Parry",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134502,
+          "name": "Jonny Ross",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134503,
+          "name": "John Sime",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43090,
+          "name": "Doug Taylor",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ponders End",
+      "ballot_paper_id": "local.enfield.ponders-end.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 90533,
+          "name": "Rob Brassett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134288,
+          "name": "Hakan Kaygili",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 123697,
+          "name": "Niamh O'Brien",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82117,
+          "name": "Ian David Campbell Pattison",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134289,
+          "name": "Rickey Everton Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123698,
+          "name": "Talal Ahmed Rajab",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90430,
+          "name": "James Rooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90719,
+          "name": "Rachel Ann Shawcross",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134290,
+          "name": "Ceng Yavuz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134291,
+          "name": "Aziz Yildiz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134292,
+          "name": "Kirk Young",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ridgeway",
+      "ballot_paper_id": "local.enfield.ridgeway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136733,
+          "name": "Russell Berndes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136734,
+          "name": "Beren Dursun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136735,
+          "name": "Emileo Kaan Fernandez",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136736,
+          "name": "Ian Hamilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136737,
+          "name": "Christopher James",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8002,
+          "name": "Joanne Louise Laban",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136738,
+          "name": "Daniel Lansbury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136739,
+          "name": "Emily Charis Rainbow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136740,
+          "name": "Martin Andrew Reed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43561,
+          "name": "Edward Michael Ian Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136741,
+          "name": "James Alexander Stanton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136742,
+          "name": "Conor James Sullivan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35454,
+          "name": "Andrew James Thorp",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136743,
+          "name": "David Andrew Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136744,
+          "name": "Surraiya Zia",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southbury",
+      "ballot_paper_id": "local.enfield.southbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 134460,
+          "name": "Mueez Abdurrahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123880,
+          "name": "Betty Achayo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123694,
+          "name": "Hanim Akdemir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42983,
+          "name": "Mahmut Aksanoglu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134461,
+          "name": "Nick Bromley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134462,
+          "name": "Milcho Danailov",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134463,
+          "name": "Stephen William Driver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134464,
+          "name": "Antonio Favata",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90583,
+          "name": "Penny Heathwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46223,
+          "name": "Rick Jewell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 74783,
+          "name": "Paul John Kershaw",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134465,
+          "name": "Robert Edward Landragin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134466,
+          "name": "Andrew Dale Law",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78864,
+          "name": "Benny Neza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134467,
+          "name": "Steve Rawlinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134468,
+          "name": "Syed Saboor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southgate",
+      "ballot_paper_id": "local.enfield.southgate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 124732,
+          "name": "Ardil Akgul",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90747,
+          "name": "Carl Bayliss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136704,
+          "name": "Cameron Corrigan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42941,
+          "name": "Charith Abeysinghe Gunawardena",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136705,
+          "name": "Paul Hsu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42942,
+          "name": "Stephanos Ioannou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42710,
+          "name": "Chris Joannides",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109010,
+          "name": "Katie Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84422,
+          "name": "Elisa Morreale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90639,
+          "name": "Gary Ogin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136706,
+          "name": "Deborah Palmer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136707,
+          "name": "Meraaj Sadath",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42633,
+          "name": "Lorice Stainer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42990,
+          "name": "Alan Stainer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136708,
+          "name": "Elliott Stein",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Town",
+      "ballot_paper_id": "local.enfield.town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 42409,
+          "name": "Rob Aaron-Wilson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134263,
+          "name": "Scott Cummines",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134264,
+          "name": "Josh Emerson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43304,
+          "name": "Jeff Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90398,
+          "name": "Lauren Fulbright",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134265,
+          "name": "Paul Hennin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134266,
+          "name": "Lesley Elizabeth Hill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90350,
+          "name": "Paul Meehan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84424,
+          "name": "Kiran Mistry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90656,
+          "name": "Jacob Persaud",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134267,
+          "name": "Alanna Rahimi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45793,
+          "name": "Michael Jeremy Rye",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134268,
+          "name": "Dave Sandham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90659,
+          "name": "Emma Supple",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134269,
+          "name": "Graham Taylor",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upper Edmonton",
+      "ballot_paper_id": "local.enfield.upper-edmonton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 136783,
+          "name": "Özge Bilecen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136784,
+          "name": "Natasha Malaika Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136785,
+          "name": "Duygu Cakiroglu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136786,
+          "name": "Bambo Efstathiou",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43152,
+          "name": "Margaret Greer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136787,
+          "name": "Stephen Victor Howell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136788,
+          "name": "John David Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136789,
+          "name": "Meryem Kuscu",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 40710,
+          "name": "Tim Leaver",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123695,
+          "name": "Chris McCoy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136790,
+          "name": "Halime Oruc",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136791,
+          "name": "Toby Daniel Osmond",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 136792,
+          "name": "Sophie Peterken",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45792,
+          "name": "Lindsay Rawlings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117005,
+          "name": "Khalid Mohammad Sadur",
+          "party_name": "Enfield Community Independents Party"
+        },
+        {
+          "person_id": 136793,
+          "name": "Andrena Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43307,
+          "name": "Glynis Vince",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34832,
+          "name": "Sabriye Halane Warsame",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitewebbs",
+      "ballot_paper_id": "local.enfield.whitewebbs.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 116011,
+          "name": "Stephen Bird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4887,
+          "name": "Deborah Cairns",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132670,
+          "name": "Maxwell Euan Day",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124660,
+          "name": "Judy Ellerby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41229,
+          "name": "Reece Fox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124659,
+          "name": "Andrew Hartley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134043,
+          "name": "Thomas Hawkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124661,
+          "name": "Mustafa Kirac",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90654,
+          "name": "Tim Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134044,
+          "name": "Terry O'Dwyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134045,
+          "name": "Stephen Nicholas Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134046,
+          "name": "Edmund Pringle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134047,
+          "name": "Eralda Qirjo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134048,
+          "name": "Andrea Sibers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134049,
+          "name": "Will Tadros",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winchmore Hill",
+      "ballot_paper_id": "local.enfield.winchmore-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 42624,
+          "name": "Maria Alexandrou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134005,
+          "name": "Madeline Baugh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90748,
+          "name": "Lee Chamberlain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134006,
+          "name": "Mark Eves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1049,
+          "name": "William Anthony Linton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42630,
+          "name": "Matt J. McLaren",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 1234,
+          "name": "Ayfer Orhan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134007,
+          "name": "Annie Powell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90750,
+          "name": "Mark Quinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134008,
+          "name": "Navtaij Singh Sangha",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

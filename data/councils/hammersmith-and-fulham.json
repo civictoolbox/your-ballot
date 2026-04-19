@@ -1,0 +1,1298 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hammersmith-and-fulham",
+    "council_name": "Hammersmith and Fulham"
+  },
+  "wards": [
+    {
+      "ward_name": "Addison",
+      "ballot_paper_id": "local.hammersmith-and-fulham.addison.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 39737,
+          "name": "Janet Burden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39610,
+          "name": "Jacolyn Daly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133583,
+          "name": "Tara Douglas-Home",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133584,
+          "name": "Stephen James Hamilton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133585,
+          "name": "Sharon Kudmani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133586,
+          "name": "Philip Lane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133587,
+          "name": "Olivia MacDonald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88598,
+          "name": "Ross Melton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133589,
+          "name": "Stephen Morris",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Avonmore",
+      "ballot_paper_id": "local.hammersmith-and-fulham.avonmore.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 39712,
+          "name": "Joe Carlebach",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133656,
+          "name": "Andras Chiriliuc",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133657,
+          "name": "James Anthony Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133658,
+          "name": "Lorraine Vanessa Davison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133659,
+          "name": "Andrew Duguid",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133660,
+          "name": "Joe Eaton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133661,
+          "name": "Maximilian Hess",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88603,
+          "name": "Laura Janes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133662,
+          "name": "Keith Mallinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133663,
+          "name": "David Morton",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brook Green",
+      "ballot_paper_id": "local.hammersmith-and-fulham.brook-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 88617,
+          "name": "Stala Antoniades",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88618,
+          "name": "Dorothy Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133689,
+          "name": "Humphrey Hawksley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88604,
+          "name": "Horatio Arthur Charles Lovering",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133690,
+          "name": "Elliott Jon Mears",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133691,
+          "name": "Keith Petts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133692,
+          "name": "Hannah Rolph",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133693,
+          "name": "Florent Sherifi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133694,
+          "name": "Damien Smyth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133695,
+          "name": "Olivia Spencer-Knott",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "College Park & Old Oak",
+      "ballot_paper_id": "local.hammersmith-and-fulham.college-park-old-oak.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 88571,
+          "name": "Elisabeth Beloten",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133623,
+          "name": "Jo Boothby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39172,
+          "name": "Michael Frazer Cook",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133624,
+          "name": "Will Duckworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39675,
+          "name": "Wesley Harcourt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133625,
+          "name": "Leona Jempeji",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88639,
+          "name": "Levente Kiss",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38705,
+          "name": "Bora Kwon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133626,
+          "name": "Chris Lim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133627,
+          "name": "Andrew Nelson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5580,
+          "name": "Alexandra Sanderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133628,
+          "name": "Mikael Tariq",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coningham",
+      "ballot_paper_id": "local.hammersmith-and-fulham.coningham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133727,
+          "name": "David Cann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122810,
+          "name": "Aidan Chisholm",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 115920,
+          "name": "Chris Clowes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133728,
+          "name": "Aparna Garimella",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133729,
+          "name": "Rachel Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39739,
+          "name": "Lisa Homan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39589,
+          "name": "Mark Alan Loveday",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133730,
+          "name": "Wilf MacDonald-Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133731,
+          "name": "Fernanda Miucci",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39741,
+          "name": "Rowan Ree",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39917,
+          "name": "Georgina Stewart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39744,
+          "name": "Rory Vaughan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133732,
+          "name": "Fatima Zahra Yusuf",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133733,
+          "name": "Bozidar Zabavnik",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fulham Reach",
+      "ballot_paper_id": "local.hammersmith-and-fulham.fulham-reach.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133754,
+          "name": "James Christopher Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133755,
+          "name": "David Campbell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133756,
+          "name": "Tereza Cervenova",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39714,
+          "name": "Caroline Ruth Ffiske",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133757,
+          "name": "Ash Goddard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133758,
+          "name": "Fuad Hendricks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133759,
+          "name": "Anna Magryta-Urban",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133760,
+          "name": "Mark Richard Nelson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39646,
+          "name": "Meher Oliaji",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88573,
+          "name": "Jelena Sarmo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133761,
+          "name": "Shelly Sawyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133762,
+          "name": "Joe Soares",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39637,
+          "name": "Nikos Souslous",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fulham Town",
+      "ballot_paper_id": "local.hammersmith-and-fulham.fulham-town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 39532,
+          "name": "Victoria Brocklebank-Fowler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133875,
+          "name": "Jacqueline Diane Dennee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88786,
+          "name": "Liam Downer-Sanderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133876,
+          "name": "Shruti Mohan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88611,
+          "name": "Roy Kenneth Pounsford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133877,
+          "name": "Matthew Riding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133878,
+          "name": "Joseph Robertson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39592,
+          "name": "Mary Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133879,
+          "name": "Jonathan Wong",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grove",
+      "ballot_paper_id": "local.hammersmith-and-fulham.grove.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 133882,
+          "name": "Hannah Bulmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38722,
+          "name": "David Burridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133888,
+          "name": "Elizabeth St Clair-Legge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38723,
+          "name": "Stephen Cowan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133883,
+          "name": "Robert Donnelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133884,
+          "name": "Pema Grohs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133885,
+          "name": "Andrew Ground",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133886,
+          "name": "Tom Hannah",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133887,
+          "name": "Joanna Moore",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hammersmith Broadway",
+      "ballot_paper_id": "local.hammersmith-and-fulham.hammersmith-broadway.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133889,
+          "name": "Maximillian Campbell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133890,
+          "name": "Nikita Crocker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88875,
+          "name": "Nora Farah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133891,
+          "name": "Olivia Feng",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133892,
+          "name": "David Gabra",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133893,
+          "name": "Muj Khan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133894,
+          "name": "Molly Mantle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118500,
+          "name": "Callum Nimmo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118501,
+          "name": "Meerav Shah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125863,
+          "name": "Conrad Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lillie",
+      "ballot_paper_id": "local.hammersmith-and-fulham.lillie.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 133636,
+          "name": "Saadi Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133637,
+          "name": "Francis Flaherty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133638,
+          "name": "Maria Guerrero",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133639,
+          "name": "Subodh Gupta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39176,
+          "name": "Sharon Holder",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88728,
+          "name": "Lydia Paynter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133640,
+          "name": "Daniel Pienaar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133641,
+          "name": "Tom Wade",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Munster",
+      "ballot_paper_id": "local.hammersmith-and-fulham.munster.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 39632,
+          "name": "Adronie Elizabeth Alford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133918,
+          "name": "Lawrence Gould",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133919,
+          "name": "Mervyn Guille",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133920,
+          "name": "David Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133921,
+          "name": "Jason Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88554,
+          "name": "Caroline Needham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 71869,
+          "name": "Lucy O'Sullivan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133922,
+          "name": "Philipp Rader",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39638,
+          "name": "Dominic Stanton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39639,
+          "name": "Ted Townsend",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39439,
+          "name": "Guy Vincent",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88788,
+          "name": "Stewart Edward Waine",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88756,
+          "name": "Patrick Walsh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Palace & Hurlingham",
+      "ballot_paper_id": "local.hammersmith-and-fulham.palace-hurlingham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 39169,
+          "name": "Aliya Afzal-Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88726,
+          "name": "Shirley Cupit",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133943,
+          "name": "Matt Dobson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39611,
+          "name": "Tamara Dragadze",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133944,
+          "name": "Nick Elverston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133945,
+          "name": "Guy Hennings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133946,
+          "name": "Stephen Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39613,
+          "name": "Amanda Lloyd-Harris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133947,
+          "name": "Jeremy Maddocks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133948,
+          "name": "Orlando Morley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133949,
+          "name": "William Tucker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Parsons Green & Sandford",
+      "ballot_paper_id": "local.hammersmith-and-fulham.parsons-green-sandford.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 88581,
+          "name": "Jose Afonso",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133696,
+          "name": "Sam Hunter Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133697,
+          "name": "Jerome Lussan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133698,
+          "name": "Peter Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39537,
+          "name": "Graham Peter Muir",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133699,
+          "name": "Rajeev Nair",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133700,
+          "name": "Sana Omar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88584,
+          "name": "Adrian Pascu-Tulbure",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133701,
+          "name": "Alexandra Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133702,
+          "name": "Isabella Wyatt",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ravenscourt",
+      "ballot_paper_id": "local.hammersmith-and-fulham.ravenscourt.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 135360,
+          "name": "Jacquie Bach",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46738,
+          "name": "Alexander Trayton Baker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135361,
+          "name": "Cath Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34619,
+          "name": "Henrietta Bewley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135362,
+          "name": "Harry Brackley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135363,
+          "name": "Louis Tudor Kemp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135364,
+          "name": "Natalie Lindsay",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135365,
+          "name": "Patrick James Read",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37195,
+          "name": "Matt Reynolds",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sands End",
+      "ballot_paper_id": "local.hammersmith-and-fulham.sands-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 39531,
+          "name": "Henry Bagwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133976,
+          "name": "Deep Bassi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133978,
+          "name": "Amanda Beddows-Adams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133979,
+          "name": "Benjamin Budd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39481,
+          "name": "Ray Burnet",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133980,
+          "name": "Rob Harris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133981,
+          "name": "Libby Hart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133982,
+          "name": "Ken Jemedafe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133983,
+          "name": "Martyna Marcinkowska",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133984,
+          "name": "Roseanne Meacher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133985,
+          "name": "David Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118503,
+          "name": "Matt Sinclair",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133986,
+          "name": "Tom Stojanovic",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shepherd's Bush Green",
+      "ballot_paper_id": "local.hammersmith-and-fulham.shepherds-bush-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133804,
+          "name": "Ali Douas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133805,
+          "name": "Rafela Fitzhugh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133806,
+          "name": "Elsie Gisslegard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133807,
+          "name": "Shay McCarthy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133808,
+          "name": "Kwasi Owusu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39647,
+          "name": "Zarar Qayyum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133809,
+          "name": "Lauren Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39583,
+          "name": "Mercy Umeh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133810,
+          "name": "Fergus Ustianowski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88814,
+          "name": "Chris Vinante",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walham Green",
+      "ballot_paper_id": "local.hammersmith-and-fulham.walham-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 133964,
+          "name": "Elinor Alice Bale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133965,
+          "name": "Edward Colnet",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133966,
+          "name": "Sam Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84625,
+          "name": "Genevieve Nwaogbe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133967,
+          "name": "Ann Savage",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133968,
+          "name": "Dan Taub",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133969,
+          "name": "Luigi Trovato",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133970,
+          "name": "Oliver Wessely",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133971,
+          "name": "James Windsor-Clive",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wendell Park",
+      "ballot_paper_id": "local.hammersmith-and-fulham.wendell-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 88725,
+          "name": "Jon Burden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39716,
+          "name": "Rebecca Harvey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133938,
+          "name": "William Hollinrake-Dobson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39636,
+          "name": "Alex Karmel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133939,
+          "name": "Christine Low",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133940,
+          "name": "Frances McFadden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133941,
+          "name": "Leon Mihelcic",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133942,
+          "name": "Richard Owen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38706,
+          "name": "Asif Siddique",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Kensington",
+      "ballot_paper_id": "local.hammersmith-and-fulham.west-kensington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133846,
+          "name": "David Amos",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133847,
+          "name": "Denise Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39641,
+          "name": "Gill Barnes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39480,
+          "name": "Jackie Borland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133848,
+          "name": "Victoria Brignell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39642,
+          "name": "Daryl Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39738,
+          "name": "Florian Chevoppe-Verdier",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133849,
+          "name": "Jose Espinas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133850,
+          "name": "Martin Howe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133851,
+          "name": "Hilary MacDonald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88683,
+          "name": "Yaz Monerawela",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36072,
+          "name": "Harry Phibbs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39649,
+          "name": "Sarah Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "White City",
+      "ballot_paper_id": "local.hammersmith-and-fulham.white-city.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133796,
+          "name": "Jonathan Allmark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88889,
+          "name": "Emma Byrne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133797,
+          "name": "Fahim Imam-Sadeque",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39578,
+          "name": "Andrew Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133798,
+          "name": "Zayna Mansuri",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133799,
+          "name": "Sasha Otto Mataya",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88852,
+          "name": "Jamie Craig Monteith-Mann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133800,
+          "name": "Rory Mullan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39580,
+          "name": "Natalia Perez",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139128,
+          "name": "Dean Sawyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133801,
+          "name": "Rodney Boynton Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133802,
+          "name": "Archie Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83922,
+          "name": "Frances Umeh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133803,
+          "name": "James Robert Nicholas Watts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wormholt",
+      "ballot_paper_id": "local.hammersmith-and-fulham.wormholt.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 133740,
+          "name": "Maggie Casey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133741,
+          "name": "Tallulah Coen-D'Arcy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133744,
+          "name": "Patrick John O Connell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133742,
+          "name": "Zehra Imam-Sadeque",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39717,
+          "name": "Will Marshall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133743,
+          "name": "Simon Patrick John Nixon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133745,
+          "name": "Tuhin Reynolds-Imam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39456,
+          "name": "Max Schmid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88892,
+          "name": "Nicole Trehy",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

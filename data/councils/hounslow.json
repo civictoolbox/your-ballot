@@ -1,0 +1,1511 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hounslow",
+    "council_name": "Hounslow"
+  },
+  "wards": [
+    {
+      "ward_name": "Bedfont",
+      "ballot_paper_id": "local.hounslow.bedfont.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 43619,
+          "name": "Haresh Bhalsod",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129010,
+          "name": "Buddhiman Darnal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72650,
+          "name": "Adesh Farmahan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129011,
+          "name": "Karna Prasad Gurung",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129012,
+          "name": "Russell Haynes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129013,
+          "name": "Jagdeep Jassal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129014,
+          "name": "Gerry Lieberman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129015,
+          "name": "Kalid Abdullahi Mohamud",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126222,
+          "name": "Donal Quinn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129016,
+          "name": "Komalpreet Singh Sachdeva",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129017,
+          "name": "Harjinder Kaur Sohi",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brentford East",
+      "ballot_paper_id": "local.hounslow.brentford-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 88324,
+          "name": "Paul Baksh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84899,
+          "name": "Marcela Benedetti",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4890,
+          "name": "Tony Firkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118553,
+          "name": "Max Mosley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129019,
+          "name": "Martin Pennell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118554,
+          "name": "Bernice Elaine Roust",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129020,
+          "name": "Irena Tumilowicz",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129021,
+          "name": "Zoe Ward",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brentford West",
+      "ballot_paper_id": "local.hounslow.brentford-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 129022,
+          "name": "Bob Ayres",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1588,
+          "name": "Joe Bourke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129023,
+          "name": "Radhesham Chauhan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129024,
+          "name": "Husna Hashmi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126579,
+          "name": "Scott Anthony Warren Illman",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 45601,
+          "name": "Guy Lambert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79452,
+          "name": "Jeremy Christian Larsson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123438,
+          "name": "Craig Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126224,
+          "name": "Gary Sydney Padbury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129025,
+          "name": "Gordon Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88252,
+          "name": "Rashid Wahab",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chiswick Gunnersbury",
+      "ballot_paper_id": "local.hounslow.chiswick-gunnersbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 35865,
+          "name": "Joanna Biddolph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39314,
+          "name": "Guy De Boursac",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124369,
+          "name": "Aubrey Mark Charles Crawley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46109,
+          "name": "Jon Elkon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47391,
+          "name": "Vickram Grewal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126226,
+          "name": "Paul Jonathan Halliwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126227,
+          "name": "Nik Hole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47516,
+          "name": "Hanif Ahmad Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35866,
+          "name": "Ron Mushiso",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129018,
+          "name": "Sau Khuan Parkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129055,
+          "name": "Maria Saroya",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129056,
+          "name": "Joshua Stanton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88374,
+          "name": "Naeem Ulfat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129057,
+          "name": "Leanne Yu",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chiswick Homefields",
+      "ballot_paper_id": "local.hounslow.chiswick-homefields.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 128889,
+          "name": "Mary Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35869,
+          "name": "Helen Cross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39315,
+          "name": "Michael Denniss",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35871,
+          "name": "Leigh Gareth Edwards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88240,
+          "name": "Jack Emsley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128890,
+          "name": "Aisha Farah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123440,
+          "name": "Linden Grigg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128893,
+          "name": "Maya Devi Hamlyn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126229,
+          "name": "Arthur Brian Haynes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128894,
+          "name": "Claire Yue Li",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128896,
+          "name": "David Manson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128897,
+          "name": "Nick Roach",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128898,
+          "name": "Fatima Tayyab",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46637,
+          "name": "Mohammed Umair",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chiswick Riverside",
+      "ballot_paper_id": "local.hounslow.chiswick-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 39313,
+          "name": "Frank Beddington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126232,
+          "name": "Nicholas Bellerophon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88237,
+          "name": "James Nicholas Charrington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88174,
+          "name": "Amy Croft",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128942,
+          "name": "Royen Prince Fernandes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35809,
+          "name": "Gabriella Giles",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128943,
+          "name": "James Kerr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123495,
+          "name": "Trevor MacFarlane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128944,
+          "name": "George Radulski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123496,
+          "name": "Gurminder Randhawa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128945,
+          "name": "Rick Rowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128946,
+          "name": "Muddassir Syed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88176,
+          "name": "Peter Thompson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123497,
+          "name": "Jessika Toto-Moukouo",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cranford",
+      "ballot_paper_id": "local.hounslow.cranford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 128920,
+          "name": "Gill Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126384,
+          "name": "Vilber Mark Decosta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122960,
+          "name": "Hira Singh Dhillon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128921,
+          "name": "Rebecca Howard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128922,
+          "name": "Raj Kumari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46116,
+          "name": "Renu Raj",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84688,
+          "name": "Sayyar Raza",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88326,
+          "name": "Marina Cheri Sharma",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122961,
+          "name": "Gurpreet Singh Sidhu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128923,
+          "name": "Yash Pal Sunda",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126383,
+          "name": "Prachi Vadsola",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Feltham North",
+      "ballot_paper_id": "local.hounslow.feltham-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 47639,
+          "name": "Sergejs Adamovs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88195,
+          "name": "Muhammad Shakeel Akram",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129031,
+          "name": "Dan Barnett",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 126550,
+          "name": "Arlene Bernadette Juriansz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113735,
+          "name": "David Kerr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88263,
+          "name": "Wafa Khider",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129032,
+          "name": "Indra Hang Lingden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126585,
+          "name": "Adam Parkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122970,
+          "name": "Khushwant Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88300,
+          "name": "Chaitanya Sinha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129033,
+          "name": "Kuldeep Tak",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129034,
+          "name": "Krissh Thangavelu",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 89095,
+          "name": "Emma Jane Yates",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Feltham West",
+      "ballot_paper_id": "local.hounslow.feltham-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 129042,
+          "name": "Nii Anum",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 76848,
+          "name": "Madeeha Asim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129043,
+          "name": "Ross Cameron Baillie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129044,
+          "name": "Tony Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129045,
+          "name": "Alex Campbell",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 129046,
+          "name": "Rashi Chabra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39141,
+          "name": "Malwina Kukaj",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129047,
+          "name": "Muhammad Lebbe",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 46634,
+          "name": "Alan James Philip Mitchell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118551,
+          "name": "Chinmay Parulekar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126237,
+          "name": "Riza Polat",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129048,
+          "name": "Steve Redknap",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88411,
+          "name": "Manoj Kumar Srirangam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129049,
+          "name": "Christopher James Wrightson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hanworth Park",
+      "ballot_paper_id": "local.hounslow.hanworth-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 129059,
+          "name": "David James Bates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129060,
+          "name": "Samantha Emma Christie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88331,
+          "name": "Farah Kamran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129061,
+          "name": "Johan Lindsten",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129062,
+          "name": "Joseph Allfrey Lobo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126238,
+          "name": "Simon Timothy Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129063,
+          "name": "Adrian Page",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129064,
+          "name": "Carl Vaz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hanworth Village",
+      "ballot_paper_id": "local.hounslow.hanworth-village.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 129112,
+          "name": "Conrad Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129113,
+          "name": "Harold Joel Garner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88370,
+          "name": "Allan Joseph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129114,
+          "name": "Sukhjeet Kaur",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129117,
+          "name": "Pushpakala Vinoth Kumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88197,
+          "name": "Tariq Mehmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129115,
+          "name": "Tony Newman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117894,
+          "name": "Aysha Tariq",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126240,
+          "name": "Lyndsay St Val",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129116,
+          "name": "Hunter Valentine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126239,
+          "name": "Edward Wilson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129118,
+          "name": "Katarzyna Zimna",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heston Central",
+      "ballot_paper_id": "local.hounslow.heston-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 129070,
+          "name": "Mohammad Rasheed Bhatti",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129071,
+          "name": "Daniel Gask",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129072,
+          "name": "Janet Elaine Grewal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47645,
+          "name": "Shivraj Singh Grewal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129073,
+          "name": "Parinoor Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124497,
+          "name": "Sampath Mudaliar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72651,
+          "name": "Nooralhaq Nasimi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129074,
+          "name": "Aaron Panesar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124495,
+          "name": "Salvador Antonio Jose Pereira",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129075,
+          "name": "Yash Sharma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129076,
+          "name": "Zak Lazarov Tsolov",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heston East",
+      "ballot_paper_id": "local.hounslow.heston-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 129084,
+          "name": "Ghassan Ahmadieh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129085,
+          "name": "Fiza Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88173,
+          "name": "Gurbachan Athwal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43621,
+          "name": "Bandna Chopra",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129086,
+          "name": "Jasmine Deol",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129087,
+          "name": "Atamdeep Khosa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129088,
+          "name": "Rugved Kirtikar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47248,
+          "name": "Gurmail Singh Lal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129089,
+          "name": "Pritpal Singh Mann",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126241,
+          "name": "Josefina Nvono-Ecoro",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129090,
+          "name": "Nataliya Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heston West",
+      "ballot_paper_id": "local.hounslow.heston-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 47840,
+          "name": "Lily Bath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129091,
+          "name": "Chris Beauchamp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129092,
+          "name": "Indrabir Singh Gill",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 129093,
+          "name": "Satwant Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129094,
+          "name": "Tamoor Khan",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 129096,
+          "name": "Luke Myung Jay Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129097,
+          "name": "Anthony Vincent Mascarenhas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88372,
+          "name": "Darius Nasimi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47848,
+          "name": "Shantanu Rajawat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88396,
+          "name": "Chaitan Shah",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 129098,
+          "name": "Viralkumar Shah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129099,
+          "name": "Rajesh Tewari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129100,
+          "name": "Edward Wall",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hounslow Central",
+      "ballot_paper_id": "local.hounslow.hounslow-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 129002,
+          "name": "Theo Abraham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126244,
+          "name": "Mohan Bains",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129003,
+          "name": "Yousaf Munir Chand",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129004,
+          "name": "Theodore Charles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39139,
+          "name": "Pritam Singh Grewal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39138,
+          "name": "Ajmer Grewal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129005,
+          "name": "Neil Parkhouse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129006,
+          "name": "Rakesh Raut",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129007,
+          "name": "Pamila Rodrigues",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129008,
+          "name": "Malcolm Silveira",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129009,
+          "name": "Kathy Soulsbury",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hounslow East",
+      "ballot_paper_id": "local.hounslow.hounslow-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 129103,
+          "name": "Sevin Singh Ahuja",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129104,
+          "name": "Paul David Baker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124357,
+          "name": "Nickson Benjamin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129105,
+          "name": "Hari Borpatla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84727,
+          "name": "Katharine Amelia Christabel Kandelaki",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126246,
+          "name": "Suresh Koram",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124358,
+          "name": "Ragveer Mattu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37755,
+          "name": "Daanish Saeed",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hounslow Heath",
+      "ballot_paper_id": "local.hounslow.hounslow-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 45683,
+          "name": "Samia Chaudhary",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129120,
+          "name": "Monica Clare",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129121,
+          "name": "Mihai Coltea-Radu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129122,
+          "name": "Umar Farooq",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88386,
+          "name": "Warwick Bruce Francis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129123,
+          "name": "Sahibaa Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129124,
+          "name": "Lilly Morris",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129125,
+          "name": "Darshan Nagi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126249,
+          "name": "Theresa O'Toole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88387,
+          "name": "Farhaan Abdul Rehman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129126,
+          "name": "Obinna Umere",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39305,
+          "name": "Stefan Edward Wells",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hounslow South",
+      "ballot_paper_id": "local.hounslow.hounslow-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 45622,
+          "name": "Syed Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129135,
+          "name": "Lili Anna Bakó",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45671,
+          "name": "Tom Bruce",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129136,
+          "name": "Rod De st Croix",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129137,
+          "name": "Chris Hack",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123441,
+          "name": "Scott Hill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129138,
+          "name": "Neal Stephen Jeffery",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 122969,
+          "name": "Miruna Leitoiu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129139,
+          "name": "Charles McManus-Burke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129140,
+          "name": "Oliwia Moszczynska",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129141,
+          "name": "Gary Raymond Murphy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129142,
+          "name": "Neil Peters",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45678,
+          "name": "Karen Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89101,
+          "name": "Krishna Valluru",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hounslow West",
+      "ballot_paper_id": "local.hounslow.hounslow-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 128957,
+          "name": "Visalakshi Borpatla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128958,
+          "name": "Gabriel Dcunha",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123766,
+          "name": "Vivek Krishna Ganachari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128960,
+          "name": "Darshan Singh Khosa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128961,
+          "name": "Charmi Nileshkumar Parmar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43626,
+          "name": "Carl Michael Pierce",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123765,
+          "name": "Allister Cajetan De Sa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128962,
+          "name": "Harjot Sekhon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95606,
+          "name": "Emma Louise Siddhu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128963,
+          "name": "Ravinder Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128964,
+          "name": "Gobind Verma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128959,
+          "name": "Nick de Voil",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Isleworth",
+      "ballot_paper_id": "local.hounslow.isleworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 44068,
+          "name": "Anthony William John Agius",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129144,
+          "name": "Zinaida Boghiu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5872,
+          "name": "Roger Michael Crouch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129145,
+          "name": "Wagdy Michael",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129146,
+          "name": "Ashwini Parulekar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129147,
+          "name": "Suparna Rathi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37756,
+          "name": "Sue Sampson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37758,
+          "name": "Salman Haroun Shaheen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35659,
+          "name": "John Robert Stroud-Turp",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37764,
+          "name": "Robert Thorpe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 116735,
+          "name": "Judith Trounson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36250,
+          "name": "John Nelson Viner",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 129149,
+          "name": "Shane Wagu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129148,
+          "name": "Sapphire Wagu",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Osterley & Spring Grove",
+      "ballot_paper_id": "local.hounslow.osterley-spring-grove.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 48609,
+          "name": "Millicent Scott Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39116,
+          "name": "Unsa Kausar Chaudri",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129161,
+          "name": "Xavier Fernandes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24663,
+          "name": "Thomas Fidler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129162,
+          "name": "Ranjit Gill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88249,
+          "name": "Jason Harcourt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126255,
+          "name": "Christopher David Holman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39120,
+          "name": "Tony Louki",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129163,
+          "name": "Sara Novakovic",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129164,
+          "name": "Scott Parkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124359,
+          "name": "Christopher Raynor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124360,
+          "name": "Sheetal Tiwari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129165,
+          "name": "Jenson Zhu",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Syon & Brentford Lock",
+      "ballot_paper_id": "local.hounslow.syon-brentford-lock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 128985,
+          "name": "Namaa Al-Mahdi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128986,
+          "name": "Max Booth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88298,
+          "name": "Dan Bowring",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128987,
+          "name": "Kevin David Cronin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39298,
+          "name": "Theo Dennison",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 34393,
+          "name": "Katherine Sarah Dunne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39304,
+          "name": "Phyllis Ann van der Esch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126259,
+          "name": "Lionel Girling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128988,
+          "name": "Joshua Harwood",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        },
+        {
+          "person_id": 128989,
+          "name": "Sam Hearn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128990,
+          "name": "Shashi Kumar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128991,
+          "name": "David Mayes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128992,
+          "name": "Aarti Pawan Nayak",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 118537,
+          "name": "Jennifer Jane Prain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128993,
+          "name": "Nicola Thrower",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128994,
+          "name": "Dave Waller",
+          "party_name": "Brentford, Isleworth, Heston & Hounslow Independents"
+        }
+      ]
+    }
+  ]
+}

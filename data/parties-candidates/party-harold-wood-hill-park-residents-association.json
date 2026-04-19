@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-harold-wood-hill-park-residents-association",
+    "display_name": "Harold Wood Hill Park Residents Association",
+    "candidate_count": 6,
+    "council_count": 1,
+    "raw_party_names": [
+      "Harold Wood Hill Park Residents Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 42520,
+      "name": "Brian Edward Eagling",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Harold Wood"
+    },
+    {
+      "person_id": 91362,
+      "name": "Martin Glenn",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 42523,
+      "name": "Martin Robert Goode",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Harold Wood"
+    },
+    {
+      "person_id": 137827,
+      "name": "Sam Jobber",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 137834,
+      "name": "Andrew Wallington",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 42530,
+      "name": "Darren Christopher Wise",
+      "party_name": "Harold Wood Hill Park Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Harold Wood"
+    }
+  ]
+}

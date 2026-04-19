@@ -1,0 +1,667 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "kingston-upon-hull",
+    "council_name": "Kingston upon Hull"
+  },
+  "wards": [
+    {
+      "ward_name": "Avenue",
+      "ballot_paper_id": "local.kingston-upon-hull.avenue.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 109071,
+          "name": "Rhiannon Margaret Beeson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129376,
+          "name": "Paul Burgin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124445,
+          "name": "Louis George Graves",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14826,
+          "name": "Alex Hayward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132074,
+          "name": "Dan Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109072,
+          "name": "Michael John Whale",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beverley & Newland",
+      "ballot_paper_id": "local.kingston-upon-hull.beverley-newland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131943,
+          "name": "James Hawkes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108879,
+          "name": "Lucy Alice Lennon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131944,
+          "name": "Temi Makinde",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131945,
+          "name": "Justyna Malkiewicz-Young",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82879,
+          "name": "Graeme Robert Wightman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boothferry",
+      "ballot_paper_id": "local.kingston-upon-hull.boothferry.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16469,
+          "name": "Maria Coward",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59720,
+          "name": "James Lewis Ireland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34618,
+          "name": "Mike Lammiman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129438,
+          "name": "Elena Sayers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37841,
+          "name": "John Caley Sharp",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bricknell",
+      "ballot_paper_id": "local.kingston-upon-hull.bricknell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125539,
+          "name": "Craig Michael Gadd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131970,
+          "name": "Sharon Hofman",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 112069,
+          "name": "Darius Kirtiklis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131971,
+          "name": "Daniel Gary Montgomery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131972,
+          "name": "Matilda Sargeson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.kingston-upon-hull.central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17335,
+          "name": "Motokin Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129394,
+          "name": "Muhammad Ayub",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97049,
+          "name": "Sharon Kassim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131983,
+          "name": "Salman Malik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82877,
+          "name": "Simon Trow",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Derringham",
+      "ballot_paper_id": "local.kingston-upon-hull.derringham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 37957,
+          "name": "John Keiron Allison-Walsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112124,
+          "name": "Martin Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81715,
+          "name": "Jake Croft",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131986,
+          "name": "Jan Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5067,
+          "name": "Mike Whitehead",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Drypool",
+      "ballot_paper_id": "local.kingston-upon-hull.drypool.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 37958,
+          "name": "Linda Chambers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131988,
+          "name": "Tee Coiffait",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129442,
+          "name": "Benjamin Robert Fuller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73724,
+          "name": "Michael Steven Hirst",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 131989,
+          "name": "Terry Justice",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131990,
+          "name": "Millie J Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holderness",
+      "ballot_paper_id": "local.kingston-upon-hull.holderness.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 37966,
+          "name": "Jackie Dad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17348,
+          "name": "Mark Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131992,
+          "name": "Mary Justice",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131993,
+          "name": "Deborah Prescott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131994,
+          "name": "James Matthew Richardson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longhill & Bilton Grange",
+      "ballot_paper_id": "local.kingston-upon-hull.longhill-bilton-grange.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 89560,
+          "name": "Jan Hornby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89571,
+          "name": "Geoffrey Laurence Horton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89570,
+          "name": "Tim Kemp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125525,
+          "name": "Aaron Paul Pickering",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131996,
+          "name": "Sarah Scriven",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marfleet",
+      "ballot_paper_id": "local.kingston-upon-hull.marfleet.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131999,
+          "name": "Luna Bourke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124923,
+          "name": "Shaune Patrick Clarkson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125524,
+          "name": "Duncan Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132000,
+          "name": "Ryan Mulcahy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132001,
+          "name": "Jackie Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newington & Gipsyville",
+      "ballot_paper_id": "local.kingston-upon-hull.newington-gipsyville.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132004,
+          "name": "Taiye Timmy Fatoki",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129456,
+          "name": "Lisa Alexandra Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132005,
+          "name": "Christopher Thomas Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124402,
+          "name": "Simon Peter Kelsey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82647,
+          "name": "James Richard Sargeant",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Carr",
+      "ballot_paper_id": "local.kingston-upon-hull.north-carr.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129457,
+          "name": "Deborah Louise Carnall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132012,
+          "name": "Alex Athena Gibb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132013,
+          "name": "Damian Jonathan Grimley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38864,
+          "name": "Anita Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132014,
+          "name": "Sam Nattress",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orchard Park",
+      "ballot_paper_id": "local.kingston-upon-hull.orchard-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132036,
+          "name": "Jacob Anthony Bishop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129461,
+          "name": "Neil Fletcher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112131,
+          "name": "John Francis Gilling",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132037,
+          "name": "Amazon Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112097,
+          "name": "Sandra Vennoyer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124401,
+          "name": "Tony Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pickering",
+      "ballot_paper_id": "local.kingston-upon-hull.pickering.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132039,
+          "name": "Brendon Gary Dobbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17355,
+          "name": "Tracey Irene Henry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132040,
+          "name": "Bethany Spencer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89624,
+          "name": "Terry Sullivan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132041,
+          "name": "Caitlin Whyatt",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southcoates",
+      "ballot_paper_id": "local.kingston-upon-hull.southcoates.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132044,
+          "name": "Mark Christopher Adams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97496,
+          "name": "Ian Broadbent",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 76819,
+          "name": "Richard Christopher Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 2547,
+          "name": "Christine Ann MacKay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82707,
+          "name": "Anna Marie Thompson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132046,
+          "name": "Duncan Woods",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Andrew's & Docklands",
+      "ballot_paper_id": "local.kingston-upon-hull.st-andrews-docklands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 37824,
+          "name": "Salman Anwar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16468,
+          "name": "Daniel Mark Bond",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37925,
+          "name": "Leanne Fudge",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132052,
+          "name": "Josh Harris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132051,
+          "name": "Connor De Lisle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 60414,
+          "name": "Barry McGrath",
+          "party_name": "National Rebirth Party"
+        },
+        {
+          "person_id": 6638,
+          "name": "Paul Spooner",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton",
+      "ballot_paper_id": "local.kingston-upon-hull.sutton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132053,
+          "name": "Harriet Carey Barker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82868,
+          "name": "Terry Keal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5135,
+          "name": "David Prescott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129419,
+          "name": "Simon Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95538,
+          "name": "Frankie Marc Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "University",
+      "ballot_paper_id": "local.kingston-upon-hull.university.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124404,
+          "name": "Ebenezer Chiagozia Aniemeka",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129418,
+          "name": "Stuart Edward Dean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132054,
+          "name": "Laura Juskey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112230,
+          "name": "Ben Lavender",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123680,
+          "name": "Jamie Strudwick",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Carr",
+      "ballot_paper_id": "local.kingston-upon-hull.west-carr.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73489,
+          "name": "Finn McGregor Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132061,
+          "name": "Kevin Druce",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128873,
+          "name": "Ben Padwick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38908,
+          "name": "Rob Pritchard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132062,
+          "name": "Drew Jordan Tuffs",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-better-bromley",
+    "display_name": "Better Bromley",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Better Bromley"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 126112,
+      "name": "Carol Denyer",
+      "party_name": "Better Bromley",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Bromley Town"
+    },
+    {
+      "person_id": 126114,
+      "name": "Caroline Ibukun",
+      "party_name": "Better Bromley",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Bromley Town"
+    },
+    {
+      "person_id": 126117,
+      "name": "Sum Thiagarajan",
+      "party_name": "Better Bromley",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Bromley Town"
+    }
+  ]
+}

@@ -1,0 +1,479 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "tunbridge-wells",
+    "council_name": "Tunbridge Wells"
+  },
+  "wards": [
+    {
+      "ward_name": "Cranbrook, Sissinghurst & Frittenden",
+      "ballot_paper_id": "local.tunbridge-wells.cranbrook-sissinghurst-frittenden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128249,
+          "name": "Matthew Beattie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125476,
+          "name": "Alexander Ellison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99980,
+          "name": "Paul Jeremy Keith Froome",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112975,
+          "name": "Vivian Widgery",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Culverden",
+      "ballot_paper_id": "local.tunbridge-wells.culverden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138146,
+          "name": "Ahsan Azam Ahmad",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112954,
+          "name": "Alex Dunn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83125,
+          "name": "Aleksander Klimanski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113107,
+          "name": "Mark McBennett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78963,
+          "name": "David Osborne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138147,
+          "name": "Tina Seymour",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hawkhurst, Sandhurst & Benenden",
+      "ballot_paper_id": "local.tunbridge-wells.hawkhurst-sandhurst-benenden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 103410,
+          "name": "Michael Edward Appelbe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 83096,
+          "name": "Ellen Neville",
+          "party_name": "Tunbridge Wells Alliance"
+        },
+        {
+          "person_id": 113044,
+          "name": "John Spence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138162,
+          "name": "Rosanna Taylor-Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Paddock Wood",
+      "ballot_paper_id": "local.tunbridge-wells.paddock-wood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 27465,
+          "name": "Trevor Tyrone Bisdee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138163,
+          "name": "Christopher Digby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94187,
+          "name": "Begnat Robichaud",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138164,
+          "name": "Lynne Scott",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pantiles",
+      "ballot_paper_id": "local.tunbridge-wells.pantiles.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138131,
+          "name": "Daniel Dzenkowski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138134,
+          "name": "Dominic Nutland Frankel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138132,
+          "name": "Joe Mattei",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138133,
+          "name": "Kristof Niewolski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 103428,
+          "name": "Pamela Jean Wilkinson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.tunbridge-wells.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 122282,
+          "name": "Richard William James Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88397,
+          "name": "Stephen Burgess",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83104,
+          "name": "Alasdair James Milner Fraser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 28553,
+          "name": "Michael Jerrom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39545,
+          "name": "Nick Pope",
+          "party_name": "Tunbridge Wells Alliance"
+        },
+        {
+          "person_id": 10721,
+          "name": "David Scott",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pembury & Capel",
+      "ballot_paper_id": "local.tunbridge-wells.pembury-capel.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138148,
+          "name": "Val Dachille",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60545,
+          "name": "David Hayward",
+          "party_name": "Independents for Tunbridge Wells"
+        },
+        {
+          "person_id": 113076,
+          "name": "Andrew Hobart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 103442,
+          "name": "Sue Lovell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138149,
+          "name": "Nick Slessor-Pavely",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural Tunbridge Wells",
+      "ballot_paper_id": "local.tunbridge-wells.rural-tunbridge-wells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138136,
+          "name": "Susan Hindle Barone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138135,
+          "name": "Dennis Deane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60478,
+          "name": "David Knight",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39491,
+          "name": "Anne Musker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113192,
+          "name": "Helen Claire Yeo",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rusthall & Speldhurst",
+      "ballot_paper_id": "local.tunbridge-wells.rusthall-speldhurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 99981,
+          "name": "Stephanie Teresa Gandon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120413,
+          "name": "Rob Grindley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 113109,
+          "name": "Kit Hawes-Webb",
+          "party_name": "Tunbridge Wells Alliance"
+        },
+        {
+          "person_id": 112955,
+          "name": "Greg Holder",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138171,
+          "name": "Ian William Standing",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123219,
+          "name": "David Sumner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sherwood",
+      "ballot_paper_id": "local.tunbridge-wells.sherwood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 60520,
+          "name": "Christian Atwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10692,
+          "name": "Chris Hoare",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138150,
+          "name": "Tina Kesterton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120395,
+          "name": "Oliver Kinkade",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138151,
+          "name": "Eben Phoebe Lenton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113043,
+          "name": "Kate Sergeant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113112,
+          "name": "Courtney Souper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138152,
+          "name": "Andrew Wallace",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138153,
+          "name": "Ellis Wiggins",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southborough & Bidborough",
+      "ballot_paper_id": "local.tunbridge-wells.southborough-bidborough.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138124,
+          "name": "Jack Bradley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99967,
+          "name": "Aaron James Brand",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 113108,
+          "name": "Maria Gavin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138126,
+          "name": "Stephen Humphreys",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138127,
+          "name": "Kimberley Louise Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 28577,
+          "name": "Richard Long",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138128,
+          "name": "Robert Mayall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138129,
+          "name": "Ash Shukla",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138130,
+          "name": "Iqbal Sidhu",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St James'",
+      "ballot_paper_id": "local.tunbridge-wells.st-james.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138121,
+          "name": "George Barr",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92096,
+          "name": "Gavin Barrass",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138122,
+          "name": "Philip Dwyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10672,
+          "name": "Nick Maltby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138123,
+          "name": "Lucy Ann Miller",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St John's",
+      "ballot_paper_id": "local.tunbridge-wells.st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 2154,
+          "name": "Lorna Blackmore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138484,
+          "name": "Lewis Patrick Jenkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83126,
+          "name": "Alexander Lewis-Grey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34190,
+          "name": "Ukonu Elisha Obasi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138485,
+          "name": "Chris Pendleton",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

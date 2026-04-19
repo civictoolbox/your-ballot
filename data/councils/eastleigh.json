@@ -1,0 +1,487 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "eastleigh",
+    "council_name": "Eastleigh"
+  },
+  "wards": [
+    {
+      "ward_name": "Bishopstoke",
+      "ballot_paper_id": "local.eastleigh.bishopstoke.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127972,
+          "name": "Sarah Duggan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125474,
+          "name": "Dani Hosford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 26845,
+          "name": "Louise Anne Parker-Jones",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127973,
+          "name": "Graeme Richard Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16528,
+          "name": "Anne Margaret Winstanley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Botley",
+      "ballot_paper_id": "local.eastleigh.botley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127618,
+          "name": "Dave Cox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16537,
+          "name": "Rupert Gregory Miles Kyrle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127619,
+          "name": "Finn Lennon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125475,
+          "name": "Luke Ottley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bursledon & Hound North",
+      "ballot_paper_id": "local.eastleigh.bursledon-hound-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128662,
+          "name": "Carys Chestnut",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128663,
+          "name": "Frankie Coultas",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 29107,
+          "name": "Tonia Craig",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35197,
+          "name": "Keith Philip Day",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122711,
+          "name": "Craig Palmer",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chandler's Ford",
+      "ballot_paper_id": "local.eastleigh.chandlers-ford.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 38642,
+          "name": "Alan Frederick Broadhurst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127678,
+          "name": "Paul Jerome Bryant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127679,
+          "name": "Christopher John Gibbs",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125482,
+          "name": "Bors Tamás Hulesch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127680,
+          "name": "Daniel Christopher Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127681,
+          "name": "Nigel William Murkitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98139,
+          "name": "Albie Slawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5833,
+          "name": "Roy Swales",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139110,
+          "name": "Dave Walker",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastleigh Central",
+      "ballot_paper_id": "local.eastleigh.eastleigh-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125483,
+          "name": "Toby Cain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75940,
+          "name": "Sukhdev Raj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128667,
+          "name": "Poonam Sharma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110838,
+          "name": "Zak Southward",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86851,
+          "name": "Cameron Edward Spencer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastleigh North",
+      "ballot_paper_id": "local.eastleigh.eastleigh-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 86861,
+          "name": "Stephen Francis Beer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75934,
+          "name": "Alex Culley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16582,
+          "name": "Kathy O'Neill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127624,
+          "name": "Jeremy David Noel Over",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 55523,
+          "name": "Jack Nathan Reginald Stapleton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastleigh South",
+      "ballot_paper_id": "local.eastleigh.eastleigh-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 38660,
+          "name": "Paul Bicknell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77793,
+          "name": "Clare Lorraine Fawcett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128636,
+          "name": "Steven Peter Phillips",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110836,
+          "name": "Yogesh Saxena",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125479,
+          "name": "Jim Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fair Oak & Horton Heath",
+      "ballot_paper_id": "local.eastleigh.fair-oak-horton-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 127663,
+          "name": "William  Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29096,
+          "name": "Ben Burcombe-Filer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38668,
+          "name": "Nick Couldrey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117010,
+          "name": "Russ Kitching",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 75753,
+          "name": "Ben David Parry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127665,
+          "name": "Austen Thomas Petty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127664,
+          "name": "Richard Anthony Shuker",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hamble & Netley",
+      "ballot_paper_id": "local.eastleigh.hamble-netley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16539,
+          "name": "Steph Arnold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42733,
+          "name": "Prad Bains",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127396,
+          "name": "Neil Leslie Fleming",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125487,
+          "name": "Philip John Horton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100736,
+          "name": "Dennis Robinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hedge End North",
+      "ballot_paper_id": "local.eastleigh.hedge-end-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16589,
+          "name": "Nick Arnold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127640,
+          "name": "James Flaxman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86975,
+          "name": "Leigh John Hadaway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127641,
+          "name": "Edward Hill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98134,
+          "name": "Geoffrey Edwin Harold Skinner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hedge End South",
+      "ballot_paper_id": "local.eastleigh.hedge-end-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 29108,
+          "name": "Jerry Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127625,
+          "name": "Anthony Keith Savage",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122712,
+          "name": "John Edward Shepherd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110815,
+          "name": "Anna Belle Skinner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hiltingbury",
+      "ballot_paper_id": "local.eastleigh.hiltingbury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 87020,
+          "name": "Maud Nancy Attrill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127382,
+          "name": "Hannah Amy Bowyer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127383,
+          "name": "Michael James Hibberd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73910,
+          "name": "Shelagh Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125477,
+          "name": "Oliver Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West End North",
+      "ballot_paper_id": "local.eastleigh.west-end-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125486,
+          "name": "Elaine Alexandra Avery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110801,
+          "name": "Christian James Brookes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127373,
+          "name": "Colin Gifford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127374,
+          "name": "Roy Gordon Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5451,
+          "name": "Bruce Robert Tennent",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "West End South",
+      "ballot_paper_id": "local.eastleigh.west-end-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127388,
+          "name": "David Andrew Berry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127389,
+          "name": "Steve Humby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87057,
+          "name": "Roger Allen Vivian",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98102,
+          "name": "Dave Waghorn",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

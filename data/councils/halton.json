@@ -1,0 +1,559 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "halton",
+    "council_name": "Halton"
+  },
+  "wards": [
+    {
+      "ward_name": "Appleton",
+      "ballot_paper_id": "local.halton.appleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 109750,
+          "name": "Elaine Dean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128479,
+          "name": "Paul David Musker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128480,
+          "name": "Sue Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39242,
+          "name": "Angela Teeling",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bankfield",
+      "ballot_paper_id": "local.halton.bankfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127049,
+          "name": "Claire Louise Aberdeen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79609,
+          "name": "Laura Bevan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109590,
+          "name": "Susan Mary Forder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127050,
+          "name": "Nicholas Ray",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beechwood & Heath",
+      "ballot_paper_id": "local.halton.beechwood-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 19433,
+          "name": "Dan Clarke",
+          "party_name": "Libertarian Party"
+        },
+        {
+          "person_id": 127064,
+          "name": "Julian David Gardiner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127065,
+          "name": "David Roberts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16065,
+          "name": "Gareth Charles Stockton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birchfield",
+      "ballot_paper_id": "local.halton.birchfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127470,
+          "name": "James Michael Coopersmith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39243,
+          "name": "Mike Fry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14248,
+          "name": "John Robert Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127471,
+          "name": "Joseph Christopher Scholes",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bridgewater",
+      "ballot_paper_id": "local.halton.bridgewater.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109643,
+          "name": "Deborah Brooks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128088,
+          "name": "Sarah Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39262,
+          "name": "Mark David Dennett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79629,
+          "name": "Suzanne Nicola Howard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128089,
+          "name": "Matthew John Quinn",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central & West Bank",
+      "ballot_paper_id": "local.halton.central-west-bank.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127512,
+          "name": "Aubrey Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127513,
+          "name": "Jonathan David MacKie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39288,
+          "name": "Julie Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127514,
+          "name": "Ian Wall",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Daresbury, Moore & Sandymoor",
+      "ballot_paper_id": "local.halton.daresbury-moore-sandymoor.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 127887,
+          "name": "Christopher William Biggs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127888,
+          "name": "Dylan Anthony Eaton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127889,
+          "name": "Jo Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16000,
+          "name": "Geoffrey Michael Logan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127890,
+          "name": "Robert John McClennan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127891,
+          "name": "John David Scott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79536,
+          "name": "John Segrue Secker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106395,
+          "name": "Sara Louise Wakefield",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ditton, Hale Village & Halebank",
+      "ballot_paper_id": "local.halton.ditton-hale-village-halebank.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128675,
+          "name": "John Anderton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128676,
+          "name": "Niamh Richards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128677,
+          "name": "Ksawier Staniszewski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16028,
+          "name": "Marie Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farnworth",
+      "ballot_paper_id": "local.halton.farnworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128312,
+          "name": "Philip Harper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128313,
+          "name": "Helen Elizabeth McGauley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128314,
+          "name": "Frank Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128315,
+          "name": "Luke Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grange",
+      "ballot_paper_id": "local.halton.grange.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 79619,
+          "name": "Daniel James Baker",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 107600,
+          "name": "Michael James O'Day",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127201,
+          "name": "Gary Oates",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127202,
+          "name": "Wolfie Smith",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127203,
+          "name": "Frances Stewart",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halton Castle",
+      "ballot_paper_id": "local.halton.halton-castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 35560,
+          "name": "Chris Carlin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128682,
+          "name": "John Paul Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84070,
+          "name": "Iain James Ferguson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16049,
+          "name": "Darrin Whyte",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halton Lea",
+      "ballot_paper_id": "local.halton.halton-lea.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128687,
+          "name": "Joshua Richard Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128688,
+          "name": "Luke Jon Hanson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128689,
+          "name": "Nia Meagan Hayes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128690,
+          "name": "Jack Bernard Raftree",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halton View",
+      "ballot_paper_id": "local.halton.halton-view.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127186,
+          "name": "Damian James Curzon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93161,
+          "name": "Louise Nolan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93619,
+          "name": "James Robert Mathias Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127187,
+          "name": "Josh Watson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highfield",
+      "ballot_paper_id": "local.halton.highfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 59832,
+          "name": "Bob Gilligan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128648,
+          "name": "Pamela Ann McDermott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128649,
+          "name": "Dave O'Connor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128650,
+          "name": "Kiel Joseph Oldfield",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hough Green",
+      "ballot_paper_id": "local.halton.hough-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127472,
+          "name": "Thomas Atherton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39327,
+          "name": "Phil Harris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127473,
+          "name": "Nicholas Edward Parry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127474,
+          "name": "Raymond Evan Roberts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mersey & Weston",
+      "ballot_paper_id": "local.halton.mersey-weston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128651,
+          "name": "Siân Fiona Alexandra Davidson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16029,
+          "name": "Colleen Mary Harper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128652,
+          "name": "John Martin Lunt",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 55288,
+          "name": "Norman Lee Plumpton-Walsh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16040,
+          "name": "Joanne Allison Rowe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128653,
+          "name": "Hayley Michelle Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norton North",
+      "ballot_paper_id": "local.halton.norton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127340,
+          "name": "William Trevor Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127341,
+          "name": "Nathan William David Fitzpatrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127342,
+          "name": "Mary Elizabeth Hanson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127343,
+          "name": "Lauren Hickton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13855,
+          "name": "Diane Marie Inch",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norton South & Preston Brook",
+      "ballot_paper_id": "local.halton.norton-south-preston-brook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127616,
+          "name": "Emma Samantha Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15998,
+          "name": "Adam Robert Burnett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127617,
+          "name": "Peter Davidson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39384,
+          "name": "Martha Lloyd Jones",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

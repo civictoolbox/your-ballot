@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-imagine",
+    "display_name": "Imagine",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Imagine"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 135212,
+      "name": "Shemol Shamsur Rahman",
+      "party_name": "Imagine",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Arthur's Hill"
+    }
+  ]
+}

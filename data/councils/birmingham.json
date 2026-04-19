@@ -1,0 +1,3637 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "birmingham",
+    "council_name": "Birmingham"
+  },
+  "wards": [
+    {
+      "ward_name": "Acocks Green",
+      "ballot_paper_id": "local.birmingham.acocks-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 94277,
+          "name": "AC Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125312,
+          "name": "Sajid Mehmood Bhatti",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 125426,
+          "name": "Danny Drennan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6157,
+          "name": "Eamonn Kevin Flynn",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134423,
+          "name": "Tristan Thomas Griffiths-Hughes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96,
+          "name": "Roger Kingdon Harmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126054,
+          "name": "Sadia Mahmood Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125427,
+          "name": "Sanjeev Mehta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124945,
+          "name": "Lu O'Shea",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40305,
+          "name": "John Anthony O'Shea",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134424,
+          "name": "Dhiran Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134425,
+          "name": "Jae Robinson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 125314,
+          "name": "Mohammad Afzal Tahir",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 9886,
+          "name": "Penny Wagg",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Allens Cross",
+      "ballot_paper_id": "local.birmingham.allens-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 10051,
+          "name": "Eddie Freeman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124939,
+          "name": "Seb Lovell-Huckle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 85195,
+          "name": "Daniel Rust",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90339,
+          "name": "Paul Smith",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134442,
+          "name": "Emil-Crisan Toescu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124940,
+          "name": "Theo Wicking",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Alum Rock",
+      "ballot_paper_id": "local.birmingham.alum-rock.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134481,
+          "name": "Hussain Ahamad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134482,
+          "name": "David Bloxham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10078,
+          "name": "Monica Catherine Hardie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84500,
+          "name": "Asia Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124079,
+          "name": "Nosheen Khalid",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 70002,
+          "name": "Ansar Ali Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10047,
+          "name": "Mariam Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124080,
+          "name": "Shaukat Mahmood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123868,
+          "name": "Wajid Bashir Malhotra",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134483,
+          "name": "Thomas Ian McPake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134484,
+          "name": "Karen Jayne Strangward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134485,
+          "name": "Barbara Wood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Aston",
+      "ballot_paper_id": "local.birmingham.aston.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 125520,
+          "name": "Saeed Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134518,
+          "name": "Zafar Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134519,
+          "name": "Desmond Hayden Dobson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134520,
+          "name": "Adam Fitzgerald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134521,
+          "name": "Dorothy Elizabeth Gerald",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134522,
+          "name": "Claire Groom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88465,
+          "name": "Carol Guest",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9978,
+          "name": "Mohammed Hanif",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88458,
+          "name": "Mumtaz Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134523,
+          "name": "Naib Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 41574,
+          "name": "Ziaul Islam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134524,
+          "name": "Derek Desmond Harold Lambert",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134525,
+          "name": "Damon Scott Shinnie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134526,
+          "name": "Abdul Choudhury Shumon",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Balsall Heath West",
+      "ballot_paper_id": "local.birmingham.balsall-heath-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 134527,
+          "name": "Duncan Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124941,
+          "name": "Raja Mohammed Amin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 9901,
+          "name": "Guy Hordern",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40896,
+          "name": "Zhor Malik",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134528,
+          "name": "Farah Naz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91628,
+          "name": "Naz Rasheed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134529,
+          "name": "Michael Sidear Webb",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bartley Green",
+      "ballot_paper_id": "local.birmingham.bartley-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 88476,
+          "name": "Kerry Brewer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132902,
+          "name": "Phillippa Treharne Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134543,
+          "name": "Sheila Ann Kelly-Trow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41098,
+          "name": "Bruce John Lines",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35684,
+          "name": "Paul Simon Preston",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124942,
+          "name": "Rachel Marie Preston",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134544,
+          "name": "Rajbir Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134545,
+          "name": "Chris Steele",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134546,
+          "name": "Sean Lewis Venables",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91897,
+          "name": "Anthony Wilkinson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Billesley",
+      "ballot_paper_id": "local.birmingham.billesley.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134565,
+          "name": "Mudassir Aftab",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134566,
+          "name": "Raf Beg",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 124943,
+          "name": "Sanjida Chishty",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134567,
+          "name": "Clair Felton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10055,
+          "name": "Chris Garghan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79909,
+          "name": "Katherine Elizabeth Iroh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124944,
+          "name": "Sulliman Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134568,
+          "name": "Margaret McGarry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134569,
+          "name": "Sahibzada Abid Naeem",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79928,
+          "name": "Ian Neal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 71306,
+          "name": "Joe Peacock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123621,
+          "name": "Jess Roberts",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birchfield",
+      "ballot_paper_id": "local.birmingham.birchfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 88486,
+          "name": "Christopher Anton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134571,
+          "name": "Glenton Easy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124947,
+          "name": "Arshid Mahmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134572,
+          "name": "Barry Newton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124948,
+          "name": "Mohammed Yaseen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134573,
+          "name": "Muhammad Yasir",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bordesley & Highgate",
+      "ballot_paper_id": "local.birmingham.bordesley-highgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 134615,
+          "name": "Mohammed Joynal Abedin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134616,
+          "name": "Hakil Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123369,
+          "name": "Tyrone Reece Fowles",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 42699,
+          "name": "Mohammed Idrees",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134617,
+          "name": "Ali Akbar Shujja Kazi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134618,
+          "name": "Gerry Moynihan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123877,
+          "name": "Waleed Obad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134619,
+          "name": "Alexander Ross Douglas Slater",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123726,
+          "name": "Jamil Tuki",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bordesley Green",
+      "ballot_paper_id": "local.birmingham.bordesley-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 123898,
+          "name": "Mohammed Attiq",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88494,
+          "name": "Raqeeb Aziz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134591,
+          "name": "Joe Ballard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88495,
+          "name": "Wajid Burkey",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134592,
+          "name": "Adnan Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134593,
+          "name": "Charles Robert Jeynes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134594,
+          "name": "Paul Gerald Linden",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bournbrook & Selly Park",
+      "ballot_paper_id": "local.birmingham.bournbrook-selly-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 116689,
+          "name": "Jane Louisa Baston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134711,
+          "name": "Gary John Faulkner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126062,
+          "name": "Corinne Fowler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134712,
+          "name": "Neil Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134713,
+          "name": "Ben Lees",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 10079,
+          "name": "Karen Teresa McCarthy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134714,
+          "name": "Martin Mullaney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89330,
+          "name": "Musa Nela",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134715,
+          "name": "Colin Andrew Ross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 26622,
+          "name": "Jamie Christopher Scott",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134716,
+          "name": "Neetu Vikal",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bournville & Cotteridge",
+      "ballot_paper_id": "local.birmingham.bournville-cotteridge.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 123374,
+          "name": "Muhammad Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42091,
+          "name": "Nicky Brennan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134752,
+          "name": "Nigel Douglas Dawkins",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 40575,
+          "name": "Roxanne Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124908,
+          "name": "Robert Grosvenor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 2251,
+          "name": "Andrew David Hardie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123718,
+          "name": "Chloe Octavia Kay Ingram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134753,
+          "name": "Chris Lacey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1249,
+          "name": "David Stephen Radcliffe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124345,
+          "name": "llias Vazaios",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125522,
+          "name": "Richard George Winter",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brandwood & King's Heath",
+      "ballot_paper_id": "local.birmingham.brandwood-kings-heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134812,
+          "name": "Leeford Claude Beresford Allen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91875,
+          "name": "Jamie Babington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41532,
+          "name": "Emily Cox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85153,
+          "name": "Mark Andrew Hudson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 88557,
+          "name": "Ben Lockley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134813,
+          "name": "Muhammad Saleem Malik",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134814,
+          "name": "Tochi Nwofor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125518,
+          "name": "Jordan Oliver Phillip",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125517,
+          "name": "Hamzah Fahd Sheikh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9960,
+          "name": "Lisa Trickett",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134815,
+          "name": "Cat Wagg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134816,
+          "name": "Stephen John Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromford & Hodge Hill",
+      "ballot_paper_id": "local.birmingham.bromford-hodge-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134884,
+          "name": "Jack Annett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134885,
+          "name": "Robert William Cheshire",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7867,
+          "name": "Diane Donaldson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124433,
+          "name": "Arshad Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91590,
+          "name": "Iftekhar Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134886,
+          "name": "Zakarya Jonah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134887,
+          "name": "Andreas Nektarios Karagiannopoulos",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124953,
+          "name": "Sardar Khan",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 40995,
+          "name": "Majid Mahmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10048,
+          "name": "Sylvia Jane McKears",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128374,
+          "name": "Duncan Douglas Riley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124952,
+          "name": "Tasawar Hussain Shah",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle Vale",
+      "ballot_paper_id": "local.birmingham.castle-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112493,
+          "name": "Roman Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134952,
+          "name": "Ross Copeland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91240,
+          "name": "Ray Goodwin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6014,
+          "name": "Margaret Okole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134953,
+          "name": "Louise Arabella Scrivens",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 41346,
+          "name": "Trevor Sword",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Druids Heath & Monyhull",
+      "ballot_paper_id": "local.birmingham.druids-heath-monyhull.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 134930,
+          "name": "Steven Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134931,
+          "name": "Gavin Clement",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126287,
+          "name": "Muhammad Ishtiaq",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10012,
+          "name": "Julien Pritchard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134932,
+          "name": "Aman Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134933,
+          "name": "Giri Siva",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Edgbaston",
+      "ballot_paper_id": "local.birmingham.edgbaston.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 97,
+          "name": "Deirdre Caroline Alden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41331,
+          "name": "Matt Bennett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134973,
+          "name": "Simon Gibbons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134974,
+          "name": "Nathan James Hogg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134975,
+          "name": "Oscar George Prosser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91584,
+          "name": "Radley Russell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124956,
+          "name": "Mandy Sanghera",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134976,
+          "name": "Onkar Shergill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134977,
+          "name": "Madhu Vidhani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41685,
+          "name": "Mike Ward",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Erdington",
+      "ballot_paper_id": "local.birmingham.erdington.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 3958,
+          "name": "Robert James Cambray Alden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134364,
+          "name": "Shefa Choudhury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91605,
+          "name": "Mette Christoffersen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134365,
+          "name": "Alex Karra-Webb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134366,
+          "name": "Richard Haydn May",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41529,
+          "name": "Gareth Raymond Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134367,
+          "name": "Kenneth Oliver Morris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88468,
+          "name": "Paul Jonathan Scrivens",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134368,
+          "name": "Ali Taranssari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42716,
+          "name": "Mahtab Uddin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134369,
+          "name": "Lauren Walden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84928,
+          "name": "Corinthia Ward",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Frankley Great Park",
+      "ballot_paper_id": "local.birmingham.frankley-great-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 1198,
+          "name": "Peter Beck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125081,
+          "name": "Gemma Louise Guttridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91258,
+          "name": "Peter Lloyd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135628,
+          "name": "Simon Morrall",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126676,
+          "name": "Mohamed Saad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 18979,
+          "name": "Tilton Storer",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Garretts Green",
+      "ballot_paper_id": "local.birmingham.garretts-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135629,
+          "name": "Carla Busuttil",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91587,
+          "name": "Daphne Claire Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 113213,
+          "name": "Peter Higgins",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 9891,
+          "name": "Saddak Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135630,
+          "name": "Benjamin O'Callaghan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135631,
+          "name": "Carl Richard Webster",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Glebe Farm & Tile Cross",
+      "ballot_paper_id": "local.birmingham.glebe-farm-tile-cross.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 134658,
+          "name": "Jess Ankrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9989,
+          "name": "Marje Bridle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134659,
+          "name": "Gary Charles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40854,
+          "name": "John Cotton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134660,
+          "name": "Chris Fikeis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134661,
+          "name": "Gareth Hooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125318,
+          "name": "Shehryar Kayani",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 89384,
+          "name": "Javed Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134662,
+          "name": "Uzman Kiani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134663,
+          "name": "Faisal Mahmood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 40857,
+          "name": "Fergus David Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125320,
+          "name": "Amir Shafique",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134664,
+          "name": "Satnam Tank",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gravelly Hill",
+      "ballot_paper_id": "local.birmingham.gravelly-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135111,
+          "name": "Wahid Akhtar",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 89256,
+          "name": "Mohammed Amin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10043,
+          "name": "Mick Brown",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 91909,
+          "name": "Imran Ali Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41293,
+          "name": "Julia Anne MacKey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41784,
+          "name": "Asif Mehmood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135112,
+          "name": "Maisie Lou Evelyn Wilton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hall Green North",
+      "ballot_paper_id": "local.birmingham.hall-green-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 41769,
+          "name": "Akhlaq Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125345,
+          "name": "Belal Arabi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91694,
+          "name": "Shabina Bano",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135658,
+          "name": "Estelle Dukes-Hogan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135659,
+          "name": "Jordan Holland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135660,
+          "name": "Fahad Ali Hussain",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 88421,
+          "name": "Malik Nasir Iqbal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135661,
+          "name": "Kyra Nicole Mattison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91608,
+          "name": "Harriet O'Hara",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135662,
+          "name": "Mansoor Qureshi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135663,
+          "name": "Haroon Salim",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74851,
+          "name": "Saima Suleman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hall Green South",
+      "ballot_paper_id": "local.birmingham.hall-green-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 89543,
+          "name": "Shafaq Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135675,
+          "name": "Daniel Thomas Carpenter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41892,
+          "name": "Tim Huxtable",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89545,
+          "name": "David Alan Lickiss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135676,
+          "name": "Aminah Shabir",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 135677,
+          "name": "Stephen Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Handsworth",
+      "ballot_paper_id": "local.birmingham.handsworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 91890,
+          "name": "Paul Andrew Bishop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135687,
+          "name": "Curtis James Brittain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125225,
+          "name": "Mosese Dakunivosa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91594,
+          "name": "Ed Freshwater",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10070,
+          "name": "Chaman Lal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135688,
+          "name": "Abdulaziz Mohamed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 40968,
+          "name": "Enam Rahman",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Handsworth Wood",
+      "ballot_paper_id": "local.birmingham.handsworth-wood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 135709,
+          "name": "Junior Atholi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135710,
+          "name": "Lalit Kumar Banger",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135711,
+          "name": "Neil James Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91599,
+          "name": "Ravinder Singh Chumber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135712,
+          "name": "Michael George Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135713,
+          "name": "Junaid Hafeez",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135714,
+          "name": "Stephen Michael Hallam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135715,
+          "name": "Umar Hayat Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 41245,
+          "name": "Narinder Kooner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125354,
+          "name": "Randeep Kaur Kular",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135716,
+          "name": "Peter John Sheahan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91596,
+          "name": "Devia Surti",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135717,
+          "name": "Sam Uddin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91670,
+          "name": "Gerald Watts",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harborne",
+      "ballot_paper_id": "local.birmingham.harborne.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 91243,
+          "name": "Christopher John Bertram",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84272,
+          "name": "Martin John Brooks",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135732,
+          "name": "James Victor Burgess",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124486,
+          "name": "Kevin James Carmody",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123715,
+          "name": "James Peter Cross",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135733,
+          "name": "Ben Goodwin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135734,
+          "name": "Hasnain Qamar Rashid Bhatti Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135735,
+          "name": "Sarah Marwick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123560,
+          "name": "Richard William Moore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125545,
+          "name": "Hugo George Rasenberg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135736,
+          "name": "Amaar Shahzada",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135737,
+          "name": "Aniraj Sharma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135738,
+          "name": "Jyotsna Singh",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heartlands",
+      "ballot_paper_id": "local.birmingham.heartlands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135739,
+          "name": "Abid Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135740,
+          "name": "Sajid Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135741,
+          "name": "Md Ohidul Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123193,
+          "name": "Danny Mazhar",
+          "party_name": "Birmingham Community Independents"
+        },
+        {
+          "person_id": 135742,
+          "name": "Sathish Kumar Raman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135743,
+          "name": "Mateen Seharai",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41368,
+          "name": "Shafique Shah",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highter's Heath",
+      "ballot_paper_id": "local.birmingham.highters-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135744,
+          "name": "Iain David Bowen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10007,
+          "name": "Adam Andrew Higgs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135745,
+          "name": "Joe Samuels",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135746,
+          "name": "Joanne Shemmans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135747,
+          "name": "Jason West",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holyhead",
+      "ballot_paper_id": "local.birmingham.holyhead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 135763,
+          "name": "Senior Atholi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135764,
+          "name": "Martin Clarke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135765,
+          "name": "Nigel Clough",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135766,
+          "name": "Mark Richard Dainty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125226,
+          "name": "Keshia Hamilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135767,
+          "name": "Alexander Samuel Vivian Jaddoo",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91612,
+          "name": "Rinkal Shergill",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135768,
+          "name": "Faizan Tanveer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "King's Norton North",
+      "ballot_paper_id": "local.birmingham.kings-norton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 42158,
+          "name": "Carmel Gertrude Corrigan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117885,
+          "name": "Alexander Hemming",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117874,
+          "name": "Daniel Patrick Molloy-Brookes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3990,
+          "name": "Joe Rooney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125219,
+          "name": "Martin Derek Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "King's Norton South",
+      "ballot_paper_id": "local.birmingham.kings-norton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135769,
+          "name": "Joel Samuel Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9957,
+          "name": "Robert Andrew Grant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91218,
+          "name": "Tony Kennedy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125042,
+          "name": "Agata Joanna Malec",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91636,
+          "name": "Michael Sturt-Joy",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingstanding",
+      "ballot_paper_id": "local.birmingham.kingstanding.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135175,
+          "name": "James Andrew Ayodele Chandler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135176,
+          "name": "Des Hughes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135177,
+          "name": "Desmond Gustavus Jaddoo",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135178,
+          "name": "John Edward Lambert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 113214,
+          "name": "Chris Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125355,
+          "name": "Paul Lilly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40996,
+          "name": "Asad Mehmood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135179,
+          "name": "Jerry Orme",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135180,
+          "name": "Jex Parkin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125372,
+          "name": "Alex Lawrence Richards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125356,
+          "name": "Anita Ward",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10045,
+          "name": "Clifton Frederick Welch",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ladywood",
+      "ballot_paper_id": "local.birmingham.ladywood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 116530,
+          "name": "Sally Benton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135012,
+          "name": "Jade Marie Cotton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125335,
+          "name": "Gary Edwin Cressman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 4821,
+          "name": "Lee Dargue",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123370,
+          "name": "Satvir Dosanjh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84352,
+          "name": "Siobhan Bridget Harper-Nunes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135013,
+          "name": "Raheem Humphreys",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125334,
+          "name": "Deborah Moria Maragh",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135014,
+          "name": "Zoobia Noor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135015,
+          "name": "Abhinav Priyadarshi Pandey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117875,
+          "name": "Abigail Margaret Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135016,
+          "name": "Cindy Yip",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longbridge & West Heath",
+      "ballot_paper_id": "local.birmingham.longbridge-west-heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 135234,
+          "name": "Francine Asonibare",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88460,
+          "name": "Jack Dixon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135236,
+          "name": "Hannah Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125221,
+          "name": "Charlie Latchford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135237,
+          "name": "Matthew Josef Lloyd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89332,
+          "name": "Matthew John Neville",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135238,
+          "name": "Femi Sanusi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41594,
+          "name": "Ron Storer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125222,
+          "name": "Anthony Leslie Ward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135235,
+          "name": "Tony Brett Young",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lozells",
+      "ballot_paper_id": "local.birmingham.lozells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 126433,
+          "name": "Rafael Costa",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134874,
+          "name": "Qiam Ud Din",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134875,
+          "name": "Peter Charles John Hinton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125336,
+          "name": "Raja Asim Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125384,
+          "name": "Andy King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134876,
+          "name": "Nufayej Rayean",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134877,
+          "name": "Dean Sisman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134878,
+          "name": "Taj Uddin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126361,
+          "name": "Samarah Zaffar",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moseley",
+      "ballot_paper_id": "local.birmingham.moseley.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135069,
+          "name": "Ayyub Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126363,
+          "name": "Oliver Ashton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135070,
+          "name": "Joshua Bentley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135071,
+          "name": "Cheryl Ann Cuthel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135072,
+          "name": "Margaret Goby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40866,
+          "name": "Izzy Knowles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123725,
+          "name": "Gwaza Mabhena",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9916,
+          "name": "Philip Mills",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123194,
+          "name": "Stephen Pihlaja",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41521,
+          "name": "Nayaz Qazi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135073,
+          "name": "Mukhtarim Shah",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nechells",
+      "ballot_paper_id": "local.birmingham.nechells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 125337,
+          "name": "Mansuur Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135134,
+          "name": "Sophie Juda Elizabeth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135135,
+          "name": "Guled Farah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135136,
+          "name": "Conor O'Donovan",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 123371,
+          "name": "Marcelo Reka",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135137,
+          "name": "Md Abu Sufian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135138,
+          "name": "Devinchi Warmington",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newtown",
+      "ballot_paper_id": "local.birmingham.newtown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135130,
+          "name": "Sonya Anderson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125357,
+          "name": "Rasheda Begum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139123,
+          "name": "Amjad Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135131,
+          "name": "Rashia Khatun",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135132,
+          "name": "Burhan Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135133,
+          "name": "Hannah Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 4854,
+          "name": "Keith Alexander Rowe",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Edgbaston",
+      "ballot_paper_id": "local.birmingham.north-edgbaston.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135058,
+          "name": "Kofi Agyei Tabiri Anarfi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135059,
+          "name": "Shamsul Arifeen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35495,
+          "name": "Marcus Bernasconi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135060,
+          "name": "Alistair Dow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135061,
+          "name": "Hanooshi Hassan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135062,
+          "name": "Neil Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125342,
+          "name": "Amer Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135063,
+          "name": "Joshua Pattison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135064,
+          "name": "Ralph Anthony Wallin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41348,
+          "name": "Robert Ian Wright",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135065,
+          "name": "Francois Xavier",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125340,
+          "name": "Sarina Younas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northfield",
+      "ballot_paper_id": "local.birmingham.northfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125082,
+          "name": "George Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42159,
+          "name": "Graham Knight",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9967,
+          "name": "Andy Moles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135110,
+          "name": "Alfie Neumann",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117132,
+          "name": "Esther Rai",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oscott",
+      "ballot_paper_id": "local.birmingham.oscott.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135102,
+          "name": "Francis Liam Barnett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135103,
+          "name": "Jack Matthew Brookes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80020,
+          "name": "Joshua-John Bunting",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135104,
+          "name": "Eleanor Louise Douglas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135105,
+          "name": "Barbara Dring",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135106,
+          "name": "Graham Geoffrey Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91845,
+          "name": "Alex Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135107,
+          "name": "Sajida Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135108,
+          "name": "Ian Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135109,
+          "name": "Martin James McAuley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54453,
+          "name": "Andrew Stevenson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91846,
+          "name": "Nora Warnaby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125371,
+          "name": "Charlotte Whitehouse",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Perry Barr",
+      "ballot_paper_id": "local.birmingham.perry-barr.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135094,
+          "name": "David Allen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41570,
+          "name": "Janet Coffey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9914,
+          "name": "Joe Foster",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135095,
+          "name": "Elizabeth Ann Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135096,
+          "name": "Jonathan Hammond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135097,
+          "name": "James Hinton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135098,
+          "name": "Safiqul Islam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 10069,
+          "name": "Morriam Jan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135099,
+          "name": "Mehran Khuhro",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135100,
+          "name": "Hayyan Mohammed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91583,
+          "name": "Edward Porteous",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125358,
+          "name": "Zarine Shaikh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135101,
+          "name": "Barry Paul Wood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Perry Common",
+      "ballot_paper_id": "local.birmingham.perry-common.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 91886,
+          "name": "Jilly Bermingham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91887,
+          "name": "Stephanie Boyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123624,
+          "name": "Ahmed Ghulam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135055,
+          "name": "Colin Edward Hill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135056,
+          "name": "Husham Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135057,
+          "name": "Sue Willetts",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pype Hayes",
+      "ballot_paper_id": "local.birmingham.pype-hayes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41644,
+          "name": "Stephen Richard Allsop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134989,
+          "name": "Danny Brian Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125359,
+          "name": "Fayaz Khuhro",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131740,
+          "name": "Julian Skidmore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126519,
+          "name": "Athena Christina Tsouvallaris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134990,
+          "name": "Umar Ul-Haq",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Quinton",
+      "ballot_paper_id": "local.birmingham.quinton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 9992,
+          "name": "Sue Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41844,
+          "name": "James Liam Pennington Bolton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84274,
+          "name": "Sam Forsyth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 9944,
+          "name": "Gareth Hardy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125361,
+          "name": "Sohail Hussain",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134948,
+          "name": "Narinder Kaur",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134949,
+          "name": "Nikhil Khadabadi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125375,
+          "name": "Asif Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134950,
+          "name": "Nagu Penakacherla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9986,
+          "name": "James Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134951,
+          "name": "Sanjay Kumar Vikal",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rubery & Rednal",
+      "ballot_paper_id": "local.birmingham.rubery-rednal.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 134911,
+          "name": "Paul Alton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40365,
+          "name": "Adrian Joseph Delaney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125362,
+          "name": "Steve Haynes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77353,
+          "name": "Billy John Wassell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125039,
+          "name": "Rebecca Michelle Waters",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shard End",
+      "ballot_paper_id": "local.birmingham.shard-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 134863,
+          "name": "Harry Ballard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9987,
+          "name": "Christopher Francis Barber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91677,
+          "name": "Tony Briggs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 25203,
+          "name": "Alan Feeney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134865,
+          "name": "Ginge Smyth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 40307,
+          "name": "Fiona Williams",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sheldon",
+      "ballot_paper_id": "local.birmingham.sheldon.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134817,
+          "name": "Mark Stewart Ackroyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134818,
+          "name": "Sara Jane Ackroyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125322,
+          "name": "Sikander Aslam",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134819,
+          "name": "Darren Colling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134820,
+          "name": "Rachel Ann Conaghan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134821,
+          "name": "Gerald David Dickson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 50455,
+          "name": "Meenatchi Gopal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4481,
+          "name": "Colin Francis Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125321,
+          "name": "Haroon Ahmed Khattak",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134822,
+          "name": "Mark Richard Meatcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134823,
+          "name": "Melanie Jane Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41684,
+          "name": "Paul Calvin Tilsley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Small Heath",
+      "ballot_paper_id": "local.birmingham.small-heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 125363,
+          "name": "Shanaz Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123557,
+          "name": "Ahmed Al-Athwari",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134787,
+          "name": "Amaan Hader Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134788,
+          "name": "Hayaan Bin Sultan Choudhury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134789,
+          "name": "Sally Jane Cope",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134790,
+          "name": "Makham Singh Dhalivaal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134791,
+          "name": "Kash Hanif",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126677,
+          "name": "Shafaq Hussain",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 117564,
+          "name": "Altaf Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 84764,
+          "name": "Obaydul Kabir",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 9903,
+          "name": "Shaukat Ali Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134792,
+          "name": "Amit Khanna",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41256,
+          "name": "Mohammed Saeed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125325,
+          "name": "Rehab Talukdar",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134793,
+          "name": "Amelia Vocari",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Soho & Jewellery Quarter",
+      "ballot_paper_id": "local.birmingham.soho-jewellery-quarter.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134746,
+          "name": "Nigel Frederick Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134747,
+          "name": "Abbas Bhatti",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123373,
+          "name": "Su Brooks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39212,
+          "name": "Katt Cremer",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 18973,
+          "name": "John Dell Macefield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41592,
+          "name": "Violaine Mendez",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134748,
+          "name": "Patricia Beverley Panton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41593,
+          "name": "James Perrott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134749,
+          "name": "Sunil Poshakwale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123372,
+          "name": "Shuranjeet Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134750,
+          "name": "Nicola Kedeisha Walker-Rhoden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125326,
+          "name": "Omar Yousaf",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Yardley",
+      "ballot_paper_id": "local.birmingham.south-yardley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 91893,
+          "name": "Aysan Al-Haq",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41890,
+          "name": "Zaker Choudhry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40894,
+          "name": "Martin John Guest",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134730,
+          "name": "Anya Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134731,
+          "name": "Gordon Lyew",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 115519,
+          "name": "Aheesha Zahir",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sparkbrook & Balsall Heath East",
+      "ballot_paper_id": "local.birmingham.sparkbrook-balsall-heath-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134684,
+          "name": "Raihaan Abbas",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91688,
+          "name": "Nowshed Abu",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 95361,
+          "name": "Saima Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 3015,
+          "name": "Jerry Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134685,
+          "name": "Khalid Hanif",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134686,
+          "name": "Shahid Hashmi",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 134687,
+          "name": "Jo Hindley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134688,
+          "name": "Parwez Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134689,
+          "name": "Jamil Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134690,
+          "name": "Nathaneal James Peters",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125373,
+          "name": "Faizan Rind",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134691,
+          "name": "Gloria Sant'Agostino",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134692,
+          "name": "Nigel Paul Waldron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134693,
+          "name": "Ryan Kevin Louis Willetts",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sparkhill",
+      "ballot_paper_id": "local.birmingham.sparkhill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 126450,
+          "name": "Hiyam Abdulhaq",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134645,
+          "name": "Safina Parveen Aftab",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91908,
+          "name": "Bushra Bi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134646,
+          "name": "Shahid Butt",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 9918,
+          "name": "Tanveer Choudhry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42093,
+          "name": "Tassawar Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91895,
+          "name": "Rashad Mahmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134647,
+          "name": "Adam Mirza",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134649,
+          "name": "Sal Naseem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134650,
+          "name": "Michael Lee O'Shea",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134651,
+          "name": "Andrew Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134652,
+          "name": "Degigha Walcott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134653,
+          "name": "Jennifer Walcott-Merry-Rose",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stirchley",
+      "ballot_paper_id": "local.birmingham.stirchley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9928,
+          "name": "Philip Andrew Banting",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79903,
+          "name": "Ian William Derek Bishop",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134635,
+          "name": "James William Edward Dooley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 115511,
+          "name": "Kamel Hawwash",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10065,
+          "name": "Mary Locke",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockland Green",
+      "ballot_paper_id": "local.birmingham.stockland-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134575,
+          "name": "Manni Butt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52956,
+          "name": "Gareth Francis Thomas Compton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125364,
+          "name": "Derek Douglas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134576,
+          "name": "Steven Enahoro",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134577,
+          "name": "Richard James Hemus",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10008,
+          "name": "Shabrana Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134578,
+          "name": "Jane Esther Jones",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134579,
+          "name": "Amar Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91227,
+          "name": "Stella Murphy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134580,
+          "name": "Pete Perryman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123899,
+          "name": "Sam Richards",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134581,
+          "name": "Bryn Lee Roberts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134582,
+          "name": "Alastair David Webster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5442,
+          "name": "Ted Woodley",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Four Oaks",
+      "ballot_paper_id": "local.birmingham.sutton-four-oaks.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 134530,
+          "name": "Jan Dewsbery",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134531,
+          "name": "Alex Graham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134532,
+          "name": "Kay Kaur",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13409,
+          "name": "Raaj Shamji",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41888,
+          "name": "David Michael Willett",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Mere Green",
+      "ballot_paper_id": "local.birmingham.sutton-mere-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 134504,
+          "name": "Kerry Frater",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 3372,
+          "name": "Meirion Jenkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40940,
+          "name": "Colin Leslie Fredric Marriott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134505,
+          "name": "Simon McDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134506,
+          "name": "Sarah Elizabeth Myers",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Reddicap",
+      "ballot_paper_id": "local.birmingham.sutton-reddicap.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 134486,
+          "name": "Benjamin Godwin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125942,
+          "name": "James Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134487,
+          "name": "Jane Lane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134488,
+          "name": "Richard Painter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91649,
+          "name": "Richard Frederick Jex Parkin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Roughley",
+      "ballot_paper_id": "local.birmingham.sutton-roughley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10034,
+          "name": "Roger Barley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41786,
+          "name": "Timothy James Cotterill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125941,
+          "name": "Michael Hunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134479,
+          "name": "Harry Parmar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134480,
+          "name": "Esther Caroline Passingham",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Trinity",
+      "ballot_paper_id": "local.birmingham.sutton-trinity.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 42205,
+          "name": "Ben Auton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91658,
+          "name": "Joe Blenkinsop",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134443,
+          "name": "Paul Maxwell Gardiner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41157,
+          "name": "David Christopher Pears",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91827,
+          "name": "Regine Wilber",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Vesey",
+      "ballot_paper_id": "local.birmingham.sutton-vesey.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125379,
+          "name": "John Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134437,
+          "name": "Charlotte Julia Fieldhouse",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127440,
+          "name": "Gary Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134438,
+          "name": "Kirsty Holden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134439,
+          "name": "Liron Alethea Thomas Morgner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125378,
+          "name": "Anja Pawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3035,
+          "name": "Rob Pocock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134440,
+          "name": "Ross Douglas Stephens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134441,
+          "name": "Steven Wilber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10038,
+          "name": "Jenny Wilkinson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Walmley & Minworth",
+      "ballot_paper_id": "local.birmingham.sutton-walmley-minworth.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 42209,
+          "name": "David Cooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134370,
+          "name": "Adam Haycock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134371,
+          "name": "Claire Holton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134372,
+          "name": "Ehsan Ibrahim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91900,
+          "name": "Mark Andrew Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134373,
+          "name": "John Perks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125367,
+          "name": "Manish Kumar Puri",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134374,
+          "name": "Jacqueline Patricia Spargo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134375,
+          "name": "James Edward White",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 771,
+          "name": "Ken Wood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton Wylde Green",
+      "ballot_paper_id": "local.birmingham.sutton-wylde-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10039,
+          "name": "Zoe Rachel Challenor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134353,
+          "name": "Jon Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125306,
+          "name": "Adeen Irfan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134354,
+          "name": "Malcolm Spencer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10033,
+          "name": "Alex Yip",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tyseley & Hay Mills",
+      "ballot_paper_id": "local.birmingham.tyseley-hay-mills.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 3873,
+          "name": "Ian Anthony George Garrett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134350,
+          "name": "John Martin Howard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134351,
+          "name": "Zafar Iqbal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91207,
+          "name": "Yvette John",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134352,
+          "name": "Dawud Mustifa",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 125307,
+          "name": "Mohammad Nadeem",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 126107,
+          "name": "Atikur Rahman",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ward End",
+      "ballot_paper_id": "local.birmingham.ward-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 42122,
+          "name": "Mohammed Aikhlaq",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91907,
+          "name": "Naz Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133895,
+          "name": "Maria Anna Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126124,
+          "name": "Harris Khaliq",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134321,
+          "name": "Aashima Mehta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125329,
+          "name": "Julian Nistor",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134322,
+          "name": "Mahreen Tasleem",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123195,
+          "name": "Catherine Turner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weoley & Selly Oak",
+      "ballot_paper_id": "local.birmingham.weoley-selly-oak.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 125381,
+          "name": "Jigar Bhagalia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134308,
+          "name": "Marie Buchan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134309,
+          "name": "Eleanor Cotton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134310,
+          "name": "Rob Fitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134311,
+          "name": "Paolo Said Gianluca",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98919,
+          "name": "Kiran Gulia",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126360,
+          "name": "Stewart David Holroyd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8474,
+          "name": "Glyn Marston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134312,
+          "name": "Elly Stanton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125038,
+          "name": "Cherie Louise Waddingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125380,
+          "name": "George Louis Webb",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yardley East",
+      "ballot_paper_id": "local.birmingham.yardley-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41207,
+          "name": "Claire Marie Hammond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83974,
+          "name": "Deborah Harries",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41279,
+          "name": "Thomas Huxley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134286,
+          "name": "Rofique Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134287,
+          "name": "Vaishali Sathish Kumar Raman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125309,
+          "name": "Naushaba Yaqoob",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yardley West & Stechford",
+      "ballot_paper_id": "local.birmingham.yardley-west-stechford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 99970,
+          "name": "Liaqat Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134282,
+          "name": "Mohammed Imran Ameer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9999,
+          "name": "Baber Baz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134283,
+          "name": "Leo Hardcastle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125330,
+          "name": "Naila Iqbal",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134284,
+          "name": "Malcolm Preston",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

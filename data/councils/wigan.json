@@ -1,0 +1,865 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "wigan",
+    "council_name": "Wigan"
+  },
+  "wards": [
+    {
+      "ward_name": "Abram",
+      "ballot_paper_id": "local.wigan.abram.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 51025,
+          "name": "David William Bowker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130068,
+          "name": "James Galloway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 51026,
+          "name": "Eunice Smethurst",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75714,
+          "name": "Graham Trevor Suddick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98167,
+          "name": "Janet Elizabeth Walch",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ashton-in-Makerfield South",
+      "ballot_paper_id": "local.wigan.ashton-in-makerfield-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129921,
+          "name": "Holly Abbott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40438,
+          "name": "Paul John Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123626,
+          "name": "Anca Condescu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126339,
+          "name": "Kathy Morrill-Ashford",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Aspull, New Springs & Whelley",
+      "ballot_paper_id": "local.wigan.aspull-new-springs-whelley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 40532,
+          "name": "Ron Conway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111159,
+          "name": "Peter George Edmund Kitts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75476,
+          "name": "Donald John MacNamara",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75147,
+          "name": "Luke Christian Marsden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126331,
+          "name": "Jo Meadows",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Astley",
+      "ballot_paper_id": "local.wigan.astley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123627,
+          "name": "Adam Michael Hollis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98200,
+          "name": "Sandra Robinson",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 123134,
+          "name": "Simeon Rhys Rowlands",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15472,
+          "name": "David John Stirzaker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98202,
+          "name": "Eileen Patricia Strathearn",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Atherton North",
+      "ballot_paper_id": "local.wigan.atherton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 98219,
+          "name": "Paul Blinkhorn",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 75315,
+          "name": "Marie Elizabeth Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130327,
+          "name": "Jamie Hodgkinson",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 124933,
+          "name": "Ellie Kemp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130328,
+          "name": "Nigel Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Atherton South & Lilford",
+      "ballot_paper_id": "local.wigan.atherton-south-lilford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129862,
+          "name": "Martin James Farrimond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124538,
+          "name": "Cobi Hughes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129863,
+          "name": "Michael Thomas Livesey",
+          "party_name": "Leigh & Atherton Independents"
+        },
+        {
+          "person_id": 123817,
+          "name": "Richard Thomas Phelan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129864,
+          "name": "Ellis Rowlands",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bryn with Ashton-in-Makerfield North",
+      "ballot_paper_id": "local.wigan.bryn-with-ashton-in-makerfield-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 13900,
+          "name": "Judith Atherton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123810,
+          "name": "Louis Andrew Beckley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129618,
+          "name": "Christopher Stephen Davies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98226,
+          "name": "Robert Francis Kenyon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129619,
+          "name": "Thompson Michael",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Douglas",
+      "ballot_paper_id": "local.wigan.douglas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 14109,
+          "name": "Margaret Atherton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124934,
+          "name": "David Beddows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111174,
+          "name": "John Peter Burley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14110,
+          "name": "Pat Draper",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126332,
+          "name": "Matthew Lambert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123861,
+          "name": "Alex Sharples",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Golborne & Lowton West",
+      "ballot_paper_id": "local.wigan.golborne-lowton-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129853,
+          "name": "Susan Jayne Frame",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129854,
+          "name": "Kathryn Godfrey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40955,
+          "name": "Edward Noel Houlton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41447,
+          "name": "Gena Merrett",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 111165,
+          "name": "Richard Andrew Scott",
+          "party_name": "Leigh & Atherton Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hindley",
+      "ballot_paper_id": "local.wigan.hindley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124539,
+          "name": "Matthew Baron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 51044,
+          "name": "Jim Churton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73797,
+          "name": "Jordan James Gaskell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126340,
+          "name": "Paul David Manniex",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75854,
+          "name": "Cyril Pendlebury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5637,
+          "name": "John Charles Skipworth",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hindley Green",
+      "ballot_paper_id": "local.wigan.hindley-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126341,
+          "name": "Liam Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89080,
+          "name": "Gary John Skipworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129872,
+          "name": "Nathanael Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7094,
+          "name": "John Melville Vickers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15301,
+          "name": "Marie Winstanley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ince",
+      "ballot_paper_id": "local.wigan.ince.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 40618,
+          "name": "Yamini Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12743,
+          "name": "Terence William Halliwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98195,
+          "name": "Vincent Dean Holgate",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124540,
+          "name": "Gareth Nelson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126333,
+          "name": "Gemma Painter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111176,
+          "name": "The Zok",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh Central & Higher Folds",
+      "ballot_paper_id": "local.wigan.leigh-central-higher-folds.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128761,
+          "name": "Sarah Victoria Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130325,
+          "name": "Tina Kennedy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98271,
+          "name": "Hannah Elizabeth Sephton",
+          "party_name": "Leigh & Atherton Independents"
+        },
+        {
+          "person_id": 124935,
+          "name": "Ashley Trigg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15333,
+          "name": "Margaret Mary Winstanley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh South",
+      "ballot_paper_id": "local.wigan.leigh-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 117833,
+          "name": "Barbara Ann Caren",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130025,
+          "name": "Neil Andrew Gordon",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 15394,
+          "name": "Jayson Allan Hargreaves",
+          "party_name": "Leigh & Atherton Independents"
+        },
+        {
+          "person_id": 124936,
+          "name": "Jonathon Hughes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75316,
+          "name": "Christopher John Noon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130026,
+          "name": "Leon Peters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98274,
+          "name": "Dominic Alexis Sutton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh West",
+      "ballot_paper_id": "local.wigan.leigh-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 83962,
+          "name": "Samantha Clare Brown",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129722,
+          "name": "David John Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15323,
+          "name": "Lorraine Gillon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15368,
+          "name": "Gerard Joseph Houlton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129723,
+          "name": "Canaan Thomas",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lowton East",
+      "ballot_paper_id": "local.wigan.lowton-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 51060,
+          "name": "Kathleen Houlton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15398,
+          "name": "Garry Peter Lloyd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124541,
+          "name": "Julie Shawcross",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129916,
+          "name": "Simon Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orrell",
+      "ballot_paper_id": "local.wigan.orrell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 97829,
+          "name": "Paul Kevin Bannister",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130329,
+          "name": "Julia Davenport",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97831,
+          "name": "Jim Nicholson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40747,
+          "name": "Neil Duncan Stevenson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 2247,
+          "name": "Michael William Winstanley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pemberton",
+      "ballot_paper_id": "local.wigan.pemberton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 40308,
+          "name": "David John Burley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129852,
+          "name": "Olivia Farrimond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15475,
+          "name": "Jean Margaret Peet",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40309,
+          "name": "Paul Prescott",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126334,
+          "name": "Simon Silcock",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shevington with Lower Ground & Moor",
+      "ballot_paper_id": "local.wigan.shevington-with-lower-ground-moor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 40788,
+          "name": "Marjorie Clayton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130330,
+          "name": "Caeryn Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75151,
+          "name": "Brian Crombie-Fisher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41360,
+          "name": "Michael John Crosby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41699,
+          "name": "Debbie Fairhurst",
+          "party_name": "Standish Independents"
+        },
+        {
+          "person_id": 126335,
+          "name": "Lilian Carol Rogers",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Standish with Langtree",
+      "ballot_paper_id": "local.wigan.standish-with-langtree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129849,
+          "name": "Neil Joseph Dunlop",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7350,
+          "name": "Gareth William Fairhurst",
+          "party_name": "Standish Independents"
+        },
+        {
+          "person_id": 98238,
+          "name": "Margaret Therse Gaffney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129850,
+          "name": "Aimee Laverick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124288,
+          "name": "Hayley Patricia Pierce",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126336,
+          "name": "Michael John Whalley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tyldesley & Mosley Common",
+      "ballot_paper_id": "local.wigan.tyldesley-mosley-common.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 15488,
+          "name": "Susan Atherton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124937,
+          "name": "Paul Binns",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98259,
+          "name": "Jess Eastoe",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 40398,
+          "name": "Anthony Thomas Waite",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 124344,
+          "name": "Adrian White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wigan Central",
+      "ballot_paper_id": "local.wigan.wigan-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127623,
+          "name": "Navas Olavakkode Beeravu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40534,
+          "name": "Andrew Julian Lee Holland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84068,
+          "name": "Paul Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117831,
+          "name": "Lee Moffitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130331,
+          "name": "Jude Scrutton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wigan West",
+      "ballot_paper_id": "local.wigan.wigan-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126337,
+          "name": "Sam Ashton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15310,
+          "name": "Allan Atherton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129851,
+          "name": "Rosalind Hackett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15034,
+          "name": "Stuart David Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77201,
+          "name": "Dave Wood",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winstanley",
+      "ballot_paper_id": "local.wigan.winstanley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126342,
+          "name": "Paul Forbes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111179,
+          "name": "John Logan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 49868,
+          "name": "Marie Teresa Morgan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129917,
+          "name": "William John Parkinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 51077,
+          "name": "Robert Duncan Stevenson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Worsley Mesnes",
+      "ballot_paper_id": "local.wigan.worsley-mesnes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129620,
+          "name": "Deborah Browne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75852,
+          "name": "Danny Cooke",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 97842,
+          "name": "Helen Louise O'Neill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129621,
+          "name": "Ayodeji Samuel Odukoya",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111166,
+          "name": "Keith Whalley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98211,
+          "name": "Stuart John Worthington",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

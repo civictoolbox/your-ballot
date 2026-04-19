@@ -1,0 +1,307 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "redditch",
+    "council_name": "Redditch"
+  },
+  "wards": [
+    {
+      "ward_name": "Astwood Bank & Feckenham",
+      "ballot_paper_id": "local.redditch.astwood-bank-feckenham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 18236,
+          "name": "Roger Michael Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35787,
+          "name": "Monica Fry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89416,
+          "name": "Christopher Holz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 54394,
+          "name": "John Malcolm Marsh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 1346,
+          "name": "Kevin White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Batchley & Brockhill",
+      "ballot_paper_id": "local.redditch.batchley-brockhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 95883,
+          "name": "Kerrie Elizabeth Coope",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36449,
+          "name": "Julian Grubb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129541,
+          "name": "Lisa Marie King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119290,
+          "name": "Ashley Monk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82303,
+          "name": "Mark Tomes",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.redditch.central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129638,
+          "name": "Tim Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 32791,
+          "name": "Pamela Ann Gee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125465,
+          "name": "Stephen Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109690,
+          "name": "Gary Slim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129639,
+          "name": "Alan John Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greenlands & Lakeside",
+      "ballot_paper_id": "local.redditch.greenlands-lakeside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90538,
+          "name": "Juma Begum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97444,
+          "name": "Margot Bish",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 68469,
+          "name": "David Bowater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125466,
+          "name": "Nikki Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18233,
+          "name": "Anthony Pitt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Headless Cross & Oakenshaw",
+      "ballot_paper_id": "local.redditch.headless-cross-oakenshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122672,
+          "name": "Ben Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119077,
+          "name": "Susan Eacock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90492,
+          "name": "Andrew Paul Fieldsend-Roxborough",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109716,
+          "name": "David Munro",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129655,
+          "name": "Kyle Wakefield",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Matchborough & Woodrow",
+      "ballot_paper_id": "local.redditch.matchborough-woodrow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24234,
+          "name": "Juliet Ann Brunner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18217,
+          "name": "David Howard Gee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109702,
+          "name": "Mark Harvey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129824,
+          "name": "Kath Manning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125467,
+          "name": "David Norman Meredith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "North",
+      "ballot_paper_id": "local.redditch.north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73439,
+          "name": "Karen Ashley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35784,
+          "name": "Debbie Chance",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125468,
+          "name": "Nic Pioli",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122675,
+          "name": "Adam Scott Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129661,
+          "name": "Andy Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Webheath & Callow Hill",
+      "ballot_paper_id": "local.redditch.webheath-callow-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 32790,
+          "name": "Claire Mary Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125469,
+          "name": "Simon Edward Farmer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109707,
+          "name": "Finlay Heath",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109715,
+          "name": "Edward John Killworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109721,
+          "name": "Paul Wren",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winyates",
+      "ballot_paper_id": "local.redditch.winyates.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125470,
+          "name": "James Aston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109698,
+          "name": "Clare Beckhelling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129825,
+          "name": "Anita Janet Clayton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35782,
+          "name": "Jim Heaney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109711,
+          "name": "Jade Caroline Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

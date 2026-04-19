@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-farnworth-and-kearsley-first-party",
+    "display_name": "Farnworth and Kearsley First Party",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Farnworth and Kearsley First Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 123540,
+      "name": "Sandra Baker",
+      "party_name": "Farnworth and Kearsley First Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Farnworth North"
+    },
+    {
+      "person_id": 35745,
+      "name": "Paul Sanders",
+      "party_name": "Farnworth and Kearsley First Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Farnworth South"
+    },
+    {
+      "person_id": 73206,
+      "name": "Tracey Wilkinson",
+      "party_name": "Farnworth and Kearsley First Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Kearsley"
+    }
+  ]
+}

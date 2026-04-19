@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-uk-independence-party-ukip",
+    "display_name": "UK Independence Party (UKIP)",
+    "candidate_count": 9,
+    "council_count": 7,
+    "raw_party_names": [
+      "UK Independence Party (UKIP)"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 10386,
+      "name": "Robert Bilcliff",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "tamworth",
+      "council_name": "Tamworth",
+      "ward_name": "Stonydelph"
+    },
+    {
+      "person_id": 72366,
+      "name": "Geoff Courtenay",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Colham & Cowley"
+    },
+    {
+      "person_id": 29792,
+      "name": "Ian Charles Garbutt",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Langney"
+    },
+    {
+      "person_id": 133764,
+      "name": "David Andrew Howard",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Welsh Harp"
+    },
+    {
+      "person_id": 135811,
+      "name": "Jack Hurst",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Richmond"
+    },
+    {
+      "person_id": 128233,
+      "name": "Shahana Khursheed",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Charville"
+    },
+    {
+      "person_id": 128245,
+      "name": "Andy Nix",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Gipton & Harehills"
+    },
+    {
+      "person_id": 30497,
+      "name": "Mike Pursglove",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Pevensey & Stone Cross"
+    },
+    {
+      "person_id": 131802,
+      "name": "Alexander Robinson",
+      "party_name": "UK Independence Party (UKIP)",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Airedale"
+    }
+  ]
+}

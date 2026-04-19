@@ -1,0 +1,558 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-workers-party-of-britain",
+    "display_name": "Workers Party of Britain",
+    "candidate_count": 68,
+    "council_count": 16,
+    "raw_party_names": [
+      "Workers Party of Britain"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 129265,
+      "name": "Syed Saqib Alam Abidi",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Bensham Manor"
+    },
+    {
+      "person_id": 134565,
+      "name": "Mudassir Aftab",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Billesley"
+    },
+    {
+      "person_id": 136851,
+      "name": "Zeeshan Akhtar",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Stonebridge"
+    },
+    {
+      "person_id": 123557,
+      "name": "Ahmed Al-Athwari",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Small Heath"
+    },
+    {
+      "person_id": 109751,
+      "name": "Sohail Ashfaq",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Park"
+    },
+    {
+      "person_id": 117158,
+      "name": "Sameera Ashraf",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Whalley Range"
+    },
+    {
+      "person_id": 125322,
+      "name": "Sikander Aslam",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Sheldon"
+    },
+    {
+      "person_id": 136248,
+      "name": "Saqib Athar",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Ardwick"
+    },
+    {
+      "person_id": 116520,
+      "name": "Paul Bedson",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Foleshill"
+    },
+    {
+      "person_id": 134566,
+      "name": "Raf Beg",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Billesley"
+    },
+    {
+      "person_id": 123559,
+      "name": "Mark Belshaw",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "north-tyneside",
+      "council_name": "North Tyneside",
+      "ward_name": "Cullercoats & Whitley Bay South"
+    },
+    {
+      "person_id": 125312,
+      "name": "Sajid Mehmood Bhatti",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Acocks Green"
+    },
+    {
+      "person_id": 136608,
+      "name": "Fassah Bibi",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Chorlton Park"
+    },
+    {
+      "person_id": 117836,
+      "name": "Mohhamed Bilal",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Rusholme"
+    },
+    {
+      "person_id": 138538,
+      "name": "Benita Blessing",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Spotland & Falinge"
+    },
+    {
+      "person_id": 88495,
+      "name": "Wajid Burkey",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bordesley Green"
+    },
+    {
+      "person_id": 39212,
+      "name": "Katt Cremer",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Soho & Jewellery Quarter"
+    },
+    {
+      "person_id": 137894,
+      "name": "Mohammed Ashraf Dad",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Foleshill"
+    },
+    {
+      "person_id": 136639,
+      "name": "Nadia Dara",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Moss Side"
+    },
+    {
+      "person_id": 112614,
+      "name": "Boris Fedorov",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Barton & Sandhills"
+    },
+    {
+      "person_id": 113213,
+      "name": "Peter Higgins",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Garretts Green"
+    },
+    {
+      "person_id": 135660,
+      "name": "Fahad Ali Hussain",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Hall Green North"
+    },
+    {
+      "person_id": 134903,
+      "name": "Wajid Hussain",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Halifax Town"
+    },
+    {
+      "person_id": 137946,
+      "name": "Wasim Hussain",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "East Ham"
+    },
+    {
+      "person_id": 125330,
+      "name": "Naila Iqbal",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Yardley West & Stechford"
+    },
+    {
+      "person_id": 112800,
+      "name": "Muhammad Iqbal",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Levenshulme"
+    },
+    {
+      "person_id": 137402,
+      "name": "Bahadur Kamran",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Bamford"
+    },
+    {
+      "person_id": 137895,
+      "name": "John Karabinas",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Foleshill"
+    },
+    {
+      "person_id": 125318,
+      "name": "Shehryar Kayani",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Glebe Farm & Tile Cross"
+    },
+    {
+      "person_id": 136014,
+      "name": "Raluca Khajeh",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Fallowfield"
+    },
+    {
+      "person_id": 124953,
+      "name": "Sardar Khan",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bromford & Hodge Hill"
+    },
+    {
+      "person_id": 117842,
+      "name": "Sabeena Khan",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Cheetham"
+    },
+    {
+      "person_id": 135334,
+      "name": "Waqar Khan",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Central Rochdale"
+    },
+    {
+      "person_id": 125321,
+      "name": "Haroon Ahmed Khattak",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Sheldon"
+    },
+    {
+      "person_id": 136703,
+      "name": "Mini Majid",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Crumpsall"
+    },
+    {
+      "person_id": 134813,
+      "name": "Muhammad Saleem Malik",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Brandwood & King's Heath"
+    },
+    {
+      "person_id": 112726,
+      "name": "Tanvir Marth",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Longsight"
+    },
+    {
+      "person_id": 139126,
+      "name": "Raja Miah",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Healey"
+    },
+    {
+      "person_id": 125307,
+      "name": "Mohammad Nadeem",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Tyseley & Hay Mills"
+    },
+    {
+      "person_id": 135310,
+      "name": "Altaf Nadeem",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Balderstone & Kirkholt"
+    },
+    {
+      "person_id": 128737,
+      "name": "Mehwish Nasir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Unsworth"
+    },
+    {
+      "person_id": 125329,
+      "name": "Julian Nistor",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Ward End"
+    },
+    {
+      "person_id": 116931,
+      "name": "Faisal Kabir Nixon",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Hyde Godley"
+    },
+    {
+      "person_id": 119132,
+      "name": "Laura Pugh",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Wardle, Shore & West Littleborough"
+    },
+    {
+      "person_id": 135356,
+      "name": "Esain Saddique",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Warley"
+    },
+    {
+      "person_id": 134908,
+      "name": "Aber Shakar Saghir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Halifax Town"
+    },
+    {
+      "person_id": 36873,
+      "name": "Shakir Saghir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Park"
+    },
+    {
+      "person_id": 137630,
+      "name": "Mohammed Saleem",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Kingsway"
+    },
+    {
+      "person_id": 134953,
+      "name": "Louise Arabella Scrivens",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Castle Vale"
+    },
+    {
+      "person_id": 88468,
+      "name": "Paul Jonathan Scrivens",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Erdington"
+    },
+    {
+      "person_id": 135676,
+      "name": "Aminah Shabir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Hall Green South"
+    },
+    {
+      "person_id": 126513,
+      "name": "Mohammed Shafiq",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Milkstone & Deeplish"
+    },
+    {
+      "person_id": 137942,
+      "name": "Mohammed Shafiq",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Milnrow & Newhey"
+    },
+    {
+      "person_id": 125320,
+      "name": "Amir Shafique",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Glebe Farm & Tile Cross"
+    },
+    {
+      "person_id": 124952,
+      "name": "Tasawar Hussain Shah",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bromford & Hodge Hill"
+    },
+    {
+      "person_id": 132018,
+      "name": "Mudassir Shaheen",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "blackburn-with-darwen",
+      "council_name": "Blackburn With Darwen",
+      "ward_name": "Roe Lee"
+    },
+    {
+      "person_id": 113120,
+      "name": "Shabaz Imtiaz Shamim",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Redvales"
+    },
+    {
+      "person_id": 134933,
+      "name": "Giri Siva",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Druids Heath & Monyhull"
+    },
+    {
+      "person_id": 126577,
+      "name": "Qasim Tahir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "barking-and-dagenham",
+      "council_name": "Barking and Dagenham",
+      "ward_name": "Gascoigne"
+    },
+    {
+      "person_id": 125314,
+      "name": "Mohammad Afzal Tahir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Acocks Green"
+    },
+    {
+      "person_id": 112811,
+      "name": "Muhammad Nadeem Tahir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Burnage"
+    },
+    {
+      "person_id": 125325,
+      "name": "Rehab Talukdar",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Small Heath"
+    },
+    {
+      "person_id": 130066,
+      "name": "Charlie Toes",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "milton-keynes",
+      "council_name": "Milton Keynes",
+      "ward_name": "Wolverton"
+    },
+    {
+      "person_id": 134409,
+      "name": "Momosi Umolu",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "westminster",
+      "council_name": "Westminster",
+      "ward_name": "Harrow Road"
+    },
+    {
+      "person_id": 125309,
+      "name": "Naushaba Yaqoob",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Yardley East"
+    },
+    {
+      "person_id": 125326,
+      "name": "Omar Yousaf",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Soho & Jewellery Quarter"
+    },
+    {
+      "person_id": 115519,
+      "name": "Aheesha Zahir",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "South Yardley"
+    },
+    {
+      "person_id": 128779,
+      "name": "Bilal Zahoor",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Bury East"
+    }
+  ]
+}

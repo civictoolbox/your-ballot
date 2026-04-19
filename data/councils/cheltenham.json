@@ -1,0 +1,660 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "cheltenham",
+    "council_name": "Cheltenham"
+  },
+  "wards": [
+    {
+      "ward_name": "All Saints",
+      "ballot_paper_id": "local.cheltenham.all-saints.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126867,
+          "name": "Hod Birkby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125452,
+          "name": "James Dyson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14089,
+          "name": "Diana Helen Hale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126869,
+          "name": "Gill Hewlett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73622,
+          "name": "Izaac Augustus Tailford",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Battledown",
+      "ballot_paper_id": "local.cheltenham.battledown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126900,
+          "name": "Chris Clinton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110335,
+          "name": "Chris Day",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95508,
+          "name": "Marcia Jacko",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126908,
+          "name": "Lukshayini Manimaran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125532,
+          "name": "Liam Pem",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Benhall, the Reddings & Fiddler's Green",
+      "ballot_paper_id": "local.cheltenham.benhall-the-reddings-fiddlers-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 58731,
+          "name": "Dan Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125528,
+          "name": "Emily Fairburn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126916,
+          "name": "Maggie Humphries",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109639,
+          "name": "Stephen Ian Steinhardt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Charlton Kings",
+      "ballot_paper_id": "local.cheltenham.charlton-kings.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 32769,
+          "name": "Matt Babbage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126931,
+          "name": "Den Jeffreys-Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125529,
+          "name": "Jon Perera",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77320,
+          "name": "Ella Harriet Rees",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126937,
+          "name": "Arthur Gordon Snell",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Charlton Park",
+      "ballot_paper_id": "local.cheltenham.charlton-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126968,
+          "name": "Kevin Charles Bowden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15180,
+          "name": "John Malcolm Bride",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128668,
+          "name": "Elliot Craddock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15181,
+          "name": "Steve Harvey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125526,
+          "name": "Kes Steger",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "College",
+      "ballot_paper_id": "local.cheltenham.college.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 43797,
+          "name": "Garth Wallington Barnes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127008,
+          "name": "Maureen McNall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110356,
+          "name": "Adam Moliver",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46700,
+          "name": "Rich Newman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126984,
+          "name": "Stephen Paul Reid",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 125530,
+          "name": "Naomi Seadon",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hesters Way",
+      "ballot_paper_id": "local.cheltenham.hesters-way.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127019,
+          "name": "Benjamin Botchway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15190,
+          "name": "Samuel Jacob Coxson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127022,
+          "name": "Callum James Eldridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15191,
+          "name": "Wendy Flynn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15222,
+          "name": "Clive Robert Harriss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127032,
+          "name": "Alex Miller",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lansdown",
+      "ballot_paper_id": "local.cheltenham.lansdown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127040,
+          "name": "Dean Raymond Luke Botterill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127043,
+          "name": "Jamie Jamieson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125531,
+          "name": "Ed Joy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127044,
+          "name": "Pippa Mason",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leckhampton",
+      "ballot_paper_id": "local.cheltenham.leckhampton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127058,
+          "name": "Stephen Hayward Bajdala-Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110362,
+          "name": "Julia Caroline Chandler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127059,
+          "name": "Philip Cole",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42054,
+          "name": "Peter Frings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110342,
+          "name": "Nick Saywell",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oakley",
+      "ballot_paper_id": "local.cheltenham.oakley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127074,
+          "name": "Maureen Susan Dodwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110340,
+          "name": "Roy Hewlett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35925,
+          "name": "Alisha Chloe-Marie Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110370,
+          "name": "Nathan Weller",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.cheltenham.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 32753,
+          "name": "Kevin Michael Boyle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127088,
+          "name": "Andrew Patrick Dempsey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15207,
+          "name": "Tim Harman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127092,
+          "name": "Karen Louise Priest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46661,
+          "name": "Karen Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pittville",
+      "ballot_paper_id": "local.cheltenham.pittville.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127111,
+          "name": "Alan James Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110377,
+          "name": "Martin William Glozier",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127114,
+          "name": "Cecily Frances Grace Henderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127120,
+          "name": "Ashley John Fraser Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125527,
+          "name": "Jamal Rahman",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Prestbury",
+      "ballot_paper_id": "local.cheltenham.prestbury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127129,
+          "name": "Lance Alan Fletcher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108909,
+          "name": "Jan Foster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127133,
+          "name": "Benjamin David Ingram",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127143,
+          "name": "Chris Mason",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Springbank",
+      "ballot_paper_id": "local.cheltenham.springbank.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125533,
+          "name": "Sarp Cetin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117056,
+          "name": "David Nigel Edgar",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 46699,
+          "name": "Peter Jeremy Jeffries",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 67136,
+          "name": "Haydn Douglas Pearl",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110349,
+          "name": "Helen Frances Shill",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mark's",
+      "ballot_paper_id": "local.cheltenham.st-marks.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 77352,
+          "name": "Julie Frances Farmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127199,
+          "name": "Antony Neil Fillingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127207,
+          "name": "Colin John Parsons",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73623,
+          "name": "Richard James Pineger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127184,
+          "name": "Kieran Scott",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Paul's",
+      "ballot_paper_id": "local.cheltenham.st-pauls.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127217,
+          "name": "Steve Buckley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110391,
+          "name": "Ashleigh Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110361,
+          "name": "Cathal Lynch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42056,
+          "name": "Christopher John Meehan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109619,
+          "name": "Sandra Gloria Parsons",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peter's",
+      "ballot_paper_id": "local.cheltenham.st-peters.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127241,
+          "name": "Cathy Dearden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77357,
+          "name": "Michael Thomas Farmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127242,
+          "name": "Anthony William Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125535,
+          "name": "John Jarvis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119251,
+          "name": "Billy Jones",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127250,
+          "name": "Risha Santilal",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swindon Village",
+      "ballot_paper_id": "local.cheltenham.swindon-village.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 95507,
+          "name": "Ian Cameron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42065,
+          "name": "Edward Wadih Hazzan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126889,
+          "name": "Chris Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120358,
+          "name": "Richard Lawler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 120294,
+          "name": "Matthew David William Podmore",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Up Hatherley",
+      "ballot_paper_id": "local.cheltenham.up-hatherley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125453,
+          "name": "Joshua James Godfrey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125537,
+          "name": "Elizabeth Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77376,
+          "name": "Julie Margaret Sankey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127264,
+          "name": "Tristram John Francis Torrance",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Warden Hill",
+      "ballot_paper_id": "local.cheltenham.warden-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127270,
+          "name": "Georgie Bass",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127276,
+          "name": "David Paul Dodwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127283,
+          "name": "Ned Holt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15243,
+          "name": "Tony Oliver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110378,
+          "name": "Sarah Quekett",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

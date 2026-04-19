@@ -1,0 +1,442 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "gosport",
+    "council_name": "Gosport"
+  },
+  "wards": [
+    {
+      "ward_name": "Alverstoke",
+      "ballot_paper_id": "local.gosport.alverstoke.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 38400,
+          "name": "Kevin Francis Casey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111154,
+          "name": "Lizzie Maynard-Seal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132732,
+          "name": "Benjamin Edward Searle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132733,
+          "name": "Aid Smalley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Anglesey",
+      "ballot_paper_id": "local.gosport.anglesey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110663,
+          "name": "Robbie George Beech",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78086,
+          "name": "Emma Victoria Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132734,
+          "name": "Charlie Hylands",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132735,
+          "name": "Debbie McGregor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bridgemary",
+      "ballot_paper_id": "local.gosport.bridgemary.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 72389,
+          "name": "Zoe Aspinall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125025,
+          "name": "Clare Bond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31142,
+          "name": "Steve Hammond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132749,
+          "name": "Peter John Stonestreet",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brockhurst & Privett",
+      "ballot_paper_id": "local.gosport.brockhurst-privett.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132761,
+          "name": "Karyn Jacqueline Ashcroft",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2359,
+          "name": "Rob Hylands",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132762,
+          "name": "David John Marshall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132763,
+          "name": "George McAleese",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132764,
+          "name": "Danny Mower",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elson",
+      "ballot_paper_id": "local.gosport.elson.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 38411,
+          "name": "Sue Ballard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88623,
+          "name": "Kathryn Shelagh Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38412,
+          "name": "Alan Michael Neville",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132786,
+          "name": "Stephen Alan Osborne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132787,
+          "name": "Antony Stanton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forton",
+      "ballot_paper_id": "local.gosport.forton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132897,
+          "name": "Merv Bradley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132898,
+          "name": "Lynsey Dawn Delin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132899,
+          "name": "James Christopher Figgins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132900,
+          "name": "Suzanne Geary",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132901,
+          "name": "Robert Charles Stewart Thompson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grange & Alver Valley",
+      "ballot_paper_id": "local.gosport.grange-alver-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 78029,
+          "name": "Jonathan Brown",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 38414,
+          "name": "Clive Foster-Reed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132857,
+          "name": "Mark William Mudie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132858,
+          "name": "Colin John Towell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132859,
+          "name": "Ellis Terry Weekes",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harbourside & Town",
+      "ballot_paper_id": "local.gosport.harbourside-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110667,
+          "name": "Tynan James Bryant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132835,
+          "name": "Nikki Cameron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132836,
+          "name": "Paul James Hylands",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132837,
+          "name": "Taylor Kirkham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15912,
+          "name": "Gary David Walker",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hardway",
+      "ballot_paper_id": "local.gosport.hardway.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 38405,
+          "name": "Simon James Bellord",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131852,
+          "name": "Tom Bolger",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110658,
+          "name": "Mike Ewin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131853,
+          "name": "Philip Sparrow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110669,
+          "name": "Anthony Sudworth",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lee East",
+      "ballot_paper_id": "local.gosport.lee-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 125095,
+          "name": "Ian Richard Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15957,
+          "name": "Graham Burgess",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132818,
+          "name": "Matt Reeve-Fowkes",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lee West",
+      "ballot_paper_id": "local.gosport.lee-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 78049,
+          "name": "Anne Marie Cruddas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132800,
+          "name": "Gill Farrington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77974,
+          "name": "James Robert Kirkham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111155,
+          "name": "Stevyn Christopher Ricketts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leesland & Newtown",
+      "ballot_paper_id": "local.gosport.leesland-newtown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 88609,
+          "name": "David Frederick Gary",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15923,
+          "name": "Dawn Christina Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132803,
+          "name": "Elly Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78066,
+          "name": "Hilary Ruth Percival",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111141,
+          "name": "Miles Clifford Fletcher Plested",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peel Common",
+      "ballot_paper_id": "local.gosport.peel-common.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 89322,
+          "name": "Jess Dylan Cully",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131863,
+          "name": "Spencer Gregson-Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131515,
+          "name": "Lucy Catherine MacLennan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15968,
+          "name": "Stephen Philpott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110661,
+          "name": "Debbie Sherman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rowner & Holbrook",
+      "ballot_paper_id": "local.gosport.rowner-holbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 13840,
+          "name": "Diane Hilda Furlong",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38421,
+          "name": "Dave Herridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132789,
+          "name": "Paul Jacobs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78003,
+          "name": "Claire Percival",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15911,
+          "name": "Jane Staffieri",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

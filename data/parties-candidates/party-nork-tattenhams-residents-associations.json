@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-nork-tattenhams-residents-associations",
+    "display_name": "Nork & Tattenhams Residents' Associations",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Nork & Tattenhams Residents' Associations"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 58657,
+      "name": "Peter Harp",
+      "party_name": "Nork & Tattenhams Residents' Associations",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Nork & Tattenhams"
+    },
+    {
+      "person_id": 112038,
+      "name": "Tim Snuggs",
+      "party_name": "Nork & Tattenhams Residents' Associations",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Nork & Tattenhams"
+    }
+  ]
+}

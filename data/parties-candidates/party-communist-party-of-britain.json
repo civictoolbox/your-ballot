@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-communist-party-of-britain",
+    "display_name": "Communist Party of Britain",
+    "candidate_count": 13,
+    "council_count": 9,
+    "raw_party_names": [
+      "Communist Party of Britain"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 109925,
+      "name": "Simon Brignell",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "cambridge",
+      "council_name": "Cambridge",
+      "ward_name": "Abbey"
+    },
+    {
+      "person_id": 74748,
+      "name": "Lorraine Douglas",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "King's Lynn North & Central"
+    },
+    {
+      "person_id": 109380,
+      "name": "William James Dry",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "cambridge",
+      "council_name": "Cambridge",
+      "ward_name": "East Chesterton"
+    },
+    {
+      "person_id": 15868,
+      "name": "Mark Antony Ewington",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "st-albans",
+      "council_name": "St Albans",
+      "ward_name": "Sopwell"
+    },
+    {
+      "person_id": 139104,
+      "name": "Alex Francis-Palmer",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Ardwick"
+    },
+    {
+      "person_id": 79543,
+      "name": "Steve Handford",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 128736,
+      "name": "Chris Malkin",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Unsworth"
+    },
+    {
+      "person_id": 138656,
+      "name": "James Nutman",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Nelson"
+    },
+    {
+      "person_id": 138656,
+      "name": "James Nutman",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "Nelson"
+    },
+    {
+      "person_id": 128722,
+      "name": "Eddy Redmund",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Radcliffe North & Ainsworth"
+    },
+    {
+      "person_id": 94879,
+      "name": "Dan Ross",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Pilkington Park"
+    },
+    {
+      "person_id": 116723,
+      "name": "Oliver Snelling",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Deptford"
+    },
+    {
+      "person_id": 60316,
+      "name": "Darren Alan Turner",
+      "party_name": "Communist Party of Britain",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Abbeygate & Minden"
+    }
+  ]
+}

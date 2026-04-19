@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-redbridge-matters",
+    "display_name": "Redbridge Matters",
+    "candidate_count": 9,
+    "council_count": 1,
+    "raw_party_names": [
+      "Redbridge Matters"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 137233,
+      "name": "Farjana Afroja",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Clementswood"
+    },
+    {
+      "person_id": 134754,
+      "name": "Muhammad Naseer Afzal",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Loxford"
+    },
+    {
+      "person_id": 137334,
+      "name": "Shamima Aktar",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Chadwell"
+    },
+    {
+      "person_id": 91984,
+      "name": "Kabir Mahmud",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Clayhall"
+    },
+    {
+      "person_id": 137340,
+      "name": "Ahmed Maruf",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Chadwell"
+    },
+    {
+      "person_id": 136562,
+      "name": "Mohammed Khaled Noor",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Seven Kings"
+    },
+    {
+      "person_id": 134766,
+      "name": "Ataur Rahman",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Loxford"
+    },
+    {
+      "person_id": 136566,
+      "name": "Abdur Rashid",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Seven Kings"
+    },
+    {
+      "person_id": 137281,
+      "name": "Mohammed Abdus Shahid",
+      "party_name": "Redbridge Matters",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Clayhall"
+    }
+  ]
+}

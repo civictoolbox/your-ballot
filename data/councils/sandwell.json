@@ -1,0 +1,1762 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "sandwell",
+    "council_name": "Sandwell"
+  },
+  "wards": [
+    {
+      "ward_name": "Bearwood",
+      "ballot_paper_id": "local.sandwell.bearwood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130179,
+          "name": "Leon Barnfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130180,
+          "name": "Paul Bithell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39507,
+          "name": "Paul William Connor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130181,
+          "name": "Bobbie Fenton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81921,
+          "name": "Richard Gingell",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 110744,
+          "name": "Hilary Jane Grandey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130182,
+          "name": "Jennifer Lynn Hemingway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130183,
+          "name": "Balbinder Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130184,
+          "name": "Karol Krupa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130185,
+          "name": "Sita Ram Malhi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130186,
+          "name": "Nathan Luke Poole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130187,
+          "name": "John Ashley Tipper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97280,
+          "name": "Robert William White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackheath",
+      "ballot_paper_id": "local.sandwell.blackheath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129898,
+          "name": "Bhapinder Singh Bains",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110678,
+          "name": "Gemma Barnfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18968,
+          "name": "Kerrie Carmichael",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 72187,
+          "name": "Michael Andrew Cooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87484,
+          "name": "Mona Khurana",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129899,
+          "name": "Karolina Kordala",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129900,
+          "name": "Shobha Sharma",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129901,
+          "name": "Randall Shergill",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 96415,
+          "name": "Jag Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129902,
+          "name": "Richard Andrew Watson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129903,
+          "name": "Deborah White",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129904,
+          "name": "Dave Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129905,
+          "name": "Ellis Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bristnall",
+      "ballot_paper_id": "local.sandwell.bristnall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 129873,
+          "name": "Colin Blewitt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129874,
+          "name": "Kalman Dean-Richards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87475,
+          "name": "Amolak Singh Dhariwal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129875,
+          "name": "Rafal Dobiczek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81843,
+          "name": "Ellen Fenton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129876,
+          "name": "Jonathan James Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129877,
+          "name": "Amran Singh Jaypal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129878,
+          "name": "Tom Johnston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129879,
+          "name": "Louise Pearson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129880,
+          "name": "Ravinder Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129881,
+          "name": "Richard Touzjian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129882,
+          "name": "Liane Winsper",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Charlemont & Grove Vale",
+      "ballot_paper_id": "local.sandwell.charlemont-grove-vale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129923,
+          "name": "Parminder Kaur Bahia",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110679,
+          "name": "Dalel Singh Bhamra",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87481,
+          "name": "Aran Duggal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81942,
+          "name": "Amrita Jasmine Dunn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18873,
+          "name": "David Dean Fisher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129924,
+          "name": "Bob Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129925,
+          "name": "Maddi Lane",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129926,
+          "name": "Rachael Michelle Mitchell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110711,
+          "name": "Ray Nock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129927,
+          "name": "Satish Danny Paul",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54666,
+          "name": "Bertram Richards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129928,
+          "name": "Primrose Joy Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129929,
+          "name": "Stephanie Hyacinth Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cradley Heath & Old Hill",
+      "ballot_paper_id": "local.sandwell.cradley-heath-old-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129933,
+          "name": "Katherine Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81877,
+          "name": "Satinder Dunn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129934,
+          "name": "Brad Dymond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129935,
+          "name": "Kimberly Victoria Goddard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129936,
+          "name": "Mark Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129937,
+          "name": "Sheraz Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129938,
+          "name": "Tom Knowles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129939,
+          "name": "Craig Morris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129940,
+          "name": "Annetta Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96745,
+          "name": "Awais Qaisar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129941,
+          "name": "Sam Richardson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39509,
+          "name": "Julie Webb",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129942,
+          "name": "Nathan John Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Friar Park & Stone Cross",
+      "ballot_paper_id": "local.sandwell.friar-park-stone-cross.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 110683,
+          "name": "Paul Barnfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129585,
+          "name": "Nick Fawcett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97281,
+          "name": "Terry Fitzgerald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54458,
+          "name": "Elizabeth Ann Giles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39429,
+          "name": "Simon Hackett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129586,
+          "name": "Nita Leyshon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129587,
+          "name": "Dennis Oba",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129588,
+          "name": "Amy Pittaway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35017,
+          "name": "Colin Nicholas Rankine",
+          "party_name": "Yeshua"
+        },
+        {
+          "person_id": 129589,
+          "name": "Cameron Robinson-Perry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96778,
+          "name": "Jack Sabharwal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129590,
+          "name": "Lisa Jane Weaver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129591,
+          "name": "Agnieszca Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Barr, Tamebridge & Yew Tree",
+      "ballot_paper_id": "local.sandwell.great-barr-tamebridge-yew-tree.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130198,
+          "name": "Hoque Akramul",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130199,
+          "name": "Michaela Allcock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130200,
+          "name": "Vik Chandla",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130201,
+          "name": "Jaroslaw Cwik",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130202,
+          "name": "Ray Darby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130203,
+          "name": "Frank Emukperuo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130204,
+          "name": "Darren Richard Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130205,
+          "name": "Debi Hayward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110693,
+          "name": "Connor Lee Horton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130206,
+          "name": "Mazhar Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110694,
+          "name": "Adrian Frederick Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130207,
+          "name": "Michal Lorek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81891,
+          "name": "Mark Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110697,
+          "name": "Margaret Laura Sutton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Bridge",
+      "ballot_paper_id": "local.sandwell.great-bridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130142,
+          "name": "Parveen Ahkter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130143,
+          "name": "Joe Cogavin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130144,
+          "name": "Kartar Singh Dosanjh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130145,
+          "name": "Keith Stephen Edge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110772,
+          "name": "Aaron David Emms",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73283,
+          "name": "Will Gill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130147,
+          "name": "Naseer Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130148,
+          "name": "Shahid Mahmood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96030,
+          "name": "Sahdaish Kaur Pall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87492,
+          "name": "Soyfur Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130149,
+          "name": "Brad Steven Simms",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130150,
+          "name": "Mark Terence Webb",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greets Green & Lyng",
+      "ballot_paper_id": "local.sandwell.greets-green-lyng.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129671,
+          "name": "Mohammed Ahad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129672,
+          "name": "Renee Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129673,
+          "name": "Laura Curtis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129674,
+          "name": "Paul Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129675,
+          "name": "Mohammed Musharrof Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129676,
+          "name": "Mark McDermott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129677,
+          "name": "Balbir Singh Negi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81909,
+          "name": "Pam Randhawa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129678,
+          "name": "Mike Stanyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129679,
+          "name": "Patrycja Suchenek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39556,
+          "name": "Jackie Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129680,
+          "name": "Dagmara Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129681,
+          "name": "Patryk Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hateley Heath",
+      "ballot_paper_id": "local.sandwell.hateley-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129950,
+          "name": "Dorota Cwik",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129951,
+          "name": "Stephen James Fellows",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129952,
+          "name": "Susan Gollins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129953,
+          "name": "Theresa Millard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39574,
+          "name": "Paul Moore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129954,
+          "name": "Dave Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129955,
+          "name": "Doug Perry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110716,
+          "name": "Martin Roebuck",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129956,
+          "name": "Ram Sarup",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129957,
+          "name": "Amardeep Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129958,
+          "name": "Sunitha Soni",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129959,
+          "name": "Liegha Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129960,
+          "name": "Jayne Wilkinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hill Top",
+      "ballot_paper_id": "local.sandwell.hill-top.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130101,
+          "name": "Zach Bates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39373,
+          "name": "Jenny Chidley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130102,
+          "name": "Dean Adam Hollowood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130103,
+          "name": "Amaan Husen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130104,
+          "name": "Skerntian Keri",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130105,
+          "name": "Aaron Khuttan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130106,
+          "name": "Rohan Lal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81844,
+          "name": "Manjit Singh Lall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130107,
+          "name": "Al Imon Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130108,
+          "name": "Olivia Emily Shaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18872,
+          "name": "Steve Simcox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96779,
+          "name": "Kulwant Singh Uppal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130109,
+          "name": "Oskar Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Langley",
+      "ballot_paper_id": "local.sandwell.langley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130211,
+          "name": "Eve Batten",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130212,
+          "name": "Izabela Blaszczak",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130213,
+          "name": "Sandra Collinge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130214,
+          "name": "James Deans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96695,
+          "name": "Sarah Louise Deans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5848,
+          "name": "Pete Durnell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130215,
+          "name": "Nadia Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130216,
+          "name": "Paul Christopher Leavey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81919,
+          "name": "Caroline Louise Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130217,
+          "name": "Dheeraj Singh Rawat",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130218,
+          "name": "Jill Tromans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130219,
+          "name": "Krzysztof Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130220,
+          "name": "Tuli Zefi",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newton & Valley",
+      "ballot_paper_id": "local.sandwell.newton-valley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 39249,
+          "name": "Keith Robert Allcock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129906,
+          "name": "Saj Ashraf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129907,
+          "name": "Tarjinder Singh Bassi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129908,
+          "name": "Liam Emanuel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18970,
+          "name": "Elaine Mary Giles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81853,
+          "name": "Amanda Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129909,
+          "name": "Kenny Jinks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129910,
+          "name": "Daljit Kaur",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129911,
+          "name": "Roman Lal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129912,
+          "name": "Ewa Lorek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129913,
+          "name": "Alina Mazur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97256,
+          "name": "Jeremy David Parker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129914,
+          "name": "Tiffany Sims",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129915,
+          "name": "Rob Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Warley",
+      "ballot_paper_id": "local.sandwell.old-warley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 81927,
+          "name": "Harnoor Bhullar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110743,
+          "name": "Luke Dean Cotterill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129779,
+          "name": "Eric Dawes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110730,
+          "name": "Mark Steven Holdroyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96726,
+          "name": "Chippie Kalebe-Nyamongo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81928,
+          "name": "Karl Terry Leech",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96744,
+          "name": "Connor Marshall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129780,
+          "name": "Mohammed Mahmood Amin Miah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129781,
+          "name": "Tanisha Reid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129782,
+          "name": "Aleksandra Rokita",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129783,
+          "name": "Katarzyna Sikora",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110684,
+          "name": "Baljinder Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81929,
+          "name": "Bob Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oldbury",
+      "ballot_paper_id": "local.sandwell.oldbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 129840,
+          "name": "Amit Amit",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129841,
+          "name": "Jake Simon Cree",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129842,
+          "name": "Andy Dangerfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129843,
+          "name": "Thomas Alan Richard Gerrish",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 54669,
+          "name": "Suzanne Maria Hartwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129844,
+          "name": "Stuart Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81922,
+          "name": "Rizwan Jalil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129845,
+          "name": "Shazia Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129846,
+          "name": "Daniel Marquez",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129847,
+          "name": "Rita Randell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81936,
+          "name": "Nagi Daya Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129848,
+          "name": "Andrew John Such",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Princes End",
+      "ballot_paper_id": "local.sandwell.princes-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130122,
+          "name": "Helen Broome",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110749,
+          "name": "Kelly Cranston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110750,
+          "name": "Gary Andrew Dale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130123,
+          "name": "Geoff Deakin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130124,
+          "name": "Seona Deuchar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130125,
+          "name": "Shareen Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96716,
+          "name": "Justyna Kordala",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130126,
+          "name": "Joanna Quaye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130127,
+          "name": "Chandra Shekhar Sharma",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130128,
+          "name": "Neil Shirvington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97275,
+          "name": "Geoffrey Lionel Sutton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97287,
+          "name": "Natalie Weston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130129,
+          "name": "David John Wilkes",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 110751,
+          "name": "Archer Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rowley",
+      "ballot_paper_id": "local.sandwell.rowley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130113,
+          "name": "Kelly Burton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130114,
+          "name": "Eva Echo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130115,
+          "name": "Desta Harris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96715,
+          "name": "Sohail Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130116,
+          "name": "Sharnjit Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97186,
+          "name": "Khayam Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130117,
+          "name": "Ryan Lal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81845,
+          "name": "Joseph Loudon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130118,
+          "name": "Ritchie Colin Massey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130119,
+          "name": "Benjamin James Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130120,
+          "name": "Jeet Taheem",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130121,
+          "name": "Paul Tromans",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Smethwick",
+      "ballot_paper_id": "local.sandwell.smethwick.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130158,
+          "name": "Mamta Bhardwaj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96034,
+          "name": "Luke John Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130159,
+          "name": "Keiran David John Diver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130160,
+          "name": "Simran Kaur",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81943,
+          "name": "Parbinder Kaur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130161,
+          "name": "Ash Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130162,
+          "name": "Harjindar Kaur Marwaha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130163,
+          "name": "Dwayne Robert James McQuaid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6386,
+          "name": "Mark Redding",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130164,
+          "name": "Kez Sleeman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130165,
+          "name": "Tarlochan Sunner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130166,
+          "name": "Ann Wylie",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Soho & Victoria",
+      "ballot_paper_id": "local.sandwell.soho-victoria.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130340,
+          "name": "Andrea Melissa Boxall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96714,
+          "name": "Christopher Bernard Clemson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130341,
+          "name": "David Michael Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130342,
+          "name": "Erin Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96730,
+          "name": "Ragih Saleh Ahmed Muflihi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130343,
+          "name": "Susan Neale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130344,
+          "name": "Jolanta Obcowska-Sarup",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18386,
+          "name": "Farut Shaeen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130346,
+          "name": "Stefan Joseph Gareth Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130345,
+          "name": "Les Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74257,
+          "name": "Leslie Trumpeter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87522,
+          "name": "Mohammed Jalal Uddin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Pauls",
+      "ballot_paper_id": "local.sandwell.st-pauls.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 84240,
+          "name": "Aqeela Choudhry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130232,
+          "name": "Steven Finch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81954,
+          "name": "Sukhbir Singh Gill",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87527,
+          "name": "Abid Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130234,
+          "name": "Shirley Andrea Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130235,
+          "name": "Owais Sajed Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130237,
+          "name": "Krzysztof Misiewicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130236,
+          "name": "Anna Misiewicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81958,
+          "name": "Charn Singh Padda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130238,
+          "name": "Mark John Pilkington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110688,
+          "name": "Kevin Priest",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126554,
+          "name": "Jay Singh",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130239,
+          "name": "Kenan Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130240,
+          "name": "Lynne Tomkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tipton Green",
+      "ballot_paper_id": "local.sandwell.tipton-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130241,
+          "name": "Prabhkin Kaur Bhullar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130242,
+          "name": "Raven Dixon-Biggs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130243,
+          "name": "Katarzyna Dobosz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110705,
+          "name": "Khurshid Haque",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130244,
+          "name": "Tim Hordley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130245,
+          "name": "Abdul Husen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130246,
+          "name": "Nahid Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52578,
+          "name": "Richard James Elessing Jeffcoat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 52579,
+          "name": "Syeda Khatun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130247,
+          "name": "Tom Lewandowski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130248,
+          "name": "Matt Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18995,
+          "name": "Aldo Mussi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130249,
+          "name": "Manjit Singh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tividale",
+      "ballot_paper_id": "local.sandwell.tividale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130078,
+          "name": "Mark Byrne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 19011,
+          "name": "Maria Crompton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130079,
+          "name": "Robin Sarah Diver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130080,
+          "name": "Altaf Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130081,
+          "name": "James Francis Munoz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130082,
+          "name": "Ken Parsons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87521,
+          "name": "Jasbir Ranie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130083,
+          "name": "Ritu Sharma",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130084,
+          "name": "Coleen Sheehan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110775,
+          "name": "Palwinder Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130085,
+          "name": "Libbi Tudor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130086,
+          "name": "Jacek Wojtowicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130087,
+          "name": "Lou Yates",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wednesbury",
+      "ballot_paper_id": "local.sandwell.wednesbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129624,
+          "name": "Mohammed All-Hasan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39722,
+          "name": "Luke Giles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129625,
+          "name": "Jeremy John Handley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19013,
+          "name": "Peter Hughes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54692,
+          "name": "Richard Daniel Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96735,
+          "name": "Nicola Marie Maycock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110687,
+          "name": "Richard McVittie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110803,
+          "name": "Rafiullah Mohammadzai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129626,
+          "name": "Owen Michael Nelson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129627,
+          "name": "George Okpako",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129628,
+          "name": "Gina Patel",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129629,
+          "name": "Evelyn Pessu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129630,
+          "name": "Jai Kaur Sandhu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129631,
+          "name": "Paul Snape",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129632,
+          "name": "Eve Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Bromwich Central",
+      "ballot_paper_id": "local.sandwell.west-bromwich-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130255,
+          "name": "Oluwadamilola Oluwaseon Amoo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96696,
+          "name": "Tirath Singh Dhatt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130256,
+          "name": "Chris George",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130257,
+          "name": "Daria Gorczynska",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130258,
+          "name": "Sarah James",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130259,
+          "name": "Nikhwat Marawat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130260,
+          "name": "Suzanna Narojczyk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18975,
+          "name": "Liam Vincent Preece",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130261,
+          "name": "Kristopher Sarabadu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130262,
+          "name": "Gaynor Summan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130263,
+          "name": "Sue Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130264,
+          "name": "Harpal Kaur Tiwana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130265,
+          "name": "Anne-Marie Wright",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

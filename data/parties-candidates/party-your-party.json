@@ -1,0 +1,174 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-your-party",
+    "display_name": "Your Party",
+    "candidate_count": 20,
+    "council_count": 12,
+    "raw_party_names": [
+      "Your Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 91688,
+      "name": "Nowshed Abu",
+      "party_name": "Your Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Sparkbrook & Balsall Heath East"
+    },
+    {
+      "person_id": 124964,
+      "name": "Tom Adhikari",
+      "party_name": "Your Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Dockyard"
+    },
+    {
+      "person_id": 133360,
+      "name": "Daniel Liam Robert Ansell",
+      "party_name": "Your Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Lewisham Central"
+    },
+    {
+      "person_id": 133408,
+      "name": "Callum Paton Carter",
+      "party_name": "Your Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Rushey Green"
+    },
+    {
+      "person_id": 49139,
+      "name": "Ron Cooper",
+      "party_name": "Your Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Tanhouse & Skelmersdale Town Centre"
+    },
+    {
+      "person_id": 134686,
+      "name": "Shahid Hashmi",
+      "party_name": "Your Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Sparkbrook & Balsall Heath East"
+    },
+    {
+      "person_id": 92482,
+      "name": "Paul Hogan",
+      "party_name": "Your Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Skelmersdale North"
+    },
+    {
+      "person_id": 133149,
+      "name": "Doug Holloway",
+      "party_name": "Your Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Dibden & Hythe"
+    },
+    {
+      "person_id": 126677,
+      "name": "Shafaq Hussain",
+      "party_name": "Your Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Small Heath"
+    },
+    {
+      "person_id": 84764,
+      "name": "Obaydul Kabir",
+      "party_name": "Your Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Small Heath"
+    },
+    {
+      "person_id": 124962,
+      "name": "Narendra Kandel",
+      "party_name": "Your Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead & Glyndon"
+    },
+    {
+      "person_id": 131960,
+      "name": "Md Shoeb Khan",
+      "party_name": "Your Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hoe Street"
+    },
+    {
+      "person_id": 133365,
+      "name": "Davis St Marthe",
+      "party_name": "Your Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Lewisham Central"
+    },
+    {
+      "person_id": 126448,
+      "name": "Mel Mullings",
+      "party_name": "Your Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 134352,
+      "name": "Dawud Mustifa",
+      "party_name": "Your Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Tyseley & Hay Mills"
+    },
+    {
+      "person_id": 75850,
+      "name": "Rob Petch",
+      "party_name": "Your Party",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Paston & Walton"
+    },
+    {
+      "person_id": 128491,
+      "name": "Ryan Richards",
+      "party_name": "Your Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Headingley & Hyde Park"
+    },
+    {
+      "person_id": 101570,
+      "name": "Ashley Walker",
+      "party_name": "Your Party",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Davenport & Cale Green"
+    },
+    {
+      "person_id": 41523,
+      "name": "John David Warmisham",
+      "party_name": "Your Party",
+      "council_slug": "salford",
+      "council_name": "Salford",
+      "ward_name": "Weaste & Seedley"
+    },
+    {
+      "person_id": 71826,
+      "name": "Tony Wilson",
+      "party_name": "Your Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Droylsden East"
+    }
+  ]
+}

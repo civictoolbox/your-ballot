@@ -1,0 +1,5414 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "labour-coop",
+    "display_name": "Labour and Co-operative Party",
+    "candidate_count": 675,
+    "council_count": 92,
+    "raw_party_names": [
+      "Labour and Co-operative Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 124002,
+      "name": "Funmi Abari",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Tottenham Central"
+    },
+    {
+      "person_id": 92517,
+      "name": "Anna Abela",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Harringay"
+    },
+    {
+      "person_id": 124753,
+      "name": "Sandra Rose Absalom",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Penhill & Pinehurst"
+    },
+    {
+      "person_id": 123780,
+      "name": "Erica Abu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham East"
+    },
+    {
+      "person_id": 17527,
+      "name": "Funmi Adeyemi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Moorland"
+    },
+    {
+      "person_id": 36302,
+      "name": "Danny Adilypour",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Common & Vale"
+    },
+    {
+      "person_id": 52931,
+      "name": "Betty Affleck",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Hyde Godley"
+    },
+    {
+      "person_id": 77250,
+      "name": "Kola Agboola",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington North"
+    },
+    {
+      "person_id": 128056,
+      "name": "Tammy Aghedo",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead & Glyndon"
+    },
+    {
+      "person_id": 95002,
+      "name": "Leelu Ahmed",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 129340,
+      "name": "Afuah Ahorgah-Dorfia",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington North"
+    },
+    {
+      "person_id": 138744,
+      "name": "Matthew Ainsley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "University"
+    },
+    {
+      "person_id": 137793,
+      "name": "Shahnaz Akhter",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Lower Stoke"
+    },
+    {
+      "person_id": 47313,
+      "name": "Evelyn Akoto",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Old Kent Road"
+    },
+    {
+      "person_id": 52959,
+      "name": "Shibley Alam",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Hyde Werneth"
+    },
+    {
+      "person_id": 136129,
+      "name": "Emmanuel Oluwaseun Alawode",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Denton & Westerhope"
+    },
+    {
+      "person_id": 136336,
+      "name": "Nabeela Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Monument"
+    },
+    {
+      "person_id": 137070,
+      "name": "Irim Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Wingrove"
+    },
+    {
+      "person_id": 138807,
+      "name": "Taz Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "south-tyneside",
+      "council_name": "South Tyneside",
+      "ward_name": "Fellgate & Hedworth"
+    },
+    {
+      "person_id": 76251,
+      "name": "Rajhia Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Priory Vale"
+    },
+    {
+      "person_id": 4142,
+      "name": "Junab Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Priory Vale"
+    },
+    {
+      "person_id": 6431,
+      "name": "Amina Ali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 46229,
+      "name": "Shumon Ali-Rahman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Higham Hill"
+    },
+    {
+      "person_id": 83694,
+      "name": "Gary Allen",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Victoria"
+    },
+    {
+      "person_id": 124684,
+      "name": "Harcourt Alleyne",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Crofton Park"
+    },
+    {
+      "person_id": 127277,
+      "name": "Lesley Joan Allinson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Carholme"
+    },
+    {
+      "person_id": 37218,
+      "name": "David Allport",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Talke & Butt Lane"
+    },
+    {
+      "person_id": 135949,
+      "name": "Danny Alan Allsebrook",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Woodhouse"
+    },
+    {
+      "person_id": 124066,
+      "name": "Carys Allsopp",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "North Bermondsey"
+    },
+    {
+      "person_id": 128280,
+      "name": "Julia Almond",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Temple Newsam"
+    },
+    {
+      "person_id": 138740,
+      "name": "Lisa Charlotte Alston",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Town Close"
+    },
+    {
+      "person_id": 138740,
+      "name": "Lisa Charlotte Alston",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "Town Close"
+    },
+    {
+      "person_id": 130956,
+      "name": "Adorabelle Amaral-Shaikh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Broadgreen"
+    },
+    {
+      "person_id": 40621,
+      "name": "Abdul Amin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Walcot"
+    },
+    {
+      "person_id": 129288,
+      "name": "Aba Amoah",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Broad Green"
+    },
+    {
+      "person_id": 45810,
+      "name": "Paul Gerrard Andrews",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Baguley"
+    },
+    {
+      "person_id": 136158,
+      "name": "Susan Anthony",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Benwell, Scotswood & Denton Burn"
+    },
+    {
+      "person_id": 35941,
+      "name": "Donatus Obilor Anyanwu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton Windrush"
+    },
+    {
+      "person_id": 18725,
+      "name": "Salma Arif",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Gipton & Harehills"
+    },
+    {
+      "person_id": 88046,
+      "name": "Debbie Armiger",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Glebe"
+    },
+    {
+      "person_id": 117895,
+      "name": "Dom Armstrong",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Common & Vale"
+    },
+    {
+      "person_id": 45051,
+      "name": "Lubna Arshad",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Blackbird Leys"
+    },
+    {
+      "person_id": 135367,
+      "name": "Mohammad Arshad",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Milkstone & Deeplish"
+    },
+    {
+      "person_id": 36376,
+      "name": "Mary Elizabeth Aspinall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Sutton and Mount Gould"
+    },
+    {
+      "person_id": 47257,
+      "name": "Peymana Assad",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    },
+    {
+      "person_id": 36299,
+      "name": "Liz Atkins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Hill East"
+    },
+    {
+      "person_id": 108953,
+      "name": "Dawn Atkinson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Deptford"
+    },
+    {
+      "person_id": 123670,
+      "name": "Sam James Gary Attwater",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 91916,
+      "name": "Robert Austin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "knowsley",
+      "council_name": "Knowsley",
+      "ward_name": "Page Moss"
+    },
+    {
+      "person_id": 137346,
+      "name": "Paul Austin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Middleton"
+    },
+    {
+      "person_id": 89398,
+      "name": "Joshua Ayodele",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Arsenal"
+    },
+    {
+      "person_id": 45388,
+      "name": "Olu Babatola",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Middle Park & Horn Park"
+    },
+    {
+      "person_id": 48691,
+      "name": "Pauline Bacon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "colchester",
+      "council_name": "Colchester",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 48691,
+      "name": "Pauline Bacon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Colchester North"
+    },
+    {
+      "person_id": 62115,
+      "name": "John Ballman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Penhill & Pinehurst"
+    },
+    {
+      "person_id": 129500,
+      "name": "Bikram Banerjee",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "basingstoke-and-deane",
+      "council_name": "Basingstoke and Deane",
+      "ward_name": "Brookvale & Kings Furlong"
+    },
+    {
+      "person_id": 124058,
+      "name": "Ruth Bannister",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Dulwich Wood"
+    },
+    {
+      "person_id": 110029,
+      "name": "Rebecca Banwell-Moore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Badbury Park, Eldene & Liden"
+    },
+    {
+      "person_id": 124686,
+      "name": "Judith Mary Barrett",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Rushey Green"
+    },
+    {
+      "person_id": 17652,
+      "name": "Vince Thomas Barry-Stanners",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Denton & Westerhope"
+    },
+    {
+      "person_id": 74189,
+      "name": "Stephen John Barry-Stanners",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Lemington"
+    },
+    {
+      "person_id": 76944,
+      "name": "Sandra Bauer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Kidbrooke Village & Sutcliffe"
+    },
+    {
+      "person_id": 70579,
+      "name": "Noel Bayley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Besses"
+    },
+    {
+      "person_id": 126201,
+      "name": "Nick Beall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe West"
+    },
+    {
+      "person_id": 126355,
+      "name": "Billy Beckett",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "St Helen's"
+    },
+    {
+      "person_id": 35574,
+      "name": "James Beckles",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Stratford"
+    },
+    {
+      "person_id": 40126,
+      "name": "Asma Begum",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow West"
+    },
+    {
+      "person_id": 127069,
+      "name": "Andrew Stephen Behan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "salford",
+      "council_name": "Salford",
+      "ward_name": "Pendleton & Charlestown"
+    },
+    {
+      "person_id": 82058,
+      "name": "Fran Belbin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Firth Park"
+    },
+    {
+      "person_id": 39202,
+      "name": "Karen Bellamy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Higham Hill"
+    },
+    {
+      "person_id": 124000,
+      "name": "Olly Bennathan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Harringay"
+    },
+    {
+      "person_id": 123946,
+      "name": "Aderonke Florence Benson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town South"
+    },
+    {
+      "person_id": 44276,
+      "name": "Peter Bernards",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Forest Hill"
+    },
+    {
+      "person_id": 45181,
+      "name": "Chris Best",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Sydenham"
+    },
+    {
+      "person_id": 136542,
+      "name": "Navya Bharagida",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "West Fenham"
+    },
+    {
+      "person_id": 75660,
+      "name": "Noreen Bi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "North"
+    },
+    {
+      "person_id": 77049,
+      "name": "Rebecca Biegel",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cherwell",
+      "council_name": "Cherwell",
+      "ward_name": "Banbury Grimsbury & Hightown"
+    },
+    {
+      "person_id": 130191,
+      "name": "Calvin Stockwell Barry Bissitt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Tettenhall Wightwick"
+    },
+    {
+      "person_id": 118506,
+      "name": "Paula Joan Black",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Pennsylvania"
+    },
+    {
+      "person_id": 126627,
+      "name": "Adrian Blake",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Morley South"
+    },
+    {
+      "person_id": 98219,
+      "name": "Paul Blinkhorn",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Atherton North"
+    },
+    {
+      "person_id": 128173,
+      "name": "Jemima Frankie Bostock",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Adel & Wharfedale"
+    },
+    {
+      "person_id": 84601,
+      "name": "Tom Bowell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Broad Green"
+    },
+    {
+      "person_id": 118923,
+      "name": "Thomas Ayudthaya Boyd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "St Clement's"
+    },
+    {
+      "person_id": 101896,
+      "name": "Odul Bozkurt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "worthing",
+      "council_name": "Worthing",
+      "ward_name": "Central"
+    },
+    {
+      "person_id": 43940,
+      "name": "Zena Brabazon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Harringay"
+    },
+    {
+      "person_id": 43586,
+      "name": "Kevin Joseph Brady",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow West"
+    },
+    {
+      "person_id": 40482,
+      "name": "Anntoinette Bramble",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "London Fields"
+    },
+    {
+      "person_id": 90599,
+      "name": "Scott John Brerton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hyndburn",
+      "council_name": "Hyndburn",
+      "ward_name": "Overton"
+    },
+    {
+      "person_id": 15180,
+      "name": "John Malcolm Bride",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cheltenham",
+      "council_name": "Cheltenham",
+      "ward_name": "Charlton Park"
+    },
+    {
+      "person_id": 87593,
+      "name": "Jo Van Den Broek",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Charlton Village & Riverside"
+    },
+    {
+      "person_id": 75926,
+      "name": "Mike Brooker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-oxfordshire",
+      "council_name": "West Oxfordshire",
+      "ward_name": "Witney South"
+    },
+    {
+      "person_id": 44617,
+      "name": "Kayleigh Brooks",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Little London & Woodhouse"
+    },
+    {
+      "person_id": 124333,
+      "name": "Alex Brooks",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Crofton Park"
+    },
+    {
+      "person_id": 10043,
+      "name": "Mick Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Gravelly Hill"
+    },
+    {
+      "person_id": 129314,
+      "name": "Davina Tarin Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Fairfield"
+    },
+    {
+      "person_id": 78029,
+      "name": "Jonathan Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "gosport",
+      "council_name": "Gosport",
+      "ward_name": "Grange & Alver Valley"
+    },
+    {
+      "person_id": 78029,
+      "name": "Jonathan Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Lee"
+    },
+    {
+      "person_id": 43112,
+      "name": "Pat Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 136597,
+      "name": "Angela Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "West Heywood"
+    },
+    {
+      "person_id": 83962,
+      "name": "Samantha Clare Brown",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Leigh West"
+    },
+    {
+      "person_id": 124065,
+      "name": "Andy Bruce",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "North Bermondsey"
+    },
+    {
+      "person_id": 73027,
+      "name": "Alex Bulat",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "St Ives South"
+    },
+    {
+      "person_id": 48669,
+      "name": "Marilynne Burbage",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Carshalton Central"
+    },
+    {
+      "person_id": 129930,
+      "name": "Chris Burden",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Fallings Park"
+    },
+    {
+      "person_id": 66201,
+      "name": "Nathan Neil Burns",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "St James"
+    },
+    {
+      "person_id": 62140,
+      "name": "Emma Bushell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Walcot"
+    },
+    {
+      "person_id": 89369,
+      "name": "George Butler",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Kearsley"
+    },
+    {
+      "person_id": 47719,
+      "name": "Muhammed Asghar Butt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Tokyngton"
+    },
+    {
+      "person_id": 16500,
+      "name": "Darren Byford",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Horbury & South Ossett"
+    },
+    {
+      "person_id": 123543,
+      "name": "Jack Adam Callaghan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Throston"
+    },
+    {
+      "person_id": 133124,
+      "name": "Steve Casemore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Mincinglake & Whipton"
+    },
+    {
+      "person_id": 84607,
+      "name": "Judith Cavanagh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "West Dulwich"
+    },
+    {
+      "person_id": 135589,
+      "name": "Hannah Cawley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Burngreave"
+    },
+    {
+      "person_id": 133442,
+      "name": "Louise Chantal",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Ashdown & Conquest"
+    },
+    {
+      "person_id": 133442,
+      "name": "Louise Chantal",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Ashdown"
+    },
+    {
+      "person_id": 97485,
+      "name": "Joanne Chapman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington West"
+    },
+    {
+      "person_id": 112397,
+      "name": "Beth Cheshire",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Richmond"
+    },
+    {
+      "person_id": 113174,
+      "name": "Kamal Choudhury",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Bandley Hill & Poplars"
+    },
+    {
+      "person_id": 36300,
+      "name": "Rezina Akhtar Chowdhury",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Hill East"
+    },
+    {
+      "person_id": 133777,
+      "name": "Syeda Shilpe Chowdhury",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Deptford & Hendon"
+    },
+    {
+      "person_id": 133044,
+      "name": "Raihan Chowdhury",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 136133,
+      "name": "Zarah St Clair",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Denton & Westerhope"
+    },
+    {
+      "person_id": 136913,
+      "name": "Kate Claisse",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Felpham"
+    },
+    {
+      "person_id": 5995,
+      "name": "Chris Clark",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Fairfield"
+    },
+    {
+      "person_id": 48310,
+      "name": "Ann Clark",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Leatherhead & Fetcham East"
+    },
+    {
+      "person_id": 119340,
+      "name": "Stephen Joseph Clark",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Herne Hill & Loughborough Junction"
+    },
+    {
+      "person_id": 44556,
+      "name": "Suzannah Clarke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Grove Park"
+    },
+    {
+      "person_id": 30098,
+      "name": "Harry Clarke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Dereham South"
+    },
+    {
+      "person_id": 73234,
+      "name": "Jodi Clements",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hyndburn",
+      "council_name": "Hyndburn",
+      "ward_name": "Netherton"
+    },
+    {
+      "person_id": 133174,
+      "name": "Pat Codd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Evelyn"
+    },
+    {
+      "person_id": 109830,
+      "name": "Sarah Cole",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Common & Vale"
+    },
+    {
+      "person_id": 129316,
+      "name": "Cliff Colvin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Fairfield"
+    },
+    {
+      "person_id": 133720,
+      "name": "Caroline Comer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Barnes & Thornhill"
+    },
+    {
+      "person_id": 14794,
+      "name": "Stephen John Connelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ipswich",
+      "council_name": "Ipswich",
+      "ward_name": "Whitton"
+    },
+    {
+      "person_id": 14794,
+      "name": "Stephen John Connelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Whitton"
+    },
+    {
+      "person_id": 3661,
+      "name": "John Cook",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ipswich",
+      "council_name": "Ipswich",
+      "ward_name": "Alexandra"
+    },
+    {
+      "person_id": 118824,
+      "name": "Adele Havlynn Cook",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "St Clement's"
+    },
+    {
+      "person_id": 89511,
+      "name": "Issy Cooke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead Common"
+    },
+    {
+      "person_id": 92212,
+      "name": "Will Cooper",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Evelyn"
+    },
+    {
+      "person_id": 124688,
+      "name": "David John Cornelius",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Lee Green"
+    },
+    {
+      "person_id": 84404,
+      "name": "Diogo Costa",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Oval"
+    },
+    {
+      "person_id": 128523,
+      "name": "Matt Costello",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "knowsley",
+      "council_name": "Knowsley",
+      "ward_name": "St Michaels"
+    },
+    {
+      "person_id": 135203,
+      "name": "Hannah Catrin Cousins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Arthur's Hill"
+    },
+    {
+      "person_id": 59320,
+      "name": "Ben Sebastian Cox",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Uckfield South with Framfield"
+    },
+    {
+      "person_id": 40350,
+      "name": "Kelvin Dean Cracknell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Gainsborough"
+    },
+    {
+      "person_id": 80258,
+      "name": "Rachel Jayne Creevy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "De Bruce"
+    },
+    {
+      "person_id": 16902,
+      "name": "Andrew Crichton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cherwell",
+      "council_name": "Cherwell",
+      "ward_name": "Banbury Hardwick"
+    },
+    {
+      "person_id": 40302,
+      "name": "Claire Crilly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Upper Stratton"
+    },
+    {
+      "person_id": 81715,
+      "name": "Jake Croft",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "Derringham"
+    },
+    {
+      "person_id": 139105,
+      "name": "Liz Cronin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Forest Gate North"
+    },
+    {
+      "person_id": 45502,
+      "name": "Stephanie Cryan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Rotherhithe"
+    },
+    {
+      "person_id": 47863,
+      "name": "Ellie Cumbo",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "St Giles"
+    },
+    {
+      "person_id": 44872,
+      "name": "Vickie Cummins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Skelmersdale South"
+    },
+    {
+      "person_id": 45182,
+      "name": "Liam Curran",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Sydenham"
+    },
+    {
+      "person_id": 56994,
+      "name": "Silvia Clare Dacre",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Todmorden West"
+    },
+    {
+      "person_id": 110243,
+      "name": "Lynne Susan Dagg",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Pennywell & South Hylton"
+    },
+    {
+      "person_id": 12361,
+      "name": "Lewis William Blake Dagnall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Stannington"
+    },
+    {
+      "person_id": 117879,
+      "name": "Pauline Dall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Blackheath"
+    },
+    {
+      "person_id": 49754,
+      "name": "Sarah Daniels",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tamworth",
+      "council_name": "Tamworth",
+      "ward_name": "Bolehall"
+    },
+    {
+      "person_id": 42820,
+      "name": "Keith Ernest Darvill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 34283,
+      "name": "Rohit Kumar Dasgupta",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town South"
+    },
+    {
+      "person_id": 126639,
+      "name": "Jane Davies",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Stonecot"
+    },
+    {
+      "person_id": 90357,
+      "name": "Mike Davies",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Badbury Park, Eldene & Liden"
+    },
+    {
+      "person_id": 4435,
+      "name": "Rowenna Frances Davis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 44690,
+      "name": "Peter Davis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Failsworth West"
+    },
+    {
+      "person_id": 26935,
+      "name": "Bernard Dawson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hyndburn",
+      "council_name": "Hyndburn",
+      "ward_name": "Rishton"
+    },
+    {
+      "person_id": 113208,
+      "name": "Julie Day",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "north-tyneside",
+      "council_name": "North Tyneside",
+      "ward_name": "Tynemouth"
+    },
+    {
+      "person_id": 126650,
+      "name": "William Deacon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "St Ives South"
+    },
+    {
+      "person_id": 86731,
+      "name": "Catherine Diana Deakin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "St James"
+    },
+    {
+      "person_id": 35774,
+      "name": "Jasbinder Dehar",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Ettingshall South & Spring Vale"
+    },
+    {
+      "person_id": 124751,
+      "name": "Anna Delvecchio-John",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Lydiard, Freshbrook & Toothill"
+    },
+    {
+      "person_id": 124689,
+      "name": "Rosie Dempsey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "New Cross Gate"
+    },
+    {
+      "person_id": 39867,
+      "name": "Glenn Anthony Dennis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Kentwood"
+    },
+    {
+      "person_id": 7615,
+      "name": "Matt Dent",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Kursaal"
+    },
+    {
+      "person_id": 124690,
+      "name": "Samantha Dias",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Evelyn"
+    },
+    {
+      "person_id": 109915,
+      "name": "Domingos Seby Dias",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Broadgreen"
+    },
+    {
+      "person_id": 127867,
+      "name": "Jane Dickenson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Eltham Page"
+    },
+    {
+      "person_id": 49311,
+      "name": "Paul Dixon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Queen's Park"
+    },
+    {
+      "person_id": 86577,
+      "name": "Andrew James Dixon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hoe Street"
+    },
+    {
+      "person_id": 48154,
+      "name": "Dora Dixon-Fyle",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Camberwell Green"
+    },
+    {
+      "person_id": 46015,
+      "name": "Paul Douglas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Chapel End"
+    },
+    {
+      "person_id": 109975,
+      "name": "Tim Dowd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Temple Newsam"
+    },
+    {
+      "person_id": 26818,
+      "name": "Gareth Dowling",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Ormskirk West"
+    },
+    {
+      "person_id": 118363,
+      "name": "Richard John Downie",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hyndburn",
+      "council_name": "Hyndburn",
+      "ward_name": "Clayton-le-Moors"
+    },
+    {
+      "person_id": 124758,
+      "name": "Theresa Denise Draper",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "St Andrews West & Tadpole"
+    },
+    {
+      "person_id": 135898,
+      "name": "Jayne Dunn",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Southey"
+    },
+    {
+      "person_id": 37477,
+      "name": "Sylvia Norma Dymond",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Talke & Butt Lane"
+    },
+    {
+      "person_id": 44700,
+      "name": "Ann Rosemarie Easter",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Royal Albert"
+    },
+    {
+      "person_id": 98259,
+      "name": "Jess Eastoe",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Tyldesley & Mosley Common"
+    },
+    {
+      "person_id": 34477,
+      "name": "Rachel Claire Eden",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Whitley"
+    },
+    {
+      "person_id": 133000,
+      "name": "David John Edgar",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Limehouse"
+    },
+    {
+      "person_id": 92143,
+      "name": "Sian Eiles",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Brockley"
+    },
+    {
+      "person_id": 113170,
+      "name": "Akin Elekolusi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Longmeadow"
+    },
+    {
+      "person_id": 38043,
+      "name": "Lara Blanche Ellis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 109458,
+      "name": "Stephen Lewis Elms",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Deptford & Hendon"
+    },
+    {
+      "person_id": 72989,
+      "name": "Trish Elphinstone",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Northfield Brook"
+    },
+    {
+      "person_id": 138694,
+      "name": "Janet Emsley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Littleborough Lakeside"
+    },
+    {
+      "person_id": 84474,
+      "name": "John-Paul Ennis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton North"
+    },
+    {
+      "person_id": 92284,
+      "name": "Ese Erheriene",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Lee Green"
+    },
+    {
+      "person_id": 135690,
+      "name": "Thomas Evans",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Fulwood"
+    },
+    {
+      "person_id": 43273,
+      "name": "John Fahy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Kidbrooke Park"
+    },
+    {
+      "person_id": 93847,
+      "name": "Femi Falola",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Stratford"
+    },
+    {
+      "person_id": 130140,
+      "name": "Sue Farr",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Eye, Thorney & Newborough"
+    },
+    {
+      "person_id": 75343,
+      "name": "Brandon Mark Feeley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington West"
+    },
+    {
+      "person_id": 56276,
+      "name": "Sarah Yvonne Elizabeth Feeney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rugby",
+      "council_name": "Rugby",
+      "ward_name": "Revel and Binley Woods"
+    },
+    {
+      "person_id": 111507,
+      "name": "Melanie Dorothea Felten",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 93848,
+      "name": "Shantu Ferdous",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow West & Canning Town East"
+    },
+    {
+      "person_id": 123684,
+      "name": "Jose Piedade Fernandes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 110177,
+      "name": "Princia Jenovi Fernandes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Gorse Hill"
+    },
+    {
+      "person_id": 110190,
+      "name": "Ana Rosada Fernandes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Ferndale & Western"
+    },
+    {
+      "person_id": 134633,
+      "name": "Malcolm Fincken",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Halstead"
+    },
+    {
+      "person_id": 118508,
+      "name": "Lucy Jane Findlay",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Alphington"
+    },
+    {
+      "person_id": 127391,
+      "name": "Marie Finn",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Portswood"
+    },
+    {
+      "person_id": 127697,
+      "name": "Peter Dennis Firth",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Bradshaw"
+    },
+    {
+      "person_id": 47085,
+      "name": "Sean Eamonn Fitzsimons",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe West"
+    },
+    {
+      "person_id": 42745,
+      "name": "Leo Sean Fletcher",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Blackheath Westcombe"
+    },
+    {
+      "person_id": 65861,
+      "name": "Darren Foley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cannock-chase",
+      "council_name": "Cannock Chase",
+      "ward_name": "Etching Hill & the Heath"
+    },
+    {
+      "person_id": 133515,
+      "name": "Kim Forward",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Baird & Ore"
+    },
+    {
+      "person_id": 133515,
+      "name": "Kim Forward",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Ore"
+    },
+    {
+      "person_id": 123369,
+      "name": "Tyrone Reece Fowles",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bordesley & Highgate"
+    },
+    {
+      "person_id": 127872,
+      "name": "Andrew Gareth Fox-Hewitt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Bradwell"
+    },
+    {
+      "person_id": 40068,
+      "name": "Marc Francis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 96168,
+      "name": "Jane Alison Francis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Oxley"
+    },
+    {
+      "person_id": 127900,
+      "name": "Jeremy Stuart Fraser",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Eltham Park & Progress"
+    },
+    {
+      "person_id": 10026,
+      "name": "Peter French",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-northamptonshire",
+      "council_name": "West Northamptonshire",
+      "ward_name": "Hackleton & Roade"
+    },
+    {
+      "person_id": 37925,
+      "name": "Leanne Fudge",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "St Andrew's & Docklands"
+    },
+    {
+      "person_id": 109260,
+      "name": "Paul Gahir",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Englefield Green & Virginia Water"
+    },
+    {
+      "person_id": 36314,
+      "name": "Annie Gallop",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Myatt's Fields"
+    },
+    {
+      "person_id": 90133,
+      "name": "Bridget Lorraine Galloway",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Croydon"
+    },
+    {
+      "person_id": 129212,
+      "name": "Chris Galpin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe East"
+    },
+    {
+      "person_id": 84614,
+      "name": "Kizzy Jane Gardiner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "William Morris"
+    },
+    {
+      "person_id": 77006,
+      "name": "Jeremy Gardner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "adur",
+      "council_name": "Adur",
+      "ward_name": "St Mary's"
+    },
+    {
+      "person_id": 43329,
+      "name": "David Llewellyn Gardner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Charlton Village & Riverside"
+    },
+    {
+      "person_id": 92596,
+      "name": "Rita Valerie Gladys Garner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "worthing",
+      "council_name": "Worthing",
+      "ward_name": "Tarring"
+    },
+    {
+      "person_id": 124691,
+      "name": "Anita Gibbons",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Crofton Park"
+    },
+    {
+      "person_id": 26816,
+      "name": "Julie Gibson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Ormskirk East"
+    },
+    {
+      "person_id": 97118,
+      "name": "Avis Kay Gilmore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Milnrow & Newhey"
+    },
+    {
+      "person_id": 134357,
+      "name": "Helen Louise Glancy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Ryhope"
+    },
+    {
+      "person_id": 123528,
+      "name": "Robin John Gledhill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Knottingley & Ferrybridge"
+    },
+    {
+      "person_id": 136592,
+      "name": "Cathy Glynn-Davies",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Worthing East"
+    },
+    {
+      "person_id": 94477,
+      "name": "Sangeeta Gobidaas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Crystal Palace & Upper Norwood"
+    },
+    {
+      "person_id": 132313,
+      "name": "Evelyne Godfrey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Idle & Thackley"
+    },
+    {
+      "person_id": 117992,
+      "name": "George Gooch",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "London Fields"
+    },
+    {
+      "person_id": 129483,
+      "name": "Chris Goodwin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Failsworth East"
+    },
+    {
+      "person_id": 138359,
+      "name": "Robert Gordon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow West & Canning Town East"
+    },
+    {
+      "person_id": 127036,
+      "name": "Gwen Gordon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Coxford"
+    },
+    {
+      "person_id": 81696,
+      "name": "Alistair Gordon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Roebuck"
+    },
+    {
+      "person_id": 62133,
+      "name": "Jim Grant",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Ferndale & Western"
+    },
+    {
+      "person_id": 48247,
+      "name": "John Gray",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "West Ham"
+    },
+    {
+      "person_id": 110146,
+      "name": "Marianne Le Coyte Grinney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Badbury Park, Eldene & Liden"
+    },
+    {
+      "person_id": 110185,
+      "name": "Leon Grother",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Lydiard, Freshbrook & Toothill"
+    },
+    {
+      "person_id": 124755,
+      "name": "Joy Grotzinger",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Cheney"
+    },
+    {
+      "person_id": 11102,
+      "name": "Yvonne Maureen Guariento",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Cheadle East & Cheadle Hulme North"
+    },
+    {
+      "person_id": 125859,
+      "name": "Malla Reddy Gurram",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Prittlewell"
+    },
+    {
+      "person_id": 124747,
+      "name": "Tyler James Gutteridge",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Highworth"
+    },
+    {
+      "person_id": 88951,
+      "name": "Logan Guy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington South"
+    },
+    {
+      "person_id": 131009,
+      "name": "Ian Hames",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-oxfordshire",
+      "council_name": "West Oxfordshire",
+      "ward_name": "The Bartons"
+    },
+    {
+      "person_id": 124010,
+      "name": "Sara Kadry Mohamed Hamouda",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Rural West"
+    },
+    {
+      "person_id": 135297,
+      "name": "Tyler George Hanley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Todmorden West"
+    },
+    {
+      "person_id": 77064,
+      "name": "Sean Hannigan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Dulwich Wood"
+    },
+    {
+      "person_id": 122830,
+      "name": "Mark Joseph Hanson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Fens & Greatham"
+    },
+    {
+      "person_id": 126640,
+      "name": "Jim Hanson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Stonecot"
+    },
+    {
+      "person_id": 133722,
+      "name": "Ehthesham Haque",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Barnes & Thornhill"
+    },
+    {
+      "person_id": 38395,
+      "name": "Louise Harbour",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "knowsley",
+      "council_name": "Knowsley",
+      "ward_name": "Cherryfield"
+    },
+    {
+      "person_id": 134169,
+      "name": "Mark Hardy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Throckley, Walbottle & Newburn"
+    },
+    {
+      "person_id": 133502,
+      "name": "Angela Liliet Harris",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Hollington"
+    },
+    {
+      "person_id": 123305,
+      "name": "Molly Hartill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Myatt's Fields"
+    },
+    {
+      "person_id": 128303,
+      "name": "Ben Hartley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Ashton upon Mersey"
+    },
+    {
+      "person_id": 133679,
+      "name": "Zubaida Muhamed Hassan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Kenton"
+    },
+    {
+      "person_id": 73656,
+      "name": "Kashmire Darren Singh Hawker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Penn"
+    },
+    {
+      "person_id": 37736,
+      "name": "Alexander Geoffrey Hay",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Newbiggin Hall & Callerton"
+    },
+    {
+      "person_id": 47087,
+      "name": "Patricia Hay-Justice",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe West"
+    },
+    {
+      "person_id": 138590,
+      "name": "George Andrew Heaney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Catton Grove"
+    },
+    {
+      "person_id": 138590,
+      "name": "George Andrew Heaney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "Catton Grove"
+    },
+    {
+      "person_id": 47577,
+      "name": "Sam Hemraj",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "East"
+    },
+    {
+      "person_id": 132928,
+      "name": "Graeme Paul Henderson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Roehampton"
+    },
+    {
+      "person_id": 47091,
+      "name": "Maddie Henson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe East"
+    },
+    {
+      "person_id": 129815,
+      "name": "Christopher Derek Herman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 134358,
+      "name": "Martyn Preston Herron",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Ryhope"
+    },
+    {
+      "person_id": 16921,
+      "name": "Steve Hey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Attleborough"
+    },
+    {
+      "person_id": 136164,
+      "name": "Robert Higgins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Benwell, Scotswood & Denton Burn"
+    },
+    {
+      "person_id": 42786,
+      "name": "Mathew Dimas Hill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Croydon"
+    },
+    {
+      "person_id": 37009,
+      "name": "Charlotte Hill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Farnley & Wortley"
+    },
+    {
+      "person_id": 135671,
+      "name": "Sarah Marie Hill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Firth Park"
+    },
+    {
+      "person_id": 99394,
+      "name": "Nick Hilton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Pound Hill"
+    },
+    {
+      "person_id": 131970,
+      "name": "Sharon Hofman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "Bricknell"
+    },
+    {
+      "person_id": 36288,
+      "name": "Claire Kathleen Holland",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Oval"
+    },
+    {
+      "person_id": 8777,
+      "name": "Alex Hollingsworth",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Carfax & Jericho"
+    },
+    {
+      "person_id": 129664,
+      "name": "Samuel Jacob Hollis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Saddleworth North"
+    },
+    {
+      "person_id": 40246,
+      "name": "Neil Lawrence Hopkins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Old Town & Lawn"
+    },
+    {
+      "person_id": 16544,
+      "name": "Fay Howard",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Shaw & Westlea"
+    },
+    {
+      "person_id": 40464,
+      "name": "Janine Howarth",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Kingshill"
+    },
+    {
+      "person_id": 45864,
+      "name": "John Hughes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Gorton & Abbey Hey"
+    },
+    {
+      "person_id": 863,
+      "name": "Elizabeth Patricia Hughes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Westbourne"
+    },
+    {
+      "person_id": 124701,
+      "name": "Edward Parker Humphreys",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Brockley"
+    },
+    {
+      "person_id": 124692,
+      "name": "Collet Hunter",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Ladywell"
+    },
+    {
+      "person_id": 97597,
+      "name": "Catherine Louise Hunter",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Pennywell & South Hylton"
+    },
+    {
+      "person_id": 126050,
+      "name": "Lewis Hurst",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Kidbrooke Village & Sutcliffe"
+    },
+    {
+      "person_id": 125361,
+      "name": "Sohail Hussain",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Quinton"
+    },
+    {
+      "person_id": 129474,
+      "name": "Junaid Hussain",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Medlock Vale"
+    },
+    {
+      "person_id": 129711,
+      "name": "Fida Hussain",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Werneth"
+    },
+    {
+      "person_id": 73655,
+      "name": "Carol Lesley Hyatt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Merry Hill"
+    },
+    {
+      "person_id": 73344,
+      "name": "Lydia Ann Hyde",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "St Laurence"
+    },
+    {
+      "person_id": 47720,
+      "name": "Orleen Hylton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Preston"
+    },
+    {
+      "person_id": 89364,
+      "name": "Elizabeth Ige",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Common"
+    },
+    {
+      "person_id": 128184,
+      "name": "Innocent Igiehon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Middleton Park"
+    },
+    {
+      "person_id": 79522,
+      "name": "Nicu Ion",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Elswick"
+    },
+    {
+      "person_id": 84304,
+      "name": "Javaid Iqbal",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Greenford"
+    },
+    {
+      "person_id": 129757,
+      "name": "Mohammed Amirul Islam",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Selhurst"
+    },
+    {
+      "person_id": 42009,
+      "name": "Asma Islam",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 124003,
+      "name": "Zak Ivany",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Tottenham Central"
+    },
+    {
+      "person_id": 92247,
+      "name": "Mark David Jackson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Grove Park"
+    },
+    {
+      "person_id": 132191,
+      "name": "Rizwana Jamil",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Bowling & Barkerend"
+    },
+    {
+      "person_id": 38065,
+      "name": "Amarjit Kaur Jammu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Greenford"
+    },
+    {
+      "person_id": 111989,
+      "name": "Saffa Jassim Jan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Sompting & North Lancing"
+    },
+    {
+      "person_id": 127023,
+      "name": "Anwar Jawula",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Millbrook"
+    },
+    {
+      "person_id": 1913,
+      "name": "Graham Peter Jones",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hyndburn",
+      "council_name": "Hyndburn",
+      "ward_name": "Spring Hill"
+    },
+    {
+      "person_id": 97453,
+      "name": "Beth Veronica Jones",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington East"
+    },
+    {
+      "person_id": 46853,
+      "name": "Humayun Kabir",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Bensham Manor"
+    },
+    {
+      "person_id": 9040,
+      "name": "Patrick Kadewere",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "Huntingdon North"
+    },
+    {
+      "person_id": 9036,
+      "name": "Marion Kadewere",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "Huntingdon North"
+    },
+    {
+      "person_id": 90167,
+      "name": "Rashmi Kalu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    },
+    {
+      "person_id": 93782,
+      "name": "Sabia Kamali",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Stratford"
+    },
+    {
+      "person_id": 134948,
+      "name": "Narinder Kaur",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Quinton"
+    },
+    {
+      "person_id": 379,
+      "name": "Lynnette Catherine Kelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 124693,
+      "name": "Nick Kelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Ladywell"
+    },
+    {
+      "person_id": 89517,
+      "name": "Bridget Kelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Beighton"
+    },
+    {
+      "person_id": 91218,
+      "name": "Tony Kennedy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "King's Norton South"
+    },
+    {
+      "person_id": 41402,
+      "name": "Chris Kennedy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hackney Wick"
+    },
+    {
+      "person_id": 48580,
+      "name": "Daniel Timothy Kennelly",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Preston"
+    },
+    {
+      "person_id": 127247,
+      "name": "Pam Kenny",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Freemantle"
+    },
+    {
+      "person_id": 128064,
+      "name": "Adel Khaireh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead & Glyndon"
+    },
+    {
+      "person_id": 132193,
+      "name": "Hassan Uzzaman Khan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Bowling & Barkerend"
+    },
+    {
+      "person_id": 132194,
+      "name": "Imran Ahmed Khan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Bowling & Barkerend"
+    },
+    {
+      "person_id": 128043,
+      "name": "Mohammed Khan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead Common"
+    },
+    {
+      "person_id": 136341,
+      "name": "Raja Khalid Mehmood Khan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Monument"
+    },
+    {
+      "person_id": 48514,
+      "name": "Ahsan Khan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hoe Street"
+    },
+    {
+      "person_id": 39812,
+      "name": "Geraldine Margaret Teresa Kilgour",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "south-tyneside",
+      "council_name": "South Tyneside",
+      "ward_name": "Fellgate & Hedworth"
+    },
+    {
+      "person_id": 11735,
+      "name": "Abby Louise King",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Englefield Green & Virginia Water"
+    },
+    {
+      "person_id": 37713,
+      "name": "Joanne Kingsland",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Arthur's Hill"
+    },
+    {
+      "person_id": 132955,
+      "name": "Paul Graeme Knott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Exwick"
+    },
+    {
+      "person_id": 136547,
+      "name": "Saeem Md Fozle Korim",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "West Fenham"
+    },
+    {
+      "person_id": 12879,
+      "name": "Susan Kortlandt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brentwood",
+      "council_name": "Brentwood",
+      "ward_name": "Warley"
+    },
+    {
+      "person_id": 12879,
+      "name": "Susan Kortlandt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Brentwood North"
+    },
+    {
+      "person_id": 137656,
+      "name": "Aishwarya Kumar",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 138439,
+      "name": "Adjoa Kwarteng",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "West Ham"
+    },
+    {
+      "person_id": 138546,
+      "name": "Heather Lafferty",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Custom House"
+    },
+    {
+      "person_id": 92147,
+      "name": "Ayesha Lahai-Taylor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Ladywell"
+    },
+    {
+      "person_id": 128044,
+      "name": "Helen Laker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead Common"
+    },
+    {
+      "person_id": 138811,
+      "name": "Nick Lamb",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "south-tyneside",
+      "council_name": "South Tyneside",
+      "ward_name": "Fellgate & Hedworth"
+    },
+    {
+      "person_id": 39910,
+      "name": "Sina Lari",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "Golborne"
+    },
+    {
+      "person_id": 76894,
+      "name": "Jack Lavery",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Sydenham"
+    },
+    {
+      "person_id": 132678,
+      "name": "Jocelyn Emma Law",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "colchester",
+      "council_name": "Colchester",
+      "ward_name": "Highwoods"
+    },
+    {
+      "person_id": 55003,
+      "name": "Sean Robert Laws",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington South"
+    },
+    {
+      "person_id": 48099,
+      "name": "Richard Michael Leeming",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Dulwich Village"
+    },
+    {
+      "person_id": 45392,
+      "name": "Averil Ann Lekau",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Thamesmead Moorings"
+    },
+    {
+      "person_id": 118507,
+      "name": "Rose Alexandra Lelliott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "St David's"
+    },
+    {
+      "person_id": 122783,
+      "name": "Josiah Lenton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Shiregreen & Brightside"
+    },
+    {
+      "person_id": 97639,
+      "name": "Lindsey Mair Leonard",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Ryhope"
+    },
+    {
+      "person_id": 108850,
+      "name": "Rebekah Sioban Lewis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Bradwell"
+    },
+    {
+      "person_id": 84604,
+      "name": "Kira Millana Lewis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Higham Hill"
+    },
+    {
+      "person_id": 123951,
+      "name": "Will Linsdell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Crystal Palace & Upper Norwood"
+    },
+    {
+      "person_id": 89401,
+      "name": "Sam Littlewood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Arsenal"
+    },
+    {
+      "person_id": 47311,
+      "name": "Richard Livingstone",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Old Kent Road"
+    },
+    {
+      "person_id": 109504,
+      "name": "Rose Llewellyn",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Shaw & Westlea"
+    },
+    {
+      "person_id": 136118,
+      "name": "Christopher Thomas Lloyd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "isle-of-wight",
+      "council_name": "Isle of Wight",
+      "ward_name": "Shanklin South"
+    },
+    {
+      "person_id": 10065,
+      "name": "Mary Locke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Stirchley"
+    },
+    {
+      "person_id": 88557,
+      "name": "Ben Lockley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Brandwood & King's Heath"
+    },
+    {
+      "person_id": 132316,
+      "name": "Gareth David Logan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Idle & Thackley"
+    },
+    {
+      "person_id": 42746,
+      "name": "Mariam Lolavar",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Blackheath Westcombe"
+    },
+    {
+      "person_id": 48372,
+      "name": "Janice Elizabeth Long",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Kenton"
+    },
+    {
+      "person_id": 9489,
+      "name": "Adrienne Lowe",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Shoreham North"
+    },
+    {
+      "person_id": 124696,
+      "name": "Jamie Luke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "New Cross Gate"
+    },
+    {
+      "person_id": 14566,
+      "name": "Neil Edward MacDonald",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ipswich",
+      "council_name": "Ipswich",
+      "ward_name": "St John's"
+    },
+    {
+      "person_id": 129270,
+      "name": "Mohana Mandharan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Bensham Manor"
+    },
+    {
+      "person_id": 50066,
+      "name": "Nanda Manley-Browne",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton North"
+    },
+    {
+      "person_id": 138440,
+      "name": "Sam Michael Mannion",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "West Ham"
+    },
+    {
+      "person_id": 38068,
+      "name": "Shital Ved Prakash Manro",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Greenford"
+    },
+    {
+      "person_id": 137449,
+      "name": "Peter Marshall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "Golborne"
+    },
+    {
+      "person_id": 133537,
+      "name": "Helen Martin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "St Helens"
+    },
+    {
+      "person_id": 77790,
+      "name": "Philip Thomas Massey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Balderstone & Kirkholt"
+    },
+    {
+      "person_id": 36306,
+      "name": "Marianna Masters",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Herne Hill & Loughborough Junction"
+    },
+    {
+      "person_id": 45361,
+      "name": "Chris May",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Eltham Page"
+    },
+    {
+      "person_id": 89736,
+      "name": "David Alexander McAllister",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Stalybridge South"
+    },
+    {
+      "person_id": 44733,
+      "name": "Anthony McAlmont",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Royal Albert"
+    },
+    {
+      "person_id": 135395,
+      "name": "Joshua James McCarron",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Wardle, Shore & West Littleborough"
+    },
+    {
+      "person_id": 10079,
+      "name": "Karen Teresa McCarthy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bournbrook & Selly Park"
+    },
+    {
+      "person_id": 126638,
+      "name": "Pat McCarthy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Carshalton Central"
+    },
+    {
+      "person_id": 138870,
+      "name": "Laura Elizabeth McCartney-Gray",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "University"
+    },
+    {
+      "person_id": 37673,
+      "name": "Joyce McCarty",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Wingrove"
+    },
+    {
+      "person_id": 9686,
+      "name": "Andrew David McCormick",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Basingstoke South East"
+    },
+    {
+      "person_id": 137506,
+      "name": "Simon Edward McDougall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Bersted"
+    },
+    {
+      "person_id": 84339,
+      "name": "Verity McGivern",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham Park"
+    },
+    {
+      "person_id": 128182,
+      "name": "Matthew McGonagle",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Alwoodley"
+    },
+    {
+      "person_id": 7906,
+      "name": "Maureen McKay",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Manor"
+    },
+    {
+      "person_id": 84213,
+      "name": "Sylvia Ann McNamara",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "Kentish Town North"
+    },
+    {
+      "person_id": 67777,
+      "name": "John Douglas McNicholas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Lower Stoke"
+    },
+    {
+      "person_id": 124698,
+      "name": "Chris Membu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Blackheath"
+    },
+    {
+      "person_id": 41447,
+      "name": "Gena Merrett",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Golborne & Lowton West"
+    },
+    {
+      "person_id": 88947,
+      "name": "Chichi Mgbeokwere",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "salford",
+      "council_name": "Salford",
+      "ward_name": "Pendlebury & Clifton"
+    },
+    {
+      "person_id": 16515,
+      "name": "Jamal Miah",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Parks"
+    },
+    {
+      "person_id": 14488,
+      "name": "Joanna Rachel Midgley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Chorlton Park"
+    },
+    {
+      "person_id": 47259,
+      "name": "Jerry Miles",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    },
+    {
+      "person_id": 37828,
+      "name": "Graeme Ferguson Miller",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington East"
+    },
+    {
+      "person_id": 40584,
+      "name": "Jason John Mills",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "St Andrews West & Tadpole"
+    },
+    {
+      "person_id": 12896,
+      "name": "Richard Millwood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brentwood",
+      "council_name": "Brentwood",
+      "ward_name": "Hutton East"
+    },
+    {
+      "person_id": 12896,
+      "name": "Richard Millwood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Brentwood Rural"
+    },
+    {
+      "person_id": 15038,
+      "name": "Jane Milner-Barry",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Lydiard, Freshbrook & Toothill"
+    },
+    {
+      "person_id": 73115,
+      "name": "Miriam Rose Mirwitch",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hoe Street"
+    },
+    {
+      "person_id": 46019,
+      "name": "Louise Mitchell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Chapel End"
+    },
+    {
+      "person_id": 129347,
+      "name": "Laila Mohamed",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington South"
+    },
+    {
+      "person_id": 117990,
+      "name": "Abdi Mohamed",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 89424,
+      "name": "Asli Mohammed",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Dockyard"
+    },
+    {
+      "person_id": 125456,
+      "name": "Fiona Moinuddin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Piccadilly"
+    },
+    {
+      "person_id": 61176,
+      "name": "June Molyneaux",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "chorley",
+      "council_name": "Chorley",
+      "ward_name": "Adlington & Anderton"
+    },
+    {
+      "person_id": 124699,
+      "name": "Gavin Frederick Moore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Bellingham"
+    },
+    {
+      "person_id": 44561,
+      "name": "Hilary Clare Moore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Grove Park"
+    },
+    {
+      "person_id": 107662,
+      "name": "Judith Moore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Hardwick"
+    },
+    {
+      "person_id": 138599,
+      "name": "Brendan Joseph Moore",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Kesgrave"
+    },
+    {
+      "person_id": 133781,
+      "name": "Myles Alfie Mordey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Deptford & Hendon"
+    },
+    {
+      "person_id": 80276,
+      "name": "Melanie Morley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Foggy Furze"
+    },
+    {
+      "person_id": 93699,
+      "name": "John James Morris",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Canning Town South"
+    },
+    {
+      "person_id": 9220,
+      "name": "Kay Morrison",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Harlow Netteswell"
+    },
+    {
+      "person_id": 72092,
+      "name": "Jay Morton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Brockley"
+    },
+    {
+      "person_id": 90184,
+      "name": "Nabeela Mowlana",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Park & Arbourthorne"
+    },
+    {
+      "person_id": 124054,
+      "name": "James Moyse",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Camberwell Green"
+    },
+    {
+      "person_id": 47277,
+      "name": "John Michael Muldoon",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Rushey Green"
+    },
+    {
+      "person_id": 126551,
+      "name": "James Martin Leo Muller",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Shere"
+    },
+    {
+      "person_id": 135250,
+      "name": "Margaret Ellen Murning",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Elswick"
+    },
+    {
+      "person_id": 47361,
+      "name": "Angella Murphy-Strachan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone South"
+    },
+    {
+      "person_id": 46246,
+      "name": "Tom Murray",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Rotherhithe"
+    },
+    {
+      "person_id": 40768,
+      "name": "Shaid Mushtaq",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Alexandra"
+    },
+    {
+      "person_id": 42788,
+      "name": "Stella Nabukeera",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 137450,
+      "name": "Nadia Nail",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "Golborne"
+    },
+    {
+      "person_id": 124397,
+      "name": "Jack Christopher Nayak",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Egham"
+    },
+    {
+      "person_id": 5873,
+      "name": "Arran Richard Neathey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Addlestone"
+    },
+    {
+      "person_id": 48102,
+      "name": "Margy Newens",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Dulwich Village"
+    },
+    {
+      "person_id": 91569,
+      "name": "Vicky Ekua Newton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 124746,
+      "name": "Ewan Nicholas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Highworth"
+    },
+    {
+      "person_id": 84256,
+      "name": "Deb Nicholls",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Horbury & South Ossett"
+    },
+    {
+      "person_id": 125623,
+      "name": "Ralph Amory Noble",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Donnington"
+    },
+    {
+      "person_id": 126362,
+      "name": "Jake Thomas Norman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Taverham"
+    },
+    {
+      "person_id": 91247,
+      "name": "Abdullahi Nur",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "Dalgarno"
+    },
+    {
+      "person_id": 133527,
+      "name": "Margi O'Callaghan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "St Helens & Silverhill"
+    },
+    {
+      "person_id": 133527,
+      "name": "Margi O'Callaghan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Silverhill"
+    },
+    {
+      "person_id": 49089,
+      "name": "Scarlett O'Hara",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton Windrush"
+    },
+    {
+      "person_id": 12527,
+      "name": "Shaun O'Neill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Healey"
+    },
+    {
+      "person_id": 10924,
+      "name": "Sian O'Neill",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-oxfordshire",
+      "council_name": "West Oxfordshire",
+      "ward_name": "Chipping Norton"
+    },
+    {
+      "person_id": 44052,
+      "name": "Jason Ochere",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "St Giles"
+    },
+    {
+      "person_id": 91348,
+      "name": "Thelma Odoi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Custom House"
+    },
+    {
+      "person_id": 84582,
+      "name": "Joseph Ogundemuren",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hackney Wick"
+    },
+    {
+      "person_id": 43332,
+      "name": "Anthony Okereke",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Common"
+    },
+    {
+      "person_id": 54909,
+      "name": "George Francis Oliver",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Rural North East"
+    },
+    {
+      "person_id": 127903,
+      "name": "Gabriella Olumide",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Eltham Park & Progress"
+    },
+    {
+      "person_id": 91436,
+      "name": "Sally Omosun",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 134495,
+      "name": "Jennifer Obianuju Orji",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington East"
+    },
+    {
+      "person_id": 124756,
+      "name": "Josh Owen",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Shaw & Westlea"
+    },
+    {
+      "person_id": 36798,
+      "name": "Gwen Page",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Horbury & South Ossett"
+    },
+    {
+      "person_id": 136207,
+      "name": "Ray Palmer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Bognor Regis West & Aldwick"
+    },
+    {
+      "person_id": 84228,
+      "name": "Minesh Parekh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Crookes & Crosspool"
+    },
+    {
+      "person_id": 124754,
+      "name": "Paul David Park",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Priory Vale"
+    },
+    {
+      "person_id": 50162,
+      "name": "Claire Parris",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "St Nicholas"
+    },
+    {
+      "person_id": 92174,
+      "name": "Rosie Parry",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Deptford"
+    },
+    {
+      "person_id": 86397,
+      "name": "Cai Gorman Parry",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Egham"
+    },
+    {
+      "person_id": 44526,
+      "name": "Jacq Paschoud",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Forest Hill"
+    },
+    {
+      "person_id": 35555,
+      "name": "John Paschoud",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Perry Vale"
+    },
+    {
+      "person_id": 86612,
+      "name": "Yusuf Patel",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Upper Walthamstow"
+    },
+    {
+      "person_id": 136374,
+      "name": "George Pattison",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Newbiggin Hall & Callerton"
+    },
+    {
+      "person_id": 46408,
+      "name": "Simon Peaple",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tamworth",
+      "council_name": "Tamworth",
+      "ward_name": "Glascote"
+    },
+    {
+      "person_id": 43325,
+      "name": "Nick Peel",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Tonge with the Haulgh"
+    },
+    {
+      "person_id": 135719,
+      "name": "Bob Pemberton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Gleadless Valley"
+    },
+    {
+      "person_id": 123678,
+      "name": "Kathryn Sara Penny",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Calverley & Farsley"
+    },
+    {
+      "person_id": 13223,
+      "name": "Clare Penny-Evans",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 95942,
+      "name": "Elaine Percival",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Addlestone"
+    },
+    {
+      "person_id": 136304,
+      "name": "Barry Phillipson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Lemington"
+    },
+    {
+      "person_id": 84615,
+      "name": "Jack Phipps",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "William Morris"
+    },
+    {
+      "person_id": 81296,
+      "name": "Kyle Phythian",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Chadderton South"
+    },
+    {
+      "person_id": 90113,
+      "name": "Helen Clare Pilmer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Weybridge"
+    },
+    {
+      "person_id": 105733,
+      "name": "Ellie Plater",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Bedwell"
+    },
+    {
+      "person_id": 124064,
+      "name": "Robin Pollard",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "North Bermondsey"
+    },
+    {
+      "person_id": 47069,
+      "name": "Ellily Ponnuthurai",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 93795,
+      "name": "Madeleine Sarley Pontin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow West & Canning Town East"
+    },
+    {
+      "person_id": 123324,
+      "name": "John Lincoln Poole",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Kenton"
+    },
+    {
+      "person_id": 137287,
+      "name": "Alex Porter",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "Dalgarno"
+    },
+    {
+      "person_id": 35684,
+      "name": "Paul Simon Preston",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bartley Green"
+    },
+    {
+      "person_id": 124942,
+      "name": "Rachel Marie Preston",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bartley Green"
+    },
+    {
+      "person_id": 50400,
+      "name": "Stephen Pritchard",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Maidenbower"
+    },
+    {
+      "person_id": 129181,
+      "name": "Jack Lee Proud",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "north-tyneside",
+      "council_name": "North Tyneside",
+      "ward_name": "St Mary's"
+    },
+    {
+      "person_id": 35978,
+      "name": "Jonathan David Pryor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Headingley & Hyde Park"
+    },
+    {
+      "person_id": 12258,
+      "name": "Craig Gamble Pugh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "East Ecclesfield"
+    },
+    {
+      "person_id": 111940,
+      "name": "Swin Purple",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Burscough Bridge & Rufford"
+    },
+    {
+      "person_id": 86614,
+      "name": "Caramel Quin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Upper Walthamstow"
+    },
+    {
+      "person_id": 95552,
+      "name": "Hayder Alam Umor Qureshi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Arthur's Hill"
+    },
+    {
+      "person_id": 124648,
+      "name": "Owen Ramsay",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "London Fields"
+    },
+    {
+      "person_id": 128176,
+      "name": "Nathan James Ramsden",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Adel & Wharfedale"
+    },
+    {
+      "person_id": 89500,
+      "name": "Jit Ranabhat",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Plumstead & Glyndon"
+    },
+    {
+      "person_id": 131357,
+      "name": "Roy Rangarirai",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Redlands"
+    },
+    {
+      "person_id": 44581,
+      "name": "James Alexander Rathbone",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Lee Green"
+    },
+    {
+      "person_id": 134589,
+      "name": "Patricia Jane Raynor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington West"
+    },
+    {
+      "person_id": 2886,
+      "name": "Alison Jane Raynsford",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "St Peter and the Waterfront"
+    },
+    {
+      "person_id": 133483,
+      "name": "Trevor Redmond",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Central St Leonards & Gensing"
+    },
+    {
+      "person_id": 133483,
+      "name": "Trevor Redmond",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Central St Leonards"
+    },
+    {
+      "person_id": 29760,
+      "name": "Paul Adrian Richards",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Devonshire"
+    },
+    {
+      "person_id": 127875,
+      "name": "Lesley Ann Richards",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Bradwell"
+    },
+    {
+      "person_id": 82078,
+      "name": "Paul Henry Richards",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Rushmere St Andrew"
+    },
+    {
+      "person_id": 124740,
+      "name": "Steffen Rick",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Blunsdon"
+    },
+    {
+      "person_id": 128381,
+      "name": "Alex Riddell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Wetherby"
+    },
+    {
+      "person_id": 54854,
+      "name": "Owen Craig Riddle",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hartlepool",
+      "council_name": "Hartlepool",
+      "ward_name": "Burn Valley"
+    },
+    {
+      "person_id": 40275,
+      "name": "Jim Robbins",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Old Town & Lawn"
+    },
+    {
+      "person_id": 85193,
+      "name": "Bethan Roberts",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Rotherhithe"
+    },
+    {
+      "person_id": 124744,
+      "name": "Leroy Sheldon Roberts",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Haydon Wick"
+    },
+    {
+      "person_id": 136375,
+      "name": "Jacqui Robinson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Newbiggin Hall & Callerton"
+    },
+    {
+      "person_id": 14372,
+      "name": "Peter Robinson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Hyde Newton"
+    },
+    {
+      "person_id": 111883,
+      "name": "Aeden Francis Rooney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Hoddesdon Town and Rye Park"
+    },
+    {
+      "person_id": 113135,
+      "name": "Ceara Roopchand",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Woodfield"
+    },
+    {
+      "person_id": 28058,
+      "name": "Anne Catherine Rouse",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Guildford North"
+    },
+    {
+      "person_id": 8762,
+      "name": "Mike Rowley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Barton & Sandhills"
+    },
+    {
+      "person_id": 97553,
+      "name": "Andrew John Rowntree",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Washington South"
+    },
+    {
+      "person_id": 32686,
+      "name": "Chrissie Rumsby",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Mile Cross"
+    },
+    {
+      "person_id": 138551,
+      "name": "Simon Rush",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Custom House"
+    },
+    {
+      "person_id": 124705,
+      "name": "George Mathew Ryan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Bellingham"
+    },
+    {
+      "person_id": 99040,
+      "name": "Mehrban Sadiq",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 49985,
+      "name": "Maxine Sadza",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Milton"
+    },
+    {
+      "person_id": 40367,
+      "name": "Kindy Sandhu",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 129272,
+      "name": "Ellie Sandover",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Bensham Manor"
+    },
+    {
+      "person_id": 138569,
+      "name": "Mike Sands",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Bowthorpe"
+    },
+    {
+      "person_id": 138569,
+      "name": "Mike Sands",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "Bowthorpe"
+    },
+    {
+      "person_id": 84609,
+      "name": "Deepak Sardiwal",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Herne Hill & Loughborough Junction"
+    },
+    {
+      "person_id": 124542,
+      "name": "Sarata Sawo",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Hunslet & Riverside"
+    },
+    {
+      "person_id": 14108,
+      "name": "Lee Paul Scordis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "colchester",
+      "council_name": "Colchester",
+      "ward_name": "Old Heath & The Hythe"
+    },
+    {
+      "person_id": 14108,
+      "name": "Lee Paul Scordis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Colchester Abbey"
+    },
+    {
+      "person_id": 26622,
+      "name": "Jamie Christopher Scott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bournbrook & Selly Park"
+    },
+    {
+      "person_id": 123306,
+      "name": "Bryn Corton Scott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Oval"
+    },
+    {
+      "person_id": 129261,
+      "name": "Tina Anne Scott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Honicknowle"
+    },
+    {
+      "person_id": 123507,
+      "name": "Caz Scott",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "St James"
+    },
+    {
+      "person_id": 43132,
+      "name": "Denise Scott-McDonald",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Greenwich Peninsula"
+    },
+    {
+      "person_id": 20079,
+      "name": "Jocelynne Scutt",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cambridge",
+      "council_name": "Cambridge",
+      "ward_name": "Arbury"
+    },
+    {
+      "person_id": 123303,
+      "name": "James Seabridge",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton North"
+    },
+    {
+      "person_id": 128587,
+      "name": "Gary See",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "knowsley",
+      "council_name": "Knowsley",
+      "ward_name": "Roby"
+    },
+    {
+      "person_id": 94895,
+      "name": "Julie Setchfield",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Norbury Park"
+    },
+    {
+      "person_id": 47079,
+      "name": "Manju Shahul-Hameed",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Broad Green"
+    },
+    {
+      "person_id": 16595,
+      "name": "Imtiyaz Shaikh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Queen's Park"
+    },
+    {
+      "person_id": 133509,
+      "name": "Tim John Cairns Shand",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Maze Hill"
+    },
+    {
+      "person_id": 124707,
+      "name": "Fergal Sharpe",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Forest Hill"
+    },
+    {
+      "person_id": 46106,
+      "name": "Rebecca Louise Shatwell",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Wingrove"
+    },
+    {
+      "person_id": 137832,
+      "name": "Theo Joshua Shaw",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 126356,
+      "name": "Lucy Shaw",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "kensington-and-chelsea",
+      "council_name": "Kensington and Chelsea",
+      "ward_name": "St Helen's"
+    },
+    {
+      "person_id": 12484,
+      "name": "Billy Sheerin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Castleton"
+    },
+    {
+      "person_id": 44249,
+      "name": "Sakina Sheikh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Perry Vale"
+    },
+    {
+      "person_id": 40405,
+      "name": "Carol Hannah Shelley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "St Andrews East"
+    },
+    {
+      "person_id": 110021,
+      "name": "Simon John Shelley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "St Andrews East"
+    },
+    {
+      "person_id": 14358,
+      "name": "Jake David Adam Shepherd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Harlow South West"
+    },
+    {
+      "person_id": 14358,
+      "name": "Jake David Adam Shepherd",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harlow",
+      "council_name": "Harlow",
+      "ward_name": "Passmores"
+    },
+    {
+      "person_id": 42674,
+      "name": "Krupa Sheth",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "brent",
+      "council_name": "Brent",
+      "ward_name": "Tokyngton"
+    },
+    {
+      "person_id": 44623,
+      "name": "Andrew Simcock",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Didsbury East"
+    },
+    {
+      "person_id": 40637,
+      "name": "Rupinder Singh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Lower Stoke"
+    },
+    {
+      "person_id": 132357,
+      "name": "Jules Singh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Quarry Bank & Dudley Wood"
+    },
+    {
+      "person_id": 76042,
+      "name": "Tersaim Singh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wolverhampton",
+      "council_name": "Wolverhampton",
+      "ward_name": "Blakenhall"
+    },
+    {
+      "person_id": 47315,
+      "name": "Michael Situ",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Old Kent Road"
+    },
+    {
+      "person_id": 42113,
+      "name": "James Samuel Slater",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "Kentish Town North"
+    },
+    {
+      "person_id": 136550,
+      "name": "Connor Slomski",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "West Fenham"
+    },
+    {
+      "person_id": 7659,
+      "name": "Kevin David Small",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Ferndale & Western"
+    },
+    {
+      "person_id": 132496,
+      "name": "David Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "blackburn-with-darwen",
+      "council_name": "Blackburn With Darwen",
+      "ward_name": "Darwen West"
+    },
+    {
+      "person_id": 52838,
+      "name": "Anna Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cambridge",
+      "council_name": "Cambridge",
+      "ward_name": "Coleridge"
+    },
+    {
+      "person_id": 127896,
+      "name": "Chloe Dawn Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cherwell",
+      "council_name": "Cherwell",
+      "ward_name": "Banbury Ruscote"
+    },
+    {
+      "person_id": 43288,
+      "name": "Jackie Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Arsenal"
+    },
+    {
+      "person_id": 133329,
+      "name": "Nicola Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Dore & Totley"
+    },
+    {
+      "person_id": 53933,
+      "name": "Alison Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Redhouse"
+    },
+    {
+      "person_id": 40395,
+      "name": "Thomas James Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Cheney"
+    },
+    {
+      "person_id": 10916,
+      "name": "Ruth Helen Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-oxfordshire",
+      "council_name": "West Oxfordshire",
+      "ward_name": "Witney East"
+    },
+    {
+      "person_id": 136588,
+      "name": "Dawn Smith",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Broadwater"
+    },
+    {
+      "person_id": 128086,
+      "name": "Femi Solola",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Thamesmead Moorings"
+    },
+    {
+      "person_id": 123304,
+      "name": "Louie Somerville-Sutherland",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham Park"
+    },
+    {
+      "person_id": 110998,
+      "name": "Seb Soper",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Eggbuckland"
+    },
+    {
+      "person_id": 129308,
+      "name": "Magnus Terek Sorensen",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Crystal Palace & Upper Norwood"
+    },
+    {
+      "person_id": 132206,
+      "name": "John Spademan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "colchester",
+      "council_name": "Colchester",
+      "ward_name": "Stanway"
+    },
+    {
+      "person_id": 132206,
+      "name": "John Spademan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Stanway & Marks Tey"
+    },
+    {
+      "person_id": 119310,
+      "name": "Amanda Spalding",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Birchwood"
+    },
+    {
+      "person_id": 7908,
+      "name": "Simon Speller",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Shephall"
+    },
+    {
+      "person_id": 127881,
+      "name": "Graham Spencer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Old Town"
+    },
+    {
+      "person_id": 123685,
+      "name": "Benji Sperring",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Croydon"
+    },
+    {
+      "person_id": 46243,
+      "name": "Appu Dhamodaran Srinivasan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Norbury Park"
+    },
+    {
+      "person_id": 85037,
+      "name": "Christine St.Matthew-Daniel",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Blackheath Westcombe"
+    },
+    {
+      "person_id": 136258,
+      "name": "Connor Stanisauskis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "North Middleton"
+    },
+    {
+      "person_id": 127948,
+      "name": "Robert Stebbings",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Greenwich Peninsula"
+    },
+    {
+      "person_id": 37714,
+      "name": "Hazel Stephenson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Benwell, Scotswood & Denton Burn"
+    },
+    {
+      "person_id": 37747,
+      "name": "Paul Stewart",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Redhouse"
+    },
+    {
+      "person_id": 123795,
+      "name": "Aidan Stimson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "West Dulwich"
+    },
+    {
+      "person_id": 48269,
+      "name": "James Ruscombe Stringer",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Dorking Hills"
+    },
+    {
+      "person_id": 76275,
+      "name": "Marina Strinkovsky",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Queen's Park"
+    },
+    {
+      "person_id": 55689,
+      "name": "Kev Stroud",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Dorking"
+    },
+    {
+      "person_id": 13939,
+      "name": "Michael Robert Stubbs",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Talke & Butt Lane"
+    },
+    {
+      "person_id": 76734,
+      "name": "Nigel Robert Sweet",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Lancing"
+    },
+    {
+      "person_id": 89683,
+      "name": "Rachel Taggart-Ryan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Middle Park & Horn Park"
+    },
+    {
+      "person_id": 95583,
+      "name": "Kate Elizabeth Taylor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Breightmet"
+    },
+    {
+      "person_id": 91570,
+      "name": "Ben Taylor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 18705,
+      "name": "Eileen Taylor",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Chapel Allerton"
+    },
+    {
+      "person_id": 91012,
+      "name": "Dave Tchil",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Hackbridge"
+    },
+    {
+      "person_id": 2219,
+      "name": "Steve Terry",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Chapel End"
+    },
+    {
+      "person_id": 136633,
+      "name": "Alison Terry",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Bognor Regis East"
+    },
+    {
+      "person_id": 35788,
+      "name": "Sam Theodoridi",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Worthing Pier"
+    },
+    {
+      "person_id": 98521,
+      "name": "Jeannette Thomas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Almond Hill"
+    },
+    {
+      "person_id": 35729,
+      "name": "Margaret Thomas",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Hackbridge"
+    },
+    {
+      "person_id": 120093,
+      "name": "Angela Mary Thompson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rugby",
+      "council_name": "Rugby",
+      "ward_name": "New Bilton"
+    },
+    {
+      "person_id": 54305,
+      "name": "Eleanor Frances Thomson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Guiseley & Rawdon"
+    },
+    {
+      "person_id": 88318,
+      "name": "Jen Thornton",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Camberwell Green"
+    },
+    {
+      "person_id": 127979,
+      "name": "Nikki Thurlow",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Kidbrooke Park"
+    },
+    {
+      "person_id": 36242,
+      "name": "Martin Tiedemann",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham Park"
+    },
+    {
+      "person_id": 78388,
+      "name": "Craig Tildesley",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Knottingley & Ferrybridge"
+    },
+    {
+      "person_id": 132934,
+      "name": "Matthew George Tiller",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Roehampton"
+    },
+    {
+      "person_id": 109498,
+      "name": "Fiona Katharine Tobin",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Barnes & Thornhill"
+    },
+    {
+      "person_id": 82071,
+      "name": "Carlos Toranzos",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cambridge",
+      "council_name": "Cambridge",
+      "ward_name": "Trumpington"
+    },
+    {
+      "person_id": 72792,
+      "name": "Diana Helen Tremayne",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Todmorden West"
+    },
+    {
+      "person_id": 9960,
+      "name": "Lisa Trickett",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Brandwood & King's Heath"
+    },
+    {
+      "person_id": 48399,
+      "name": "Rachel Elizabeth Tripp",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Forest Gate North"
+    },
+    {
+      "person_id": 72252,
+      "name": "Antony James Tucker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 17604,
+      "name": "Tina Tuohy",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Ham"
+    },
+    {
+      "person_id": 76459,
+      "name": "Caroline Elizabeth Turner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "chorley",
+      "council_name": "Chorley",
+      "ward_name": "Croston, Mawdesley & Euxton South"
+    },
+    {
+      "person_id": 93950,
+      "name": "Peter Turner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sutton",
+      "council_name": "Sutton",
+      "ward_name": "Carshalton Central"
+    },
+    {
+      "person_id": 13730,
+      "name": "Barbara Ruth Twiney",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Timperley Central"
+    },
+    {
+      "person_id": 84331,
+      "name": "John Joseph Usher",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Redhouse"
+    },
+    {
+      "person_id": 124759,
+      "name": "Danial Pascoal Vales",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Upper Stratton"
+    },
+    {
+      "person_id": 36606,
+      "name": "David William Veitch",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Elland"
+    },
+    {
+      "person_id": 49292,
+      "name": "Ravi Venkatesh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Haydon Wick"
+    },
+    {
+      "person_id": 127988,
+      "name": "Carolina Cristina Veres",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "St Nicholas"
+    },
+    {
+      "person_id": 84795,
+      "name": "Luke Viner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "St Ives East"
+    },
+    {
+      "person_id": 131380,
+      "name": "Emma Louise Walker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "chorley",
+      "council_name": "Chorley",
+      "ward_name": "Chorley North West"
+    },
+    {
+      "person_id": 91366,
+      "name": "Frankie Oreoluwa Mary-Ann Walker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 111464,
+      "name": "David Walker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Deptford"
+    },
+    {
+      "person_id": 134171,
+      "name": "Adam Walker",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Throckley, Walbottle & Newburn"
+    },
+    {
+      "person_id": 62758,
+      "name": "Tony Wallis",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Knottingley & Ferrybridge"
+    },
+    {
+      "person_id": 47280,
+      "name": "James-J Walsh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Rushey Green"
+    },
+    {
+      "person_id": 137494,
+      "name": "Clare Walsh",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Littlehampton Town"
+    },
+    {
+      "person_id": 89059,
+      "name": "Luke Warner",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Blackheath"
+    },
+    {
+      "person_id": 15347,
+      "name": "Martyn Warnes",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "colchester",
+      "council_name": "Colchester",
+      "ward_name": "Berechurch"
+    },
+    {
+      "person_id": 118527,
+      "name": "Des Waters",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Wilford"
+    },
+    {
+      "person_id": 11627,
+      "name": "Sue Watson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "sunderland",
+      "council_name": "Sunderland",
+      "ward_name": "Pennywell & South Hylton"
+    },
+    {
+      "person_id": 4318,
+      "name": "Chris Watts",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Kingshill"
+    },
+    {
+      "person_id": 40523,
+      "name": "Nadine Watts",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Old Town & Lawn"
+    },
+    {
+      "person_id": 41409,
+      "name": "Jess Webb",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hackney Wick"
+    },
+    {
+      "person_id": 10948,
+      "name": "Dave Wesson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-oxfordshire",
+      "council_name": "West Oxfordshire",
+      "ward_name": "Carterton North West"
+    },
+    {
+      "person_id": 138689,
+      "name": "Maggie Wheeler",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Wensum"
+    },
+    {
+      "person_id": 40975,
+      "name": "Matt White",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Tottenham Central"
+    },
+    {
+      "person_id": 137817,
+      "name": "Michelle Dawn White",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Nyetimber"
+    },
+    {
+      "person_id": 18955,
+      "name": "Sheila Wicks",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "pendle",
+      "council_name": "Pendle",
+      "ward_name": "Marsden & Southfield"
+    },
+    {
+      "person_id": 40307,
+      "name": "Fiona Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Shard End"
+    },
+    {
+      "person_id": 101225,
+      "name": "Dave Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "cannock-chase",
+      "council_name": "Cannock Chase",
+      "ward_name": "Brereton & Ravenhill"
+    },
+    {
+      "person_id": 85041,
+      "name": "Nick Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Greenwich Peninsula"
+    },
+    {
+      "person_id": 37169,
+      "name": "John Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Cross Heath"
+    },
+    {
+      "person_id": 37164,
+      "name": "Gill Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Cross Heath"
+    },
+    {
+      "person_id": 101502,
+      "name": "Jo Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Heatons North"
+    },
+    {
+      "person_id": 45030,
+      "name": "Grace Williams",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "William Morris"
+    },
+    {
+      "person_id": 129760,
+      "name": "Catherine Maud Wilson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Selhurst"
+    },
+    {
+      "person_id": 87579,
+      "name": "Izaak Wilson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Weetwood"
+    },
+    {
+      "person_id": 62117,
+      "name": "Stanka Wilson",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Haydon Wick"
+    },
+    {
+      "person_id": 44055,
+      "name": "Ian Wingfield",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "St Giles"
+    },
+    {
+      "person_id": 44251,
+      "name": "Susan Wise",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Perry Vale"
+    },
+    {
+      "person_id": 88493,
+      "name": "Valerie Wise",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "preston",
+      "council_name": "Preston",
+      "ward_name": "Fishwick & Frenchwood"
+    },
+    {
+      "person_id": 127012,
+      "name": "Robert Quillan Wolfe",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Bassett"
+    },
+    {
+      "person_id": 116717,
+      "name": "Christopher Isaac Wongsosaputro",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham East"
+    },
+    {
+      "person_id": 129351,
+      "name": "Edwyn Emmanuel Wood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington South"
+    },
+    {
+      "person_id": 11179,
+      "name": "Duncan Wood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Pinhoe"
+    },
+    {
+      "person_id": 77201,
+      "name": "Dave Wood",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Wigan West"
+    },
+    {
+      "person_id": 110138,
+      "name": "Lewis Chadwick Woodall",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "North Heywood"
+    },
+    {
+      "person_id": 136305,
+      "name": "Eleanor Jennifer Woolstencroft",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Lemington"
+    },
+    {
+      "person_id": 138048,
+      "name": "Elliott James Wragg",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Redhill West & Meadvale"
+    },
+    {
+      "person_id": 133070,
+      "name": "Laura Charis Adelaide Wright",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "St Thomas"
+    },
+    {
+      "person_id": 37770,
+      "name": "Linda Isabel Wright",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Throckley, Walbottle & Newburn"
+    },
+    {
+      "person_id": 132937,
+      "name": "Jenny May Yates",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Roehampton"
+    },
+    {
+      "person_id": 15391,
+      "name": "Julie Young",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Wivenhoe St Andrew"
+    },
+    {
+      "person_id": 136346,
+      "name": "Mirza Muhammad Yousaf",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Monument"
+    },
+    {
+      "person_id": 92958,
+      "name": "Yusuf Yusuf",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone South"
+    },
+    {
+      "person_id": 135260,
+      "name": "Arif Zaman",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Elswick"
+    },
+    {
+      "person_id": 85049,
+      "name": "Raja Zeeshan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Woolwich Dockyard"
+    }
+  ]
+}

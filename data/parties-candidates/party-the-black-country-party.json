@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-black-country-party",
+    "display_name": "The Black Country Party",
+    "candidate_count": 5,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Black Country Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 87802,
+      "name": "Matt Cook",
+      "party_name": "The Black Country Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Lye & Stourbridge North"
+    },
+    {
+      "person_id": 59079,
+      "name": "Karl Denning",
+      "party_name": "The Black Country Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Castle & Priory"
+    },
+    {
+      "person_id": 87799,
+      "name": "Wayne Thomas Lewis",
+      "party_name": "The Black Country Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Brierley Hill & Wordsley South"
+    },
+    {
+      "person_id": 99669,
+      "name": "Karen Westwood",
+      "party_name": "The Black Country Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Brockmoor & Pensnett"
+    },
+    {
+      "person_id": 112362,
+      "name": "Dave Woolley",
+      "party_name": "The Black Country Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Wordsley North"
+    }
+  ]
+}

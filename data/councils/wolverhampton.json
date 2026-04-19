@@ -1,0 +1,650 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "wolverhampton",
+    "council_name": "Wolverhampton"
+  },
+  "wards": [
+    {
+      "ward_name": "Bilston North",
+      "ballot_paper_id": "local.wolverhampton.bilston-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 118179,
+          "name": "Luke Matthew Guy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96091,
+          "name": "Audrey Okere",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130151,
+          "name": "Harry Singh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118180,
+          "name": "Anita Stanley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bilston South",
+      "ballot_paper_id": "local.wolverhampton.bilston-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 96068,
+          "name": "Dawn Barbara McNeil",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130221,
+          "name": "Tajinder Singh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130222,
+          "name": "Micky Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76029,
+          "name": "Jilly Wildman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blakenhall",
+      "ballot_paper_id": "local.wolverhampton.blakenhall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17852,
+          "name": "Adam Ansari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39736,
+          "name": "Patrick Neil Bentley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110996,
+          "name": "Vikas Chopra",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130268,
+          "name": "Adrian Perry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76042,
+          "name": "Tersaim Singh",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bushbury North",
+      "ballot_paper_id": "local.wolverhampton.bushbury-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96382,
+          "name": "Gary Edwards",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17846,
+          "name": "Ann Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130335,
+          "name": "Susan Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17834,
+          "name": "Andrew William McNeil",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130336,
+          "name": "Sarabjit Singh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bushbury South & Low Hill",
+      "ballot_paper_id": "local.wolverhampton.bushbury-south-low-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126611,
+          "name": "Armin Berenjian",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108893,
+          "name": "Paul Ian Brookfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93720,
+          "name": "Anthony Charles Gething",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130266,
+          "name": "Cade George Hatton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130267,
+          "name": "Shane P Slater",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Park",
+      "ballot_paper_id": "local.wolverhampton.east-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130137,
+          "name": "Taliesin Quinn Damien Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130138,
+          "name": "Dave Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17272,
+          "name": "Steve Hall",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 17871,
+          "name": "Louise Margaret Miles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96094,
+          "name": "Joe Stepien",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ettingshall North",
+      "ballot_paper_id": "local.wolverhampton.ettingshall-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110986,
+          "name": "Tracy Cooper",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 95533,
+          "name": "Jeszemma Rose Howl",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96502,
+          "name": "Surrinder Kumar Ram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129943,
+          "name": "Manpreet Singh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129944,
+          "name": "Gareth Walker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ettingshall South & Spring Vale",
+      "ballot_paper_id": "local.wolverhampton.ettingshall-south-spring-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 35774,
+          "name": "Jasbinder Dehar",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130196,
+          "name": "Rob Greenway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 61370,
+          "name": "Siân Kumar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130197,
+          "name": "Manish Kumar",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fallings Park",
+      "ballot_paper_id": "local.wolverhampton.fallings-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129930,
+          "name": "Chris Burden",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 95566,
+          "name": "Julia Dickens",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129931,
+          "name": "Stu Goldsmith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17857,
+          "name": "Peter Nixon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129932,
+          "name": "Tony Wortley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Graiseley",
+      "ballot_paper_id": "local.wolverhampton.graiseley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 95571,
+          "name": "Suki Bains",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129509,
+          "name": "Sarp Dayanik",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124677,
+          "name": "Gurbax Kaur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17870,
+          "name": "Jessica Pringle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129510,
+          "name": "Prabhjot Kaur Saini",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heath Town",
+      "ballot_paper_id": "local.wolverhampton.heath-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 96166,
+          "name": "Rob Siarkiewicz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130332,
+          "name": "Ash Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130333,
+          "name": "Hardeep Singh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130334,
+          "name": "Niall Wood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Merry Hill",
+      "ballot_paper_id": "local.wolverhampton.merry-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 61490,
+          "name": "Paul Anthony Darke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73655,
+          "name": "Carol Lesley Hyatt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129803,
+          "name": "Andy Simpkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129804,
+          "name": "Im Stanley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oxley",
+      "ballot_paper_id": "local.wolverhampton.oxley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130210,
+          "name": "Joe Berg",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60636,
+          "name": "Adam John Henry Collinge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96168,
+          "name": "Jane Alison Francis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 7124,
+          "name": "Ian Clive Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 100992,
+          "name": "Marcin Kruczynski",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.wolverhampton.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 39853,
+          "name": "Craig John Collingswood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17876,
+          "name": "Bryan Hamer Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130373,
+          "name": "Harpreet Singh Multani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108894,
+          "name": "Mohammed Naseem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130374,
+          "name": "Jamie Salvin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130375,
+          "name": "Kat Stanley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penn",
+      "ballot_paper_id": "local.wolverhampton.penn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129785,
+          "name": "Fareed Enver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73656,
+          "name": "Kashmire Darren Singh Hawker",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 73360,
+          "name": "Stephanie Mary Haynes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129786,
+          "name": "Pete Kelly",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peters",
+      "ballot_paper_id": "local.wolverhampton.st-peters.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130110,
+          "name": "Adetoyese Anifalaje",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76502,
+          "name": "Qaiser Azeem",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130111,
+          "name": "Muhammad Sarfaraz Qayyum",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130112,
+          "name": "James Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39721,
+          "name": "Gillian Elizabeth Alexandria Timms",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tettenhall Regis",
+      "ballot_paper_id": "local.wolverhampton.tettenhall-regis.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130152,
+          "name": "Kye Reece Barton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130153,
+          "name": "Theresa D'Cruze",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39889,
+          "name": "Julian Martin Donald",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93669,
+          "name": "Jenny Hibell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17890,
+          "name": "Sohail Khan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tettenhall Wightwick",
+      "ballot_paper_id": "local.wolverhampton.tettenhall-wightwick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130191,
+          "name": "Calvin Stockwell Barry Bissitt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130192,
+          "name": "Heather Chell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60713,
+          "name": "Jonathan Mark Crofts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89553,
+          "name": "Don Gwinnett",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wednesfield North",
+      "ballot_paper_id": "local.wolverhampton.wednesfield-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130337,
+          "name": "Andrew Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130338,
+          "name": "Robin Mark Hacking",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130339,
+          "name": "Nasia Ibrahim Ijas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 101460,
+          "name": "Simon Kelsey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39768,
+          "name": "David Murray",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wednesfield South",
+      "ballot_paper_id": "local.wolverhampton.wednesfield-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 95564,
+          "name": "Peter Dickens",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130273,
+          "name": "Christopher Edmunds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130274,
+          "name": "Monika Kapoor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130275,
+          "name": "Harjinder Kaur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130276,
+          "name": "Corey Kendrick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17902,
+          "name": "Andy Randle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130277,
+          "name": "Gursharan Singh",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

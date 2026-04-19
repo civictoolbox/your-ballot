@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-yeshua",
+    "display_name": "Yeshua",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Yeshua"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 35017,
+      "name": "Colin Nicholas Rankine",
+      "party_name": "Yeshua",
+      "council_slug": "sandwell",
+      "council_name": "Sandwell",
+      "ward_name": "Friar Park & Stone Cross"
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "west-oxfordshire",
+    "council_name": "West Oxfordshire"
+  },
+  "wards": [
+    {
+      "ward_name": "Ascott and Shipton",
+      "ballot_paper_id": "local.west-oxfordshire.ascott-and-shipton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130917,
+          "name": "Ed Boanas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130918,
+          "name": "Jan Lund",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110485,
+          "name": "Robin Puttick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 51734,
+          "name": "Liz Reason",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130919,
+          "name": "Nigel Frederick Walker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bampton and Clanfield",
+      "ballot_paper_id": "local.west-oxfordshire.bampton-and-clanfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130927,
+          "name": "Phil Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 25933,
+          "name": "Ted Fenton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130928,
+          "name": "Yvonne Robineau",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87388,
+          "name": "Alaric Michael Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130929,
+          "name": "Simon Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brize Norton and Shilton",
+      "ballot_paper_id": "local.west-oxfordshire.brize-norton-and-shilton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 87384,
+          "name": "David Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130879,
+          "name": "Joseph Long",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130880,
+          "name": "Diane Newsham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120390,
+          "name": "Toyah Jade Leah Overton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10939,
+          "name": "Rosie Pearson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burford",
+      "ballot_paper_id": "local.west-oxfordshire.burford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130941,
+          "name": "Natalie Jane Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122348,
+          "name": "Leslie Barbera Channon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25043,
+          "name": "Nick Field-Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87387,
+          "name": "Nathaniel Robert Miles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130942,
+          "name": "James David Poxon",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carterton North East",
+      "ballot_paper_id": "local.west-oxfordshire.carterton-north-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 130946,
+          "name": "Brian Leonard Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130947,
+          "name": "Dave Horsley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 116778,
+          "name": "Barry Ingleton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130948,
+          "name": "Robert James Steere",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130949,
+          "name": "Gill Stevenson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124506,
+          "name": "Simon Watson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carterton North West",
+      "ballot_paper_id": "local.west-oxfordshire.carterton-north-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130952,
+          "name": "Tom Cripps",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122343,
+          "name": "Sarah Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75952,
+          "name": "Hemashu Kotecha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130953,
+          "name": "Andrew Stacey Walton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10948,
+          "name": "Dave Wesson",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carterton South",
+      "ballot_paper_id": "local.west-oxfordshire.carterton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130961,
+          "name": "Tammy Abarno",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 25431,
+          "name": "Tony Barrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97884,
+          "name": "Kate England",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87392,
+          "name": "Natalie King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130964,
+          "name": "Gemma Louise Yallop",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chipping Norton",
+      "ballot_paper_id": "local.west-oxfordshire.chipping-norton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130974,
+          "name": "Sandra June Coleman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25667,
+          "name": "Claire Eliane Lasko",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130975,
+          "name": "Darren Marshall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75715,
+          "name": "Caspar Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10924,
+          "name": "Sian O'Neill",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ducklington",
+      "ballot_paper_id": "local.west-oxfordshire.ducklington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 51776,
+          "name": "Richard Langridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130989,
+          "name": "Liam Mackenzie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98576,
+          "name": "Georgia Meadows",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122380,
+          "name": "Ben Morel-Allen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75937,
+          "name": "Penny Ponton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eynsham and Cassington",
+      "ballot_paper_id": "local.west-oxfordshire.eynsham-and-cassington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 56367,
+          "name": "Adam Compton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130965,
+          "name": "Penny Garner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130966,
+          "name": "Michael Grant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122386,
+          "name": "Nick Melliss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10966,
+          "name": "Carl Martin Rylett",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freeland and Hanborough",
+      "ballot_paper_id": "local.west-oxfordshire.freeland-and-hanborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 75763,
+          "name": "Lidia Kamilla Arciszewska",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10969,
+          "name": "Toby Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130954,
+          "name": "Ann Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8826,
+          "name": "Miranda Shaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130955,
+          "name": "James John Christopher Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Standlake, Aston and Stanton Harcourt",
+      "ballot_paper_id": "local.west-oxfordshire.standlake-aston-and-stanton-harcourt.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 121486,
+          "name": "Sandra Cosier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110487,
+          "name": "Daniel Eisenhandler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130997,
+          "name": "Peter Mildenhall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75848,
+          "name": "Lysette Nicholls",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 104876,
+          "name": "Sachin Thorogood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "The Bartons",
+      "ballot_paper_id": "local.west-oxfordshire.the-bartons.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131009,
+          "name": "Ian Hames",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 38231,
+          "name": "Dave Jackson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122345,
+          "name": "Mary Ann Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131010,
+          "name": "Matt Sydenham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42659,
+          "name": "Mandi Tandi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Witney East",
+      "ballot_paper_id": "local.west-oxfordshire.witney-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131012,
+          "name": "George Frank Edward Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131013,
+          "name": "Lawrence Haar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131014,
+          "name": "Alex Houlton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98536,
+          "name": "James Robertshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10916,
+          "name": "Ruth Helen Smith",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Witney South",
+      "ballot_paper_id": "local.west-oxfordshire.witney-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 75926,
+          "name": "Mike Brooker",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 122379,
+          "name": "Ross Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110498,
+          "name": "Harriet Lorna Mary Marshall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122376,
+          "name": "Jack Treloar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75938,
+          "name": "Peter Daniel Whitten",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodstock and Bladon",
+      "ballot_paper_id": "local.west-oxfordshire.woodstock-and-bladon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122352,
+          "name": "James Graham Gibbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110493,
+          "name": "Hannah Stephanie Massie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131035,
+          "name": "Sammy McDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111970,
+          "name": "Eric Sukumaran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75944,
+          "name": "Barry Ivan Wheatley",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

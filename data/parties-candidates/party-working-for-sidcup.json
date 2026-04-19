@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-working-for-sidcup",
+    "display_name": "Working for Sidcup",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Working for Sidcup"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 87065,
+      "name": "Dimitri Shvorob",
+      "party_name": "Working for Sidcup",
+      "council_slug": "bexley",
+      "council_name": "Bexley",
+      "ward_name": "Sidcup"
+    }
+  ]
+}

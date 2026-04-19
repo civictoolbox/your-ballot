@@ -1,0 +1,1661 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "wandsworth",
+    "council_name": "Wandsworth"
+  },
+  "wards": [
+    {
+      "ward_name": "Balham",
+      "ballot_paper_id": "local.wandsworth.balham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 92237,
+          "name": "Sami Khairy Abouzahra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132679,
+          "name": "Tom Armstrong",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90810,
+          "name": "Warwick Richard Danks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91791,
+          "name": "David Edward Elliott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132680,
+          "name": "Scott Grant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84435,
+          "name": "Lynsey Eve Hedges",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37101,
+          "name": "Nicholas Humberstone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92129,
+          "name": "Jonathan Neil Dessain Iliff",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132681,
+          "name": "Nicholas Lester",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92335,
+          "name": "John Gabriel Low",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91815,
+          "name": "Tom Pollard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43697,
+          "name": "Jo Rigby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132682,
+          "name": "Varun Santhosh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132683,
+          "name": "Toby Tanner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132684,
+          "name": "Peter Wilkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Battersea Park",
+      "ballot_paper_id": "local.wandsworth.battersea-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 132750,
+          "name": "Antony Phillip Norman Abell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132751,
+          "name": "Jonathan James Aldwinckle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132752,
+          "name": "Alexandra Elizabeth Ames",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132753,
+          "name": "Victoria Oye Asante",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44253,
+          "name": "Anthony John Belton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132754,
+          "name": "Claire Katherine Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132755,
+          "name": "Joanna Clare Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44893,
+          "name": "Daria Agnieszka Hass",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132756,
+          "name": "Lucy Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132757,
+          "name": "Ben Koh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92239,
+          "name": "Isabel Losada",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132758,
+          "name": "Matt Madden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91794,
+          "name": "Mozes Megyesi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92242,
+          "name": "Teresa Prunella Bathurst Norman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132759,
+          "name": "Elizabeth Watson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Putney",
+      "ballot_paper_id": "local.wandsworth.east-putney.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 132777,
+          "name": "Jessica Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132778,
+          "name": "Rebecca Daisy Alana Barton-Singer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91923,
+          "name": "Gabriel Byng Barton-Singer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132779,
+          "name": "Ali Bath",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132780,
+          "name": "Shanaj Begum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132781,
+          "name": "Nicki Breeze",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36339,
+          "name": "George Crivelli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124090,
+          "name": "Jasmin Glynne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36338,
+          "name": "Ravi Govindia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132782,
+          "name": "Maisie Jenkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132783,
+          "name": "Hana Manthorpe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132784,
+          "name": "Susan Jane Muncey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124092,
+          "name": "Dermot John Neligan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91787,
+          "name": "Deen Ossman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124093,
+          "name": "Joe Lewis Smallman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Falconbrook",
+      "ballot_paper_id": "local.wandsworth.falconbrook.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 132790,
+          "name": "Jonathan Antonacci",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132791,
+          "name": "Daniel Jon Dalton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137046,
+          "name": "Lizzie Hacking",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44256,
+          "name": "Simon Arthur Hogg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132792,
+          "name": "Dawn James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132793,
+          "name": "Charles Leek",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48101,
+          "name": "Michael Mitchell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126821,
+          "name": "Maher Nassour",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132794,
+          "name": "Brook William Palloway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132795,
+          "name": "Timothy Paul Read",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44262,
+          "name": "Kate Stock",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Furzedown",
+      "ballot_paper_id": "local.wandsworth.furzedown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 132820,
+          "name": "Tim Atkin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 103492,
+          "name": "Oliver Samuel Wilford Clark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7834,
+          "name": "Leonie Alison Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 27939,
+          "name": "Siôn leuan Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132821,
+          "name": "Romas John Foord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44600,
+          "name": "Judi Gasser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132822,
+          "name": "John Harmsen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132823,
+          "name": "Phillipa Ann Jeal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132824,
+          "name": "Adam Kamenetzky",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132825,
+          "name": "Eden Laudat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132826,
+          "name": "Samantha Mary Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132827,
+          "name": "Kat Taylor-Huzzard",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132828,
+          "name": "David Trowsdale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132829,
+          "name": "Andrew John Wasielewski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132830,
+          "name": "Diane Wilkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132831,
+          "name": "James Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lavender",
+      "ballot_paper_id": "local.wandsworth.lavender.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 132840,
+          "name": "Edith Abimbola Adejobi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132841,
+          "name": "James Branigan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87990,
+          "name": "Ed Chidley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132842,
+          "name": "Joshua Michael Groves",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132843,
+          "name": "Luwis Stephan Gunarathne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7076,
+          "name": "Dan Hamilton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132845,
+          "name": "Rupert Douglas Brooks Hunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132846,
+          "name": "Madison James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84436,
+          "name": "Tom Francesco Pridham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91963,
+          "name": "Jenny Voyce",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nine Elms",
+      "ballot_paper_id": "local.wandsworth.nine-elms.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 111511,
+          "name": "Jane Rachael Briginshaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36330,
+          "name": "Matt Corner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123720,
+          "name": "Mitch Durrant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132854,
+          "name": "James Fok",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132855,
+          "name": "Matthew Grant Hitchins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84437,
+          "name": "Mark John Justin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92336,
+          "name": "Douglas Oddy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132853,
+          "name": "Michael Di Stefano",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36326,
+          "name": "Will Sweet",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43994,
+          "name": "John Morris Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northcote",
+      "ballot_paper_id": "local.wandsworth.northcote.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 132909,
+          "name": "Areej Abuali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 115978,
+          "name": "Francis Edward Vaudrey Chubb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43540,
+          "name": "James Kenton Craig",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91792,
+          "name": "Lara Fiorani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43454,
+          "name": "Clare Louise Fraser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132910,
+          "name": "Jonathan George Heywood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36329,
+          "name": "Aled Richards-Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132911,
+          "name": "Josh Stanton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92613,
+          "name": "Joe Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132912,
+          "name": "Alex Therrien",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roehampton",
+      "ballot_paper_id": "local.wandsworth.roehampton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 41054,
+          "name": "Hugh Palmer Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132925,
+          "name": "Anjusha Chaughule",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36348,
+          "name": "Jane Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132926,
+          "name": "Ben Francis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132927,
+          "name": "Thomas Guyatt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132928,
+          "name": "Graeme Paul Henderson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132929,
+          "name": "Helena Kanaan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132930,
+          "name": "Ivo Nyoh Kuka",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132931,
+          "name": "Samuel James McKenna",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132932,
+          "name": "Jay Bailey Northrop-Maltby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132933,
+          "name": "Reema Siddiqui",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132934,
+          "name": "Matthew George Tiller",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132935,
+          "name": "Tommy Tsherit",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132936,
+          "name": "Terry Washington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132937,
+          "name": "Jenny May Yates",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shaftesbury & Queenstown",
+      "ballot_paper_id": "local.wandsworth.shaftesbury-queenstown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 44943,
+          "name": "Sara Louise Beverley Apps",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132607,
+          "name": "Jo Bartholomeou",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132608,
+          "name": "Imogen Lydia Bath",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44254,
+          "name": "Mark Graham Bennett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44884,
+          "name": "Aydin Dikerdem",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132610,
+          "name": "Stephen Edwin Helms",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132611,
+          "name": "David Kelleher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132612,
+          "name": "John Angus Inglis Jones Kincaid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35355,
+          "name": "John Locker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132613,
+          "name": "Alex Mason",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132614,
+          "name": "Stephanie Kate Seidman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132615,
+          "name": "Natalie Kathleen Wheen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46622,
+          "name": "Stephen Worrall",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Balham",
+      "ballot_paper_id": "local.wandsworth.south-balham.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 132958,
+          "name": "Venessa Barrowman Holtham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132959,
+          "name": "Toby Hopkins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132960,
+          "name": "Robert Daniel Hughes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132961,
+          "name": "Nina Kratky",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132962,
+          "name": "Luke Mathers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34341,
+          "name": "John Pindar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132963,
+          "name": "Charlie Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132964,
+          "name": "Elizabeth Sophia Simos",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 940,
+          "name": "Roy Vickery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132965,
+          "name": "Julian Robert Ware",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southfields",
+      "ballot_paper_id": "local.wandsworth.southfields.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 132991,
+          "name": "Fergus Foord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132992,
+          "name": "Ruby Hawkes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36341,
+          "name": "Guy Derek Ralph Humphries",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132993,
+          "name": "Megs Jacobs",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132994,
+          "name": "Kester Joseph Leek",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132995,
+          "name": "Iliyan Mladenov",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73,
+          "name": "Emmeline Elizabeth Owens",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132996,
+          "name": "Clive Adrian Sexton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132997,
+          "name": "Peter James Godfrey Watts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45854,
+          "name": "Sue Wixley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.wandsworth.st-marys.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 133025,
+          "name": "Dimitri Roberto Backwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133026,
+          "name": "Colleen Anne Browne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133027,
+          "name": "Jeanine Canzius",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91932,
+          "name": "Lu Curtis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133029,
+          "name": "Charlie Fisher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133030,
+          "name": "Simon Darius Grayson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133028,
+          "name": "Catja De Haas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133031,
+          "name": "Sana Zehra Jafri",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133032,
+          "name": "Robert John Lake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133033,
+          "name": "Josephine Mantey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133034,
+          "name": "Ryan McMullen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91935,
+          "name": "Tudor Puleston Nicholls",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91933,
+          "name": "Caroline India Gwendoline De la Soujeole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133035,
+          "name": "Michael Stone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133036,
+          "name": "Oliver William Venn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123723,
+          "name": "Zarah Michelle Wiles",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thamesfield",
+      "ballot_paper_id": "local.wandsworth.thamesfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133054,
+          "name": "Anthony Ashurst",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44555,
+          "name": "Ethan Kane Foster Brooks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133053,
+          "name": "Bruno Alves Carreiro",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133055,
+          "name": "Adam Davison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133056,
+          "name": "Nicola Elliott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133057,
+          "name": "Fredrick Oboledefe Emojevbe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133058,
+          "name": "Tim Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133059,
+          "name": "Josh Hughes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 101832,
+          "name": "James Owen Ashton Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133060,
+          "name": "Jessie Lee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133061,
+          "name": "Robert Morritt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36346,
+          "name": "Salvatore Murtas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133062,
+          "name": "Fraser Pitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133063,
+          "name": "Kate Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133064,
+          "name": "James Richard Usher Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tooting Bec",
+      "ballot_paper_id": "local.wandsworth.tooting-bec.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 4405,
+          "name": "Sheila Mary Boswell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132642,
+          "name": "Yannina Jade Captain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45272,
+          "name": "Annamarie Marina Critchard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132643,
+          "name": "Mark Derbyshire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24973,
+          "name": "Kyle William Evans",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91951,
+          "name": "Arminel Prudence Fennelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132644,
+          "name": "Imran Hussain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132645,
+          "name": "Tolga Inanc",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132646,
+          "name": "Shair Alam Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132647,
+          "name": "Lisa Laudat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132648,
+          "name": "Sam Benjamin Merullo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132650,
+          "name": "Giles Rowe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132649,
+          "name": "Sofia Pandolfi da Silveira",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132651,
+          "name": "Stephen Gary Skipper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132652,
+          "name": "Pek-San Tan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45279,
+          "name": "Paul John White",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tooting Broadway",
+      "ballot_paper_id": "local.wandsworth.tooting-broadway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 44826,
+          "name": "Kemi Akinola",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132593,
+          "name": "Michael Bankole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132594,
+          "name": "Phillip Cartwright",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132595,
+          "name": "Stef Dearden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132596,
+          "name": "Rachael Delahunty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132597,
+          "name": "Stewart Foster",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92178,
+          "name": "Kim Hendry",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132598,
+          "name": "Cameron Joshi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132599,
+          "name": "Belinda Lara Sevan Keheyan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132600,
+          "name": "Claire Kennedy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109029,
+          "name": "Sean Lawless",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132601,
+          "name": "Dominic Phillip Lowe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132602,
+          "name": "William Patrick D'Arcy Mumby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95285,
+          "name": "Rex Osborn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91818,
+          "name": "Haren Thillainathan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132603,
+          "name": "Gareth Robert Wallace",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Trinity",
+      "ballot_paper_id": "local.wandsworth.trinity.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 84513,
+          "name": "Kirsten Botting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86412,
+          "name": "Lizzy Dobres",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133072,
+          "name": "Mark Andrew Elliott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133073,
+          "name": "Dylan Connor Peter Henderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133071,
+          "name": "Veronica De Homersley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133074,
+          "name": "Mary Ingham",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 109028,
+          "name": "Otto Jacobsson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84236,
+          "name": "Jack Amadeus Mayorcas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45455,
+          "name": "Caroline Ogden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 74383,
+          "name": "Adam Karl Powell-Davies",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133075,
+          "name": "Georgia Rayner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133076,
+          "name": "Jed Simister",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wandle",
+      "ballot_paper_id": "local.wandsworth.wandle.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 133269,
+          "name": "Chris Baron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133270,
+          "name": "John Stanley Caldecott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133271,
+          "name": "Pierre Robert Charles Ezard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43606,
+          "name": "Glyn Kerry Goodwin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133272,
+          "name": "Wil Lindalo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136745,
+          "name": "Andrew MacMillan",
+          "party_name": "Wandle Independent Group"
+        },
+        {
+          "person_id": 133273,
+          "name": "Sylvain Magne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133274,
+          "name": "Will Olmi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 85020,
+          "name": "Denise Samantha Paul",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133275,
+          "name": "Susan Shocket",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84242,
+          "name": "Sarmila Varatharaj",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wandsworth Common",
+      "ballot_paper_id": "local.wandsworth.wandsworth-common.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 45451,
+          "name": "Eileen Riley Arms",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133292,
+          "name": "Eliza Broadbent",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133293,
+          "name": "Amanda Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133294,
+          "name": "Paul Anthony Stuart Dyke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133295,
+          "name": "Suzanne Ellis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92617,
+          "name": "Maximilian Ellis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133296,
+          "name": "James Alexander Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36362,
+          "name": "Peter Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36354,
+          "name": "Angela Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43470,
+          "name": "David Phillip Lane",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133297,
+          "name": "Melanie Tara McLaren",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133298,
+          "name": "Gareth Rhys Morgan-Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37161,
+          "name": "Tom Mytton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133299,
+          "name": "Ellie Pyemont",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133300,
+          "name": "Colin Richard Stickney",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wandsworth Town",
+      "ballot_paper_id": "local.wandsworth.wandsworth-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130909,
+          "name": "Michelle Susan Cook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92628,
+          "name": "James George Couper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133330,
+          "name": "Susanna Dammann",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85021,
+          "name": "Sarah Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39822,
+          "name": "Noel Dube",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133331,
+          "name": "Caroline Alice Elsom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123631,
+          "name": "Shirin Chiara Georgiani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133332,
+          "name": "Eugenia Georgieva",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133333,
+          "name": "Sacha Ismail",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133334,
+          "name": "David Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133335,
+          "name": "Stephen Michael Lord",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133336,
+          "name": "John Pain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133337,
+          "name": "Josh Sherer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133338,
+          "name": "Dion Tanteles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133339,
+          "name": "Jane Thomson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Hill",
+      "ballot_paper_id": "local.wandsworth.west-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133004,
+          "name": "Daniel Blaszczyk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46736,
+          "name": "Eleanor Doody",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133005,
+          "name": "Charlie Drakesmith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133006,
+          "name": "AJ Durrant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133007,
+          "name": "Emily Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84440,
+          "name": "Daniel Ghossain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 105071,
+          "name": "Patrick William Gilbert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46766,
+          "name": "Malcolm Charles Grimston",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 46790,
+          "name": "Angela Mary Ireland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45852,
+          "name": "Duncan James Anton Lyons",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133008,
+          "name": "Sam Manley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133009,
+          "name": "Harry Roth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92627,
+          "name": "Jason Whiffin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133010,
+          "name": "Madeline Woolf",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133011,
+          "name": "Sian Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Putney",
+      "ballot_paper_id": "local.wandsworth.west-putney.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132691,
+          "name": "Shakeel Ahmad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110586,
+          "name": "Nick Austin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92621,
+          "name": "Joanna Louise Chidgey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132692,
+          "name": "Saida Daudova",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132693,
+          "name": "Umer Hayat Ghuman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132694,
+          "name": "Robin Gordon Haddon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3049,
+          "name": "Melanie Caroline Alexandra Hampton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132695,
+          "name": "Noureen Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92202,
+          "name": "Mark Timothy Lejman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132696,
+          "name": "Gloria Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4748,
+          "name": "Christopher Edward Poole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132698,
+          "name": "Timothy David Hamilton Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132697,
+          "name": "Sarah Alexandra Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132699,
+          "name": "Ed Tomlinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

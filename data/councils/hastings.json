@@ -1,0 +1,538 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hastings",
+    "council_name": "Hastings"
+  },
+  "wards": [
+    {
+      "ward_name": "Ashdown",
+      "ballot_paper_id": "local.hastings.ashdown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133442,
+          "name": "Louise Chantal",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 42509,
+          "name": "Michael Justinian Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133443,
+          "name": "Daniel Kendrick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133444,
+          "name": "Marie Louise Parfitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30906,
+          "name": "Robert John Wakeford",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Baird",
+      "ballot_paper_id": "local.hastings.baird.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112688,
+          "name": "Liam Atkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133453,
+          "name": "Rick Dillon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133454,
+          "name": "Jack Philip McCree",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133455,
+          "name": "Will Rumfitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45060,
+          "name": "Mike Turner",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Braybrooke",
+      "ballot_paper_id": "local.hastings.braybrooke.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133463,
+          "name": "Yoong Kam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133464,
+          "name": "Archie Lauchlan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112027,
+          "name": "Josh Matthews",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133465,
+          "name": "John Richard Waterfall",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.hastings.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133471,
+          "name": "Charlie Cooke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93072,
+          "name": "Steph Fawbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14269,
+          "name": "Judy Rogers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133472,
+          "name": "Graeme White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central St Leonards",
+      "ballot_paper_id": "local.hastings.central-st-leonards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133482,
+          "name": "Alex Dudley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6690,
+          "name": "Caroline June Kerswell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133483,
+          "name": "Trevor Redmond",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133484,
+          "name": "Solly Solamito",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Conquest",
+      "ballot_paper_id": "local.hastings.conquest.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133490,
+          "name": "Rob Drew",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133491,
+          "name": "Ian James Gillam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112365,
+          "name": "Hugh Philip Nicholson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14733,
+          "name": "Stewart Gregory Rayment",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93073,
+          "name": "Roger Streeten",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gensing",
+      "ballot_paper_id": "local.hastings.gensing.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133492,
+          "name": "Shane Atkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93040,
+          "name": "Amanda Christabel Jobson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133493,
+          "name": "Jet Rankin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18639,
+          "name": "John Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hollington",
+      "ballot_paper_id": "local.hastings.hollington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133499,
+          "name": "Matthew Clifford Ainsworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133500,
+          "name": "Will Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133501,
+          "name": "Andrea Cowhig",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133502,
+          "name": "Angela Liliet Harris",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133503,
+          "name": "Justin Lee Wynne",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maze Hill",
+      "ballot_paper_id": "local.hastings.maze-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14660,
+          "name": "Rob Cooke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81380,
+          "name": "Lee Joseph Grant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133508,
+          "name": "Rosie Murphy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133509,
+          "name": "Tim John Cairns Shand",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45097,
+          "name": "Karen Simnett",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Hastings",
+      "ballot_paper_id": "local.hastings.old-hastings.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 14713,
+          "name": "James Edward Bacon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133510,
+          "name": "Steve Foot",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133511,
+          "name": "Mike Frith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133512,
+          "name": "Ray Molloy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ore",
+      "ballot_paper_id": "local.hastings.ore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133514,
+          "name": "Wojciech Duczmal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133515,
+          "name": "Kim Forward",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133516,
+          "name": "Clem McCulloch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107645,
+          "name": "Brett Reginald McLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133517,
+          "name": "Vicky Wilson",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Silverhill",
+      "ballot_paper_id": "local.hastings.silverhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45093,
+          "name": "Craig Steven Andrew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133526,
+          "name": "Ian Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133527,
+          "name": "Margi O'Callaghan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 112052,
+          "name": "Dulcie Reynolds",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133528,
+          "name": "Nigel Sinden",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Helens",
+      "ballot_paper_id": "local.hastings.st-helens.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133533,
+          "name": "Andy Batsford",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112050,
+          "name": "Stephen Butterton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133534,
+          "name": "Peter Anthony Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133535,
+          "name": "Shaun Dowling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133536,
+          "name": "Barney Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45147,
+          "name": "Bob Lloyd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133538,
+          "name": "Howard Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133537,
+          "name": "Helen Martin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133539,
+          "name": "Jessica Townsend",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133540,
+          "name": "Hazel Edith Vanbergen",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tressell",
+      "ballot_paper_id": "local.hastings.tressell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 78602,
+          "name": "Ingrid Kristina Kathleen Allan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93068,
+          "name": "Glenn Haffenden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133548,
+          "name": "Ricky Hodges",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133549,
+          "name": "Shelley Lee",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West St Leonards",
+      "ballot_paper_id": "local.hastings.west-st-leonards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30908,
+          "name": "Matthew Joseph Beaver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133552,
+          "name": "Emma Joliffe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133553,
+          "name": "Derek Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14744,
+          "name": "Eve Montgomery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82606,
+          "name": "Anna Sabin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wishing Tree",
+      "ballot_paper_id": "local.hastings.wishing-tree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133559,
+          "name": "John Cannan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133560,
+          "name": "Wendy Cooke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133561,
+          "name": "Melanie Kavanagh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133562,
+          "name": "Mal McDermott",
+          "party_name": "Libertarian Party"
+        },
+        {
+          "person_id": 133563,
+          "name": "John Rankin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133564,
+          "name": "Doreena Ross",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

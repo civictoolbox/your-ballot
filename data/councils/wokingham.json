@@ -1,0 +1,644 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "wokingham",
+    "council_name": "Wokingham"
+  },
+  "wards": [
+    {
+      "ward_name": "Barkham & Arborfield",
+      "ballot_paper_id": "local.wokingham.barkham-arborfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132796,
+          "name": "Mohima Bose",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132797,
+          "name": "Christopher John Bowring",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82825,
+          "name": "Asad Feroz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112510,
+          "name": "Sebastian Graabek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126186,
+          "name": "Isla Emily Sykes",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bulmershe & Coronation",
+      "ballot_paper_id": "local.wokingham.bulmershe-coronation.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125252,
+          "name": "Laurence Paul Beard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5656,
+          "name": "Andy Croy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79701,
+          "name": "Sheila Anne Jordan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126462,
+          "name": "Kai Meade",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112512,
+          "name": "Yusra Salman",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Emmbrook",
+      "ballot_paper_id": "local.wokingham.emmbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109294,
+          "name": "Basit Sajjad Alvi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133399,
+          "name": "John Ralph Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126187,
+          "name": "Gopi Kolluru",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124711,
+          "name": "Mark Jonathan Vernon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133400,
+          "name": "James Westhorpe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Evendons",
+      "ballot_paper_id": "local.wokingham.evendons.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137964,
+          "name": "Jeremy Michael Field",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137965,
+          "name": "Bjorn Graabek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124712,
+          "name": "Joe Hughes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9390,
+          "name": "Annette Laura Medhurst",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137966,
+          "name": "Richa Singh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Finchampstead",
+      "ballot_paper_id": "local.wokingham.finchampstead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125253,
+          "name": "Shannon Carter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92807,
+          "name": "Peter Harper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111880,
+          "name": "Jac Pluves",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133476,
+          "name": "Laurent Seraphin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133477,
+          "name": "Stephen Surpless",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hawkedon",
+      "ballot_paper_id": "local.wokingham.hawkedon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 74964,
+          "name": "Mark Ambrose Craske",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41149,
+          "name": "Michael John Firmager",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109303,
+          "name": "Melanie Cheryl De Jong",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125552,
+          "name": "Tom Milne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137002,
+          "name": "Sol Villaverde",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillside",
+      "ballot_paper_id": "local.wokingham.hillside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96417,
+          "name": "Evan Peter Ainsworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118374,
+          "name": "Nick Kilby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136490,
+          "name": "Amy Louise Robins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34355,
+          "name": "Russell Stewart Seymour",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59208,
+          "name": "Caroline Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loddon",
+      "ballot_paper_id": "local.wokingham.loddon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112252,
+          "name": "David Bragg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9416,
+          "name": "Nigel Stuart Harman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96421,
+          "name": "Rona Melanie Noble",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125020,
+          "name": "Stuart Andrew Simpson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136044,
+          "name": "Lance Tyrrill",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maiden Erlegh & Whitegates",
+      "ballot_paper_id": "local.wokingham.maiden-erlegh-whitegates.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136048,
+          "name": "Lillie Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92796,
+          "name": "Wazir Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79702,
+          "name": "Samuel Langlois",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111864,
+          "name": "Mary Elizabeth Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109312,
+          "name": "Andy Ng Siu-Hong",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norreys",
+      "ballot_paper_id": "local.wokingham.norreys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 5657,
+          "name": "Phil Cunnington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112524,
+          "name": "Sara Elizabeth Gillman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 15007,
+          "name": "John Anthony Sydney Halsall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136052,
+          "name": "Alwyn Howard Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124713,
+          "name": "Kalveer Kaur Lehal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96418,
+          "name": "Nagi Nagella",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shinfield",
+      "ballot_paper_id": "local.wokingham.shinfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 59274,
+          "name": "Parry Batth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111869,
+          "name": "Richard Mark McKenzie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96780,
+          "name": "Dominic Alain Rider",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136053,
+          "name": "Edward Shaw",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 100316,
+          "name": "Vishal Srinivasan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125254,
+          "name": "Keiron Titus",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Lake",
+      "ballot_paper_id": "local.wokingham.south-lake.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 111874,
+          "name": "William Francis John Gale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138595,
+          "name": "Andy Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59213,
+          "name": "Carol Ann Jewell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138596,
+          "name": "Michael Kennedy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112118,
+          "name": "Gary Shacklady",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Spencers Wood & Swallowfield",
+      "ballot_paper_id": "local.wokingham.spencers-wood-swallowfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138498,
+          "name": "Gerry Allan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138499,
+          "name": "Kathryn Jane Allman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 14434,
+          "name": "Tom Blomley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41551,
+          "name": "Chris Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 54534,
+          "name": "Anthony Pollock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126188,
+          "name": "Jacky Steele",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thames",
+      "ballot_paper_id": "local.wokingham.thames.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124714,
+          "name": "Salma Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117125,
+          "name": "Leon Cook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15006,
+          "name": "Stuart George Crainer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109326,
+          "name": "Katrin Harding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137359,
+          "name": "Andrew James McLaren",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Twyford, Ruscombe & Hurst",
+      "ballot_paper_id": "local.wokingham.twyford-ruscombe-hurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 79797,
+          "name": "Martijn Andrea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 19401,
+          "name": "Merv Boniface",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137188,
+          "name": "Darren James Grant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111873,
+          "name": "Stuart Ashley Hooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40416,
+          "name": "Graham Howe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wescott",
+      "ballot_paper_id": "local.wokingham.wescott.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 100390,
+          "name": "David Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138565,
+          "name": "Stephen Clubley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109338,
+          "name": "Chris Cooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126189,
+          "name": "Tom Mayers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138566,
+          "name": "James Pigott",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winnersh",
+      "ballot_paper_id": "local.wokingham.winnersh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136293,
+          "name": "Jim Fife",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118373,
+          "name": "Chetna Jamthe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111858,
+          "name": "Tim Jinkerson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124715,
+          "name": "Laura Titchiner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92816,
+          "name": "Martyn Washbourne",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wokingham Without",
+      "ballot_paper_id": "local.wokingham.wokingham-without.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 135039,
+          "name": "Carl Andrew Bond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135040,
+          "name": "Roberta Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111870,
+          "name": "Tom Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92831,
+          "name": "David Owen Howell Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74946,
+          "name": "Colin Heath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135041,
+          "name": "Henry Newbury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135042,
+          "name": "Jerry Percy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112540,
+          "name": "Seona Turtle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135043,
+          "name": "Colin Wright",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124716,
+          "name": "Guy Zilberman",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

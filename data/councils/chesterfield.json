@@ -1,0 +1,83 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "chesterfield",
+    "council_name": "Chesterfield"
+  },
+  "wards": [
+    {
+      "ward_name": "Staveley North",
+      "ballot_paper_id": "local.chesterfield.staveley-north.by.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 128541,
+          "name": "Steven Roy Barlow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31405,
+          "name": "John Boult",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 63433,
+          "name": "Jane Collins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 63953,
+          "name": "Lisa Kelly Collins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 31427,
+          "name": "Dean Collins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128543,
+          "name": "Robert Meikle Ferrie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128544,
+          "name": "Stephen James Hartley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117869,
+          "name": "Martin Hibbert",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128545,
+          "name": "Vicki Holmes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 96843,
+          "name": "Alison Hounslow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128546,
+          "name": "Alison Paulette Riley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117676,
+          "name": "Kris Stone",
+          "party_name": "Chesterfield And North Derbyshire Independents (CANDI)"
+        },
+        {
+          "person_id": 128547,
+          "name": "Dawn Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

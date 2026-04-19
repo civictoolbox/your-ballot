@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-libertarian-party",
+    "display_name": "Libertarian Party",
+    "candidate_count": 6,
+    "council_count": 6,
+    "raw_party_names": [
+      "Libertarian Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 131549,
+      "name": "Marco Bocci",
+      "party_name": "Libertarian Party",
+      "council_slug": "merton",
+      "council_name": "Merton",
+      "ward_name": "Lavender Fields"
+    },
+    {
+      "person_id": 19433,
+      "name": "Dan Clarke",
+      "party_name": "Libertarian Party",
+      "council_slug": "halton",
+      "council_name": "Halton",
+      "ward_name": "Beechwood & Heath"
+    },
+    {
+      "person_id": 45206,
+      "name": "Martin Paul Day",
+      "party_name": "Libertarian Party",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "Coseley"
+    },
+    {
+      "person_id": 58367,
+      "name": "Christopher Edward Ecclestone",
+      "party_name": "Libertarian Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Andover South"
+    },
+    {
+      "person_id": 133562,
+      "name": "Mal McDermott",
+      "party_name": "Libertarian Party",
+      "council_slug": "hastings",
+      "council_name": "Hastings",
+      "ward_name": "Wishing Tree"
+    },
+    {
+      "person_id": 38153,
+      "name": "Alex Zychowski",
+      "party_name": "Libertarian Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Midhurst"
+    }
+  ]
+}

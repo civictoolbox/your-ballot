@@ -1,0 +1,1379 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "leeds",
+    "council_name": "Leeds"
+  },
+  "wards": [
+    {
+      "ward_name": "Adel & Wharfedale",
+      "ballot_paper_id": "local.leeds.adel-wharfedale.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 128172,
+          "name": "Fiona Josephine Allen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128173,
+          "name": "Jemima Frankie Bostock",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 87561,
+          "name": "Lee Anthony Farmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128174,
+          "name": "Craig Gabbitas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126616,
+          "name": "Gordon Richard Howe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128175,
+          "name": "Michael Lowry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128176,
+          "name": "Nathan James Ramsden",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126615,
+          "name": "Dominic Daniel Jack Seaward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37014,
+          "name": "Ray Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128177,
+          "name": "David Stoddart-Scott",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Alwoodley",
+      "ballot_paper_id": "local.leeds.alwoodley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 36954,
+          "name": "Dan Cohen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9277,
+          "name": "Robert Hugh Jacques",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128182,
+          "name": "Matthew McGonagle",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128183,
+          "name": "Howard Anthony Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126610,
+          "name": "Catherine Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ardsley & Robin Hood",
+      "ballot_paper_id": "local.leeds.ardsley-robin-hood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126623,
+          "name": "Noah Bentley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35717,
+          "name": "Mike Foster",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125782,
+          "name": "Sian Gardener",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128189,
+          "name": "Robert Stephen Jagger",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126624,
+          "name": "Shamim Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128190,
+          "name": "Debra Alison Stretton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Armley",
+      "ballot_paper_id": "local.leeds.armley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 109059,
+          "name": "Richard Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126065,
+          "name": "John Frank Beal",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128027,
+          "name": "Paul Bickerdike",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128028,
+          "name": "Edmond Daramy-Williams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75863,
+          "name": "Florian Oscar Alice Hynam",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 36971,
+          "name": "Dan Walker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125040,
+          "name": "Clancy Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beeston & Holbeck",
+      "ballot_paper_id": "local.leeds.beeston-holbeck.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 18749,
+          "name": "Al Garthwaite",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124775,
+          "name": "Nick The Duck Guy",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 75388,
+          "name": "Christopher Thomas Howden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128208,
+          "name": "Alex Kettle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128209,
+          "name": "Loreen Gulrez Nix",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109774,
+          "name": "Matt Rogan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107214,
+          "name": "Sasha Watson",
+          "party_name": "Social Democratic Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bramley & Stanningley",
+      "ballot_paper_id": "local.leeds.bramley-stanningley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128206,
+          "name": "William Michael Gallimore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110074,
+          "name": "Ian Robert Howell",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 126194,
+          "name": "Annabell Roodi Kesby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128207,
+          "name": "Daren David Morrish",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36990,
+          "name": "Kevin Ritchie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44976,
+          "name": "Claire Rosemary Spencer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burmantofts & Richmond Hill",
+      "ballot_paper_id": "local.leeds.burmantofts-richmond-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 126619,
+          "name": "Shahab Saqib Adris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73722,
+          "name": "Richard Chaves-Sanderson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128647,
+          "name": "Leo Doherty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87506,
+          "name": "Luke Anthony Farley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 18685,
+          "name": "David Ewan Hollingsworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6546,
+          "name": "Zoe Metcalfe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 49445,
+          "name": "Paul Daniel Whestone",
+          "party_name": "Social Democratic Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Calverley & Farsley",
+      "ballot_paper_id": "local.leeds.calverley-farsley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 18694,
+          "name": "Andrew Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37065,
+          "name": "Ellen Graham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76202,
+          "name": "Stuart McLeod",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128214,
+          "name": "Andy North",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123678,
+          "name": "Kathryn Sara Penny",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chapel Allerton",
+      "ballot_paper_id": "local.leeds.chapel-allerton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128125,
+          "name": "Kevin Irving Black",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75881,
+          "name": "Richard Cowles",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 18702,
+          "name": "Darren Finlay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126612,
+          "name": "Cristiana Mirosanu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128126,
+          "name": "Yaseen Saddique",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18705,
+          "name": "Eileen Taylor",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cross Gates & Whinmoor",
+      "ballot_paper_id": "local.leeds.cross-gates-whinmoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 75920,
+          "name": "Howard Graham Dews",
+          "party_name": "Yorkshire Party"
+        },
+        {
+          "person_id": 6073,
+          "name": "Martin Francis Hemingway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87513,
+          "name": "John Kennedy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128097,
+          "name": "Joshua Patrick Lowthion",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96484,
+          "name": "Ali Mansfield",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128098,
+          "name": "Luke Murrow",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75842,
+          "name": "Mark Nicholson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128099,
+          "name": "Paula-Jane Thackray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76219,
+          "name": "Paul Anthony Whetsone",
+          "party_name": "Social Democratic Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farnley & Wortley",
+      "ballot_paper_id": "local.leeds.farnley-wortley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 86408,
+          "name": "Peter Edward Allison",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 36628,
+          "name": "Peter Richard Andrews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37069,
+          "name": "Ann Blackburn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128193,
+          "name": "Shikha Chaturvedi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37009,
+          "name": "Charlotte Hill",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 107212,
+          "name": "Richard David Riley",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128194,
+          "name": "Wenzdae Robbins",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Garforth & Swillington",
+      "ballot_paper_id": "local.leeds.garforth-swillington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 107231,
+          "name": "Peter Bentley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126595,
+          "name": "Alexander James Bull",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128035,
+          "name": "David Ian Butterfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44267,
+          "name": "Mark David Dobson",
+          "party_name": "Garforth and Swillington Independents Party"
+        },
+        {
+          "person_id": 18887,
+          "name": "David Patrick Nagle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128036,
+          "name": "Rebecca Cecilia Phillips",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gipton & Harehills",
+      "ballot_paper_id": "local.leeds.gipton-harehills.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 18725,
+          "name": "Salma Arif",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 116581,
+          "name": "Callum Daniel Bushrod",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8163,
+          "name": "Iain Alaistair Dalton",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128242,
+          "name": "Jack Glover",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128243,
+          "name": "Arif Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128244,
+          "name": "Patricia Helen Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75708,
+          "name": "Andrew Alexander Martin",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128245,
+          "name": "Andy Nix",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 125257,
+          "name": "Khizer Qayyum",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Guiseley & Rawdon",
+      "ballot_paper_id": "local.leeds.guiseley-rawdon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126617,
+          "name": "Eliza Ainley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76189,
+          "name": "Paul James Alderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5691,
+          "name": "Bob Buxton",
+          "party_name": "Yorkshire Party"
+        },
+        {
+          "person_id": 128250,
+          "name": "Robert Andrew Harder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109798,
+          "name": "Helen Page",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 54305,
+          "name": "Eleanor Frances Thomson",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harewood",
+      "ballot_paper_id": "local.leeds.harewood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 75313,
+          "name": "David John Bowgett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128270,
+          "name": "John Cowling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76212,
+          "name": "Claire Anne Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128271,
+          "name": "John William Hills",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126464,
+          "name": "Angela Jane Bond Wallis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128272,
+          "name": "Patrick Wright",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Headingley & Hyde Park",
+      "ballot_paper_id": "local.leeds.headingley-hyde-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 44616,
+          "name": "Brandon Ashford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126254,
+          "name": "Nilesh Chohan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128490,
+          "name": "Della Heptinstall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35978,
+          "name": "Jonathan David Pryor",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128491,
+          "name": "Ryan Richards",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 128492,
+          "name": "Andrew Robert Wilde",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horsforth",
+      "ballot_paper_id": "local.leeds.horsforth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126618,
+          "name": "Khadijah Akhtar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87531,
+          "name": "Emmie Bromley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128276,
+          "name": "Ivan Petrovich Brookes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44918,
+          "name": "Chris Calvert",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41287,
+          "name": "Catherine Frances Dobson",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128277,
+          "name": "Michael Meston",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hunslet & Riverside",
+      "ballot_paper_id": "local.leeds.hunslet-riverside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 87551,
+          "name": "Taiwo Funmilayo Adeyemi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18712,
+          "name": "Ed Carlisle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9292,
+          "name": "Roderic Parker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124542,
+          "name": "Sarata Sawo",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124812,
+          "name": "Ayesha Shamim",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128278,
+          "name": "Paul Thomas",
+          "party_name": "Social Democratic Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Killingbeck & Seacroft",
+      "ballot_paper_id": "local.leeds.killingbeck-seacroft.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 38538,
+          "name": "David Stephen Dresser",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75884,
+          "name": "Thomas Peter Foster",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 109470,
+          "name": "Rosemary Gaskell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126597,
+          "name": "Nosheen Majid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87544,
+          "name": "John Tudor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38199,
+          "name": "Ben Turner-Chastney",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kippax & Methley",
+      "ballot_paper_id": "local.leeds.kippax-methley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 13935,
+          "name": "Mary Elizabeth Harland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36998,
+          "name": "Thomas Leadley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 76193,
+          "name": "Connor Mulhall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126633,
+          "name": "Andy Phillips",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126590,
+          "name": "Chris Weightman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kirkstall",
+      "ballot_paper_id": "local.leeds.kirkstall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 40588,
+          "name": "Hannah Louise Bithell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37999,
+          "name": "Dawn Julia Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128215,
+          "name": "Jacob Andrew Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126260,
+          "name": "Joe Ingham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18764,
+          "name": "Stuart Long",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128216,
+          "name": "George Phillips",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128217,
+          "name": "Chris Read",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little London & Woodhouse",
+      "ballot_paper_id": "local.leeds.little-london-woodhouse.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 44617,
+          "name": "Kayleigh Brooks",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128308,
+          "name": "Jonathan Paul Burkitt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126261,
+          "name": "Eden Hills",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128310,
+          "name": "Bradley Evan Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128309,
+          "name": "TJ Diniz Mota",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128311,
+          "name": "Gerorge Sykes",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Middleton Park",
+      "ballot_paper_id": "local.leeds.middleton-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 87538,
+          "name": "Samson Roberts Adeyemi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18775,
+          "name": "Wayne Alan Dixon",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 126621,
+          "name": "Ciaran Lee Head",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128184,
+          "name": "Innocent Igiehon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 110019,
+          "name": "James Kendall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128185,
+          "name": "Kristof Szecsi",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moortown",
+      "ballot_paper_id": "local.leeds.moortown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128361,
+          "name": "Laura Jane Fisher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 56179,
+          "name": "Rachel Elizabeth Hartshorne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128362,
+          "name": "Sajjad Raja",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75755,
+          "name": "Sharon Margaret Slinger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38541,
+          "name": "Rob Speed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 107109,
+          "name": "Sarah Welbourne",
+          "party_name": "Social Democratic Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Morley North",
+      "ballot_paper_id": "local.leeds.morley-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 109995,
+          "name": "Pauline Barron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 107307,
+          "name": "Mihai Marcelin Barticel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126625,
+          "name": "Edward John Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126629,
+          "name": "Amber Conyers-Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126204,
+          "name": "Jonathan Graves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122747,
+          "name": "Terry Grayshon",
+          "party_name": "Morley Borough Independents"
+        },
+        {
+          "person_id": 126203,
+          "name": "Dinah Rose Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126626,
+          "name": "Jonny Kelsey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128416,
+          "name": "Simon William Kimberley",
+          "party_name": "Morley Borough Independents"
+        },
+        {
+          "person_id": 72846,
+          "name": "Nigel Perry",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 126630,
+          "name": "Kasim Rasool",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37001,
+          "name": "Louisa Mary Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 107296,
+          "name": "James Trueman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Morley South",
+      "ballot_paper_id": "local.leeds.morley-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 126628,
+          "name": "Matthew Ball",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128317,
+          "name": "John Barron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126627,
+          "name": "Adrian Blake",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126202,
+          "name": "Michael Burnham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47010,
+          "name": "Michael James Fox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72847,
+          "name": "Cordelia Lynan",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 126257,
+          "name": "Darren Mark Senior",
+          "party_name": "Morley Borough Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Otley & Yeadon",
+      "ballot_paper_id": "local.leeds.otley-yeadon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19076,
+          "name": "Mick Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37602,
+          "name": "Colin Andrew Campbell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18736,
+          "name": "Simon Mark Dowling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128320,
+          "name": "Scott Michael Richmond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44962,
+          "name": "Paul John Spencer Wadsworth",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pudsey",
+      "ballot_paper_id": "local.leeds.pudsey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126632,
+          "name": "Arlan Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126760,
+          "name": "Stephen McBarron",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128329,
+          "name": "Richard James Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18883,
+          "name": "Simon Anthony Seary",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128330,
+          "name": "Jennifer Ann Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rothwell",
+      "ballot_paper_id": "local.leeds.rothwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 109759,
+          "name": "Mark Daniels",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 8516,
+          "name": "Lindon Dove",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 165,
+          "name": "Stewart Golton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44632,
+          "name": "Stewart Peter Harper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128349,
+          "name": "Archie Sykes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126634,
+          "name": "Mikey Sykes",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roundhay",
+      "ballot_paper_id": "local.leeds.roundhay.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128371,
+          "name": "Rachel Lynda Cohen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14001,
+          "name": "Najeeb Iqbal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128372,
+          "name": "Kathleen Johnstone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110038,
+          "name": "Carl Clements Richman",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128373,
+          "name": "Steven Michael Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126614,
+          "name": "Brannoc Stevenson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Temple Newsam",
+      "ballot_paper_id": "local.leeds.temple-newsam.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 109784,
+          "name": "Noah Allerton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128280,
+          "name": "Julia Almond",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126601,
+          "name": "Joshua Benjamin Alston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126604,
+          "name": "Keely Bannister",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128281,
+          "name": "Richard Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109975,
+          "name": "Tim Dowd",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 109785,
+          "name": "Max Holley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14173,
+          "name": "Keith Cecil Norman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128282,
+          "name": "Kimberley Ruth Reid",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128283,
+          "name": "Maggie Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128284,
+          "name": "Rajiv Kumar Thukral",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 15852,
+          "name": "Kieran Richard Thomas White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weetwood",
+      "ballot_paper_id": "local.leeds.weetwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126282,
+          "name": "Simon Christopher Dixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18789,
+          "name": "Chris Howley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128378,
+          "name": "Brijesh Virola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87578,
+          "name": "Rob Walker",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 87579,
+          "name": "Izaak Wilson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128379,
+          "name": "Peter Young",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wetherby",
+      "ballot_paper_id": "local.leeds.wetherby.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128380,
+          "name": "Stuart David Burdekin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47206,
+          "name": "Norma Harrington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106070,
+          "name": "Jonathan Jared Levy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126635,
+          "name": "Fran Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128381,
+          "name": "Alex Riddell",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    }
+  ]
+}

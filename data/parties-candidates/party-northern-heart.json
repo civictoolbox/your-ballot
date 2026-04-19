@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-northern-heart",
+    "display_name": "Northern Heart",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Northern Heart"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 80832,
+      "name": "Anne Taylor",
+      "party_name": "Northern Heart",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Alexandra"
+    }
+  ]
+}

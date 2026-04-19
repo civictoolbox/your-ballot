@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-yorkshire-party",
+    "display_name": "Yorkshire Party",
+    "candidate_count": 4,
+    "council_count": 3,
+    "raw_party_names": [
+      "Yorkshire Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 5691,
+      "name": "Bob Buxton",
+      "party_name": "Yorkshire Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Guiseley & Rawdon"
+    },
+    {
+      "person_id": 14176,
+      "name": "Dan Cochran",
+      "party_name": "Yorkshire Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Wakefield South"
+    },
+    {
+      "person_id": 75920,
+      "name": "Howard Graham Dews",
+      "party_name": "Yorkshire Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Cross Gates & Whinmoor"
+    },
+    {
+      "person_id": 65846,
+      "name": "Peter John Kaye",
+      "party_name": "Yorkshire Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Airedale"
+    }
+  ]
+}

@@ -1,0 +1,566 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "blackburn-with-darwen",
+    "council_name": "Blackburn With Darwen"
+  },
+  "wards": [
+    {
+      "ward_name": "Audley & Queen's Park",
+      "ballot_paper_id": "local.blackburn-with-darwen.audley-queens-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 111190,
+          "name": "Aadil Chopdat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131848,
+          "name": "Zain Ghulam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 45666,
+          "name": "Yusuf Jan-Virmani",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131849,
+          "name": "Tristan Marrow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131850,
+          "name": "Michael Nickson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90214,
+          "name": "Ehsan Raja",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131851,
+          "name": "Catherine Richards",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bastwell & Daisyfield",
+      "ballot_paper_id": "local.blackburn-with-darwen.bastwell-daisyfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 45650,
+          "name": "Parwaiz Akhtar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131860,
+          "name": "Shakeel Choudhry",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131861,
+          "name": "Matthew Khan-Dyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111195,
+          "name": "Reece MacAulay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90233,
+          "name": "Fajila Patel",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131862,
+          "name": "Maurice David Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Billinge & Beardwood",
+      "ballot_paper_id": "local.blackburn-with-darwen.billinge-beardwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45646,
+          "name": "Imtiaz Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131865,
+          "name": "Aimee Louise Dewse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131866,
+          "name": "Shabbir Dudhara",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45647,
+          "name": "Tasleem Fazal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131867,
+          "name": "Danny Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackburn Central",
+      "ballot_paper_id": "local.blackburn-with-darwen.blackburn-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 121045,
+          "name": "Isaac John Cowans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11269,
+          "name": "Simon Pearce Huggill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10136,
+          "name": "Zamir Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11271,
+          "name": "Keith Murray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131877,
+          "name": "Aliraza Tariq",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131878,
+          "name": "Saul Whittle",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackburn South & Lower Darwen",
+      "ballot_paper_id": "local.blackburn-with-darwen.blackburn-south-lower-darwen.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 116174,
+          "name": "Daniel Matchett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45635,
+          "name": "Jacquie Slater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131897,
+          "name": "Hazel Marie Walsh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackburn South East",
+      "ballot_paper_id": "local.blackburn-with-darwen.blackburn-south-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131883,
+          "name": "Ahmed Abdelrahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97539,
+          "name": "Henry Arnold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131884,
+          "name": "Andy Mahon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45641,
+          "name": "Jim Shorrock",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darwen East",
+      "ballot_paper_id": "local.blackburn-with-darwen.darwen-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131899,
+          "name": "Yasmin Monique Gabrielle Connell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131900,
+          "name": "Christine Dawson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90316,
+          "name": "Martin McCaughran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42923,
+          "name": "Ryan Slater",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darwen South",
+      "ballot_paper_id": "local.blackburn-with-darwen.darwen-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 42720,
+          "name": "Kevin Connor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131997,
+          "name": "Bradley Langford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111200,
+          "name": "Denise Veronica Morgan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131998,
+          "name": "Sue Skipper",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darwen West",
+      "ballot_paper_id": "local.blackburn-with-darwen.darwen-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 77733,
+          "name": "Janine Crook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11305,
+          "name": "Steve Duncan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132495,
+          "name": "Eleanor Jean Hill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132496,
+          "name": "David Smith",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132497,
+          "name": "Ian Charles Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ewood",
+      "ballot_paper_id": "local.blackburn-with-darwen.ewood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 77489,
+          "name": "Les Cade",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132499,
+          "name": "John Alan Clayton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132500,
+          "name": "Willem Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132501,
+          "name": "Elaine Whittingham",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Harwood & Whitebirk",
+      "ballot_paper_id": "local.blackburn-with-darwen.little-harwood-whitebirk.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132502,
+          "name": "John Black",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132503,
+          "name": "Haroon Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132504,
+          "name": "Salim Lorgat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132505,
+          "name": "Emma MacAulay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132506,
+          "name": "James Paul Schofield",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Livesey with Pleasington",
+      "ballot_paper_id": "local.blackburn-with-darwen.livesey-with-pleasington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132799,
+          "name": "Helen Voegt Ar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132798,
+          "name": "Paul Anthony Florentine",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42364,
+          "name": "Derek James Hardman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 64942,
+          "name": "Oscar Marshall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 71874,
+          "name": "Rick Moore",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mill Hill & Moorgate",
+      "ballot_paper_id": "local.blackburn-with-darwen.mill-hill-moorgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132033,
+          "name": "Charlotte Audrey Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132034,
+          "name": "Tillie Delaney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132035,
+          "name": "Stephen James Hartley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11259,
+          "name": "Donna Marie Talbot",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roe Lee",
+      "ballot_paper_id": "local.blackburn-with-darwen.roe-lee.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132017,
+          "name": "Sajid Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 63301,
+          "name": "Sarah Morrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132018,
+          "name": "Mudassir Shaheen",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 132019,
+          "name": "Liyakat Sidat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 41868,
+          "name": "Tommy Temperley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132020,
+          "name": "Hassan Ul-Haq",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shear Brow & Corporation Park",
+      "ballot_paper_id": "local.blackburn-with-darwen.shear-brow-corporation-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 41738,
+          "name": "Hussain Akhtar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132015,
+          "name": "Adrian Hoole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11293,
+          "name": "Suleman Khonat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132016,
+          "name": "Christopher John Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81583,
+          "name": "Alex Wareing",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wensley Fold",
+      "ballot_paper_id": "local.blackburn-with-darwen.wensley-fold.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 41461,
+          "name": "Mags Marrow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132006,
+          "name": "Tahyub Naser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132009,
+          "name": "Safvan Patel",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132007,
+          "name": "Altaf Patel",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132008,
+          "name": "Maulana Siddiq Patel",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132010,
+          "name": "Jordan Andrew Sands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132011,
+          "name": "Jane Wareing",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Pennine",
+      "ballot_paper_id": "local.blackburn-with-darwen.west-pennine.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132002,
+          "name": "Simon Charlesworth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132003,
+          "name": "Angela Crane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41169,
+          "name": "Jude David Rowley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41170,
+          "name": "Julie Slater",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

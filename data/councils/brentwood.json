@@ -1,0 +1,469 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "brentwood",
+    "council_name": "Brentwood"
+  },
+  "wards": [
+    {
+      "ward_name": "Blackmore & Doddinghurst",
+      "ballot_paper_id": "local.brentwood.blackmore-doddinghurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127078,
+          "name": "Liam Czop",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127079,
+          "name": "Peter William Gregory",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109541,
+          "name": "Nicholas Spencer Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 62260,
+          "name": "Cliff Poppy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109855,
+          "name": "Mary Spiers",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brentwood North",
+      "ballot_paper_id": "local.brentwood.brentwood-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11360,
+          "name": "John Michael Hamilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97109,
+          "name": "Steve Mayo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77547,
+          "name": "Joanna Moncrieff",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109744,
+          "name": "John Anthony Michael Parrish",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127081,
+          "name": "John Henry Roberts",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brentwood South",
+      "ballot_paper_id": "local.brentwood.brentwood-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127085,
+          "name": "Sophie Aaron",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127086,
+          "name": "Samuel Thomas Andreetti",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77554,
+          "name": "Elizabeth Jerrard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92103,
+          "name": "Arthur Harold Leathley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127087,
+          "name": "Paola Carmen Sanders",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brentwood West",
+      "ballot_paper_id": "local.brentwood.brentwood-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125092,
+          "name": "Terence Harvey Brant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12906,
+          "name": "Nigel John Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109742,
+          "name": "Adrianus Cornelis Coolbergen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127095,
+          "name": "Matt Corr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127096,
+          "name": "Natalie Charlotte Olive Dench",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127097,
+          "name": "Michael McQuaid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45590,
+          "name": "Brenner Jack Munden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127098,
+          "name": "Sean Osullivan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127099,
+          "name": "Scott Poole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109542,
+          "name": "Marc Antony Alexander Sardinha",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brizes, Stondon Massey & South Weald",
+      "ballot_paper_id": "local.brentwood.brizes-stondon-massey-south-weald.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127118,
+          "name": "Simon Ball",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109609,
+          "name": "John Maynard Chapple",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109543,
+          "name": "Rebecca Catherine Enifer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109859,
+          "name": "Soni Parvinder Sunger",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127119,
+          "name": "Craig Thomson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Herongate, Ingrave & West Horndon",
+      "ballot_paper_id": "local.brentwood.herongate-ingrave-west-horndon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127108,
+          "name": "Omar Bakhsh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127109,
+          "name": "Charlotte Bradford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77533,
+          "name": "Kevin Brailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127110,
+          "name": "Fiona Elizabeth Marsh",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 109657,
+          "name": "Gary Maxius",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12907,
+          "name": "Sim Owolabi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hutton East",
+      "ballot_paper_id": "local.brentwood.hutton-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127115,
+          "name": "Nina Allan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12887,
+          "name": "Thomas John Bridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98111,
+          "name": "Paul Nicholas Godfrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127116,
+          "name": "Jamie Daniel Miller",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12896,
+          "name": "Richard Millwood",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hutton North",
+      "ballot_paper_id": "local.brentwood.hutton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 77542,
+          "name": "Phil Holland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127123,
+          "name": "Chris Hossack",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127124,
+          "name": "Adam Hoxha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127125,
+          "name": "Nita Jhummu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92099,
+          "name": "Jay Patel",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hutton South",
+      "ballot_paper_id": "local.brentwood.hutton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96400,
+          "name": "David Mark Hale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109852,
+          "name": "Heather Margaret Leathley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127127,
+          "name": "Philippa Ruth Nicholson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 62249,
+          "name": "Mellissa Mary Slade",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12890,
+          "name": "Jane Winter",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ingatestone, Fryerning & Mountnessing",
+      "ballot_paper_id": "local.brentwood.ingatestone-fryerning-mountnessing.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127156,
+          "name": "Louise Susann Donno",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 4658,
+          "name": "Paul Francis Jeater",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127157,
+          "name": "Martin Paul Lonergan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109823,
+          "name": "Caroline Russell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29726,
+          "name": "Lesley Anne Wagland",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pilgrims Hatch",
+      "ballot_paper_id": "local.brentwood.pilgrims-hatch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12899,
+          "name": "Gordon William Frank Cowley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127130,
+          "name": "Samuel John Gascoyne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127131,
+          "name": "Dom Graham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41863,
+          "name": "Mark Robert Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127132,
+          "name": "Ankie Saunders",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shenfield",
+      "ballot_paper_id": "local.brentwood.shenfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127144,
+          "name": "Thea Antoniou",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109655,
+          "name": "Paul Barrett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98116,
+          "name": "Thomas Edward Gordon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127145,
+          "name": "Paul James Joyner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127146,
+          "name": "John Singh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Warley",
+      "ballot_paper_id": "local.brentwood.warley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127121,
+          "name": "Oliver Edward Andrews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127122,
+          "name": "Jo Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12879,
+          "name": "Susan Kortlandt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12874,
+          "name": "Jay Laplain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 62268,
+          "name": "Louise Caroline Rowlands",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

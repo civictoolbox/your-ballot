@@ -1,0 +1,2540 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "bradford",
+    "council_name": "Bradford"
+  },
+  "wards": [
+    {
+      "ward_name": "Airedale",
+      "ballot_paper_id": "local.bradford.airedale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 110879,
+          "name": "George William Buckley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13499,
+          "name": "Val Carroll",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124120,
+          "name": "Raph Cohn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131797,
+          "name": "Michael John Dyson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 65846,
+          "name": "Peter John Kaye",
+          "party_name": "Yorkshire Party"
+        },
+        {
+          "person_id": 131798,
+          "name": "Daniel James Keenan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131799,
+          "name": "Nathen James Keenan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110870,
+          "name": "Peter Benedict Kirk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131800,
+          "name": "Linda MacRo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131801,
+          "name": "Wendy Neville",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131802,
+          "name": "Alexander Robinson",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 38376,
+          "name": "Janet Russell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131803,
+          "name": "Jan Smithies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38326,
+          "name": "Caroline Whitaker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110880,
+          "name": "Neil Whitaker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Baildon",
+      "ballot_paper_id": "local.bradford.baildon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 13439,
+          "name": "Joe Ashton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131808,
+          "name": "Alekss Belskis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131809,
+          "name": "Simon Bullock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123816,
+          "name": "Sam Clifford-Hassan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13441,
+          "name": "Debbie Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110850,
+          "name": "Gill Dixon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13442,
+          "name": "Carl Dunk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117424,
+          "name": "Ian Peter Eglin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13632,
+          "name": "Susan Ann Elliott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 67517,
+          "name": "David Michael Ford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131810,
+          "name": "Jamie Izzard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123819,
+          "name": "Paul Anthony Vaughan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131811,
+          "name": "Michael John Ward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131812,
+          "name": "Elsie Watson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bingley East",
+      "ballot_paper_id": "local.bradford.bingley-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 131921,
+          "name": "Max Preston Blackwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131922,
+          "name": "Stuart Alan Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131923,
+          "name": "Rob Eagle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110843,
+          "name": "Jane Elgar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131924,
+          "name": "Andrew David Fenton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 105272,
+          "name": "Susan Fricker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110940,
+          "name": "James Andrew Gill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8351,
+          "name": "Derrick John Hodgson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13630,
+          "name": "Ben Pickles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131925,
+          "name": "Jordan Robertshaw-Jowett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13461,
+          "name": "Peter Russell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131926,
+          "name": "Jeremy Thackray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75795,
+          "name": "Alexander Richard Vann",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 131927,
+          "name": "Joe Wheatley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131928,
+          "name": "Bradley Jake Whittingham",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bingley West",
+      "ballot_paper_id": "local.bradford.bingley-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 13515,
+          "name": "Falak Naz Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43783,
+          "name": "Tony Alderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 65551,
+          "name": "Cath Bacon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13455,
+          "name": "Helen Baranowski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131946,
+          "name": "John Brazendale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38303,
+          "name": "Rachael Drucquer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131947,
+          "name": "Bev Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110856,
+          "name": "Jenny Kimber",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131948,
+          "name": "Sean Bernard Maguire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131949,
+          "name": "Christopher James Peel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75592,
+          "name": "George Scaife",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116593,
+          "name": "Paul Shkurka",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 65479,
+          "name": "Paul Gerald Sullivan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 65439,
+          "name": "Geoff Winnard",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bolton & Undercliffe",
+      "ballot_paper_id": "local.bradford.bolton-undercliffe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 105418,
+          "name": "Muhammad Afzal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8179,
+          "name": "Jon Barras",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132142,
+          "name": "Rajdeep Kaur Bhatti",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 65542,
+          "name": "Suhail Choudhry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132143,
+          "name": "Safeer Hussain Ghori",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94048,
+          "name": "Bruce Gulland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38337,
+          "name": "Julie Humphreys",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13504,
+          "name": "Helen Love",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132144,
+          "name": "Md Zafar Niaz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132145,
+          "name": "Chris Norton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132146,
+          "name": "Imtiaz Sabir",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132147,
+          "name": "Benjamin James Senior",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132148,
+          "name": "Tasaver Hussain Syed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132149,
+          "name": "Andrew Tetley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132150,
+          "name": "David Ward",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132151,
+          "name": "larlaithe Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bowling & Barkerend",
+      "ballot_paper_id": "local.bradford.bowling-barkerend.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 132184,
+          "name": "Mukhtar Ali",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132185,
+          "name": "Sakib Ali",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132186,
+          "name": "Wendy Elaine Barras",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132187,
+          "name": "Bernard Blessington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132188,
+          "name": "Sadaf Dar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132189,
+          "name": "Malik Farouq",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132190,
+          "name": "Mark William Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132191,
+          "name": "Rizwana Jamil",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132192,
+          "name": "Yakubu Mandafiya John",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132193,
+          "name": "Hassan Uzzaman Khan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132194,
+          "name": "Imran Ahmed Khan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 105369,
+          "name": "Sangeeta Kauser Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132195,
+          "name": "Gavin Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38312,
+          "name": "Howard Middleton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132196,
+          "name": "Gordon North",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132197,
+          "name": "Mazeena Zaki",
+          "party_name": "Your Bradford Independent group"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bradford Moor",
+      "ballot_paper_id": "local.bradford.bradford-moor.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 131885,
+          "name": "Adil Afzal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13470,
+          "name": "Riaz Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131886,
+          "name": "Ibrar Ali",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 131887,
+          "name": "Muhammad Ashraf",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131888,
+          "name": "ljaz Ahmed Choudhary",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131889,
+          "name": "Neil Clifford Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38314,
+          "name": "Jafrul Kabir Gazi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131890,
+          "name": "Gareth Ingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65544,
+          "name": "Zafar Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131891,
+          "name": "Wajid Jahangir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131892,
+          "name": "Raja Shahzaib Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131893,
+          "name": "Diane McInnes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131894,
+          "name": "Bushra Parveen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131895,
+          "name": "Roger Pinto-Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94051,
+          "name": "Andy Rickford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131896,
+          "name": "Ushman Shabir",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 38317,
+          "name": "Mohammad Shafiq",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "City",
+      "ballot_paper_id": "local.bradford.city.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 131905,
+          "name": "Sundas Ali",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 131904,
+          "name": "Majid Ali",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 38320,
+          "name": "Nazam Azam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131906,
+          "name": "Pollyanna Greene-Wright",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131907,
+          "name": "Mohammed Haleem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131908,
+          "name": "Maureen Patricia Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131909,
+          "name": "Paul Hogan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131910,
+          "name": "Sajawal Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 65545,
+          "name": "Shakeela Jan Lal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13487,
+          "name": "Tariq Mahmood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131911,
+          "name": "Tayyeb Munir",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131912,
+          "name": "Mohammad Naeem",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131913,
+          "name": "Alhassan Osman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131914,
+          "name": "Bahlal Khalid Saleem",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110871,
+          "name": "Rizwan Saleem",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 131915,
+          "name": "Shazia Sheikh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131916,
+          "name": "Simon Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131917,
+          "name": "Saeeka Tabassum",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131918,
+          "name": "Matthew Tadych",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayton & Fairweather Green",
+      "ballot_paper_id": "local.bradford.clayton-fairweather-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 132240,
+          "name": "Nabeela Abid",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132241,
+          "name": "Judith Brooksbank",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132242,
+          "name": "Richard Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132243,
+          "name": "Daniel Devaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38324,
+          "name": "Sinead Engel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132244,
+          "name": "Sadiq Hameed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132245,
+          "name": "John Hudson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110876,
+          "name": "Mozalfa Ilyas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94073,
+          "name": "Kate Lawton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132246,
+          "name": "Waqas Mirza",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 74173,
+          "name": "Mohammed Nazam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132247,
+          "name": "Zaf Shah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132248,
+          "name": "Afraheem Shahzad",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132249,
+          "name": "Asim Suleman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65546,
+          "name": "Carol Ann Thirkill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132250,
+          "name": "John Worsley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eccleshill",
+      "ballot_paper_id": "local.bradford.eccleshill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 132416,
+          "name": "Nadeem Butt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110884,
+          "name": "Laura Maddie Fretwell",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 38336,
+          "name": "Chris Hayden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132417,
+          "name": "Kevin Hullah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2891,
+          "name": "Raja Sakhawat Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 65481,
+          "name": "Zubair Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132418,
+          "name": "Doctor Jamshad",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 94050,
+          "name": "Suzanne Julia Lubenko",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132419,
+          "name": "Khalid Mahmood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 105493,
+          "name": "Vera Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132420,
+          "name": "Jayne Margaret Morgan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38329,
+          "name": "Ian Parsons",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132421,
+          "name": "Wajid Rasool",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132422,
+          "name": "John Keith Riley-Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132423,
+          "name": "Junaid Sawar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132424,
+          "name": "Dominic Sheeran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13506,
+          "name": "Brendan Robert Stubbs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13654,
+          "name": "Gillian Thorne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132425,
+          "name": "Selina Ward-Nicholson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Horton",
+      "ballot_paper_id": "local.bradford.great-horton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 132226,
+          "name": "Vasim Akhtar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132227,
+          "name": "Pauline Ann Brierley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132228,
+          "name": "Hannah Capes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132229,
+          "name": "Dawn Julia Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132230,
+          "name": "Mike Daw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132231,
+          "name": "Robbie Deacon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38331,
+          "name": "Joannè Margaret Dodds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132232,
+          "name": "Jitendra Gupta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65549,
+          "name": "Tariq Hussain",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132233,
+          "name": "Mazafar Iqbal",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 13507,
+          "name": "Abdul Jabar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75700,
+          "name": "Sarah Marie Moses",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132234,
+          "name": "Paul Richard Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110895,
+          "name": "Saddiq Sirferaz",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132235,
+          "name": "Coral Whittlestone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132236,
+          "name": "Darrell Wilson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132237,
+          "name": "Abid Zaman",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heaton & Frizinghall",
+      "ballot_paper_id": "local.bradford.heaton-frizinghall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 110900,
+          "name": "Ishtiaq Ahmed",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132278,
+          "name": "Shabana Bashir",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 75594,
+          "name": "Aleem Bashir",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132279,
+          "name": "Leslie Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132280,
+          "name": "Megan Lesley Cowen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132281,
+          "name": "Kathleen Mary Egan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132282,
+          "name": "Mohammed Hanif",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132283,
+          "name": "Humayun Islam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132284,
+          "name": "Fred Knowles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94067,
+          "name": "Khalid Mahmood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38335,
+          "name": "Nussrat Mohammed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132285,
+          "name": "Glenn Stuart Nixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132286,
+          "name": "John Kevin Passman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132287,
+          "name": "Nargus Rangzeb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132277,
+          "name": "Sijyy Ahmad Sajjad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132288,
+          "name": "Adrian Jason Todd",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holme Wood & Bierley",
+      "ballot_paper_id": "local.bradford.holme-wood-bierley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131868,
+          "name": "Martin Hussain Bottomley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13459,
+          "name": "Matt Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131869,
+          "name": "Nigel Guy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131870,
+          "name": "Steve Hammond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131871,
+          "name": "Stuart Anthony Hastings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5112,
+          "name": "Celia Hickson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131872,
+          "name": "John William Jakes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94056,
+          "name": "Shamas Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131873,
+          "name": "Nicky Knowles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131874,
+          "name": "Richard Duncan Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131875,
+          "name": "Iain McInnes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131876,
+          "name": "Alexander Keith Metcalfe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38321,
+          "name": "Ines Linda Riach",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Idle & Thackley",
+      "ballot_paper_id": "local.bradford.idle-thackley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 132311,
+          "name": "David Bryant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132312,
+          "name": "Sally Cook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132313,
+          "name": "Evelyne Godfrey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 6017,
+          "name": "Alun Owen Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132314,
+          "name": "Stuart Hurlbut",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132315,
+          "name": "Melissa Jacobs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65799,
+          "name": "Tess Lawrence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132316,
+          "name": "Gareth David Logan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132317,
+          "name": "Tom MacPherson le Maire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132318,
+          "name": "David Llewelyn Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94069,
+          "name": "Aislin Naylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132319,
+          "name": "John Michael Riley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65760,
+          "name": "Jeanette Sunderland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132320,
+          "name": "Richard Edward John Wightman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132321,
+          "name": "Paul Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ilkley & Addingham",
+      "ballot_paper_id": "local.bradford.ilkley-addingham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 4982,
+          "name": "Ros Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132438,
+          "name": "Ellen D'Arcy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132439,
+          "name": "Richard Michael Downey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132440,
+          "name": "Lorraine Dowson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132441,
+          "name": "John Flaherty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132442,
+          "name": "Stephen Anthony Hey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132443,
+          "name": "Ray Lenik",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94075,
+          "name": "Andrew John Patrick Loy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132444,
+          "name": "Greg Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132445,
+          "name": "Craig Sanderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132446,
+          "name": "Jane Isabel Sellers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132447,
+          "name": "Mark Fredrick Stidworthy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132448,
+          "name": "Richard Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Keighley Central",
+      "ballot_paper_id": "local.bradford.keighley-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 132469,
+          "name": "Amjid Nazir Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132470,
+          "name": "Muhammad Basharat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132471,
+          "name": "Ian Berrisford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110922,
+          "name": "Harry Alexander Nickson Burns",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132472,
+          "name": "Leslie Benjamin Dean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132473,
+          "name": "Roisin Mary Engel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110926,
+          "name": "Robert George Goulding",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132474,
+          "name": "Gez Lloyd-Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132475,
+          "name": "James David Naylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132476,
+          "name": "Ashley Pates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110916,
+          "name": "Nasser Razak",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110912,
+          "name": "Vaz Shabir",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132477,
+          "name": "Sean Michael Spence",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132478,
+          "name": "Ryan Walsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73994,
+          "name": "James Whitaker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132479,
+          "name": "David Wilford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94079,
+          "name": "Amjad Ali Zaman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Keighley East",
+      "ballot_paper_id": "local.bradford.keighley-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 110914,
+          "name": "Fulzar Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75698,
+          "name": "Nicholas James Allon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132322,
+          "name": "Angela Jayne Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132323,
+          "name": "Polly Burton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132324,
+          "name": "Tom Commis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13644,
+          "name": "Caroline Rebecca Davison Firth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132325,
+          "name": "Angela Marie Fish",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94081,
+          "name": "Wendy Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 105407,
+          "name": "Duncan Hunnisett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132326,
+          "name": "Stephen Miles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132327,
+          "name": "Mohammed Muazzam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132328,
+          "name": "Alan John Outlaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105408,
+          "name": "Lisa Robinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Keighley West",
+      "ballot_paper_id": "local.bradford.keighley-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131974,
+          "name": "Howard Buckley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131975,
+          "name": "Helen Goulding",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131976,
+          "name": "Dawn Harris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110917,
+          "name": "David John Hewitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131977,
+          "name": "Peter Henry Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94060,
+          "name": "Ash Joomun-Whitehead",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110918,
+          "name": "Andrew Mark Judson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131978,
+          "name": "Ian Linnegan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131979,
+          "name": "Garry Morton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123541,
+          "name": "Martyn Oliver",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123542,
+          "name": "Amanda Patchett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131980,
+          "name": "Frances Powell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131981,
+          "name": "Dawn Alison Thewlis",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Horton",
+      "ballot_paper_id": "local.bradford.little-horton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 13568,
+          "name": "Nurjahan Ali Arobi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131837,
+          "name": "Maj Asghar",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131838,
+          "name": "Christine Boyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13440,
+          "name": "John Malcolm Charles Cole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94084,
+          "name": "Noor Elahi",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 131839,
+          "name": "Will Grant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131840,
+          "name": "Jacquie Jarvis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131841,
+          "name": "Shafi Ullah Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 65543,
+          "name": "Imran Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131842,
+          "name": "Dave Leonard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131843,
+          "name": "Ashfaq Rasool",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131844,
+          "name": "Paul Roper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131845,
+          "name": "Jude Sykes Rowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13570,
+          "name": "Talat Sajawal",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 65554,
+          "name": "Taj Salam",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 131846,
+          "name": "Abdul Sattar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75733,
+          "name": "Sophie Vanicat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131847,
+          "name": "Maz Zaman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manningham",
+      "ballot_paper_id": "local.bradford.manningham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 132106,
+          "name": "Shazad Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126119,
+          "name": "Fatima Safa Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132107,
+          "name": "Susan Andrews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93489,
+          "name": "Khalid Mahmood Anjum",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38352,
+          "name": "Bruce Barnes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132108,
+          "name": "Steve Call",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132109,
+          "name": "Ian Cowen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132110,
+          "name": "Siobhan Marie Helliwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94087,
+          "name": "Muhammed Ali Islam",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132111,
+          "name": "Rosemary Izzard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105441,
+          "name": "Safina Kauser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132112,
+          "name": "Muhammad Haseeb Khan",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 65541,
+          "name": "Ashraf Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132113,
+          "name": "Ahdam Rana",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132114,
+          "name": "Mohammed Saliss",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132115,
+          "name": "Anthony Stockdale",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queensbury",
+      "ballot_paper_id": "local.bradford.queensbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132337,
+          "name": "Muhammad Asjad Baig",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38355,
+          "name": "Paul Gregory Smith Cromie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132338,
+          "name": "Robin Cumming",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132339,
+          "name": "Ian David Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132340,
+          "name": "Robert Steven Illingworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132341,
+          "name": "Ashley Victor Isherwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132342,
+          "name": "Chris Masterson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38358,
+          "name": "Alex Mitchell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94070,
+          "name": "Adam Paterson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132343,
+          "name": "Anni Raw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132344,
+          "name": "Phoenix Mae Talbot",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132345,
+          "name": "Gill Thornton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132346,
+          "name": "Sophie Williams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38322,
+          "name": "Charlotte Woollard",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royds",
+      "ballot_paper_id": "local.bradford.royds.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 132210,
+          "name": "Charles Robert Jason Agar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132211,
+          "name": "Tabitha Bast",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132212,
+          "name": "Hazel Bateman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132213,
+          "name": "Oliver Darryl Bolton-Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13497,
+          "name": "Steven Michael Cotterill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75744,
+          "name": "Simon Mark Cunningham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132214,
+          "name": "Ian Jack Fletcher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132215,
+          "name": "Emily McDowall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132216,
+          "name": "Stephen Anthony Place",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65557,
+          "name": "Angela Tait",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13611,
+          "name": "Andrew Thornton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132217,
+          "name": "Tony Wooffitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132218,
+          "name": "Will Worboys",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shipley",
+      "ballot_paper_id": "local.bradford.shipley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132253,
+          "name": "Qasem Awan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132254,
+          "name": "Stuart Baggaley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132255,
+          "name": "Anita Belska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132256,
+          "name": "Thomas Felix Creighton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 105311,
+          "name": "Tom Ernest Gibson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 38362,
+          "name": "Hawarun Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132257,
+          "name": "Athif Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132258,
+          "name": "Jen Kilyon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132259,
+          "name": "Ben Lundergan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132260,
+          "name": "Christopher Anthony Morley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132261,
+          "name": "Peter Anthony Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1072,
+          "name": "Kevin Warnes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65800,
+          "name": "Anna Watson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13465,
+          "name": "Geoffrey Michael Whiteley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thornton & Allerton",
+      "ballot_paper_id": "local.bradford.thornton-allerton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 110925,
+          "name": "Qamar Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132389,
+          "name": "Michael Cockayne",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 132390,
+          "name": "Osman Gondal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 65761,
+          "name": "Anthea Lynne Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132391,
+          "name": "Nana Abena Owusuwah Hagan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13569,
+          "name": "Omar Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132392,
+          "name": "Lester Graham Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132393,
+          "name": "Melanie Jane Milnes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13634,
+          "name": "Beverley Mullaney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132394,
+          "name": "Alice Patterson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132395,
+          "name": "Gordon James Payne",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132396,
+          "name": "Farah Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132397,
+          "name": "Maaria Rehman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132398,
+          "name": "Clive Thomas Richardson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78163,
+          "name": "John Antony Robertshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132399,
+          "name": "John Sharples",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132400,
+          "name": "Safeyan Siddique",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Toller",
+      "ballot_paper_id": "local.bradford.toller.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 5538,
+          "name": "Parvez Akhtar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131813,
+          "name": "Mohammed Imran Suleman Bhatti",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131815,
+          "name": "Sophie Bibi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131814,
+          "name": "Aisha Bibi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131816,
+          "name": "Brian Hinchliffe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131817,
+          "name": "Arshad Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131818,
+          "name": "Ghafoor Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110875,
+          "name": "Sharat Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131819,
+          "name": "Zohair Kamran",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131820,
+          "name": "Mahfooz Ahmed Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131821,
+          "name": "Mark Lawrenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131822,
+          "name": "Raf Rafaqat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131823,
+          "name": "Caz Ramsden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124177,
+          "name": "Hamza Rehman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65560,
+          "name": "Fozia Shaheen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131824,
+          "name": "Andrew John Sunderland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131825,
+          "name": "Muneeb Yaqub",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wharfedale",
+      "ballot_paper_id": "local.bradford.wharfedale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 75703,
+          "name": "Pauline Heather Allon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132460,
+          "name": "Nicholas Charles Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94065,
+          "name": "Peter Sidney Cochrane",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74226,
+          "name": "Bob Felstead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132461,
+          "name": "Daniel Guy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132462,
+          "name": "Ronald Harriman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123847,
+          "name": "Peter Martin Iliff",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132463,
+          "name": "Lottie Kitching",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132464,
+          "name": "Dan Neal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123848,
+          "name": "Amanda Peters",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75600,
+          "name": "Christopher Eric Steele",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38373,
+          "name": "Chris Turner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132465,
+          "name": "Jo White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wibsey & Odsal",
+      "ballot_paper_id": "local.bradford.wibsey-odsal.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 132133,
+          "name": "Ralph David Ritchie Berry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132134,
+          "name": "Steve Burd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132135,
+          "name": "Hassan Butt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132136,
+          "name": "David Cowell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13556,
+          "name": "Brian Ford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65563,
+          "name": "Faiz Ilyas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132137,
+          "name": "Darren Peter Ingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132138,
+          "name": "Alayna Khan",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 13472,
+          "name": "Sabiya Akhtar Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94064,
+          "name": "Amena Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94092,
+          "name": "Nick Peterken",
+          "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 110939,
+          "name": "Alex Radice",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132139,
+          "name": "Jason Mark Townend",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24203,
+          "name": "Mary Whitrick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 105327,
+          "name": "Andrew Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Windhill & Wrose",
+      "ballot_paper_id": "local.bradford.windhill-wrose.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 131826,
+          "name": "Sally Jane Birch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131827,
+          "name": "Stephen Nigel Broadbent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38342,
+          "name": "Stephen Mark Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131828,
+          "name": "Gazz Hall",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 1071,
+          "name": "Susan Kathryn Hinchcliffe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131829,
+          "name": "Chris Howlett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131830,
+          "name": "Kurt McMillan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131831,
+          "name": "Anthony Stephen Meadows",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13653,
+          "name": "Alex Ross-Shaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94066,
+          "name": "Liz Rowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131832,
+          "name": "Ralph Saunders",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110868,
+          "name": "Tkay Shana",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75731,
+          "name": "Aly Telfer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131833,
+          "name": "Harriet Wood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Worth Valley",
+      "ballot_paper_id": "local.bradford.worth-valley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132361,
+          "name": "Tamara Michelle Christian",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123700,
+          "name": "Sabine Ebert-Forbes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 105492,
+          "name": "Paul Belcome Constantine Golding",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13557,
+          "name": "Christopher John Herd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132362,
+          "name": "Helen Ingham-Cook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123701,
+          "name": "Peter James Kates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13529,
+          "name": "Kay Kirkham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123702,
+          "name": "Josie McMaster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13456,
+          "name": "Brian Newham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132363,
+          "name": "Pat Oxley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 65493,
+          "name": "Rebecca Poulsen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132364,
+          "name": "Craig Whale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132365,
+          "name": "Judith White",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132366,
+          "name": "Patrick Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wyke",
+      "ballot_paper_id": "local.bradford.wyke.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132383,
+          "name": "Peter Crossley Bateman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132384,
+          "name": "Stephen Leslie Goodwill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13663,
+          "name": "Kevin Anthony Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75595,
+          "name": "Tom Hughes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 720,
+          "name": "James Graham Lewthwaite",
+          "party_name": "British Democratic Party"
+        },
+        {
+          "person_id": 94055,
+          "name": "Richard Milczanowski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132385,
+          "name": "Andrew Neilly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110934,
+          "name": "Sharon Ratcliffe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132386,
+          "name": "Ian Reed",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126688,
+          "name": "Will Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132387,
+          "name": "Kay Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132388,
+          "name": "Adam Thompson-Day",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75762,
+          "name": "Ian Walker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13608,
+          "name": "Andy Walsh",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

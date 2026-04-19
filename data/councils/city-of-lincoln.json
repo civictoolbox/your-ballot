@@ -1,0 +1,393 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "city-of-lincoln",
+    "council_name": "City of Lincoln"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbey",
+      "ballot_paper_id": "local.city-of-lincoln.abbey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127251,
+          "name": "Elicia Jade Mary Boni",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87792,
+          "name": "Martin Ian Colin Christopher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127252,
+          "name": "Debora Louise Fisher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127253,
+          "name": "Brian George Haughton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 25621,
+          "name": "Alex Sayer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127254,
+          "name": "Roger Andrew Smith",
+          "party_name": "Lincolnshire Independents Lincolnshire First"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birchwood",
+      "ballot_paper_id": "local.city-of-lincoln.birchwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17428,
+          "name": "Alan William Briggs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127258,
+          "name": "Jamie Alan Cave",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 119445,
+          "name": "Paul Akomeah Osei",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127259,
+          "name": "Belle Anna Reynolds",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119310,
+          "name": "Amanda Spalding",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boultham",
+      "ballot_paper_id": "local.city-of-lincoln.boultham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127265,
+          "name": "Andrew Nigel Currie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110319,
+          "name": "Debbie Grant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127266,
+          "name": "Stephen Mark Ledgeway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127267,
+          "name": "Oliver James Morgan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110352,
+          "name": "Charles Antony Rodgers",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carholme",
+      "ballot_paper_id": "local.city-of-lincoln.carholme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 127277,
+          "name": "Lesley Joan Allinson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 119313,
+          "name": "Tinashe Chipawe",
+          "party_name": "The Liberal Party"
+        },
+        {
+          "person_id": 127278,
+          "name": "Robert Stevenson Cross",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14065,
+          "name": "Nick Parker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127279,
+          "name": "Josh Parkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5555,
+          "name": "Ross David Pepper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109732,
+          "name": "Charlie Rogers",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.city-of-lincoln.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 119413,
+          "name": "Joshua Lee Connor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127284,
+          "name": "Mazyar Khidir",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17518,
+          "name": "Helena Mair",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127285,
+          "name": "Mabon Melbourne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127286,
+          "name": "Katie Roland Rudd",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Glebe",
+      "ballot_paper_id": "local.city-of-lincoln.glebe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 88046,
+          "name": "Debbie Armiger",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127300,
+          "name": "Darrell Luke Ronald Harding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127301,
+          "name": "William Joseph Hunter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119361,
+          "name": "Gareth John Shields",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127302,
+          "name": "Matty Stevens",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hartsholme",
+      "ballot_paper_id": "local.city-of-lincoln.hartsholme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127304,
+          "name": "Adrian Ernest Joseph Barrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96788,
+          "name": "Victoria Carolyn Brooks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 25636,
+          "name": "Jim Charters",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 119349,
+          "name": "Stuart Grantham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127305,
+          "name": "Lisa Pocklington",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Minster",
+      "ballot_paper_id": "local.city-of-lincoln.minster.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 119324,
+          "name": "Elizabeth Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127307,
+          "name": "Emils Lacis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127308,
+          "name": "Vasco Pinto",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77395,
+          "name": "Aidan David Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77426,
+          "name": "Joshua Todd Wells",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moorland",
+      "ballot_paper_id": "local.city-of-lincoln.moorland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17527,
+          "name": "Funmi Adeyemi",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 17437,
+          "name": "Matthew Thomas Fido",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119362,
+          "name": "Liam Mark Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96815,
+          "name": "Seamus Eoin Murray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127311,
+          "name": "Joshua Spires",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.city-of-lincoln.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127313,
+          "name": "Ryan Campbell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127314,
+          "name": "Harriet Olivia Conway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17516,
+          "name": "Sally Anne Horscroft",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88032,
+          "name": "Thomas Christopher Hulme",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127315,
+          "name": "Turon Miah",
+          "party_name": "Lincolnshire Independents Lincolnshire First"
+        },
+        {
+          "person_id": 127316,
+          "name": "Craig Rhodes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Witham",
+      "ballot_paper_id": "local.city-of-lincoln.witham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127318,
+          "name": "Josh Aidan Allen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119647,
+          "name": "James Bean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17529,
+          "name": "Bill Bilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110325,
+          "name": "Sharon Nicola Osborne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110326,
+          "name": "Lynda Karen Skipper",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

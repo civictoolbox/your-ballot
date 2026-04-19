@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-peterborough-first",
+    "display_name": "Peterborough First",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Peterborough First"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 19324,
+      "name": "June Mary Bull",
+      "party_name": "Peterborough First",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Stanground South"
+    },
+    {
+      "person_id": 110795,
+      "name": "Sarah Areatha Hillier",
+      "party_name": "Peterborough First",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Werrington"
+    }
+  ]
+}

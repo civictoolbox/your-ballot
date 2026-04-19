@@ -1,0 +1,2193 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "east-surrey",
+    "council_name": "East Surrey"
+  },
+  "wards": [
+    {
+      "ward_name": "Ashtead",
+      "ballot_paper_id": "local.east-surrey.ashtead.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 61936,
+          "name": "Jason Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16637,
+          "name": "Susan Gilchrist",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 27356,
+          "name": "Chris Hunt",
+          "party_name": "Ashtead Independents"
+        },
+        {
+          "person_id": 24385,
+          "name": "Alison Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138779,
+          "name": "Roger Godfrey Mautner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138780,
+          "name": "Grant McMurry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82362,
+          "name": "Gavin Mansfield Newton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138781,
+          "name": "Andy Norman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128251,
+          "name": "Joanna Kathryn Sherring",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 99386,
+          "name": "Andy Smith",
+          "party_name": "Ashtead Independents"
+        },
+        {
+          "person_id": 128252,
+          "name": "Emily Joyce Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138782,
+          "name": "Steve Suzuki",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banstead, Woodmansterne & Chipstead",
+      "ballot_paper_id": "local.east-surrey.banstead-woodmansterne-chipstead.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125871,
+          "name": "Anthony Daniel Ross Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132832,
+          "name": "Lynne Jane Fletcher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132833,
+          "name": "Christopher John Haslett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132839,
+          "name": "Mick Hay",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132847,
+          "name": "Megan Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14987,
+          "name": "James Paul King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125870,
+          "name": "Trixie Lawrence",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126822,
+          "name": "John Payten",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132860,
+          "name": "Jane Louise Shufflebotham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 4078,
+          "name": "Henry Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bookham & Fetcham West",
+      "ballot_paper_id": "local.east-surrey.bookham-fetcham-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 128254,
+          "name": "Alex Baines-Buffery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36328,
+          "name": "Louise Roberta Daisy Calland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123910,
+          "name": "Guy Eason",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126217,
+          "name": "Richard James Granville",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108430,
+          "name": "Caroline Victoria Joseph",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126218,
+          "name": "Rosie Joynson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82429,
+          "name": "Andrew Harold Matthews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138783,
+          "name": "Bill Peacock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128253,
+          "name": "Natt Tapley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Caterham Hill",
+      "ballot_paper_id": "local.east-surrey.caterham-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 137858,
+          "name": "Max Barry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137859,
+          "name": "Amanda Jane Castles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 34806,
+          "name": "Hoong-Wai Cheah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80054,
+          "name": "Robin Brian Clements",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13352,
+          "name": "Michael John William Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110841,
+          "name": "Rebecca Gower",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137860,
+          "name": "Stephanie Louise Harvey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94720,
+          "name": "Ben Horne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137861,
+          "name": "Osmund Stuart Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80070,
+          "name": "Martin Redman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Caterham Valley",
+      "ballot_paper_id": "local.east-surrey.caterham-valley.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 137866,
+          "name": "Laura Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42427,
+          "name": "Sakina Bradbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123170,
+          "name": "Leo Domingues",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100178,
+          "name": "Richard John Mark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137867,
+          "name": "Hamish John Sutherland McDougall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123152,
+          "name": "Tony Pearce",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137868,
+          "name": "Nick Pont",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110947,
+          "name": "Robin Spencer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137869,
+          "name": "Amelie Angela Wells",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137870,
+          "name": "Jamie Wheadon",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cobham & Oxshott South",
+      "ballot_paper_id": "local.east-surrey.cobham-oxshott-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138194,
+          "name": "Paul David Aubrey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138195,
+          "name": "Winter Del Bono",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79477,
+          "name": "Carolyn Ann Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79472,
+          "name": "Steven John Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138196,
+          "name": "Linda Idrizi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17043,
+          "name": "Elaine Linda Kingston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139124,
+          "name": "David John Lewis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79478,
+          "name": "Alan Charles Parker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5243,
+          "name": "Nicholas David Wood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dorking",
+      "ballot_paper_id": "local.east-surrey.dorking.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 25012,
+          "name": "Stephen John Cooksey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 30630,
+          "name": "Chris Crook",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123906,
+          "name": "Sharon Dickinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138830,
+          "name": "Matthew Joseph Moreau",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108386,
+          "name": "Bradley Luke Nelson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108487,
+          "name": "Mark Stephen Saunders",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 55839,
+          "name": "Lisa Claire Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 55689,
+          "name": "Kev Stroud",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126432,
+          "name": "Fred John Tidy",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 138831,
+          "name": "Marion Caroline Woodville",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dorking Hills",
+      "ballot_paper_id": "local.east-surrey.dorking-hills.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 108329,
+          "name": "Lucy Vanora Heidee Botting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118648,
+          "name": "Michael Andrew Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138789,
+          "name": "Leigh Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80898,
+          "name": "Abhiram Magesh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25014,
+          "name": "Claire Philomena Malcomson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 104138,
+          "name": "Khobi Anne Patterson-Vallis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16697,
+          "name": "James John Lawrence Poke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 55803,
+          "name": "John Francis Roche",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48269,
+          "name": "James Ruscombe Stringer",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dorking Rural",
+      "ballot_paper_id": "local.east-surrey.dorking-rural.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 128255,
+          "name": "Simon Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110277,
+          "name": "Dineke van den Bogerd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108456,
+          "name": "Gerard Martin Bolton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 3428,
+          "name": "Helyn Clack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16693,
+          "name": "Geoff Cox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108484,
+          "name": "Jo Farrar-Astrop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123911,
+          "name": "Marc Cyrus Hanson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108384,
+          "name": "Noel Edward Humphrey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138743,
+          "name": "Jacqueline Inwood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Earlswood & Reigate South",
+      "ballot_paper_id": "local.east-surrey.earlswood-reigate-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 112053,
+          "name": "Neha Boghani",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126825,
+          "name": "Chris Byrne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138012,
+          "name": "Janis Colella",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40178,
+          "name": "Joseph Brian Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138013,
+          "name": "Marc Patrick Gainsford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79518,
+          "name": "Linda Ann Giles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125872,
+          "name": "Chris Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125873,
+          "name": "Robin Timothy Lawrence",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133403,
+          "name": "Brian O'Neill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133404,
+          "name": "Robin Gordon Whitwell",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Epsom Town & Downs",
+      "ballot_paper_id": "local.east-surrey.epsom-town-downs.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 124261,
+          "name": "Melissa Ann Baynes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133019,
+          "name": "Kate Chinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137725,
+          "name": "Adrian Daniels",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124260,
+          "name": "Roy James Deadman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129244,
+          "name": "Stuart Gosling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 62053,
+          "name": "Steven McCormick",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 99862,
+          "name": "Aaron Persand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129225,
+          "name": "Gregory Adrian Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126321,
+          "name": "Kim Spickett",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 129231,
+          "name": "Sally Jane Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137726,
+          "name": "Henry Strausser",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99744,
+          "name": "Michael Ware",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Epsom West",
+      "ballot_paper_id": "local.east-surrey.epsom-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 137720,
+          "name": "David Bearryman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31063,
+          "name": "David Colleton Buxton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 61888,
+          "name": "Christine Gladys Cleveland",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 137721,
+          "name": "Ben Cronin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24384,
+          "name": "Ros Godson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102113,
+          "name": "Yvonne Grunwald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124262,
+          "name": "John Graham Hindmarsh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137722,
+          "name": "Scott Marshall",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 132731,
+          "name": "Keew Ng",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129245,
+          "name": "Jonathan Neil Parkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 31062,
+          "name": "Kieran Persand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 31065,
+          "name": "Stephen James Pontin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Esher, Claygate & Oxshott North",
+      "ballot_paper_id": "local.east-surrey.esher-claygate-oxshott-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 17060,
+          "name": "Andrew Burley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138202,
+          "name": "Andrew Edward James Burton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17024,
+          "name": "Alex Coomes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90040,
+          "name": "Sarah Coomes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42914,
+          "name": "Julie Ann Crook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138203,
+          "name": "Ian Cunningham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138204,
+          "name": "Geoff Herbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90068,
+          "name": "Amanda Manship",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138205,
+          "name": "Lawrence Anthony Patrick Riley",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 138206,
+          "name": "Art Salihu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16988,
+          "name": "Simon Jonathan Waugh",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ewell Court, Auriol & Cuddington",
+      "ballot_paper_id": "local.east-surrey.ewell-court-auriol-cuddington.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 99844,
+          "name": "Charlotte Ann Angus",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129248,
+          "name": "Melissa Jane Awcock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 62034,
+          "name": "Andrew Casey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133094,
+          "name": "Richard Chinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137771,
+          "name": "Steve Dyke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98570,
+          "name": "Caleb Michael Philip Heather",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110329,
+          "name": "Simon Keats",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 23212,
+          "name": "Eber Alan Kington",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 137772,
+          "name": "Iain Kinner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129249,
+          "name": "David Anthony Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124263,
+          "name": "Jeanne Ng",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 61854,
+          "name": "Peter William O'Donovan",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ewell Village, Stoneleigh & Nonsuch",
+      "ballot_paper_id": "local.east-surrey.ewell-village-stoneleigh-nonsuch.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 137755,
+          "name": "Andy Aldridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137756,
+          "name": "Alan Robert Avis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129258,
+          "name": "Kulsoom Bilgrami",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129264,
+          "name": "Kenneth Roger Thomas Bradshaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 61988,
+          "name": "Hannah Dalton",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 49110,
+          "name": "Julian Peter Freeman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 102121,
+          "name": "Shanice Goldman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137758,
+          "name": "Steve Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133170,
+          "name": "Bill Hodgkiss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60862,
+          "name": "Helen Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102117,
+          "name": "Meera Persand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 23211,
+          "name": "Clive Woodbridge",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        }
+      ]
+    },
+    {
+      "ward_name": "Godstone",
+      "ballot_paper_id": "local.east-surrey.godstone.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 137902,
+          "name": "Sylvia Onyinye Berry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137903,
+          "name": "Timothy Edward Deadman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137904,
+          "name": "Roben Colin Franklin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82616,
+          "name": "Liam Gerard Frederick Hammond",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 100261,
+          "name": "Theo Harris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24967,
+          "name": "Tamzie Hollands",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137905,
+          "name": "Simon Lock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137906,
+          "name": "Steve Paris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54979,
+          "name": "Carron Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137907,
+          "name": "Carol Geraldine Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hersham",
+      "ballot_paper_id": "local.east-surrey.hersham.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 138247,
+          "name": "Harrison Allman-Varty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138248,
+          "name": "Helen Julia Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48115,
+          "name": "John Cope",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3452,
+          "name": "Francis Eldergill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111471,
+          "name": "Wendy Carol Gibbs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111469,
+          "name": "Simon Jonathan Leifer",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138251,
+          "name": "Laura Joanne Murria",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138249,
+          "name": "Carlos De Pommes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111467,
+          "name": "Alistair William Price",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 83762,
+          "name": "Corinne Sterry",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horley East",
+      "ballot_paper_id": "local.east-surrey.horley-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 124124,
+          "name": "Gary John Bates",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94183,
+          "name": "Victoria Louise Chester",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124125,
+          "name": "David Andrew Heaver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 102165,
+          "name": "Steel James Horton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123878,
+          "name": "Barry John Maguire",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123894,
+          "name": "Samantha Jane Marshall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73554,
+          "name": "Taylor Dennis Spencer O'Driscoll",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123879,
+          "name": "Oliver Charles Walter",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horley West, Salfords & Sidlow",
+      "ballot_paper_id": "local.east-surrey.horley-west-salfords-sidlow.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 41144,
+          "name": "Michael Stewart Blacker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138059,
+          "name": "Madeleine Low",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58580,
+          "name": "Andy Lynch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138060,
+          "name": "Laurence Nasskau",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124127,
+          "name": "William Stanway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125874,
+          "name": "Andrew Stevens",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41037,
+          "name": "Christian Stevens",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102167,
+          "name": "Jason Michael Thorne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92645,
+          "name": "Steve Wotton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leatherhead & Fetcham East",
+      "ballot_paper_id": "local.east-surrey.leatherhead-fetcham-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 138832,
+          "name": "Morten Brinchmann",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48310,
+          "name": "Ann Clark",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128256,
+          "name": "Larissa Jane Dumebi Ezechie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108143,
+          "name": "Alan William Gibbs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 32304,
+          "name": "Tim Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138833,
+          "name": "David Izatt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138834,
+          "name": "Scott Thomas Kormis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128257,
+          "name": "Juliette Olwen Littlewood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138835,
+          "name": "Alan Keith Thompson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99388,
+          "name": "Jolanta Waugh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lingfield",
+      "ballot_paper_id": "local.east-surrey.lingfield.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 58400,
+          "name": "Catherine Margaret Baart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110951,
+          "name": "Freyja Jayne Chapman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13364,
+          "name": "Richard Barry Fowler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137935,
+          "name": "Nick Greenfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83745,
+          "name": "Emba Miguel Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35063,
+          "name": "Judy Moore",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 7585,
+          "name": "Julia Florence Searle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 32120,
+          "name": "Lesley Susan Steeds",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13357,
+          "name": "Dave Wilkes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43060,
+          "name": "Maureen June Young",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Long Ditton, Hinchley Wood & Weston Green",
+      "ballot_paper_id": "local.east-surrey.long-ditton-hinchley-wood-weston-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138217,
+          "name": "Simon Francis Anthony Crome",
+          "party_name": "Hinchley Wood Residents"
+        },
+        {
+          "person_id": 138218,
+          "name": "Nick Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138219,
+          "name": "Scott William Dodkins",
+          "party_name": "Hinchley Wood Residents"
+        },
+        {
+          "person_id": 138220,
+          "name": "Fran Fish",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138221,
+          "name": "David Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138222,
+          "name": "Lorna Malala Hayes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102143,
+          "name": "Rachelle Claire Headland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16995,
+          "name": "Neil Houston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44162,
+          "name": "Caroline Kim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138223,
+          "name": "James Nicholas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138224,
+          "name": "Jim Torpey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138225,
+          "name": "Dalia Wickenden",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Merstham & Banstead South",
+      "ballot_paper_id": "local.east-surrey.merstham-banstead-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 109475,
+          "name": "Catherine Mary Barrett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125876,
+          "name": "Graham John Burr",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138323,
+          "name": "Agnes Mellen Conroy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112018,
+          "name": "Joel Gabriel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30695,
+          "name": "Bob Gardner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126812,
+          "name": "Paul Graham Hunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30694,
+          "name": "Frank Kelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4614,
+          "name": "Shasha Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58528,
+          "name": "Jemma De Vincenzo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126804,
+          "name": "Johnny Wolf",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nork & Tattenhams",
+      "ballot_paper_id": "local.east-surrey.nork-tattenhams.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 126811,
+          "name": "Steve Bastin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79294,
+          "name": "Paul Holmes Chandler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126832,
+          "name": "Elizabeth Cooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112034,
+          "name": "Adrian Freeman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92537,
+          "name": "Pamela Freeman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 58657,
+          "name": "Peter Harp",
+          "party_name": "Nork & Tattenhams Residents' Associations"
+        },
+        {
+          "person_id": 125877,
+          "name": "Lexi Lawrence",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125878,
+          "name": "Sam Lewin-Mearing",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112012,
+          "name": "Christian Oster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112038,
+          "name": "Tim Snuggs",
+          "party_name": "Nork & Tattenhams Residents' Associations"
+        },
+        {
+          "person_id": 137703,
+          "name": "Martin Webb",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109481,
+          "name": "Geoffrey Frank Woodhead",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oxted",
+      "ballot_paper_id": "local.east-surrey.oxted.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137994,
+          "name": "Bryan Bernard Black",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137995,
+          "name": "Abigail Frances Chapman-Miller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13336,
+          "name": "Chris Dean",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 137996,
+          "name": "Jessica Dracup-Holland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137997,
+          "name": "Fredericka Hampson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137998,
+          "name": "Will Howells",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137999,
+          "name": "William Charles Jarrett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 32118,
+          "name": "Cameron Robert Innes McIntosh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 116359,
+          "name": "James Douglas Milmine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138000,
+          "name": "Michael Kevin O'Connor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73458,
+          "name": "Deb Shiner",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110961,
+          "name": "Philip Son",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112044,
+          "name": "Gillian Dawn Vischer",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redhill East & North Earlswood",
+      "ballot_paper_id": "local.east-surrey.redhill-east-north-earlswood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125879,
+          "name": "Martin Elbourne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 439,
+          "name": "Jonathan Christopher St Aubyn Essex",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138307,
+          "name": "Tom Foulser",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 25007,
+          "name": "Stuart Nicholas Holmes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138308,
+          "name": "Jack Ithell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138309,
+          "name": "Teresa Jacks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54366,
+          "name": "Shysta Manzoor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14151,
+          "name": "Stephen Hugh McKenna",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58631,
+          "name": "Rosie Norgrove",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138310,
+          "name": "David Gordon Payne",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redhill West & Meadvale",
+      "ballot_paper_id": "local.east-surrey.redhill-west-meadvale.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 138044,
+          "name": "Nick Abear",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126828,
+          "name": "David William Bateman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58673,
+          "name": "Richard Coad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138045,
+          "name": "Ian Geoffrey Covey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138046,
+          "name": "Elly Heaton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 25010,
+          "name": "Steve Kulka",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138047,
+          "name": "Antony Walter Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125880,
+          "name": "Gemma Mary Roulston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122309,
+          "name": "Will De Save",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138048,
+          "name": "Elliott James Wragg",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Reigate",
+      "ballot_paper_id": "local.east-surrey.reigate.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138334,
+          "name": "John Michael Berge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126817,
+          "name": "Lisa Charters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40723,
+          "name": "Rex William Giles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 18598,
+          "name": "Paul Martin Ingram",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79530,
+          "name": "Mark David Johnston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123176,
+          "name": "Natasha Mari Lawrence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138335,
+          "name": "Victor Henry Lewanski",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138336,
+          "name": "Jon Mears",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125882,
+          "name": "Mike Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138337,
+          "name": "Dharam Sharma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126820,
+          "name": "Karolina Wolf",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tadworth, Walton & Kingswood",
+      "ballot_paper_id": "local.east-surrey.tadworth-walton-kingswood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138340,
+          "name": "Zelanie Sue Cooper",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 26228,
+          "name": "George Richard Curry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125883,
+          "name": "Thomas Geoffrey Morgan Dalton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138341,
+          "name": "Andrew Marius Kriek",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138342,
+          "name": "Brian McGuirk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18856,
+          "name": "Alistair Patrick Galbraith Morten",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112011,
+          "name": "Shelly Anneka Newton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 115829,
+          "name": "Terry Sankarsingh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125884,
+          "name": "Helen Alison Staddon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126819,
+          "name": "Liam David Tomkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121473,
+          "name": "Esme Lily Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thames Ditton & East Molesey",
+      "ballot_paper_id": "local.east-surrey.thames-ditton-east-molesey.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138254,
+          "name": "Sam Brierley",
+          "party_name": "Thames Ditton / Weston Green Residents' Association"
+        },
+        {
+          "person_id": 138255,
+          "name": "Sue Fergy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138256,
+          "name": "Colin Greff",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111485,
+          "name": "Charlotte Keywood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102136,
+          "name": "Richard Quentin Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138257,
+          "name": "Harry McKay",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138258,
+          "name": "James Antony Andrew Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138259,
+          "name": "Paul Simmons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138260,
+          "name": "Leah Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111470,
+          "name": "Redmond Walsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138261,
+          "name": "Kevin Whincup",
+          "party_name": "The Molesey Residents Association"
+        },
+        {
+          "person_id": 138262,
+          "name": "Vicky Zadeh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walton",
+      "ballot_paper_id": "local.east-surrey.walton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 17157,
+          "name": "Barry James Frederick Cheyne",
+          "party_name": "The Walton Society"
+        },
+        {
+          "person_id": 88542,
+          "name": "Nick Dodds",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138290,
+          "name": "Callum Stefan Dyer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138291,
+          "name": "Wendy Hobbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111490,
+          "name": "Joshua Noah Lambert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138292,
+          "name": "Gregor MacGregor",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138293,
+          "name": "Eddie Moriarty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138294,
+          "name": "Kyle Steven Napp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90102,
+          "name": "Lloyd Soldatt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138295,
+          "name": "Gill Tovey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111488,
+          "name": "Rahul Verma",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walton South & Oatlands",
+      "ballot_paper_id": "local.east-surrey.walton-south-oatlands.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 138265,
+          "name": "Candida Brook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138266,
+          "name": "Anthony Peter Charlesworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100792,
+          "name": "Susan Samantha Cope",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79492,
+          "name": "Kirsty Jane Hewens",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138267,
+          "name": "Karen Hohler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17080,
+          "name": "Andrew Christopher Kelly",
+          "party_name": "The Walton Society"
+        },
+        {
+          "person_id": 138268,
+          "name": "Ann Meehan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138269,
+          "name": "Dan Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 57418,
+          "name": "Ashley Richard Tilling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138270,
+          "name": "Joe Torreson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Warlingham",
+      "ballot_paper_id": "local.east-surrey.warlingham.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138022,
+          "name": "Ryan James Jack Bloomfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42550,
+          "name": "Robin Kenneth Bloore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138023,
+          "name": "Natalie Jaimie Regine Butcher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13084,
+          "name": "Perry Chotai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110963,
+          "name": "Pat Hunter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13086,
+          "name": "Jeremy Pursehouse",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 58492,
+          "name": "Sarah Jane Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110972,
+          "name": "Andrew Gerald Waters",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138024,
+          "name": "John Yorke",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Ewell",
+      "ballot_paper_id": "local.east-surrey.west-ewell.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137743,
+          "name": "Simon Chambers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126503,
+          "name": "Alex Coley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 50325,
+          "name": "Neil Andrew Dallen",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 129283,
+          "name": "Neil John Friday",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129054,
+          "name": "Rob Geleit",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126576,
+          "name": "Paul Anthony Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99859,
+          "name": "Lucie Kimberley McIntyre",
+          "party_name": "Residents Associations of Epsom and Ewell"
+        },
+        {
+          "person_id": 99847,
+          "name": "Tracy Margaret Muller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99742,
+          "name": "Christopher Charles Muller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129281,
+          "name": "Amandeep Singh Sandhawalia",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 61961,
+          "name": "Jeremy Paul Walker Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124264,
+          "name": "Sammi Villabon",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Molesey",
+      "ballot_paper_id": "local.east-surrey.west-molesey.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 17030,
+          "name": "Steve Bax",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138212,
+          "name": "Stephen Paul Bown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138213,
+          "name": "Sunny Cadman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43633,
+          "name": "Susan Dennis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 108931,
+          "name": "Andrew Paul Dillon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138214,
+          "name": "James Peter Kemp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 23366,
+          "name": "Ernest Mallett",
+          "party_name": "The Molesey Residents Association"
+        },
+        {
+          "person_id": 138215,
+          "name": "Larisa Marcu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138216,
+          "name": "Joel Ashley Prujean-Skupski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90024,
+          "name": "Philip Peter Smith-Stevenson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weybridge",
+      "ballot_paper_id": "local.east-surrey.weybridge.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138228,
+          "name": "Sandra Bartelik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56701,
+          "name": "Hilary Clare Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138229,
+          "name": "Gary John Dean",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111475,
+          "name": "Eva Ferlez",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138230,
+          "name": "Moira Gill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138231,
+          "name": "Pippa Graeme",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17174,
+          "name": "Peter Harman",
+          "party_name": "Weybridge Independents"
+        },
+        {
+          "person_id": 118106,
+          "name": "Brittany Janelle Johansson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79473,
+          "name": "Alistair David Mann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102146,
+          "name": "Colin McFarlane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90113,
+          "name": "Helen Clare Pilmer",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    }
+  ]
+}

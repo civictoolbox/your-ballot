@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "somerset",
+    "council_name": "Somerset"
+  },
+  "wards": [
+    {
+      "ward_name": "Mendip Hills",
+      "ballot_paper_id": "local.somerset.mendip-hills.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 31675,
+          "name": "Terry Ledlie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91072,
+          "name": "Abi McGuire",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131504,
+          "name": "Nicola Jane Perold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 55125,
+          "name": "Sam Phripp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131505,
+          "name": "Greg Stone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91074,
+          "name": "Victoria Kate Welsh",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

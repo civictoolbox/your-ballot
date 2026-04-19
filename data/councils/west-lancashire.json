@@ -1,0 +1,515 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "west-lancashire",
+    "council_name": "West Lancashire"
+  },
+  "wards": [
+    {
+      "ward_name": "Aughton & Holborn",
+      "ballot_paper_id": "local.west-lancashire.aughton-holborn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138572,
+          "name": "Simon T. Cockburn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138573,
+          "name": "Geoff Courtney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54895,
+          "name": "Paul Hennessy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138574,
+          "name": "Anne Marie Hughes",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 103944,
+          "name": "Bruce Porteous",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burscough Bridge & Rufford",
+      "ballot_paper_id": "local.west-lancashire.burscough-bridge-rufford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138584,
+          "name": "Richard Luke Bradshaw",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 138585,
+          "name": "Conor Robert Lyth Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138586,
+          "name": "Alison Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 26815,
+          "name": "Eddie Pope",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111940,
+          "name": "Swin Purple",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 78116,
+          "name": "Ruxandra-Mihaela Trandafoiu",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burscough Town",
+      "ballot_paper_id": "local.west-lancashire.burscough-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126326,
+          "name": "Gareth Fairclough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92466,
+          "name": "Andy Fowler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138592,
+          "name": "Joe De Freitas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138593,
+          "name": "Jess Riding",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 121284,
+          "name": "Richard S. Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Meols & Hesketh Bank",
+      "ballot_paper_id": "local.west-lancashire.north-meols-hesketh-bank.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 44869,
+          "name": "Noel Delaney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138600,
+          "name": "Clare E Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 52948,
+          "name": "Thomas Andrew De Freitas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121169,
+          "name": "Nigel Swales",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138601,
+          "name": "Karen Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Skelmersdale",
+      "ballot_paper_id": "local.west-lancashire.old-skelmersdale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 103968,
+          "name": "Richard Patrick Ainsworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138611,
+          "name": "Freya E J Matthews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123148,
+          "name": "Karl Taraldsen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 121264,
+          "name": "Ella Worthington",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ormskirk East",
+      "ballot_paper_id": "local.west-lancashire.ormskirk-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138602,
+          "name": "Michael John Crompton",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 112538,
+          "name": "Simon Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138603,
+          "name": "Archie Thomas Fitzgerald",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 26816,
+          "name": "Julie Gibson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 111933,
+          "name": "Paul Hamby",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ormskirk West",
+      "ballot_paper_id": "local.west-lancashire.ormskirk-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138605,
+          "name": "Charles Robert Berry",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 26818,
+          "name": "Gareth Dowling",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 112543,
+          "name": "Paul French",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138606,
+          "name": "Graham Gilbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 26817,
+          "name": "Ruth Melling",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural North East",
+      "ballot_paper_id": "local.west-lancashire.rural-north-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 138567,
+          "name": "Nicola Crawford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138568,
+          "name": "Adriana P. Dent",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78226,
+          "name": "Katie Juckes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 54909,
+          "name": "George Francis Oliver",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural South",
+      "ballot_paper_id": "local.west-lancashire.rural-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138612,
+          "name": "Caitlyn Madden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138613,
+          "name": "Paul Anthony Rochford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138614,
+          "name": "Michael Sharples",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78077,
+          "name": "Paul Vincent Turpin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108792,
+          "name": "Linda Marjorie Webster",
+          "party_name": "Our West Lancashire"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural West",
+      "ballot_paper_id": "local.west-lancashire.rural-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 26821,
+          "name": "Jeffrey Christie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138617,
+          "name": "Michael Hugh Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112565,
+          "name": "Charlotte M Houltram",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44883,
+          "name": "Jane Margaret Marshall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126327,
+          "name": "Gareth Oakes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Skelmersdale North",
+      "ballot_paper_id": "local.west-lancashire.skelmersdale-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 78063,
+          "name": "Peter John Chandler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92482,
+          "name": "Paul Hogan",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 13701,
+          "name": "Susan Ingrid Janvier",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138594,
+          "name": "Jay D Lowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13670,
+          "name": "Tom Phillips",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126328,
+          "name": "Lizzie Urquhart",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Skelmersdale South",
+      "ballot_paper_id": "local.west-lancashire.skelmersdale-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138607,
+          "name": "Dave Beeston",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 78137,
+          "name": "Susan Carole Brake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138608,
+          "name": "Tom Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44872,
+          "name": "Vickie Cummins",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138609,
+          "name": "Nigel Hudson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138610,
+          "name": "Connor Patrick Scott Rudge",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tanhouse & Skelmersdale Town Centre",
+      "ballot_paper_id": "local.west-lancashire.tanhouse-skelmersdale-town-centre.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 49138,
+          "name": "Aaron Body",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49139,
+          "name": "Ron Cooper",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 44895,
+          "name": "Terry Devine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138526,
+          "name": "Peter Nicholas Gorrod",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121254,
+          "name": "Neil D Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78203,
+          "name": "Julie Peel",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tarleton Village",
+      "ballot_paper_id": "local.west-lancashire.tarleton-village.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138627,
+          "name": "Kate Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138628,
+          "name": "Norma Marjorie Goodier",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126329,
+          "name": "Karl Hunter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138629,
+          "name": "Suzanne J Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44912,
+          "name": "Tina Stringfellow",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Up Holland",
+      "ballot_paper_id": "local.west-lancashire.up-holland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130473,
+          "name": "Peter Andrew Cranie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126330,
+          "name": "Richard Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92508,
+          "name": "Suresh Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78171,
+          "name": "Neil Ronald Pye",
+          "party_name": "Our West Lancashire"
+        },
+        {
+          "person_id": 26033,
+          "name": "Jayne Louise Rear",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

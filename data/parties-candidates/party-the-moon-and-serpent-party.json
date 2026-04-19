@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-moon-and-serpent-party",
+    "display_name": "The Moon And Serpent Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Moon And Serpent Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 7633,
+      "name": "Jason Stephen Pilley",
+      "party_name": "The Moon And Serpent Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "St Luke's"
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "rushmoor",
+    "council_name": "Rushmoor"
+  },
+  "wards": [
+    {
+      "ward_name": "Aldershot Park",
+      "ballot_paper_id": "local.rushmoor.aldershot-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124561,
+          "name": "Delian Marius Bratosin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59299,
+          "name": "Peter Ian Charles Crerar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132055,
+          "name": "Sharon Harvey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132056,
+          "name": "Sam Morrell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111816,
+          "name": "Thomas Mortimer",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cherrywood",
+      "ballot_paper_id": "local.rushmoor.cherrywood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 18592,
+          "name": "Clive Patrick Grattan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132065,
+          "name": "Daryl Higgs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132066,
+          "name": "Sally McGuinness",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132067,
+          "name": "Anil Thapa",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cove and Southwood",
+      "ballot_paper_id": "local.rushmoor.cove-and-southwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132077,
+          "name": "Martin Laney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132078,
+          "name": "Becky Miles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46194,
+          "name": "Martin John Tennant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48046,
+          "name": "Jill Whyman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132079,
+          "name": "Andy Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Empress",
+      "ballot_paper_id": "local.rushmoor.empress.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 81005,
+          "name": "Olive Jane O'Dowd-Booth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132088,
+          "name": "Abjeet Rudh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132089,
+          "name": "Ryan Salisbury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132090,
+          "name": "Rohin Shingadia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124564,
+          "name": "Nicky Slater",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fernhill",
+      "ballot_paper_id": "local.rushmoor.fernhill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 14260,
+          "name": "Brian Frederick Blewett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46640,
+          "name": "Akmal Hussain Gani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18603,
+          "name": "Madi Jabbi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1835,
+          "name": "Barry Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132119,
+          "name": "Rob Matthews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 103991,
+          "name": "Ian Michael Brumwell Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132120,
+          "name": "Stephen James Thayer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132121,
+          "name": "Angela Samantha Walters",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Knellwood",
+      "ballot_paper_id": "local.rushmoor.knellwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 103995,
+          "name": "Tad Cragg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132152,
+          "name": "Jules Crossley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1201,
+          "name": "Alan Hilliar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18593,
+          "name": "Mara Makunura",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132153,
+          "name": "Amanda O'Neill",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor Park",
+      "ballot_paper_id": "local.rushmoor.manor-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132162,
+          "name": "Keri Ann Andrews",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 81003,
+          "name": "Jib Narayan Belbase",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124559,
+          "name": "Catherine Njenga",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132163,
+          "name": "Julia Rai",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132165,
+          "name": "Ken Tranter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80998,
+          "name": "Mark Trotter",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Town",
+      "ballot_paper_id": "local.rushmoor.north-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 132201,
+          "name": "Jules Rai",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17964,
+          "name": "Sarah Joanne Spall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132203,
+          "name": "Ken Weller",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rowhill",
+      "ballot_paper_id": "local.rushmoor.rowhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 18649,
+          "name": "Kevin Betsworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132224,
+          "name": "Simon James Birtwistle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48058,
+          "name": "Zack Jake Culshaw",
+          "party_name": "British Democratic Party"
+        },
+        {
+          "person_id": 124560,
+          "name": "Fouzia Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132225,
+          "name": "Nick Stamp",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St John's",
+      "ballot_paper_id": "local.rushmoor.st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132262,
+          "name": "Dave Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132263,
+          "name": "Fred Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59261,
+          "name": "Stuart Trussler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81614,
+          "name": "Julia Louise Warner",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mark's",
+      "ballot_paper_id": "local.rushmoor.st-marks.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132289,
+          "name": "Edd Bartlett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 31110,
+          "name": "Craig William Card",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124565,
+          "name": "Alex Day",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132290,
+          "name": "Zak Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132291,
+          "name": "Joey Noyce",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wellington",
+      "ballot_paper_id": "local.rushmoor.wellington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 111841,
+          "name": "Bishal Gurung",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124562,
+          "name": "Uttar Gurung",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47252,
+          "name": "Nadia Noelle Martin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132309,
+          "name": "Lisa Patterson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Heath",
+      "ballot_paper_id": "local.rushmoor.west-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 92848,
+          "name": "Ade Adeola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124563,
+          "name": "Jahangir Firoz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132332,
+          "name": "Chris Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 104012,
+          "name": "Ed Neville",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132333,
+          "name": "James Arnold Read",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,568 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "welwyn-hatfield",
+    "council_name": "Welwyn Hatfield"
+  },
+  "wards": [
+    {
+      "ward_name": "Brookmans Park & Little Heath",
+      "ballot_paper_id": "local.welwyn-hatfield.brookmans-park-little-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 18250,
+          "name": "Sheila Ann Barrett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130551,
+          "name": "Graham Carpenter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93409,
+          "name": "Anthony John Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130559,
+          "name": "Stephanie Mabbutt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82115,
+          "name": "Mia Molinaro",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 73686,
+          "name": "Craig Stanbury",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haldens",
+      "ballot_paper_id": "local.welwyn-hatfield.haldens.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120429,
+          "name": "Sarah Louise Ellingworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73685,
+          "name": "Alastair Ian William Hellyer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18074,
+          "name": "Lucy Musk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130563,
+          "name": "Elena Protic",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 120353,
+          "name": "John Richard Redmond",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Handside",
+      "ballot_paper_id": "local.welwyn-hatfield.handside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130567,
+          "name": "Caleb George Callum Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120406,
+          "name": "Jane Louise Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130571,
+          "name": "Jane Lowe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 23960,
+          "name": "Gemma May Louise Moore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130575,
+          "name": "Stephen William Plume",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatfield Central",
+      "ballot_paper_id": "local.welwyn-hatfield.hatfield-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130578,
+          "name": "Ilie Dumitru",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18131,
+          "name": "David John Perkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130579,
+          "name": "Andy Phillipson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18096,
+          "name": "Pankit Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 18184,
+          "name": "Mark Alexander Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatfield East",
+      "ballot_paper_id": "local.welwyn-hatfield.hatfield-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 46009,
+          "name": "Jackie Brennan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93923,
+          "name": "Larry Crofton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120391,
+          "name": "David Rose",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 103330,
+          "name": "Vaishali Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120373,
+          "name": "Michael Peter Southwell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatfield South West",
+      "ballot_paper_id": "local.welwyn-hatfield.hatfield-south-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130581,
+          "name": "Negar Cetin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118947,
+          "name": "Kamal Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130583,
+          "name": "Claudiu Imbir",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130584,
+          "name": "Lukasz Marcin Stasiowski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130585,
+          "name": "Georgia Swift",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatfield Villages",
+      "ballot_paper_id": "local.welwyn-hatfield.hatfield-villages.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 18127,
+          "name": "James Broach",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93925,
+          "name": "Abbie Elizabeth Cook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18092,
+          "name": "Adam Edwards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81990,
+          "name": "Andreas Kukol",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15825,
+          "name": "Pete Whitehead",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hollybush",
+      "ballot_paper_id": "local.welwyn-hatfield.hollybush.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 18164,
+          "name": "Lynn Anne Chesterman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130586,
+          "name": "David Glickman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130587,
+          "name": "Callum Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130588,
+          "name": "Esther Erzsebet Aiko Pimprenelle Saurigny",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130589,
+          "name": "Maria Siewniak",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Howlands",
+      "ballot_paper_id": "local.welwyn-hatfield.howlands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120415,
+          "name": "Mark Simon Biddle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130598,
+          "name": "Jamal Chowdhuri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18182,
+          "name": "Max Peter Holloway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130601,
+          "name": "Isaac David Martindale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 103026,
+          "name": "Brad Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northaw & Cuffley",
+      "ballot_paper_id": "local.welwyn-hatfield.northaw-cuffley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 82123,
+          "name": "Peter Edward Basford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130609,
+          "name": "Danny Brunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130612,
+          "name": "Laura Vivienne Cook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 18109,
+          "name": "Ian Howard Gregory",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76677,
+          "name": "Brian Seeger",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Panshanger",
+      "ballot_paper_id": "local.welwyn-hatfield.panshanger.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73684,
+          "name": "Marios Artemi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111477,
+          "name": "Alice Rose Amelia Cowley-French",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130629,
+          "name": "Steve Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55877,
+          "name": "Andy Osborne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130633,
+          "name": "Lewis Francis Ross",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peartree",
+      "ballot_paper_id": "local.welwyn-hatfield.peartree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130636,
+          "name": "Ian Colpitts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111614,
+          "name": "Tanya Dickson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93637,
+          "name": "Duncan Merlin Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18082,
+          "name": "Darren Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130655,
+          "name": "Emil Sohrab",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sherrards",
+      "ballot_paper_id": "local.welwyn-hatfield.sherrards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130674,
+          "name": "Sarah Louise Dolton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102213,
+          "name": "Phil Hopley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130680,
+          "name": "Tommy Howgego",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 25611,
+          "name": "Jean-Paul Bernard Skoczylas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46471,
+          "name": "Teresa Florence Travell",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Welham Green & Hatfield South",
+      "ballot_paper_id": "local.welwyn-hatfield.welham-green-hatfield-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130697,
+          "name": "Vhalan Anandarajah",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93280,
+          "name": "Sandreni Bonfante",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93935,
+          "name": "Perry Martyn William Hewitt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130698,
+          "name": "Joshua Hook",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130707,
+          "name": "Michael Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Welwyn East",
+      "ballot_paper_id": "local.welwyn-hatfield.welwyn-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 130726,
+          "name": "David Charles Bartlett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 27110,
+          "name": "William Nicholas Huggonson Berrington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111606,
+          "name": "George Von Bülow",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130727,
+          "name": "Mark David Castle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14841,
+          "name": "Peter John Costello",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111593,
+          "name": "Claire Hunt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130739,
+          "name": "Andrew John Morrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 103388,
+          "name": "Jason Alistair Payne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111611,
+          "name": "Durk Reyner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130752,
+          "name": "John Howard Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Welwyn West",
+      "ballot_paper_id": "local.welwyn-hatfield.welwyn-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130760,
+          "name": "Richard Armstrong",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130761,
+          "name": "Rosalind Mary Cloke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 103379,
+          "name": "David Cox",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119519,
+          "name": "Jojo Godfrey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41452,
+          "name": "Sunny Thusu",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-farnham-residents",
+    "display_name": "Farnham Residents",
+    "candidate_count": 6,
+    "council_count": 1,
+    "raw_party_names": [
+      "Farnham Residents"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 48918,
+      "name": "David Beaman",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham Central"
+    },
+    {
+      "person_id": 62185,
+      "name": "Sally Dickson",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham North"
+    },
+    {
+      "person_id": 25993,
+      "name": "Andy Macleod",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham Central"
+    },
+    {
+      "person_id": 60642,
+      "name": "Michaela Martin",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham South"
+    },
+    {
+      "person_id": 106158,
+      "name": "George Murray",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham South"
+    },
+    {
+      "person_id": 79315,
+      "name": "Catherine Powell",
+      "party_name": "Farnham Residents",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham North"
+    }
+  ]
+}

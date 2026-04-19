@@ -29,9 +29,16 @@ PARTY_CANDIDATES_DIR = DATA_DIR / "parties-candidates"
 
 
 # ── Party canonicalisation ──────────────────────────────────────────────────
-# Must match partyKey() in js/app.js and js/all.js — so Labour and
-# "Labour and Co-operative Party" merge in the same way the rest of the site
-# already shows them.
+# Known major parties merge to a canonical key (mirrors partyKey() in
+# js/app.js and js/all.js). Unknown parties get their own slugified key so
+# they show up individually in the browse list instead of vanishing into a
+# giant "Other" bucket — this matters for civic transparency.
+import re as _re
+
+def _slugify(name: str) -> str:
+    n = _re.sub(r"[^a-z0-9]+", "-", (name or "").lower()).strip("-")
+    return n or "unknown"
+
 def party_key(party_name: str) -> str:
     n = (party_name or "").lower()
     if not n:
@@ -54,7 +61,7 @@ def party_key(party_name: str) -> str:
         return "snp"
     if "sinn féin" in n or "sinn fein" in n:
         return "sinn-fein"
-    if "dup" in n or "democratic unionist" in n:
+    if ("dup" in n) or ("democratic unionist" in n):
         return "dup"
     if "alliance" in n:
         return "alliance"
@@ -64,7 +71,8 @@ def party_key(party_name: str) -> str:
         return "uup"
     if "independent" in n:
         return "independent"
-    return "other"
+    # Anything else becomes its own slot rather than collapsing into "other".
+    return f"party-{_slugify(party_name)}"
 
 
 # Human-readable names per canonical key — fallback when there's no parties.json entry.
@@ -145,6 +153,17 @@ def main() -> int:
     for stale in PARTY_CANDIDATES_DIR.glob("*.json"):
         stale.unlink()
 
+    def display_for(key: str) -> str:
+        if key in DISPLAY_NAMES:
+            return DISPLAY_NAMES[key]
+        # Fallback for "party-<slug>" keys: use the most common raw party
+        # name we saw for this key. Covers edge cases where a single canonical
+        # key gathered variants.
+        raws = sorted(party_raw_names.get(key, []))
+        if raws:
+            return raws[0]
+        return key.replace("-", " ").title()
+
     now_iso = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
     for key, candidates in parties.items():
         # Sort by candidate surname, then council
@@ -157,7 +176,7 @@ def main() -> int:
             "_meta": {
                 "generated_at": now_iso,
                 "party_key": key,
-                "display_name": DISPLAY_NAMES.get(key, key.replace("-", " ").title()),
+                "display_name": display_for(key),
                 "candidate_count": len(candidates),
                 "council_count": len(party_councils.get(key, set())),
                 "raw_party_names": sorted(party_raw_names.get(key, [])),
@@ -171,7 +190,7 @@ def main() -> int:
     # ── Write the small index ──────────────────────────────────────────────
     entries = [{
         "key": key,
-        "display_name": DISPLAY_NAMES.get(key, key.replace("-", " ").title()),
+        "display_name": display_for(key),
         "candidate_count": len(parties[key]),
         "council_count": len(party_councils.get(key, set())),
     } for key in parties.keys()]

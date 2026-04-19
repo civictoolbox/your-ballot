@@ -1,0 +1,447 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "chorley",
+    "council_name": "Chorley"
+  },
+  "wards": [
+    {
+      "ward_name": "Adlington & Anderton",
+      "ballot_paper_id": "local.chorley.adlington-anderton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 63725,
+          "name": "Neil Baglow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130613,
+          "name": "Amy Hardcastle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 61176,
+          "name": "June Molyneaux",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130614,
+          "name": "Graham Keith Thornton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Buckshaw & Whittle",
+      "ballot_paper_id": "local.chorley.buckshaw-whittle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 77103,
+          "name": "Dedrah Cecilia Moss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77105,
+          "name": "Rachel Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130634,
+          "name": "Craig Tommony",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77106,
+          "name": "Christine Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley East",
+      "ballot_paper_id": "local.chorley.chorley-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 108867,
+          "name": "Ian Daniel Cardwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102396,
+          "name": "Mark Grandi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130619,
+          "name": "Louise Elizabeth Hall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119239,
+          "name": "Carole Ann Sasaki",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 77161,
+          "name": "Martin Andrew Topp",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley North & Astley",
+      "ballot_paper_id": "local.chorley.chorley-north-astley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 77116,
+          "name": "Jeffrey Johnstone Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42224,
+          "name": "Alistair William Morwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130631,
+          "name": "Mark Perks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77134,
+          "name": "Jon Royle",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley North East",
+      "ballot_paper_id": "local.chorley.chorley-north-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 77102,
+          "name": "David Golden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130611,
+          "name": "Paul Robert Hazzard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130610,
+          "name": "Wendy Paterson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77139,
+          "name": "Mark Worsley Tebbutt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77136,
+          "name": "Jen Whiffen",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley North West",
+      "ballot_paper_id": "local.chorley.chorley-north-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 77138,
+          "name": "Anne Frances Calderbank",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131381,
+          "name": "Shaz Malik",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15314,
+          "name": "Peter Malpas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131380,
+          "name": "Emma Louise Walker",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley South East & Heath Charnock",
+      "ballot_paper_id": "local.chorley.chorley-south-east-heath-charnock.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130639,
+          "name": "Mark Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130638,
+          "name": "Diana Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77150,
+          "name": "Samir Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 63729,
+          "name": "Jane Elizabeth Weston",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorley South West",
+      "ballot_paper_id": "local.chorley.chorley-south-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 77158,
+          "name": "Olga Cash",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 63739,
+          "name": "Terry Howarth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15267,
+          "name": "Dorothy Livesey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130635,
+          "name": "Barry Young",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayton East, Brindle & Hoghton",
+      "ballot_paper_id": "local.chorley.clayton-east-brindle-hoghton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 130628,
+          "name": "Michelle Beach",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 121141,
+          "name": "Ellie Close",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121073,
+          "name": "Amy Louise Coxley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 305,
+          "name": "Stephen John Fenn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 119242,
+          "name": "Geoff Fielden",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 26805,
+          "name": "Greg Morgan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayton West & Cuerden",
+      "ballot_paper_id": "local.chorley.clayton-west-cuerden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 102399,
+          "name": "Simon Cash",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77169,
+          "name": "Sam Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130646,
+          "name": "Lesley Durose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130645,
+          "name": "Alexandra Katherine Simpson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42483,
+          "name": "Neville Grant Whitham",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coppull",
+      "ballot_paper_id": "local.chorley.coppull.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 121061,
+          "name": "Debbie Brotherton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42553,
+          "name": "Mark Robert Frost",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14706,
+          "name": "Harold Heaton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15280,
+          "name": "Steve Holgate",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130630,
+          "name": "Joe McCartney",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Croston, Mawdesley & Euxton South",
+      "ballot_paper_id": "local.chorley.croston-mawdesley-euxton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 130607,
+          "name": "Josh Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130608,
+          "name": "Barrie William Duckworth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 15304,
+          "name": "Alan John Platt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76459,
+          "name": "Caroline Elizabeth Turner",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 121053,
+          "name": "Mark Wade",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15318,
+          "name": "John Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eccleston, Heskin & Charnock Richard",
+      "ballot_paper_id": "local.chorley.eccleston-heskin-charnock-richard.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110897,
+          "name": "Sef Churchill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130617,
+          "name": "Ethan James Howarth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130618,
+          "name": "Fred Laithwaite",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77104,
+          "name": "Rowan Power",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87944,
+          "name": "Arjun Singh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Euxton",
+      "ballot_paper_id": "local.chorley.euxton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 121090,
+          "name": "Jonathan Close",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42676,
+          "name": "Gillian Frances Sharples",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102418,
+          "name": "Pauline Margaret Summers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77140,
+          "name": "Geoff Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

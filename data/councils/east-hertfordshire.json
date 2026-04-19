@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "east-hertfordshire",
+    "council_name": "East Hertfordshire"
+  },
+  "wards": [
+    {
+      "ward_name": "Little Hadham & The Pelhams",
+      "ballot_paper_id": "local.east-hertfordshire.little-hadham-the-pelhams.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132042,
+          "name": "Rob Dawson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56498,
+          "name": "Karl Ambrose Harrington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25899,
+          "name": "Jeff Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 120781,
+          "name": "Fraser Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132043,
+          "name": "Pauline Mary Kellett",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

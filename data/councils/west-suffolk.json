@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "west-suffolk",
+    "council_name": "West Suffolk"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbeygate",
+      "ballot_paper_id": "local.west-suffolk.abbeygate.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 23768,
+          "name": "Paul Hopfensperger",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137814,
+          "name": "Aaron Thomas John",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128565,
+          "name": "Catherine Mustoe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109923,
+          "name": "Aiden Roe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126206,
+          "name": "Dylan William Roques",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 57256,
+          "name": "Michael Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

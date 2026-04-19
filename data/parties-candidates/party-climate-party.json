@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-climate-party",
+    "display_name": "Climate Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Climate Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 117661,
+      "name": "Karen Miller",
+      "party_name": "Climate Party",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Hither Green"
+    }
+  ]
+}

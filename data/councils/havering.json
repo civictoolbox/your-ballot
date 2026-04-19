@@ -1,0 +1,1685 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "havering",
+    "council_name": "Havering"
+  },
+  "wards": [
+    {
+      "ward_name": "Beam Park",
+      "ballot_paper_id": "local.havering.beam-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 133707,
+          "name": "Haward Anekwe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133753,
+          "name": "Mohammed Azza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133791,
+          "name": "Rob Baker",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 91090,
+          "name": "Carol Denise Baker",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 133812,
+          "name": "Michael Braverman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124183,
+          "name": "Lois Doo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133834,
+          "name": "Alan Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43116,
+          "name": "Trevor Roland McKeever",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124184,
+          "name": "Tito Mogaji",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133835,
+          "name": "Jai Rathi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91173,
+          "name": "Matthew Christopher Stanton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cranham",
+      "ballot_paper_id": "local.havering.cranham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137727,
+          "name": "Barbara Elaine Bramley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19563,
+          "name": "Peter Caton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137728,
+          "name": "Baishali Roy Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137729,
+          "name": "Terry Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41913,
+          "name": "Kate Louise Darvill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41916,
+          "name": "Gillian Ford",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 137730,
+          "name": "Jeff Garnett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124187,
+          "name": "Sarah Haider",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124185,
+          "name": "Ben Hollis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137731,
+          "name": "Jack Hurley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137732,
+          "name": "Sujit Sen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137733,
+          "name": "Amber Elizabeth Grace Tait",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137734,
+          "name": "Jarrod Tse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91365,
+          "name": "Lesley Rosina Tyler",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 41921,
+          "name": "John Tyler",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 137735,
+          "name": "Catrin Mair Warden",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elm Park",
+      "ballot_paper_id": "local.havering.elm-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 41711,
+          "name": "Kim Arrowsmith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138040,
+          "name": "Ash Bhardwaj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138021,
+          "name": "Sidra Bhatti",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137967,
+          "name": "Chucks Echedom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91530,
+          "name": "Kimberley Jane Gould",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 138010,
+          "name": "Naz Islam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138007,
+          "name": "Biju Joseph",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138001,
+          "name": "Wayne Morphew",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42041,
+          "name": "Barry Mugglestone",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 42043,
+          "name": "Stephanie Jane Nunn",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 91489,
+          "name": "Julia Ann Offord Pearman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42150,
+          "name": "Graham Richard Potter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124190,
+          "name": "Sami Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137978,
+          "name": "Bharathi Subramani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91297,
+          "name": "Matej Travnicek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124188,
+          "name": "Gheorghe Zugravu",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Emerson Park",
+      "ballot_paper_id": "local.havering.emerson-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 124191,
+          "name": "Ghazala Ansari",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137666,
+          "name": "Stuart Chapell",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137667,
+          "name": "Paul Harrison",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137668,
+          "name": "David Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137669,
+          "name": "Jai Jordan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137670,
+          "name": "Balwinder Singh Khaira",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124192,
+          "name": "Linda Pollard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42979,
+          "name": "Christopher William Purnell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91179,
+          "name": "Bernice Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137671,
+          "name": "Alex Sibley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42365,
+          "name": "Dominic Noel Swan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gooshays",
+      "ballot_paper_id": "local.havering.gooshays.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "person_id": 91359,
+          "name": "Toyin Ajidele",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43112,
+          "name": "Pat Brown",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137826,
+          "name": "Ozlem Colak",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 126599,
+          "name": "Cenred Elworthy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91362,
+          "name": "Martin Glenn",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        },
+        {
+          "person_id": 1521,
+          "name": "Philip Joseph Hyde",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124198,
+          "name": "Marissa Jewell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137827,
+          "name": "Sam Jobber",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        },
+        {
+          "person_id": 137828,
+          "name": "Dominika Paulina Kukielka",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124194,
+          "name": "Callum Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91394,
+          "name": "Patrick Oliver Marks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4356,
+          "name": "Paul Stephen McGeary",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137829,
+          "name": "Nigel Lawrence Meyer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137830,
+          "name": "Louise Newton",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 91436,
+          "name": "Sally Omosun",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 7830,
+          "name": "Keith Prince",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137832,
+          "name": "Theo Joshua Shaw",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137833,
+          "name": "Liz Tyler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137834,
+          "name": "Andrew Wallington",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        },
+        {
+          "person_id": 137835,
+          "name": "Robert Whitton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hacton",
+      "ballot_paper_id": "local.havering.hacton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 137808,
+          "name": "Moses Ted Andishu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137809,
+          "name": "Jonathon Jordan Bizzell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137810,
+          "name": "Geoff Burgess",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124200,
+          "name": "Graham Hayfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137811,
+          "name": "Rony Jacob",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124199,
+          "name": "Ajay Rayaprolu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137812,
+          "name": "Colin Stephen Savidge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137813,
+          "name": "Mick Slaughter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43251,
+          "name": "Jeffery George Stafford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42456,
+          "name": "Reg Whitney",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 91298,
+          "name": "Julie Wilkes",
+          "party_name": "Hornchurch Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harold Wood",
+      "ballot_paper_id": "local.havering.harold-wood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 137759,
+          "name": "Jonathan Appiah Bruce",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19564,
+          "name": "Jonathan William Albert Coles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 3717,
+          "name": "David Warren Durant",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 42520,
+          "name": "Brian Edward Eagling",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        },
+        {
+          "person_id": 91432,
+          "name": "Ruth Edes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137760,
+          "name": "Esme Lorraine Fay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 116001,
+          "name": "Kevin Godfrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42523,
+          "name": "Martin Robert Goode",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        },
+        {
+          "person_id": 137761,
+          "name": "Steven Ince",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124201,
+          "name": "Anish Kothari",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137762,
+          "name": "Siva Kumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137763,
+          "name": "Ramkumar Rengarajan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137764,
+          "name": "Ryan Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124203,
+          "name": "Marion Sanders",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6588,
+          "name": "Ian Victor Sanderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124196,
+          "name": "Alex Short",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137765,
+          "name": "Denise Speight",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42530,
+          "name": "Darren Christopher Wise",
+          "party_name": "Harold Wood Hill Park Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "Havering-atte-Bower",
+      "ballot_paper_id": "local.havering.havering-atte-bower.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137736,
+          "name": "Sunday Ayodele Aladetoyinbo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126602,
+          "name": "Alfie Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91452,
+          "name": "Kevin Patrick Barrett",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 124207,
+          "name": "Kurt Alfie Bowers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124208,
+          "name": "Katy Bradbury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137737,
+          "name": "Graham James Bramley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91091,
+          "name": "Gren Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137738,
+          "name": "Karen Ann Chesney",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 42584,
+          "name": "John Edward Crowder",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 125731,
+          "name": "Graham Edwards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137739,
+          "name": "Alan James Jory",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137740,
+          "name": "Mukund Kataria",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123485,
+          "name": "Della Morton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123487,
+          "name": "Ayo Oladele",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137741,
+          "name": "Christopher Lloyd Danny Julius Pratt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125732,
+          "name": "Paul Sullivan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heaton",
+      "ballot_paper_id": "local.havering.heaton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137650,
+          "name": "Khuram Amin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137651,
+          "name": "Kevin Ayres",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42285,
+          "name": "Carole Beth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137652,
+          "name": "lurie Bivol",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42820,
+          "name": "Keith Ernest Darvill",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137653,
+          "name": "Rose Dawson",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137654,
+          "name": "James Samuel Gallagher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137655,
+          "name": "Sultana Jahan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124197,
+          "name": "Daljit Singh Jutla",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137656,
+          "name": "Aishwarya Kumar",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124193,
+          "name": "Aziz Mogaji",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137657,
+          "name": "Kingsley Kebiru Momodu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43041,
+          "name": "Kerrie Marie Sait",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137658,
+          "name": "Nicky Saunter",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137659,
+          "name": "Alex Vella",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 91366,
+          "name": "Frankie Oreoluwa Mary-Ann Walker",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hylands & Harrow Lodge",
+      "ballot_paper_id": "local.havering.hylands-harrow-lodge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 124290,
+          "name": "Jay Belshaw",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 124210,
+          "name": "Erin Bush",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137789,
+          "name": "Marco Camporaso",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137790,
+          "name": "Pat Farrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125733,
+          "name": "Kevin Gill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124211,
+          "name": "Erin Hickman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91393,
+          "name": "Susan Ann Jiggens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124212,
+          "name": "Sami Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48463,
+          "name": "Ashley Stephen Kissin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91377,
+          "name": "Tracey McEvoy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125734,
+          "name": "Sean McMahon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137791,
+          "name": "Wesley Pollard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42908,
+          "name": "Christine Smith",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 42911,
+          "name": "Maggie Themistocli",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42913,
+          "name": "Ciaran White",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 137792,
+          "name": "David James Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marshalls & Rise Park",
+      "ballot_paper_id": "local.havering.marshalls-rise-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 126605,
+          "name": "Michael Amaning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41828,
+          "name": "Robert Benham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91518,
+          "name": "Nick Butler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91453,
+          "name": "Rob Chesney",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 126607,
+          "name": "Suzanne Ciechomski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42975,
+          "name": "Philippa Crowder",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137781,
+          "name": "Pauline Elizabeth Dennis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126606,
+          "name": "Alex Heslop",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137782,
+          "name": "Elliot Kidner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42978,
+          "name": "Robby Misir",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 123490,
+          "name": "Bailey Nash-Gardner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43039,
+          "name": "Nisha Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125730,
+          "name": "Gary Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137783,
+          "name": "Anita Jean Pollack",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137784,
+          "name": "Lucy Victoria Tully",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137785,
+          "name": "Janina White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mawneys",
+      "ballot_paper_id": "local.havering.mawneys.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 38486,
+          "name": "Sue Benjamins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91474,
+          "name": "Gemma Ann Bevan",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 125736,
+          "name": "Graham Day",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124217,
+          "name": "Manon Delaune",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42931,
+          "name": "Jason David Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137802,
+          "name": "Peter John Hale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91364,
+          "name": "Bill Lavender",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 42934,
+          "name": "Daniel Nichols",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137803,
+          "name": "Richard James Packer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42935,
+          "name": "Dilip Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137804,
+          "name": "David Proffitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42937,
+          "name": "Carol Margaret Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125737,
+          "name": "Geoff Starns",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137805,
+          "name": "Rebecca Wilkes",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 126608,
+          "name": "Zack Yurtsever",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137806,
+          "name": "Omid Zadeh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rainham & Wennington",
+      "ballot_paper_id": "local.havering.rainham-wennington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 133863,
+          "name": "Sade Adeeko",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126582,
+          "name": "Daniel Mark Beal",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 133917,
+          "name": "Bogdan Coliba",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126580,
+          "name": "Nikki Digby",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 133957,
+          "name": "Justin Halabi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133963,
+          "name": "George Harwin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133995,
+          "name": "Anamul Hoque",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41720,
+          "name": "Fay Georgina Hough",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133973,
+          "name": "Joe Lock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124219,
+          "name": "Erin Mansfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126609,
+          "name": "Leona Munro",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41726,
+          "name": "Sue Ospreay",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 134010,
+          "name": "Mohammad Sameemuddin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91467,
+          "name": "Mohammed Abdullah Siddique",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123943,
+          "name": "Sue Watson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124221,
+          "name": "Mark Yetton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rush Green & Crowlands",
+      "ballot_paper_id": "local.havering.rush-green-crowlands.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137723,
+          "name": "Agnius Bogdanovas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91475,
+          "name": "John Alex Curtis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125740,
+          "name": "Petru Eugen Dinsorean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91446,
+          "name": "Alex Donald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124224,
+          "name": "Kelly-Louise Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129407,
+          "name": "Abul Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128459,
+          "name": "Joe Jervis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34391,
+          "name": "Angelina Leatherbarrow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91476,
+          "name": "Tracey Niemierko",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137724,
+          "name": "Robert Francis O'Dea",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 42826,
+          "name": "Garry Lee Pain",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 41836,
+          "name": "Viddy Persaud",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128476,
+          "name": "Tom Pickford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41839,
+          "name": "Tim Ryan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123489,
+          "name": "Henry Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124223,
+          "name": "Beth Winslow",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Hornchurch",
+      "ballot_paper_id": "local.havering.south-hornchurch.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 134225,
+          "name": "Mushtaq Ahmad",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128145,
+          "name": "Luke D Barry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134114,
+          "name": "Karen Tricia Bernard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43113,
+          "name": "Michael Deon Burton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91502,
+          "name": "Caroline Naomi Hibbs-Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124226,
+          "name": "Ruth Kettle-Frisby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124225,
+          "name": "Henry McAneny",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88666,
+          "name": "Angelica Ola",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134174,
+          "name": "Arunraj Selvaraj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127592,
+          "name": "Eric Sheqi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43119,
+          "name": "Natasha Anne Summers",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 43122,
+          "name": "Graham Keith Williamson",
+          "party_name": "Havering Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "Squirrels Heath",
+      "ballot_paper_id": "local.havering.squirrels-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 137773,
+          "name": "Nadia Abid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91175,
+          "name": "Adam John Baker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137774,
+          "name": "Jordan Lee Beal",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 38487,
+          "name": "Martynas Cekavicius",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43035,
+          "name": "Thomas Patrick Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137775,
+          "name": "Ally Cummerson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124227,
+          "name": "Madhu Devershetty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42035,
+          "name": "Shane Reece Forster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137776,
+          "name": "Paul Highman",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 124229,
+          "name": "Richard Killip",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91469,
+          "name": "Antonia Osammor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42148,
+          "name": "Robert John Perry",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137777,
+          "name": "Spencer Brian Seaton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42600,
+          "name": "Christine Vickery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123486,
+          "name": "Tom Vickery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124228,
+          "name": "Mark Whiley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43187,
+          "name": "Michael John White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Alban's",
+      "ballot_paper_id": "local.havering.st-albans.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 137786,
+          "name": "Tamim Ahmed",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 128218,
+          "name": "Jack Norman Alexander Dobson-Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123493,
+          "name": "Martin William Firmstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43037,
+          "name": "Judith Margaret Holt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91531,
+          "name": "Jane Elizabeth Keane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137787,
+          "name": "Nicolas Kee Mew",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 137788,
+          "name": "Owen Roberts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125738,
+          "name": "Diane Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125739,
+          "name": "Russell Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124231,
+          "name": "Laurence Solkin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126596,
+          "name": "Arian Wahab",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Andrew's",
+      "ballot_paper_id": "local.havering.st-andrews.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137871,
+          "name": "Robert Attree",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137872,
+          "name": "Malvin Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123535,
+          "name": "John Charles Cain",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 137873,
+          "name": "Duncan George Cowie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137874,
+          "name": "Daniels Daudiss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41917,
+          "name": "Henry Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124181,
+          "name": "Keira Gomez",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137875,
+          "name": "Anil Kumar Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137876,
+          "name": "Hamida Idris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124180,
+          "name": "Felix Katzenmaier",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124182,
+          "name": "Tia Lancaster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42453,
+          "name": "Izu Nwafor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137877,
+          "name": "Brendan Taylor Pridmore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43253,
+          "name": "Keith Ian Taffs",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43254,
+          "name": "Bryan Thomas Vincent",
+          "party_name": "Hornchurch Residents Association"
+        },
+        {
+          "person_id": 91450,
+          "name": "John Wood",
+          "party_name": "Hornchurch Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Edward's",
+      "ballot_paper_id": "local.havering.st-edwards.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 124232,
+          "name": "Alexandra Betkowska",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42819,
+          "name": "Wendy Brice-Thompson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125743,
+          "name": "Terry Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123494,
+          "name": "Roy Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124234,
+          "name": "Scott Donovan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42902,
+          "name": "Jody Ganly",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 128562,
+          "name": "Emma Hawkins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137862,
+          "name": "Svetlana Joao",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137863,
+          "name": "Nuno Leonel Da Silva Justo",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 125744,
+          "name": "Martin Lardner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125745,
+          "name": "Sathya P Maddasani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128611,
+          "name": "Pushpa Dipaklal Makwana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128619,
+          "name": "Alex Navarro-James",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137864,
+          "name": "Tej Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137865,
+          "name": "Dianne Christine Thomson",
+          "party_name": "Havering Residents Association"
+        },
+        {
+          "person_id": 124233,
+          "name": "Kieron Thomson-Turnage",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upminster",
+      "ballot_paper_id": "local.havering.upminster.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 43339,
+          "name": "Patrick William Chalk",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42033,
+          "name": "Simon Maurice Darvill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124206,
+          "name": "Rowan Elworthy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137748,
+          "name": "Michael Fisher",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 91177,
+          "name": "Oscar Frank Ford",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 137749,
+          "name": "Keane Henry Paul Handley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137750,
+          "name": "Leslie Montague-Nahla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137751,
+          "name": "Christopher Nicholls",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137752,
+          "name": "Mahbub Rahman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124204,
+          "name": "Noel Richardson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124205,
+          "name": "Riley Rogers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91525,
+          "name": "Oliver Harry Rose",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137753,
+          "name": "Sam Tiwari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137754,
+          "name": "Jessica Townsend",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43348,
+          "name": "Christopher Wilkins",
+          "party_name": "Upminster and Cranham Residents Association"
+        },
+        {
+          "person_id": 137747,
+          "name": "Ian Roy De Wulverton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

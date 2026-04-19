@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-residents-associations-of-epsom-and-ewell",
+    "display_name": "Residents Associations of Epsom and Ewell",
+    "candidate_count": 10,
+    "council_count": 1,
+    "raw_party_names": [
+      "Residents Associations of Epsom and Ewell"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 61888,
+      "name": "Christine Gladys Cleveland",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Epsom West"
+    },
+    {
+      "person_id": 50325,
+      "name": "Neil Andrew Dallen",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "West Ewell"
+    },
+    {
+      "person_id": 61988,
+      "name": "Hannah Dalton",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Ewell Village, Stoneleigh & Nonsuch"
+    },
+    {
+      "person_id": 23212,
+      "name": "Eber Alan Kington",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Ewell Court, Auriol & Cuddington"
+    },
+    {
+      "person_id": 137722,
+      "name": "Scott Marshall",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Epsom West"
+    },
+    {
+      "person_id": 62053,
+      "name": "Steven McCormick",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Epsom Town & Downs"
+    },
+    {
+      "person_id": 99859,
+      "name": "Lucie Kimberley McIntyre",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "West Ewell"
+    },
+    {
+      "person_id": 61854,
+      "name": "Peter William O'Donovan",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Ewell Court, Auriol & Cuddington"
+    },
+    {
+      "person_id": 126321,
+      "name": "Kim Spickett",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Epsom Town & Downs"
+    },
+    {
+      "person_id": 23211,
+      "name": "Clive Woodbridge",
+      "party_name": "Residents Associations of Epsom and Ewell",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Ewell Village, Stoneleigh & Nonsuch"
+    }
+  ]
+}

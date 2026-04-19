@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-rejoin-eu",
+    "display_name": "Rejoin EU",
+    "candidate_count": 15,
+    "council_count": 2,
+    "raw_party_names": [
+      "Rejoin EU"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 128582,
+      "name": "Taslema Akhter",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Hanwell Broadway"
+    },
+    {
+      "person_id": 109397,
+      "name": "Jaz Alduk",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Totteridge & Woodside"
+    },
+    {
+      "person_id": 109396,
+      "name": "Simon Mark Bezer",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Finchley Church End"
+    },
+    {
+      "person_id": 137530,
+      "name": "Donato Briamonte",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Underhill"
+    },
+    {
+      "person_id": 137416,
+      "name": "Giovanni Cerutti",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Golders Green"
+    },
+    {
+      "person_id": 69545,
+      "name": "Brendan Patrick Donnelly",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "East Finchley"
+    },
+    {
+      "person_id": 128348,
+      "name": "Georgie Louise Hare",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Ealing Broadway"
+    },
+    {
+      "person_id": 74096,
+      "name": "Richard Hewison",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Whetstone"
+    },
+    {
+      "person_id": 118458,
+      "name": "Charles Honderick",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Burnt Oak"
+    },
+    {
+      "person_id": 128794,
+      "name": "Kamlesh Mehta",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Acton"
+    },
+    {
+      "person_id": 137779,
+      "name": "Santo Mosca",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Woodhouse"
+    },
+    {
+      "person_id": 137550,
+      "name": "Ben Rend",
+      "party_name": "Rejoin EU",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Hendon"
+    },
+    {
+      "person_id": 128747,
+      "name": "Raj Thanga",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Greenford Broadway"
+    },
+    {
+      "person_id": 128673,
+      "name": "Mohd Mofiz Uddin",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Dormers Wells"
+    },
+    {
+      "person_id": 34560,
+      "name": "Peter Mark Ward",
+      "party_name": "Rejoin EU",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Hanger Hill"
+    }
+  ]
+}

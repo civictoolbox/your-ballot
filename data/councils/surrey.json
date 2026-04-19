@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "surrey",
+    "council_name": "Surrey"
+  },
+  "wards": [
+    {
+      "ward_name": "Warlingham",
+      "ballot_paper_id": "local.surrey.warlingham.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 42550,
+          "name": "Robin Kenneth Bloore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13084,
+          "name": "Perry Chotai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13085,
+          "name": "Martin Arthur Haley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 58492,
+          "name": "Sarah Jane Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123171,
+          "name": "Jacquie Thomson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110972,
+          "name": "Andrew Gerald Waters",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

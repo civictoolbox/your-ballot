@@ -1,0 +1,1214 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "sheffield",
+    "council_name": "Sheffield"
+  },
+  "wards": [
+    {
+      "ward_name": "Beauchief & Greenhill",
+      "ballot_paper_id": "local.sheffield.beauchief-greenhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133642,
+          "name": "Michelle Lesley Astle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133643,
+          "name": "Jonathan Bagley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 432,
+          "name": "Simon William Clement-Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133644,
+          "name": "Amanda Clare Gaffney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12353,
+          "name": "Hafeas Rehman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96491,
+          "name": "Daniel Lucas Smith",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beighton",
+      "ballot_paper_id": "local.sheffield.beighton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 133541,
+          "name": "Amanda Julie Adlington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90255,
+          "name": "Alexander James Brown",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 12174,
+          "name": "Shirley Diane Clayton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12213,
+          "name": "Kurtis Jenson Crossthorn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133542,
+          "name": "Suzanne Davison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133543,
+          "name": "Laurence Hayward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89517,
+          "name": "Bridget Kelly",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12323,
+          "name": "Stewart Kemp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133544,
+          "name": "Craig Myers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133545,
+          "name": "Kim Perry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133546,
+          "name": "Wayne Michael Rhodes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133547,
+          "name": "Stuart Wallace",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birley",
+      "ballot_paper_id": "local.sheffield.birley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 112381,
+          "name": "David Cronshaw",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 82066,
+          "name": "Charles Philip Edwardson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133647,
+          "name": "Daniel Gage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133648,
+          "name": "Luke Goddard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12199,
+          "name": "Karen Lesley McGowan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112383,
+          "name": "Andrea Ugolini",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 12204,
+          "name": "Alan Yearsley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Broomhill & Sharrow Vale",
+      "ballot_paper_id": "local.sheffield.broomhill-sharrow-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 96490,
+          "name": "John Bunn",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133673,
+          "name": "Fiona Ann Carr",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133674,
+          "name": "Louise Martha Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133675,
+          "name": "Andrew John Grafton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89309,
+          "name": "Maleiki Haybe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133676,
+          "name": "Charles Peter Hughes",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burngreave",
+      "ballot_paper_id": "local.sheffield.burngreave.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 81997,
+          "name": "Mustafa Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135592,
+          "name": "Khalil Mohammed Qasem al-Asad",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135588,
+          "name": "Andrew Brooker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135589,
+          "name": "Hannah Cawley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135590,
+          "name": "Neil Danford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52065,
+          "name": "James Robert Ellwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135591,
+          "name": "Abdullah Okud",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135593,
+          "name": "Osman Rafiq",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "City",
+      "ballot_paper_id": "local.sheffield.city.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 110108,
+          "name": "Ashish Bhandari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12230,
+          "name": "Shelley Anne Cockayne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135553,
+          "name": "Lee Rooker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112388,
+          "name": "Madeline Claire Rooney",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135554,
+          "name": "Terezia Rostas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123564,
+          "name": "Maia Salman-Lord",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crookes & Crosspool",
+      "ballot_paper_id": "local.sheffield.crookes-crosspool.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 105080,
+          "name": "Jordan Barry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135574,
+          "name": "Alasdair Hadrian Cook",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 112394,
+          "name": "Aliou Diallo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95503,
+          "name": "Dylan Lewis-Creser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84228,
+          "name": "Minesh Parekh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135576,
+          "name": "Ricia Ward",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darnall",
+      "ballot_paper_id": "local.sheffield.darnall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135613,
+          "name": "Asif Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124083,
+          "name": "Misbah Chowdhury",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135614,
+          "name": "Timothy Goddard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135615,
+          "name": "Thomas Huggan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12270,
+          "name": "Joydu Al Mahfuz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12279,
+          "name": "Zahira Naz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135616,
+          "name": "Margaret Pigott",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dore & Totley",
+      "ballot_paper_id": "local.sheffield.dore-totley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 12292,
+          "name": "Gill Black",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133327,
+          "name": "Isaac Joseph Harry Graves",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133328,
+          "name": "Paul Jakeman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12299,
+          "name": "Martin Richard Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133329,
+          "name": "Nicola Smith",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 82045,
+          "name": "Zoe Michelle Steane",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Ecclesfield",
+      "ballot_paper_id": "local.sheffield.east-ecclesfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 89446,
+          "name": "Susan Davidson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39358,
+          "name": "Kevin Mahoney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134824,
+          "name": "Sean Maloney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12258,
+          "name": "Craig Gamble Pugh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 99584,
+          "name": "Rosie Trevillion",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134825,
+          "name": "Colin Michael Wray",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ecclesall",
+      "ballot_paper_id": "local.sheffield.ecclesall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 14059,
+          "name": "Michael Edward Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89639,
+          "name": "Noah Thomas Eden",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133555,
+          "name": "Rory Joseph Gilmore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133556,
+          "name": "John Andrew Horton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123561,
+          "name": "Tessa Louise Lupton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79044,
+          "name": "Gordon Ronald Millward",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Firth Park",
+      "ballot_paper_id": "local.sheffield.firth-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135667,
+          "name": "Omer Abdulqader",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 82058,
+          "name": "Fran Belbin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12558,
+          "name": "Victoria Margaret Bowden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96498,
+          "name": "Luke Jonathan Elliott Brownbill",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135668,
+          "name": "Daniel Jonathon Fielding",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135669,
+          "name": "Robert Hanson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135670,
+          "name": "Mike Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135671,
+          "name": "Sarah Marie Hill",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135672,
+          "name": "Thomas Sturgess",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135673,
+          "name": "David Tetenji",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135674,
+          "name": "Graeme Boyd Waddicar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12283,
+          "name": "Eamonn Charles Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fulwood",
+      "ballot_paper_id": "local.sheffield.fulwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135689,
+          "name": "Ellie Axe",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135690,
+          "name": "Thomas Evans",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135691,
+          "name": "John Ronan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135692,
+          "name": "Andy Telford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110140,
+          "name": "Thomas Wilson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12358,
+          "name": "Cliff Woodcraft",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gleadless Valley",
+      "ballot_paper_id": "local.sheffield.gleadless-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 12362,
+          "name": "John Dryden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82006,
+          "name": "Marieanne Elliot",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135718,
+          "name": "Jennifer Karen Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90154,
+          "name": "Simon John Jenkins",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135719,
+          "name": "Bob Pemberton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135720,
+          "name": "Andy Rayner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Graves Park",
+      "ballot_paper_id": "local.sheffield.graves-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 98694,
+          "name": "Tom Atkin-Withers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127319,
+          "name": "Steve Ayris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135729,
+          "name": "Julia Catherine Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135730,
+          "name": "David Pascoe Ellis",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 12378,
+          "name": "Trevor Henry Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135731,
+          "name": "Robert David White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillsborough",
+      "ballot_paper_id": "local.sheffield.hillsborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135748,
+          "name": "Mike Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135749,
+          "name": "Mark Harrop",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 82059,
+          "name": "Joseph Lewis Hibbert",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 90337,
+          "name": "Christopher Alan Lynch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82060,
+          "name": "Eve Millward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123562,
+          "name": "Richard Tinsley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135750,
+          "name": "Andrew Wild",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor Castle",
+      "ballot_paper_id": "local.sheffield.manor-castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 50238,
+          "name": "Ruth Abbey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82019,
+          "name": "Seun Ajao",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135770,
+          "name": "Michael Chilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82026,
+          "name": "Stephanie Jane Kenning",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135771,
+          "name": "Peter Joseph Reilly",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 12407,
+          "name": "Alistair Tice",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135772,
+          "name": "Dylan Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mosborough",
+      "ballot_paper_id": "local.sheffield.mosborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 12347,
+          "name": "Patricia Jean Barnsley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133592,
+          "name": "Ronald Corbett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133593,
+          "name": "Jason Holyhead",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133594,
+          "name": "Michael John Hudgell",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133596,
+          "name": "Joel McGuigan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3344,
+          "name": "Gail Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12422,
+          "name": "Julie White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nether Edge & Sharrow",
+      "ballot_paper_id": "local.sheffield.nether-edge-sharrow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 123563,
+          "name": "Lynsey Angell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90171,
+          "name": "Nighat Basharat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 105282,
+          "name": "Joanne Mary Lowe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133632,
+          "name": "Sean Patrick Pearce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133633,
+          "name": "Tilde Resare",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133634,
+          "name": "Joe Yeardley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park & Arbourthorne",
+      "ballot_paper_id": "local.sheffield.park-arbourthorne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135773,
+          "name": "Dwaine Craven",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 74774,
+          "name": "Jack Jeffery",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 12162,
+          "name": "Ann Patricia Kingdom",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90184,
+          "name": "Nabeela Mowlana",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132141,
+          "name": "Matt Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135774,
+          "name": "Brian Stringfellow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112380,
+          "name": "Billie Dawn Turner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Richmond",
+      "ballot_paper_id": "local.sheffield.richmond.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 112348,
+          "name": "Hollie Charlotte Buisson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135809,
+          "name": "Jack Byrom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112397,
+          "name": "Beth Cheshire",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135810,
+          "name": "Joe Greatorex",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 99593,
+          "name": "Luke William Hunt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135811,
+          "name": "Jack Hurst",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 82997,
+          "name": "Adil Shaffaq Mohammed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135812,
+          "name": "Pansy Plester",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shiregreen & Brightside",
+      "ballot_paper_id": "local.sheffield.shiregreen-brightside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 112405,
+          "name": "Rachel Esther Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135861,
+          "name": "Josh Darling",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 90247,
+          "name": "Rebecca Fryer",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 99596,
+          "name": "Joel Gilbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135862,
+          "name": "Mick Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122783,
+          "name": "Josiah Lenton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 82930,
+          "name": "Lewis Lennard Henrey Malcolm Mills",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135863,
+          "name": "Garry David Weatherall",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southey",
+      "ballot_paper_id": "local.sheffield.southey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135897,
+          "name": "Joseph Clark",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135898,
+          "name": "Jayne Dunn",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 105273,
+          "name": "Kevin Grum",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96487,
+          "name": "Harry John Lomas",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135899,
+          "name": "Tuss Ramzan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90309,
+          "name": "Andrew Mark Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135900,
+          "name": "Yvonne Sykes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stannington",
+      "ballot_paper_id": "local.sheffield.stannington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 12361,
+          "name": "Lewis William Blake Dagnall",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134013,
+          "name": "Maz Rowan Hamilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134014,
+          "name": "Matthew James Langham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134015,
+          "name": "Cameron James Luke Mannion",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134016,
+          "name": "Ian Oxley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134017,
+          "name": "George Arthur Rollason",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 52079,
+          "name": "Will Sapwell",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stocksbridge & Upper Don",
+      "ballot_paper_id": "local.sheffield.stocksbridge-upper-don.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135886,
+          "name": "Owen Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135887,
+          "name": "John Hesketh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35635,
+          "name": "Janet Hilary Ridler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89534,
+          "name": "Stuart Andrew Shepherd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39395,
+          "name": "David Willington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112409,
+          "name": "Claire Suzanne Wraith",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walkley",
+      "ballot_paper_id": "local.sheffield.walkley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135910,
+          "name": "Harry Crawley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 116712,
+          "name": "Andy Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90284,
+          "name": "Isabelle Amy France",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 12215,
+          "name": "Michael Lawrence Ginn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135911,
+          "name": "Kim Vivien Hanson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90223,
+          "name": "Tom Hunt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 105178,
+          "name": "Alex Purvis",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Ecclesfield",
+      "ballot_paper_id": "local.sheffield.west-ecclesfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 12271,
+          "name": "Kathy Aston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112407,
+          "name": "Matt Dixon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12560,
+          "name": "Mike Levery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135935,
+          "name": "David Ogle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135936,
+          "name": "Alexander Stuart Parker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135937,
+          "name": "Solomon David Wells-Ashmore",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodhouse",
+      "ballot_paper_id": "local.sheffield.woodhouse.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135949,
+          "name": "Danny Alan Allsebrook",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135950,
+          "name": "Dorne Carr",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 96500,
+          "name": "Joshua Andrew Crapper",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 112382,
+          "name": "Willis James Marshall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135951,
+          "name": "Nathaniel Menday",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112415,
+          "name": "Hannah Kate Nicklin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6749,
+          "name": "Steven Winstone",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

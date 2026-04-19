@@ -1,0 +1,2033 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "newcastle-upon-tyne",
+    "council_name": "Newcastle upon Tyne"
+  },
+  "wards": [
+    {
+      "ward_name": "Arthur's Hill",
+      "ballot_paper_id": "local.newcastle-upon-tyne.arthurs-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135202,
+          "name": "Gareth William Barber",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39936,
+          "name": "Margaret Hamilton Birkmyre",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135203,
+          "name": "Hannah Catrin Cousins",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135204,
+          "name": "Joseph Ayo Eldridge",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135205,
+          "name": "Clifford Nigel Hedley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37713,
+          "name": "Joanne Kingsland",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135207,
+          "name": "Abigail Elizabeth MacDonald",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37950,
+          "name": "Mohammed Kamruzzaman Milon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37918,
+          "name": "Adrin Patrick Neatrour",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135209,
+          "name": "Stuart Owen Norton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3665,
+          "name": "John Pearson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 95552,
+          "name": "Hayder Alam Umor Qureshi",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135212,
+          "name": "Shemol Shamsur Rahman",
+          "party_name": "Imagine"
+        },
+        {
+          "person_id": 135214,
+          "name": "Mohammed Suleman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111756,
+          "name": "Rowshon Uddin",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Benwell, Scotswood & Denton Burn",
+      "ballot_paper_id": "local.newcastle-upon-tyne.benwell-scotswood-denton-burn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 37893,
+          "name": "Hans Christian lb Andersen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136158,
+          "name": "Susan Anthony",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136159,
+          "name": "Daniel James Astley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136160,
+          "name": "Robin Glyn Brooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136161,
+          "name": "Anthony Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136162,
+          "name": "Jan Grace",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136163,
+          "name": "Jiabao He",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136164,
+          "name": "Robert Higgins",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136165,
+          "name": "Rima Hussein",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136166,
+          "name": "Gavin Jeffrey Philip Liddle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111757,
+          "name": "David Charles McGovern",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136167,
+          "name": "David Minto",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37714,
+          "name": "Hazel Stephenson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136168,
+          "name": "Kerrin Tatwood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blakelaw & Cowgate",
+      "ballot_paper_id": "local.newcastle-upon-tyne.blakelaw-cowgate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136188,
+          "name": "Dawn Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136189,
+          "name": "Rachel Selina Davison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136190,
+          "name": "Aurora Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13211,
+          "name": "Frances Hinton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136191,
+          "name": "Gavin William Hutchinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136192,
+          "name": "Tina Ion",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37744,
+          "name": "Karen Louise Kilgour",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136193,
+          "name": "Brian McGreevy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136194,
+          "name": "Michael James O'Dowd",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 136195,
+          "name": "Lauren Alexandra Florence Proctor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89407,
+          "name": "Juna Sathian",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13139,
+          "name": "Bill Schardt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37745,
+          "name": "Ian Tokell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136196,
+          "name": "Irene Turnbull",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136197,
+          "name": "Marion Williams",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Byker",
+      "ballot_paper_id": "local.newcastle-upon-tyne.byker.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 111786,
+          "name": "Syed Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134795,
+          "name": "Khadija Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126838,
+          "name": "Jamie Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134796,
+          "name": "Tanya Marie Dawes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134797,
+          "name": "Gary Michael Day",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134798,
+          "name": "Steven Thomas Forster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38029,
+          "name": "Nick Hartley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134799,
+          "name": "Robert David Jarman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134800,
+          "name": "Gavin John Jordan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134801,
+          "name": "Shane Scott Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134802,
+          "name": "Neil Fraser Scott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126845,
+          "name": "Hedley Sugar-Wells",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134803,
+          "name": "Will Wain",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.newcastle-upon-tyne.castle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 133423,
+          "name": "Samuel Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121939,
+          "name": "Gary William Black",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37939,
+          "name": "David Down",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13242,
+          "name": "Steve Fairlie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79517,
+          "name": "Andrew Herridge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133424,
+          "name": "Mark Edwards Junior",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133425,
+          "name": "Imran Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89419,
+          "name": "Richard Morris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133426,
+          "name": "Jamie Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133427,
+          "name": "Roderick Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133428,
+          "name": "Dhananjay Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133429,
+          "name": "Andrew Welch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133430,
+          "name": "Anna Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chapel",
+      "ballot_paper_id": "local.newcastle-upon-tyne.chapel.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 135017,
+          "name": "Yvonne Alden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122958,
+          "name": "Owen Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135018,
+          "name": "Mary Bridget Clifford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124878,
+          "name": "David Burford Cook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135019,
+          "name": "Ian Cranston Cowans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135020,
+          "name": "Muhammad Dahri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99024,
+          "name": "Margaret Donnelly",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 11195,
+          "name": "Marc Donnelly",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124879,
+          "name": "Ben Clarke Hobson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13244,
+          "name": "Lawrence Hunter",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 13265,
+          "name": "Karen Jewers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135021,
+          "name": "Prashasti Khare",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135022,
+          "name": "Keith William Metcalf",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135023,
+          "name": "James Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135024,
+          "name": "Chanchal Shekhar Samaiya",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37948,
+          "name": "David Serge Slesenger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37895,
+          "name": "Judith Lesley Steen",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dene & South Gosforth",
+      "ballot_paper_id": "local.newcastle-upon-tyne.dene-south-gosforth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136210,
+          "name": "James Brine",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136211,
+          "name": "David Graham Cooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136212,
+          "name": "Alex Dodgson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136213,
+          "name": "Adam Michael Forrest",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37787,
+          "name": "Hilary Franks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37901,
+          "name": "Henry Peter Gallagher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39901,
+          "name": "Gerry Langley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136214,
+          "name": "Peter Laws",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136215,
+          "name": "Marley Ell Nellis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 331,
+          "name": "Stephen Anthony Psallidas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136216,
+          "name": "Nick Simpson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111762,
+          "name": "Laurence Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 4028,
+          "name": "Wendy Barbara Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Denton & Westerhope",
+      "ballot_paper_id": "local.newcastle-upon-tyne.denton-westerhope.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136129,
+          "name": "Emmanuel Oluwaseun Alawode",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 17652,
+          "name": "Vince Thomas Barry-Stanners",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136130,
+          "name": "Margaret Ann Bebb",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13197,
+          "name": "Alan Henry Birkmyre",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136133,
+          "name": "Zarah St Clair",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 13198,
+          "name": "Colin Thomas Daglish",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37904,
+          "name": "Elizabeth Joyce Dicken",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136131,
+          "name": "Ben Feechan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136132,
+          "name": "Miles John Henderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37922,
+          "name": "Kami Kundi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37648,
+          "name": "Tracey Ann Mitchell",
+          "party_name": "Newcastle Independents"
+        },
+        {
+          "person_id": 38323,
+          "name": "Adam Lee Mitchell",
+          "party_name": "Newcastle Independents"
+        },
+        {
+          "person_id": 126086,
+          "name": "Steven Rutherford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37914,
+          "name": "Jacqueline Ann Slesenger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79521,
+          "name": "Roger Graham Whittaker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elswick",
+      "ballot_paper_id": "local.newcastle-upon-tyne.elswick.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135244,
+          "name": "Halimah Begum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135245,
+          "name": "Jeremy Paul Turnbull Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135246,
+          "name": "Hazel Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135247,
+          "name": "Margaret Dooner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37905,
+          "name": "David Alan Faulkner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135248,
+          "name": "Mohammed Idrees Habibi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79522,
+          "name": "Nicu Ion",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135250,
+          "name": "Margaret Ellen Murning",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 111766,
+          "name": "Khaled Musharraf",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135254,
+          "name": "Timothy Graham Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34246,
+          "name": "Peter John Stuart Thomson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135257,
+          "name": "Philip Tolan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135260,
+          "name": "Arif Zaman",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fawdon & West Gosforth",
+      "ballot_paper_id": "local.newcastle-upon-tyne.fawdon-west-gosforth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 37738,
+          "name": "Arlene Ainsley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37912,
+          "name": "Rob Austin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136239,
+          "name": "Milo Bennett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136247,
+          "name": "Isabella Grace Warburton Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117995,
+          "name": "Callum Buchanan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136240,
+          "name": "John Duffy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136241,
+          "name": "Martin Paul Evison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136242,
+          "name": "John Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136243,
+          "name": "Kai James Hoult",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136244,
+          "name": "Daniel Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136245,
+          "name": "Gary William Kilgour",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136246,
+          "name": "David Laws",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37906,
+          "name": "Peter John Lovatt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gosforth",
+      "ballot_paper_id": "local.newcastle-upon-tyne.gosforth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 72826,
+          "name": "Doc Anand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135278,
+          "name": "Jack Dennis Burton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135279,
+          "name": "John Dale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37907,
+          "name": "Colin Peter Ferguson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135280,
+          "name": "George John Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99041,
+          "name": "Adam Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135281,
+          "name": "Andrew Peter Kidger",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111755,
+          "name": "Maria Manco",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135282,
+          "name": "Rebecca Mead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135283,
+          "name": "Thomas Millen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135284,
+          "name": "Alistair William Pedlow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135285,
+          "name": "Jonathan Sabarre",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79092,
+          "name": "Tahir Siddique",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13275,
+          "name": "Thomas David George Woodwark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135286,
+          "name": "Colin Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heaton",
+      "ballot_paper_id": "local.newcastle-upon-tyne.heaton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 122953,
+          "name": "Jude Browne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112541,
+          "name": "Chandni Chopra",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46732,
+          "name": "John Grierson Dobie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38043,
+          "name": "Lara Blanche Ellis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136252,
+          "name": "Joe Gartland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1375,
+          "name": "Andrew Gray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79543,
+          "name": "Steve Handford",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 136253,
+          "name": "Billy Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136254,
+          "name": "Stewart Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13223,
+          "name": "Clare Penny-Evans",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136255,
+          "name": "Andrew Rakowski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95553,
+          "name": "Mark Ridyard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99040,
+          "name": "Mehrban Sadiq",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136256,
+          "name": "Steve Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Jesmond",
+      "ballot_paper_id": "local.newcastle-upon-tyne.jesmond.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 117994,
+          "name": "Peter John Allen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88497,
+          "name": "Philip Browne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111779,
+          "name": "James Coles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135982,
+          "name": "Trevor Anthony Cox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135983,
+          "name": "Sandra Denise Davison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79098,
+          "name": "Tim Dowson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135984,
+          "name": "Marianne Elizabeth Kell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135985,
+          "name": "Killian McCartney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135986,
+          "name": "Ludovico Rella",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135987,
+          "name": "Ellen Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135988,
+          "name": "Janet Christine Stansfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135989,
+          "name": "Fin Weatherill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135990,
+          "name": "John Thomas White",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kenton",
+      "ballot_paper_id": "local.newcastle-upon-tyne.kenton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 112307,
+          "name": "Craig Michael Austin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37727,
+          "name": "Ged Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37917,
+          "name": "Ronald Denton Clark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136275,
+          "name": "Gareth James Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13210,
+          "name": "Nick Fray",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126479,
+          "name": "Richard Frearson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37728,
+          "name": "Stephen Lambert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136276,
+          "name": "Jane Lancaster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136277,
+          "name": "Mick Mahoney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136278,
+          "name": "Paula Maines",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136279,
+          "name": "Philip Edward McArdle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136280,
+          "name": "Terry McNamara",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136281,
+          "name": "Milan Nemecek",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136282,
+          "name": "Alison Kimberley Sanderson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingston Park & Dinnington",
+      "ballot_paper_id": "local.newcastle-upon-tyne.kingston-park-dinnington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134707,
+          "name": "Susie Warburton Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13310,
+          "name": "Barbara Down",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134703,
+          "name": "Chris Durham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13333,
+          "name": "Mohammad Farsi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134704,
+          "name": "Gordon Thomas David Forbes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39804,
+          "name": "Gordana Vasic Franklin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123871,
+          "name": "Simon Ralph Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37894,
+          "name": "John Mansfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134705,
+          "name": "Katy Sawyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 72822,
+          "name": "Connor John Shotton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134706,
+          "name": "Tudor James Tiberius Skelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123872,
+          "name": "Liam Patrick Spencer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13228,
+          "name": "Kenneth Wake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134708,
+          "name": "Dave Webb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134709,
+          "name": "Frank Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lemington",
+      "ballot_paper_id": "local.newcastle-upon-tyne.lemington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 74189,
+          "name": "Stephen John Barry-Stanners",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136296,
+          "name": "Adrian Butler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13231,
+          "name": "Tracy Connell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136297,
+          "name": "Ian Stewart Davison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136298,
+          "name": "Kirsty Galbraith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136299,
+          "name": "David Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136300,
+          "name": "Alice Kubiak",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136301,
+          "name": "Russ Lawler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136302,
+          "name": "Peter Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136303,
+          "name": "Barbara Helen Moorhead",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136304,
+          "name": "Barry Phillipson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 39553,
+          "name": "Bill Shepherd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136305,
+          "name": "Eleanor Jennifer Woolstencroft",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor Park",
+      "ballot_paper_id": "local.newcastle-upon-tyne.manor-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 89454,
+          "name": "Christopher John Bartlett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112314,
+          "name": "Philip Hedley Brookes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37940,
+          "name": "Deborah Elizabeth Burns",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39900,
+          "name": "Heather Chambers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134074,
+          "name": "Trevor Brian Cox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134075,
+          "name": "Nathan Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134079,
+          "name": "Danny Hutton Ferris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134076,
+          "name": "John Paul Gardner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134077,
+          "name": "Mark Gardner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134078,
+          "name": "Mica Hind",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13250,
+          "name": "Doreen Huddart",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134080,
+          "name": "Christopher O'Keeffe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34131,
+          "name": "Greg Stone",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Monument",
+      "ballot_paper_id": "local.newcastle-upon-tyne.monument.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136335,
+          "name": "Chaudhry Ahmad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136336,
+          "name": "Nabeela Ali",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126475,
+          "name": "Craig Cottrell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136337,
+          "name": "Jamie Driscoll",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136338,
+          "name": "Christopher Nicholas Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136339,
+          "name": "Brian Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130570,
+          "name": "John Charles Honeychurch-Kyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136340,
+          "name": "Gareth Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136341,
+          "name": "Raja Khalid Mehmood Khan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37899,
+          "name": "Aidan John King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136342,
+          "name": "Alison Patricia Murphy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136343,
+          "name": "Agnes Offiong",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136344,
+          "name": "Kiran Sayyed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136345,
+          "name": "Paul William Wallace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136346,
+          "name": "Mirza Muhammad Yousaf",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newbiggin Hall & Callerton",
+      "ballot_paper_id": "local.newcastle-upon-tyne.newbiggin-hall-callerton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 37915,
+          "name": "Ali Avaei",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136370,
+          "name": "Deanne Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37736,
+          "name": "Alexander Geoffrey Hay",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 13131,
+          "name": "Helen Laverick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136371,
+          "name": "Brian David Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136372,
+          "name": "Colin Nichol",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136373,
+          "name": "Rory Osborne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136374,
+          "name": "George Pattison",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136375,
+          "name": "Jacqui Robinson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136376,
+          "name": "James Setch",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136377,
+          "name": "Andrew Swai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136378,
+          "name": "Anne Tindale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136379,
+          "name": "Angus Williams",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ouseburn",
+      "ballot_paper_id": "local.newcastle-upon-tyne.ouseburn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 136004,
+          "name": "Leon Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37737,
+          "name": "Alistair Stuart Chisholm",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89353,
+          "name": "Mike Cookson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136006,
+          "name": "Lawrence Christopher Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136007,
+          "name": "Robert Fleming",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136008,
+          "name": "Curtis John Hollocks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1149,
+          "name": "Gareth Kane",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136009,
+          "name": "Ali Mehmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136010,
+          "name": "Joseph Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111785,
+          "name": "Matt Osbourn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136011,
+          "name": "Philip Douglas Parkinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111783,
+          "name": "Sarah Peters",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39947,
+          "name": "Marie Summersby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121350,
+          "name": "Tony Teasdale",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Parklands & North Gosforth",
+      "ballot_paper_id": "local.newcastle-upon-tyne.parklands-north-gosforth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 13262,
+          "name": "Pauline Allen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136424,
+          "name": "Paul David Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136425,
+          "name": "Gerard Paul Bartley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136426,
+          "name": "Andrew Capocci",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136427,
+          "name": "Alex Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136428,
+          "name": "Benjamin Eckford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136429,
+          "name": "Lewys Evans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136430,
+          "name": "William James Kilgour",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79094,
+          "name": "Audrey MacNaughton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13225,
+          "name": "Christine Morrissey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79115,
+          "name": "David Partington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136431,
+          "name": "Will Rogers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13214,
+          "name": "Alison Wake",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Throckley, Walbottle & Newburn",
+      "ballot_paper_id": "local.newcastle-upon-tyne.throckley-walbottle-newburn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134162,
+          "name": "Richard Paul Barnes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134163,
+          "name": "Kimberley Barrass",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13229,
+          "name": "Simon Bernard Bell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134164,
+          "name": "Belinda Jane Brady",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134165,
+          "name": "Christine Susan Cogan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134166,
+          "name": "Harry Drew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13220,
+          "name": "Alexis Fernandes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134167,
+          "name": "Michael Vincent Fitzpatrick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134168,
+          "name": "Angela Jane Mary Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134169,
+          "name": "Mark Hardy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134170,
+          "name": "Amy Edith Molly Hunter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39750,
+          "name": "Idwal Thomas John",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111772,
+          "name": "Pat McGee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134171,
+          "name": "Adam Walker",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37770,
+          "name": "Linda Isabel Wright",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walker",
+      "ballot_paper_id": "local.newcastle-upon-tyne.walker.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 136465,
+          "name": "Ian Leigh Aird",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136467,
+          "name": "Mark Daniel Buckley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136469,
+          "name": "Andrew Richard Thomas Cowie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136471,
+          "name": "Lorraine Anne Gingell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136473,
+          "name": "Colin Goldsborough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136481,
+          "name": "Pamela Victor Ibitamuno",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136475,
+          "name": "Christopher Metcalf",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117118,
+          "name": "Liz Panton",
+          "party_name": "Party Of Women"
+        },
+        {
+          "person_id": 37943,
+          "name": "Robert Lambert Renton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136477,
+          "name": "Richard William Sharp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37741,
+          "name": "John Stokel-Walker",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136480,
+          "name": "Chuck Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136482,
+          "name": "Sam Vosper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89662,
+          "name": "Tom Whatson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111667,
+          "name": "Matt Williams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136483,
+          "name": "Davy Wood",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walkergate",
+      "ballot_paper_id": "local.newcastle-upon-tyne.walkergate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136492,
+          "name": "Christine Aird",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136491,
+          "name": "Brad Aird",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136493,
+          "name": "David Frederick Cain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136494,
+          "name": "Stephen Thomas Lowrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122959,
+          "name": "Gavin William Maw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136495,
+          "name": "Maria Maza",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111784,
+          "name": "Margaret Montgomery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136496,
+          "name": "David Gordon Orr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79594,
+          "name": "Stephen Oxborough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136497,
+          "name": "Abdul Basit Muhammed Rajib",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37902,
+          "name": "Karen Lesley Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37947,
+          "name": "William Frederick Signey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136498,
+          "name": "Wayne Thompson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Fenham",
+      "ballot_paper_id": "local.newcastle-upon-tyne.west-fenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136541,
+          "name": "Tasnim Adnan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136542,
+          "name": "Navya Bharagida",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136543,
+          "name": "Barry Charles Brians",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136544,
+          "name": "Sian Broadhurst",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136545,
+          "name": "Owen Burbidge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98010,
+          "name": "Fahim Habibi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136546,
+          "name": "Lauren Kate Healey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136547,
+          "name": "Saeem Md Fozle Korim",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136548,
+          "name": "Michael Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111787,
+          "name": "Mark Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136549,
+          "name": "John Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13237,
+          "name": "P.J. Morrissey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136550,
+          "name": "Connor Slomski",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wingrove",
+      "ballot_paper_id": "local.newcastle-upon-tyne.wingrove.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137069,
+          "name": "Babatope Aguntasolo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137070,
+          "name": "Irim Ali",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137071,
+          "name": "Fi Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137072,
+          "name": "John Ekong",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137073,
+          "name": "Harold William Goodwill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131526,
+          "name": "Mo Karim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137074,
+          "name": "Humaira Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137075,
+          "name": "James Alexander Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37673,
+          "name": "Joyce McCarty",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137076,
+          "name": "Younes Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137077,
+          "name": "Mohammed Jamal Sarwar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46106,
+          "name": "Rebecca Louise Shatwell",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 13299,
+          "name": "Colin Steen",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

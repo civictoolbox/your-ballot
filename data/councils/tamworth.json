@@ -1,0 +1,315 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "tamworth",
+    "council_name": "Tamworth"
+  },
+  "wards": [
+    {
+      "ward_name": "Amington",
+      "ballot_paper_id": "local.tamworth.amington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 122190,
+          "name": "Hayley Coles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130522,
+          "name": "Matthias Osborne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130523,
+          "name": "Stephen Standen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97051,
+          "name": "Donna Marie Summers",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Belgrave",
+      "ballot_paper_id": "local.tamworth.belgrave.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122182,
+          "name": "James David Barron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52626,
+          "name": "Denise Bayley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130524,
+          "name": "Chelsie Hirons-Major",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 95554,
+          "name": "Helen Jane Miller-Viney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130525,
+          "name": "Peter Utting",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bolehall",
+      "ballot_paper_id": "local.tamworth.bolehall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130526,
+          "name": "Charlotte Ellen Barron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 49754,
+          "name": "Sarah Daniels",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 76471,
+          "name": "Mark Hopkins",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130528,
+          "name": "Dominic Robert Perry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130529,
+          "name": "Dylan Powis",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.tamworth.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 10378,
+          "name": "Chris Cooke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130530,
+          "name": "Allan Copsey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130531,
+          "name": "Andrew Flint",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117244,
+          "name": "Adam Goodfellow",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Glascote",
+      "ballot_paper_id": "local.tamworth.glascote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130535,
+          "name": "Mark Anthony Abley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130536,
+          "name": "Abi Moore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97080,
+          "name": "James Nicholson-Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46408,
+          "name": "Simon Peaple",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mercian",
+      "ballot_paper_id": "local.tamworth.mercian.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130537,
+          "name": "Richard McDermid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10384,
+          "name": "Gordon Richard Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130538,
+          "name": "Joe Postings",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 122184,
+          "name": "Nick Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130539,
+          "name": "Em Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Spital",
+      "ballot_paper_id": "local.tamworth.spital.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 76477,
+          "name": "Stephen Isaac Andrews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 72849,
+          "name": "Brett Bryan Beetham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10362,
+          "name": "Nash Kumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130478,
+          "name": "Samuel William Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stonydelph",
+      "ballot_paper_id": "local.tamworth.stonydelph.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10386,
+          "name": "Robert Bilcliff",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 130540,
+          "name": "Darryl Dean",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130541,
+          "name": "Elliot James Faraday",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130542,
+          "name": "Thomas Samuel Oates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130543,
+          "name": "Paul Turner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Trinity",
+      "ballot_paper_id": "local.tamworth.trinity.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 46413,
+          "name": "Marie Sabeena Bailey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130552,
+          "name": "Alfie Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130553,
+          "name": "Samson Derek Lucas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130554,
+          "name": "Bernard Skeen",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wilnecote",
+      "ballot_paper_id": "local.tamworth.wilnecote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130555,
+          "name": "Kyle Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 32232,
+          "name": "Tina Anne Clements",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 122075,
+          "name": "Tracey Lynne Dougherty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130557,
+          "name": "Sian Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130558,
+          "name": "James Kent Trafford",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

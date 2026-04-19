@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-forward-party",
+    "display_name": "Forward Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Forward Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 132701,
+      "name": "Adham Alkhatip",
+      "party_name": "Forward Party",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green East"
+    }
+  ]
+}

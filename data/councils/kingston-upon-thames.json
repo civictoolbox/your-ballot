@@ -1,0 +1,1497 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "kingston-upon-thames",
+    "council_name": "Kingston upon Thames"
+  },
+  "wards": [
+    {
+      "ward_name": "Alexandra",
+      "ballot_paper_id": "local.kingston-upon-thames.alexandra.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135523,
+          "name": "Jill Margaret Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135524,
+          "name": "Caroline Ann Buchan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88840,
+          "name": "Anna Katharine Burlingsby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129203,
+          "name": "Marian Margaret Freedman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41946,
+          "name": "Simon Illsley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135525,
+          "name": "Arjun Johal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44206,
+          "name": "Des Kay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88844,
+          "name": "Amir Ali Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88689,
+          "name": "Alexander James Lock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116089,
+          "name": "Aaron Mafi",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88690,
+          "name": "Ian Manders",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123820,
+          "name": "Gavin Pushparajan",
+          "party_name": "Kingston Independent Residents Group"
+        }
+      ]
+    },
+    {
+      "ward_name": "Berrylands",
+      "ballot_paper_id": "local.kingston-upon-thames.berrylands.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 136015,
+          "name": "Anthony Ayoola",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136016,
+          "name": "Garfield Anthony Bateman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44230,
+          "name": "Paul Bedforth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129458,
+          "name": "Heather Estelle Buchanan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44204,
+          "name": "Lawrence Roy Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136017,
+          "name": "Maya Joyce Kay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88763,
+          "name": "Steve Kent",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126099,
+          "name": "Rizwana Suhail Malik",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40331,
+          "name": "Anita Margaret Schaper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88703,
+          "name": "Philip Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Canbury Gardens",
+      "ballot_paper_id": "local.kingston-upon-thames.canbury-gardens.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 113981,
+          "name": "Ali Abdulla",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 137264,
+          "name": "Mohammad Beheshti",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137265,
+          "name": "Maria Theresa Blake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137266,
+          "name": "Nicolai Due-Gundersen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47960,
+          "name": "Kelly Jane Galvin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137267,
+          "name": "Peter Christopher Higgins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137268,
+          "name": "Anthony Larkin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88781,
+          "name": "Mihaela McKendrick",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 42998,
+          "name": "Christopher Robert Priest",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137269,
+          "name": "Anand Rajpurohit",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88712,
+          "name": "Linda Jane Sawyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137270,
+          "name": "Ian Bryn Worrall",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chessington South & Malden Rushett",
+      "ballot_paper_id": "local.kingston-upon-thames.chessington-south-malden-rushett.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 125889,
+          "name": "Simon Bain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135500,
+          "name": "Irena Boylett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3454,
+          "name": "A Gent Chinners",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 76226,
+          "name": "Captain Coiley",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 135501,
+          "name": "James John Eakin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135502,
+          "name": "Kevin Eggleton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41952,
+          "name": "Andreas Kirsch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88716,
+          "name": "Griseldis Kirsch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135503,
+          "name": "Pawel Marian Lachowski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88718,
+          "name": "Sharukh Mirza",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135504,
+          "name": "Alfred Pirotta",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34388,
+          "name": "Laurie South",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41954,
+          "name": "Sue Towner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135505,
+          "name": "Fe Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coombe Hill",
+      "ballot_paper_id": "local.kingston-upon-thames.coombe-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 42991,
+          "name": "Zain Ausaf Abbas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137016,
+          "name": "Tushar Aneja",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44175,
+          "name": "Rowena Bass",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137017,
+          "name": "Jeanine Bateman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88869,
+          "name": "Jamal Chohan",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 44177,
+          "name": "Ian George",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43074,
+          "name": "Patrick Lewis Goodacre",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88722,
+          "name": "Anthony Michael Murray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117004,
+          "name": "Zebunisa Rao",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 44182,
+          "name": "Sally Richardson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137018,
+          "name": "Shaun Tocher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137019,
+          "name": "Ezra Tunley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coombe Vale",
+      "ballot_paper_id": "local.kingston-upon-thames.coombe-vale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 124396,
+          "name": "Brian Maxwell Austen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40507,
+          "name": "Kim Natasha Bailey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137394,
+          "name": "Chloe Vittoria Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44202,
+          "name": "Phil Doyle",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 48216,
+          "name": "Nick Draper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88731,
+          "name": "David James Giles",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 123939,
+          "name": "Pallavi Konwar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88732,
+          "name": "Kamala Kugan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123940,
+          "name": "Marcel Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40511,
+          "name": "Ian Alexander Parker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137395,
+          "name": "Sandy Piercey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88670,
+          "name": "Suniya Qureshi",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88729,
+          "name": "Cathy Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88734,
+          "name": "Andrew Sillett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40515,
+          "name": "Gareth Brian Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40333,
+          "name": "Peter Anthony Whitworth",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Green Lane & St James",
+      "ballot_paper_id": "local.kingston-upon-thames.green-lane-st-james.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 134270,
+          "name": "Dunia Al-Baghdadi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125685,
+          "name": "Mike Chattey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44234,
+          "name": "Pat Dobson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123821,
+          "name": "Simon Patrick Foylan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 71803,
+          "name": "James Giles",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 134280,
+          "name": "Lucy Grimstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125247,
+          "name": "Rory Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134281,
+          "name": "Gregory Jarrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44161,
+          "name": "Gerry Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134285,
+          "name": "Rosemary Anne Salusbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44166,
+          "name": "Yvonne Tracey",
+          "party_name": "Kingston Independent Residents Group"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hook & Chessington North",
+      "ballot_paper_id": "local.kingston-upon-thames.hook-chessington-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 88769,
+          "name": "Sue Ansari",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135485,
+          "name": "Parsa Bahadori",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135486,
+          "name": "Joanne Emma Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125891,
+          "name": "Angus Timothy Cameron",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135487,
+          "name": "Noëlle Carteret",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125890,
+          "name": "Stephen John Cherry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129459,
+          "name": "David Kenneth John Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43231,
+          "name": "Lorraine Denishea Helen Dunstone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124454,
+          "name": "Liam Hebborn",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 135488,
+          "name": "Lucy Elizabeth Hill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135489,
+          "name": "David Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132666,
+          "name": "Liam Angus Secrett",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 121814,
+          "name": "Kye Alan Slawson-Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88775,
+          "name": "Christine Wynne Thompson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135490,
+          "name": "Rosemary Vase",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135491,
+          "name": "David John Webb",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "King George's & Sunray",
+      "ballot_paper_id": "local.kingston-upon-thames.king-georges-sunray.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 126454,
+          "name": "Nausheen Arnold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41669,
+          "name": "Mark Rahim Beynon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88770,
+          "name": "Gia Borg-Darcy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137403,
+          "name": "Bob Freedman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88779,
+          "name": "Helen Rachel Grocott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88822,
+          "name": "Pauline Howard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125090,
+          "name": "Danyaal Khwaja",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 124395,
+          "name": "Julian McCarthy",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 137405,
+          "name": "Andrew David Prosser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44209,
+          "name": "Kate Worley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingston Gate",
+      "ballot_paper_id": "local.kingston-upon-thames.kingston-gate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 19493,
+          "name": "Matt Browne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125089,
+          "name": "Noor Jamal Chohan",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 136412,
+          "name": "Robert Edwards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136413,
+          "name": "Stephen Nicholas Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42870,
+          "name": "Kerry Giles",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 136414,
+          "name": "Tam Holmes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136415,
+          "name": "Alexander Horsfall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136416,
+          "name": "Frank Kitson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133497,
+          "name": "Mark Peter Manners",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136417,
+          "name": "Graham Charles Matthews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136418,
+          "name": "Rahul Naithani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134050,
+          "name": "Nicholas James Oatridge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136419,
+          "name": "Donald Reginald Porter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125444,
+          "name": "Sonu Ali Sayeed",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 136420,
+          "name": "Leela Sita Seaton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136421,
+          "name": "Sarah Wait-Sillett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136422,
+          "name": "Claire Elizabeth Walter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136423,
+          "name": "Paul Michael Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingston Town",
+      "ballot_paper_id": "local.kingston-upon-thames.kingston-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 135967,
+          "name": "Gillian Elizabeth Aston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135968,
+          "name": "Terry Bowers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126442,
+          "name": "Rubina Cassell",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 43073,
+          "name": "Kezia Elizabeth Coleman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135969,
+          "name": "Peter Haydn Czaja",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135970,
+          "name": "James Benjamin Dean",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135971,
+          "name": "John Joseph Ennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88795,
+          "name": "Sabah Hamed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88760,
+          "name": "Roger Mark Hayes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124858,
+          "name": "Keegan Philip Ronnie Hillier",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135972,
+          "name": "Tony James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135973,
+          "name": "Raffaele Litto",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135974,
+          "name": "Marie McGuire",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88764,
+          "name": "Nicola Inez Nardelli",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135975,
+          "name": "Osvaldina Prezilius",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126060,
+          "name": "Jabeen Shah",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88847,
+          "name": "Hayley Smithers",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 125019,
+          "name": "James Stanton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Motspur Park & Old Malden East",
+      "ballot_paper_id": "local.kingston-upon-thames.motspur-park-old-malden-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 137406,
+          "name": "Alastair Breen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88745,
+          "name": "Sean Paul Casey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137407,
+          "name": "Diane Ferguson-Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137408,
+          "name": "Callum Sol Morrissey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137409,
+          "name": "Bea Osbourne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44242,
+          "name": "Terry Paton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88819,
+          "name": "Rob Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137410,
+          "name": "Wimal Wimalathasan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137411,
+          "name": "Riona Mary Seana Woodman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Malden Village",
+      "ballot_paper_id": "local.kingston-upon-thames.new-malden-village.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 137316,
+          "name": "David Michael Bent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137317,
+          "name": "John Crocket Bowis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88839,
+          "name": "Caroline Bowis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129360,
+          "name": "Tess Bowyer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44235,
+          "name": "Mark James Durrant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129375,
+          "name": "Michelle Honor Gordon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44238,
+          "name": "Lesley Anne Heap",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44239,
+          "name": "Richard Hebborn",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88749,
+          "name": "Lucy Howard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137318,
+          "name": "Jem Kale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88750,
+          "name": "Dongsung Kim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137319,
+          "name": "Valerie McIntyre",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137320,
+          "name": "Joel Monroe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44241,
+          "name": "Raju Pandya",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88671,
+          "name": "Gary Alan See",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137321,
+          "name": "James David Winn Stileman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41444,
+          "name": "Deepa Veneik",
+          "party_name": "Kingston Independent Residents Group"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norbiton",
+      "ballot_paper_id": "local.kingston-upon-thames.norbiton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 43228,
+          "name": "Tony Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88807,
+          "name": "Sandira Beekoo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2127,
+          "name": "Emily Davey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43349,
+          "name": "Kevin John Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41670,
+          "name": "Sam Foulder-Hughes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42871,
+          "name": "Martin Andrew Hall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135408,
+          "name": "Christopher Llewellyn Last",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135409,
+          "name": "Fahima Mahomed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39247,
+          "name": "Liz Meerabeau",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135410,
+          "name": "Jo Melbourne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135411,
+          "name": "Andrew Parker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135412,
+          "name": "John Barnabas Rutter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135413,
+          "name": "Dylan Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124450,
+          "name": "Soha Sultana",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 42876,
+          "name": "Olly Wehring",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124455,
+          "name": "Tom Wingfield",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Malden",
+      "ballot_paper_id": "local.kingston-upon-thames.old-malden.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136578,
+          "name": "Nicholas Richard David Badham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136579,
+          "name": "John Baek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136580,
+          "name": "Ismail Birant",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136581,
+          "name": "David Charlton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136582,
+          "name": "Harry George Foskin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124394,
+          "name": "Clair Hebborn",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 136583,
+          "name": "Graeme Hodge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136584,
+          "name": "Rahul Taran Khandelwal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88823,
+          "name": "Mike Pascal Massimi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88824,
+          "name": "Elizabeth Park",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136585,
+          "name": "Harrie Vischjager",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123960,
+          "name": "Chris Walton",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 109377,
+          "name": "Michael Gerard Watson",
+          "party_name": "Heritage Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mark's & Seething Wells",
+      "ballot_paper_id": "local.kingston-upon-thames.st-marks-seething-wells.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135400,
+          "name": "Joseph Al-Khalili",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124456,
+          "name": "Abbas Aref",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126498,
+          "name": "Tim Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123961,
+          "name": "Archie Coyne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123962,
+          "name": "Ayse Demir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135401,
+          "name": "Caroline Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41435,
+          "name": "Emma Keeley Francis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135402,
+          "name": "Nick Frei",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135403,
+          "name": "Brian John Matthews",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126323,
+          "name": "Helen Milestone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135404,
+          "name": "Marcus Reno Mohammed",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135405,
+          "name": "Carole Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126324,
+          "name": "Robert Sadler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43081,
+          "name": "Ian Wilson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43082,
+          "name": "Yogan Yoganathan",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Surbiton Hill",
+      "ballot_paper_id": "local.kingston-upon-thames.surbiton-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 137105,
+          "name": "Noel Edward Alex",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137104,
+          "name": "Jackie Alex",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137106,
+          "name": "Kristine Marie Boudreau",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125824,
+          "name": "Andrea Chambers",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88842,
+          "name": "Glen Colegate",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 4123,
+          "name": "Maxwell Oliver Freedman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137107,
+          "name": "Peter William Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40329,
+          "name": "Nannette Herbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40753,
+          "name": "Alison Hamilton Holt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126553,
+          "name": "Easha-tir-Raazi Khawaja",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 137108,
+          "name": "Emma Loffler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137109,
+          "name": "Conor James McGovern-Paul",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88846,
+          "name": "Tom Reeve",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137110,
+          "name": "Alasdair Bruce Rennie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129232,
+          "name": "Kris Saravanan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137111,
+          "name": "Manish Shukla",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40757,
+          "name": "Colin Suckling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88848,
+          "name": "Rebecca Claire Way",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tolworth",
+      "ballot_paper_id": "local.kingston-upon-thames.tolworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 136863,
+          "name": "Luma Al-Azzawi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136864,
+          "name": "Grace Victoria Bowers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88841,
+          "name": "Claire Louise Burlingsby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136865,
+          "name": "David John Butcher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125410,
+          "name": "Jessica Dearlove",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 88759,
+          "name": "Martin Christopher Ellis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124457,
+          "name": "Michael Winston Firth",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 130423,
+          "name": "Gill Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136866,
+          "name": "Silva Kaludura",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124452,
+          "name": "Jane Lim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136867,
+          "name": "Owen Oastler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136868,
+          "name": "Emma Louise Mary Perham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88711,
+          "name": "Martin Pike",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136869,
+          "name": "Graham Alan Seager",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43237,
+          "name": "Thay Thayalan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126380,
+          "name": "Mark David Thomas",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 136870,
+          "name": "Andrew Willson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88867,
+          "name": "Andrew John Wooldridge",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tudor",
+      "ballot_paper_id": "local.kingston-upon-thames.tudor.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 137290,
+          "name": "Bernardo Barreto-Kuhlbrodt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88860,
+          "name": "Julian Stewart Harvey Bedale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41433,
+          "name": "Jamila Bibi-Sarwar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88794,
+          "name": "Alison Jane Gomez-Russell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125055,
+          "name": "Syreeta Howard-James",
+          "party_name": "Kingston Independent Residents Group"
+        },
+        {
+          "person_id": 137292,
+          "name": "Andrew Michael Middleton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137293,
+          "name": "Blaise Kemp Murphet",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137294,
+          "name": "Stephen James Pike",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137295,
+          "name": "Lydia Poole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137296,
+          "name": "Sachin Tulyani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137291,
+          "name": "Jithwin Lalam Venkata",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124293,
+          "name": "Maureen Wilkins",
+          "party_name": "Kingston Independent Residents Group"
+        }
+      ]
+    }
+  ]
+}

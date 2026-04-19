@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-our-west-lancashire",
+    "display_name": "Our West Lancashire",
+    "candidate_count": 8,
+    "council_count": 1,
+    "raw_party_names": [
+      "Our West Lancashire"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 138607,
+      "name": "Dave Beeston",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Skelmersdale South"
+    },
+    {
+      "person_id": 138605,
+      "name": "Charles Robert Berry",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Ormskirk West"
+    },
+    {
+      "person_id": 138584,
+      "name": "Richard Luke Bradshaw",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Burscough Bridge & Rufford"
+    },
+    {
+      "person_id": 138602,
+      "name": "Michael John Crompton",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Ormskirk East"
+    },
+    {
+      "person_id": 138574,
+      "name": "Anne Marie Hughes",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Aughton & Holborn"
+    },
+    {
+      "person_id": 78171,
+      "name": "Neil Ronald Pye",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Up Holland"
+    },
+    {
+      "person_id": 138593,
+      "name": "Jess Riding",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Burscough Town"
+    },
+    {
+      "person_id": 108792,
+      "name": "Linda Marjorie Webster",
+      "party_name": "Our West Lancashire",
+      "council_slug": "west-lancashire",
+      "council_name": "West Lancashire",
+      "ward_name": "Rural South"
+    }
+  ]
+}

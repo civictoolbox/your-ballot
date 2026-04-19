@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-arise",
+    "display_name": "Arise",
+    "candidate_count": 11,
+    "council_count": 1,
+    "raw_party_names": [
+      "Arise"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 125706,
+      "name": "Amaan Choudhry",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Headstone"
+    },
+    {
+      "person_id": 124029,
+      "name": "Paul Crimmins",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone South"
+    },
+    {
+      "person_id": 48028,
+      "name": "Pamela Fitzpatrick",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Marlborough"
+    },
+    {
+      "person_id": 124023,
+      "name": "Sheila Guhadasan",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Marlborough"
+    },
+    {
+      "person_id": 124027,
+      "name": "Faran Khan",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone North"
+    },
+    {
+      "person_id": 124028,
+      "name": "Dante Korjov",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone North"
+    },
+    {
+      "person_id": 124024,
+      "name": "Farid Mall",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    },
+    {
+      "person_id": 47761,
+      "name": "Aghileh Djafari Marbini",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Wealdstone South"
+    },
+    {
+      "person_id": 124022,
+      "name": "Asha Mohamed",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Marlborough"
+    },
+    {
+      "person_id": 124025,
+      "name": "Kirsten Perkins",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    },
+    {
+      "person_id": 124026,
+      "name": "Yihya Sirhan",
+      "party_name": "Arise",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Roxeth"
+    }
+  ]
+}

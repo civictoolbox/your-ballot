@@ -1,0 +1,565 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "north-east-lincolnshire",
+    "council_name": "North East Lincolnshire"
+  },
+  "wards": [
+    {
+      "ward_name": "Croft Baker",
+      "ballot_paper_id": "local.north-east-lincolnshire.croft-baker.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 18897,
+          "name": "Julian Darren Best",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130392,
+          "name": "Leon Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37624,
+          "name": "Oliver Daniel William Freeston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86504,
+          "name": "George Georgiou",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 111607,
+          "name": "Andy Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126031,
+          "name": "Janet Mager",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137977,
+          "name": "Robert Tutass",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Marsh",
+      "ballot_paper_id": "local.north-east-lincolnshire.east-marsh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 5171,
+          "name": "Steve Beasant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126029,
+          "name": "Idee Charles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75946,
+          "name": "Lee Coulbeck",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 137982,
+          "name": "Megan Tansy Dennis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131582,
+          "name": "Megan Nell Hussey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18030,
+          "name": "Callum Terence Procter",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freshney",
+      "ballot_paper_id": "local.north-east-lincolnshire.freshney.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138002,
+          "name": "Karen Ann Batson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138003,
+          "name": "David Christie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138004,
+          "name": "Wendy Marie Draper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138005,
+          "name": "Scarlett Olivia Lockhart",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138006,
+          "name": "Dawn Merryweather",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130397,
+          "name": "Simon Tatam",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haverstoe",
+      "ballot_paper_id": "local.north-east-lincolnshire.haverstoe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 37628,
+          "name": "Margaret Cracknell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130402,
+          "name": "Joanna Craig",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138011,
+          "name": "Samuel James Grice",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77126,
+          "name": "Ian Townsend",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112643,
+          "name": "Paul Andrew Wood",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heneage",
+      "ballot_paper_id": "local.north-east-lincolnshire.heneage.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 112652,
+          "name": "Brian William Barrett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131583,
+          "name": "Leila Omidvar Gomez Fernandez",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138025,
+          "name": "Ingrid Oliver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77062,
+          "name": "Kevin Shutt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37632,
+          "name": "Mark Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117434,
+          "name": "Chris Stephenson",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 97777,
+          "name": "John Stephen Stiff",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Humberston and New Waltham",
+      "ballot_paper_id": "local.north-east-lincolnshire.humberston-and-new-waltham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 1976,
+          "name": "Stephen William Harness",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112649,
+          "name": "Steve Hocknell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138041,
+          "name": "Sylvia Margaret Moss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128781,
+          "name": "Simon John Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130393,
+          "name": "Michael Rudi Tobin",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Immingham",
+      "ballot_paper_id": "local.north-east-lincolnshire.immingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 131585,
+          "name": "Jay Phillip David Fraser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7784,
+          "name": "David Mitchell",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 138042,
+          "name": "Luiza-Elena Oancea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138043,
+          "name": "Blake Ellis Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18015,
+          "name": "Stewart Swinburn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18016,
+          "name": "David Aaron Watson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.north-east-lincolnshire.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 125446,
+          "name": "Amelia Bateman-Young",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97784,
+          "name": "Heather Davis",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 18024,
+          "name": "David Michael De Freitas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130394,
+          "name": "James Howard Gill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138057,
+          "name": "Nige Oliver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37641,
+          "name": "Paul Silvester",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Scartho",
+      "ballot_paper_id": "local.north-east-lincolnshire.scartho.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129282,
+          "name": "Tony Charlesworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126030,
+          "name": "Denis Doyle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131586,
+          "name": "Gabrielle Samantha Oliver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18026,
+          "name": "Ron Shepherd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138058,
+          "name": "Rob Wressell",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sidney Sussex",
+      "ballot_paper_id": "local.north-east-lincolnshire.sidney-sussex.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138071,
+          "name": "Bob Callison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138072,
+          "name": "Joanne Christie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37626,
+          "name": "Mark Patrick Gee",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 112125,
+          "name": "Zach Kellerman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130395,
+          "name": "Leanne McConville",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126032,
+          "name": "Lauren Justine Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South",
+      "ballot_paper_id": "local.north-east-lincolnshire.south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138080,
+          "name": "Paul David Batson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77080,
+          "name": "Lottie Croft",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37623,
+          "name": "Carole Doherty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138081,
+          "name": "Alastair Carl Grigg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86525,
+          "name": "William Ward",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waltham",
+      "ballot_paper_id": "local.north-east-lincolnshire.waltham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138092,
+          "name": "Vicky Hartung",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86511,
+          "name": "Lorna Jennifer Kirman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138093,
+          "name": "Gemma Marshall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37663,
+          "name": "Nick Pettigrew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138094,
+          "name": "James Robert Sawkins",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Marsh",
+      "ballot_paper_id": "local.north-east-lincolnshire.west-marsh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 18027,
+          "name": "Tanya Brasted",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131587,
+          "name": "David Paul Dade",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123965,
+          "name": "Angela Kingston",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 77063,
+          "name": "Daniel Westcott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112630,
+          "name": "Aharon Kenneth Raymond Wharton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18002,
+          "name": "Kathryn Helen Wheatley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolds",
+      "ballot_paper_id": "local.north-east-lincolnshire.wolds.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 84266,
+          "name": "Ryan Ashley Aisthorpe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137968,
+          "name": "Frances Bovill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124681,
+          "name": "Jack Elliot Hilton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 97813,
+          "name": "Jonathan Michael Kirman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137969,
+          "name": "Darren John Mayne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86523,
+          "name": "Christine Elizabeth Vickers",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yarborough",
+      "ballot_paper_id": "local.north-east-lincolnshire.yarborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 37675,
+          "name": "James David Cairns",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138095,
+          "name": "Angela Heather Greenfield",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138096,
+          "name": "Darci Olivia Metcalf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138097,
+          "name": "John Robert Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138098,
+          "name": "Jason Michael Neilson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130396,
+          "name": "Ollie Sheldrake",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

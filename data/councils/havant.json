@@ -1,0 +1,286 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "havant",
+    "council_name": "Havant"
+  },
+  "wards": [
+    {
+      "ward_name": "Bedhampton",
+      "ballot_paper_id": "local.havant.bedhampton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 136815,
+          "name": "Jason Beal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83154,
+          "name": "Isabel Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50371,
+          "name": "Mark Anthony John Inkster",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowplain",
+      "ballot_paper_id": "local.havant.cowplain.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 104325,
+          "name": "Andy Briggs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112032,
+          "name": "Christian Notley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136835,
+          "name": "Kev Parsons",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Emsworth",
+      "ballot_paper_id": "local.havant.emsworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 136094,
+          "name": "Allan David Darby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126359,
+          "name": "Andrew James Proctor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112059,
+          "name": "Chas Robert",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hart Plain",
+      "ballot_paper_id": "local.havant.hart-plain.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 42734,
+          "name": "John Howell Colman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133466,
+          "name": "Jason Gillen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79051,
+          "name": "Brenda Joan Linger",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Havant St Faith's",
+      "ballot_paper_id": "local.havant.havant-st-faiths.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 109443,
+          "name": "Dan Berwick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136862,
+          "name": "Lucy Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 61066,
+          "name": "Tim Pike",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hayling East",
+      "ballot_paper_id": "local.havant.hayling-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 126870,
+          "name": "Katharine Anne Hulls",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133513,
+          "name": "Michael Rennie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133576,
+          "name": "Paul Weller",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hayling West",
+      "ballot_paper_id": "local.havant.hayling-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 136879,
+          "name": "Lisa Field",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112095,
+          "name": "Jonathan David Hulls",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94208,
+          "name": "Julie Sarah Richardson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh Park Central & West Leigh",
+      "ballot_paper_id": "local.havant.leigh-park-central-west-leigh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 61065,
+          "name": "Sharon Collings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136114,
+          "name": "Barrie Francis Mann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42776,
+          "name": "Peter Glyn Oliver",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh Park Hermitage",
+      "ballot_paper_id": "local.havant.leigh-park-hermitage.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 13167,
+          "name": "Lulu Bowerman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127326,
+          "name": "Dan Goulding",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 53046,
+          "name": "Vicky Rhodes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Purbrook",
+      "ballot_paper_id": "local.havant.purbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 112089,
+          "name": "Caren Diamond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112091,
+          "name": "George Kneller",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 60941,
+          "name": "Husky Patel",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stakes",
+      "ballot_paper_id": "local.havant.stakes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 43257,
+          "name": "Simon Bruce Hagan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46046,
+          "name": "Terry Norton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 64983,
+          "name": "Diana Patrick",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waterloo",
+      "ballot_paper_id": "local.havant.waterloo.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 13192,
+          "name": "Jane Briggs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112096,
+          "name": "Edward David Rees",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 66494,
+          "name": "Gwen Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1755 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "lambeth",
+    "council_name": "Lambeth"
+  },
+  "wards": [
+    {
+      "ward_name": "Brixton Acre Lane",
+      "ballot_paper_id": "local.lambeth.brixton-acre-lane.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 84602,
+          "name": "Sarbaz Barznji",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131393,
+          "name": "Charlotte Mary Black",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84603,
+          "name": "David John Bridson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128924,
+          "name": "Ruby Bukhari",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131394,
+          "name": "Alexander Nicholas Buszard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123832,
+          "name": "Michael Chessum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131395,
+          "name": "John Kevin Duffy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90913,
+          "name": "Heather Glass",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84359,
+          "name": "Dario Goodwin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131396,
+          "name": "Natalie Denise Kane",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37025,
+          "name": "Sarah Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131397,
+          "name": "Louis Dominic Middleton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90915,
+          "name": "Joanna Pycroft",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123302,
+          "name": "Bev Randall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91120,
+          "name": "Lee Jamie Roberts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brixton North",
+      "ballot_paper_id": "local.lambeth.brixton-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 131431,
+          "name": "Adam De Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125075,
+          "name": "Rolf Britten",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94589,
+          "name": "Claire Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91118,
+          "name": "Marcia Arlene Irma Dacosta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125077,
+          "name": "Samantha Dorney-Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84474,
+          "name": "John-Paul Ennis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 91043,
+          "name": "Tim Gingell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125678,
+          "name": "Anya Krycek",
+          "party_name": "The Socialist Party of Great Britain"
+        },
+        {
+          "person_id": 50066,
+          "name": "Nanda Manley-Browne",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131432,
+          "name": "Eduardo Salgado",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123303,
+          "name": "James Seabridge",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 10080,
+          "name": "Theo Sharieff",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 37131,
+          "name": "John Siraut",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90935,
+          "name": "Ian Tedder",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131434,
+          "name": "Kathryn Uhde",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125637,
+          "name": "Monica Whyte",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brixton Rush Common",
+      "ballot_paper_id": "local.lambeth.brixton-rush-common.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 90964,
+          "name": "Abbi Alsalmi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90965,
+          "name": "Ben Austin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6475,
+          "name": "Yemi Awolola",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 37020,
+          "name": "Elaine Tamara Bailey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36312,
+          "name": "Marcia Cameron",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37023,
+          "name": "Lavinia Arden Cartwright",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124459,
+          "name": "Zvikomborero Chihoro",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35935,
+          "name": "Adrian Garden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36311,
+          "name": "Ben Kind",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90969,
+          "name": "Paul Medlicott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131531,
+          "name": "Ella Ruth Mulford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131532,
+          "name": "David Palmer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124460,
+          "name": "Sacha Takyi-Berko",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124461,
+          "name": "Viktor Westerdahl",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brixton Windrush",
+      "ballot_paper_id": "local.lambeth.brixton-windrush.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 49507,
+          "name": "Carlotta Allum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35941,
+          "name": "Donatus Obilor Anyanwu",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125638,
+          "name": "Gianluca Carli",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44908,
+          "name": "Florence Cyrot",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131527,
+          "name": "Oliver Cromwell Khan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131528,
+          "name": "Joel Martin Langford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 49089,
+          "name": "Scarlett O'Hara",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131529,
+          "name": "Joanne Scott",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124294,
+          "name": "Serafina Spicer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91775,
+          "name": "Arthur William Ross Virgo",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clapham Common & Abbeville",
+      "ballot_paper_id": "local.lambeth.clapham-common-abbeville.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 131262,
+          "name": "Andrew Ronald McMillan Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123778,
+          "name": "Joe Briel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123591,
+          "name": "Simon Robert Cordon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131263,
+          "name": "James Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84486,
+          "name": "Alison Inglis-Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131264,
+          "name": "Andrew McLellan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2605,
+          "name": "Chris Nicholson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91167,
+          "name": "Guy Francis Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5675,
+          "name": "Jacqueline Shodeke",
+          "party_name": "The Socialist Party of Great Britain"
+        },
+        {
+          "person_id": 123582,
+          "name": "Joe Tetlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91776,
+          "name": "Shâo-Lan Yuen",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clapham East",
+      "ballot_paper_id": "local.lambeth.clapham-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 123780,
+          "name": "Erica Abu",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131731,
+          "name": "Alexander Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36992,
+          "name": "Duncan Brack",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37141,
+          "name": "Alex Haylett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91045,
+          "name": "John Francis Hindson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37003,
+          "name": "Vernon De Maynard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131733,
+          "name": "Mark McKee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131734,
+          "name": "Andre Schmidt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131735,
+          "name": "Cat Thomson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 116717,
+          "name": "Christopher Isaac Wongsosaputro",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clapham Park",
+      "ballot_paper_id": "local.lambeth.clapham-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 125642,
+          "name": "Ben Amos",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131752,
+          "name": "Yannis Baur",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37262,
+          "name": "Shirley Grace Cosgrave",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37106,
+          "name": "Joanna Eaves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91017,
+          "name": "Karen Hautz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131753,
+          "name": "David James",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94262,
+          "name": "Donal Kane",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126067,
+          "name": "Sandy McDougall",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 84339,
+          "name": "Verity McGivern",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131754,
+          "name": "Harry O'Donoghue",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131755,
+          "name": "Martin Read",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91773,
+          "name": "Lee Stuart Rotherham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123304,
+          "name": "Louie Somerville-Sutherland",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 36242,
+          "name": "Martin Tiedemann",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37163,
+          "name": "Leila Yasin Abdi Yaasen",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clapham Town",
+      "ballot_paper_id": "local.lambeth.clapham-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 4878,
+          "name": "Jonathan Bartley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125059,
+          "name": "Mark Christopher Bittlestone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35939,
+          "name": "Linda Ann Bray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94574,
+          "name": "Joshua Jack Forrester",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94606,
+          "name": "Julian Heather",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125061,
+          "name": "Sabine Mairey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131680,
+          "name": "Anna Marles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131681,
+          "name": "Christine Nikolaizig",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123781,
+          "name": "Patrick O'Donnell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125644,
+          "name": "Colin Penning",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93368,
+          "name": "Promise Joel Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131682,
+          "name": "Alexander Pollock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84608,
+          "name": "David Robson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37327,
+          "name": "Neil Anthony Salt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37109,
+          "name": "Marietta Crichton Stuart",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gipsy Hill",
+      "ballot_paper_id": "local.lambeth.gipsy-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 37155,
+          "name": "Malcolm Baines",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37156,
+          "name": "Vivienne Baines",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84840,
+          "name": "Christine Lorraine Banton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91041,
+          "name": "Bobbie Jay Cranney",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 37140,
+          "name": "Pete Elliott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131604,
+          "name": "Felix John Guy Hardinge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123835,
+          "name": "Chloe Hawryluk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131605,
+          "name": "Michael John Graham Jefferson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11603,
+          "name": "Andrei Siegfried Lucaci",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123782,
+          "name": "Robert Edward Shorrock",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Herne Hill & Loughborough Junction",
+      "ballot_paper_id": "local.lambeth.herne-hill-loughborough-junction.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 123831,
+          "name": "Ciara Alleyne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123830,
+          "name": "Alan Andrews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7940,
+          "name": "Rob Blackie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91785,
+          "name": "Raymond Arthur Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119340,
+          "name": "Stephen Joseph Clark",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 20139,
+          "name": "Alexander John Cameron Deane",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34562,
+          "name": "Charley Hasted",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36306,
+          "name": "Marianna Masters",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37027,
+          "name": "Jonathan Price",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84609,
+          "name": "Deepak Sardiwal",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131699,
+          "name": "Dick Tristram-Tooze",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86358,
+          "name": "Paul Valentine",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91150,
+          "name": "Andrew Roy Whitten",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kennington",
+      "ballot_paper_id": "local.lambeth.kennington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 36290,
+          "name": "David Robert Amos",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91161,
+          "name": "Michael Ball",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124393,
+          "name": "Stevan Cirkovic",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125070,
+          "name": "KJ Eastwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131644,
+          "name": "Peter John Evans",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 131645,
+          "name": "Anne-Sophie Gisele Ita Faivre",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4593,
+          "name": "Adrian Hyyrylainen-Trett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131646,
+          "name": "William Jephcote",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131647,
+          "name": "Elizabeth Eirwen Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123786,
+          "name": "Dominic John Lynch",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125071,
+          "name": "James O'Nions",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123854,
+          "name": "Wes Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131648,
+          "name": "Johnny Reynolds",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 36292,
+          "name": "Joanne Naomi Simpson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44948,
+          "name": "Zachary Joseph Spiro",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Knight's Hill",
+      "ballot_paper_id": "local.lambeth.knights-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 84346,
+          "name": "Ibtisam Abdalla Adem",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84396,
+          "name": "Fareed Alderechi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131312,
+          "name": "Gregory Andrew Ellis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123979,
+          "name": "Elizabeth Ann Fraser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131313,
+          "name": "Charles Holt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131314,
+          "name": "Michael Llewelyn-Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131315,
+          "name": "Tacita McCoy-Parkhill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36283,
+          "name": "Jackie Meldrum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35943,
+          "name": "Emma Nye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91003,
+          "name": "Sarah Louise Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125650,
+          "name": "Karen Sainsbury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48277,
+          "name": "Nicholas Sanders",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123978,
+          "name": "Lisa Schulkind",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123977,
+          "name": "Matt Wilcock",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Myatt's Fields",
+      "ballot_paper_id": "local.lambeth.myatts-fields.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 130786,
+          "name": "Tara Amfo",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130787,
+          "name": "Tom Beardsworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125066,
+          "name": "Patience Clague",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36314,
+          "name": "Annie Gallop",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130788,
+          "name": "Tesfah Rutendo Guwazah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123305,
+          "name": "Molly Hartill",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125721,
+          "name": "Chris Lomax",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37608,
+          "name": "John Lubbock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125722,
+          "name": "Annette Minott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130789,
+          "name": "Charles Christopher Tresilian Pender",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119341,
+          "name": "Marco Tesei",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oval",
+      "ballot_paper_id": "local.lambeth.oval.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 125062,
+          "name": "Ola Aralepo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91493,
+          "name": "Blaise Baquiche",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131626,
+          "name": "Callum Bennett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37334,
+          "name": "Keith Lander Best",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84404,
+          "name": "Diogo Costa",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 84398,
+          "name": "Chris French",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125063,
+          "name": "Dez Germon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91766,
+          "name": "Elizabeth Margaret Gibson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131627,
+          "name": "Darren Higgins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36288,
+          "name": "Claire Kathleen Holland",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131628,
+          "name": "Matthew Gabriel McLean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131629,
+          "name": "Lottie Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131630,
+          "name": "Steven Paul Nally",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 123306,
+          "name": "Bryn Corton Scott",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123852,
+          "name": "Pedro Anes Xavier",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Martin's",
+      "ballot_paper_id": "local.lambeth.st-martins.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 123788,
+          "name": "Georgina Kate Berriman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131319,
+          "name": "Mark Cunningham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37593,
+          "name": "Terry Curtis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131320,
+          "name": "Mark Johnathan Gilmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124337,
+          "name": "Laura Graham",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131321,
+          "name": "Goranka Gudelj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91772,
+          "name": "Jackie Harper-Wray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131322,
+          "name": "Jeremy Darryl Isaacs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123789,
+          "name": "Kitty Ussher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131323,
+          "name": "Andrew John West",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockwell East",
+      "ballot_paper_id": "local.lambeth.stockwell-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 94572,
+          "name": "Kevin Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36297,
+          "name": "Mahamed Hashi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131539,
+          "name": "Alicia Hollings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91148,
+          "name": "Berkay Kartav",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 1490,
+          "name": "Tam Langley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131540,
+          "name": "Nicholas Maund",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131541,
+          "name": "Qaisar Rana",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91781,
+          "name": "Henrietta Shane Royle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84841,
+          "name": "Rebecca Louise Spencer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123592,
+          "name": "David Whitaker",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockwell West & Larkhall",
+      "ballot_paper_id": "local.lambeth.stockwell-west-larkhall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 119339,
+          "name": "Lydia Aitcheson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131581,
+          "name": "Neila Baiguzhanova",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 4558,
+          "name": "James Howard Bellis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37356,
+          "name": "Ishbel Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 114776,
+          "name": "Nadia Burrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84475,
+          "name": "Joseph Dharampal-Hornby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37086,
+          "name": "James David Alexander Hallett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37158,
+          "name": "Nicholas Stephen Hattersley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131588,
+          "name": "Alasdair Scott Johnstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91165,
+          "name": "Fawzia Kane",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91780,
+          "name": "Sally Mitton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84476,
+          "name": "David Oxley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86354,
+          "name": "Neil Anthony Sheppeck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125779,
+          "name": "César Ramon Sotillo",
+          "party_name": "The Socialist Party of Great Britain"
+        },
+        {
+          "person_id": 125723,
+          "name": "Marcia Van-Loo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131584,
+          "name": "Nadia El Yacoubi",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streatham Common & Vale",
+      "ballot_paper_id": "local.lambeth.streatham-common-vale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 36302,
+          "name": "Danny Adilypour",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 117895,
+          "name": "Dom Armstrong",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131302,
+          "name": "Neil James Bridges",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109830,
+          "name": "Sarah Cole",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131303,
+          "name": "Christopher Henri Cousins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94590,
+          "name": "Nick Davidson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37403,
+          "name": "Simon Drage",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131304,
+          "name": "Patrick Liam Fahy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37406,
+          "name": "Pete Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131305,
+          "name": "Richard Steven Liell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34841,
+          "name": "Claire Mathys",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131306,
+          "name": "Ruth Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125072,
+          "name": "Moses Mugenyi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94604,
+          "name": "Candido Della Rocca",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 125074,
+          "name": "Nikki Twallin",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streatham Hill East",
+      "ballot_paper_id": "local.lambeth.streatham-hill-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 86362,
+          "name": "Martin Richard Abrams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36299,
+          "name": "Liz Atkins",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 36300,
+          "name": "Rezina Akhtar Chowdhury",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 34339,
+          "name": "Alex Davies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131622,
+          "name": "Goran Gligoric",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35663,
+          "name": "Tobias Ikegbunam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123634,
+          "name": "Amelia Shoebridge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131623,
+          "name": "Franklin Kwadwo Twum",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90971,
+          "name": "Colin Anthony Watkins",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streatham Hill West & Thornton",
+      "ballot_paper_id": "local.lambeth.streatham-hill-west-thornton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 37402,
+          "name": "Matthew Bryant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131185,
+          "name": "John Dagger",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 708,
+          "name": "Jane Edbrooke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131186,
+          "name": "Hugh Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37339,
+          "name": "Paul Michael Mawdsley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123792,
+          "name": "Sean Anthony McKee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131187,
+          "name": "Alex Mohabir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37408,
+          "name": "Russell Cameron Newall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37104,
+          "name": "Kita Ogden",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streatham St Leonard's",
+      "ballot_paper_id": "local.lambeth.streatham-st-leonards.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 37323,
+          "name": "Scott John Ainslie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131572,
+          "name": "Jade Albas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123828,
+          "name": "Saiqa Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125726,
+          "name": "Robert Doyle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125725,
+          "name": "Alex Frankl",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123793,
+          "name": "Joe Gibbons",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37394,
+          "name": "Russell John Henman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131573,
+          "name": "Philip Marshall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37326,
+          "name": "Wendy Newall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131574,
+          "name": "Jonathan Rea",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123794,
+          "name": "Edwin Sheppard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131575,
+          "name": "Harpreet Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125724,
+          "name": "Phil Stanier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123829,
+          "name": "Alice Weavers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131576,
+          "name": "Bryan Guy Wilsher",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streatham Wells",
+      "ballot_paper_id": "local.lambeth.streatham-wells.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 131470,
+          "name": "Charles Neville Barton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94260,
+          "name": "Judy Best",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123590,
+          "name": "Simon Bucknall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125079,
+          "name": "Des Caldwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131472,
+          "name": "Gareth Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123309,
+          "name": "Ridhwan Omar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131474,
+          "name": "Nicholas Martin Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125078,
+          "name": "Pauline Mary Robson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123308,
+          "name": "Holly Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Vauxhall",
+      "ballot_paper_id": "local.lambeth.vauxhall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 71996,
+          "name": "Jacqueline Bond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130599,
+          "name": "Thomas Harry Buckland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37191,
+          "name": "Nick Christian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84842,
+          "name": "Liam Daley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124174,
+          "name": "David Ford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109133,
+          "name": "Tony Glover",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37142,
+          "name": "Simon Mark Hooberman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123593,
+          "name": "Alistair Leigh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130600,
+          "name": "Bernard Anthony O'Sullivan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86363,
+          "name": "Denean Petula Rowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113113,
+          "name": "Jamie Francis Tucker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36287,
+          "name": "Tina Valcarcel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123594,
+          "name": "Joe Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waterloo & South Bank",
+      "ballot_paper_id": "local.lambeth.waterloo-south-bank.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 130603,
+          "name": "Adam Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37552,
+          "name": "Doug Buist",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130604,
+          "name": "Simon Cassey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34310,
+          "name": "Ibrahim Dogus",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86359,
+          "name": "Celeste Elizabeth Hicks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123595,
+          "name": "Elin Kingston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37096,
+          "name": "Gay Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130605,
+          "name": "Oliver James Pateman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94134,
+          "name": "Katherine Patricia Tack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130606,
+          "name": "Oliviero Veneri-Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Dulwich",
+      "ballot_paper_id": "local.lambeth.west-dulwich.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 125727,
+          "name": "Stuart Beadnall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47254,
+          "name": "Jago Barnabas York Brockway",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84607,
+          "name": "Judith Cavanagh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37111,
+          "name": "Charley Jarrett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124856,
+          "name": "Chris Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131340,
+          "name": "Gareth John Ian Mitchell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124958,
+          "name": "Tom Palmer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123795,
+          "name": "Aidan Stimson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124959,
+          "name": "Stacey Ann Young",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

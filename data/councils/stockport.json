@@ -1,0 +1,733 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "stockport",
+    "council_name": "Stockport"
+  },
+  "wards": [
+    {
+      "ward_name": "Bramhall North",
+      "ballot_paper_id": "local.stockport.bramhall-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136880,
+          "name": "Nathaniel Butler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136881,
+          "name": "Taya Rose Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136882,
+          "name": "Archana Prasad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136883,
+          "name": "Rajinder Pal Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118178,
+          "name": "Jake Stewart Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bramhall South & Woodford",
+      "ballot_paper_id": "local.stockport.bramhall-south-woodford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 101524,
+          "name": "Dallas Ann Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136399,
+          "name": "Phil Matley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136400,
+          "name": "Ste Mulvenna",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136401,
+          "name": "Thomas James Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79360,
+          "name": "Stephen George Speakman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bredbury & Woodley",
+      "ballot_paper_id": "local.stockport.bredbury-woodley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137979,
+          "name": "Charlotte Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137980,
+          "name": "Mark Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 101613,
+          "name": "William Robert Law",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137981,
+          "name": "Niki Meerman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11079,
+          "name": "Charlie Stewart",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bredbury Green & Romiley",
+      "ballot_paper_id": "local.stockport.bredbury-green-romiley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 101528,
+          "name": "Pat Bentley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40984,
+          "name": "Angie Clark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137970,
+          "name": "Stuart Michael Reeves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137971,
+          "name": "Matilda Simon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137972,
+          "name": "Aron Thomas Thornley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brinnington & Stockport Central",
+      "ballot_paper_id": "local.stockport.brinnington-stockport-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112654,
+          "name": "Douglas Greenhalgh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136908,
+          "name": "Eli King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11028,
+          "name": "Ros Lloyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136909,
+          "name": "Shaun Regan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136910,
+          "name": "Adil Shaikh",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 112656,
+          "name": "Callum Jake Walmsley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheadle East & Cheadle Hulme North",
+      "ballot_paper_id": "local.stockport.cheadle-east-cheadle-hulme-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11102,
+          "name": "Yvonne Maureen Guariento",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 79323,
+          "name": "Jilly Julian",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 101554,
+          "name": "Naveed Ahmad Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136871,
+          "name": "Stacey Frances Knighton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136872,
+          "name": "Thomas David Longden",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheadle Hulme South",
+      "ballot_paper_id": "local.stockport.cheadle-hulme-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112526,
+          "name": "Peter John Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136927,
+          "name": "Richard Stuart Bloor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41135,
+          "name": "Helen Foster-Grime",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92858,
+          "name": "Barry Hawkins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136928,
+          "name": "Daniel Yacoubian",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheadle West & Gatley",
+      "ballot_paper_id": "local.stockport.cheadle-west-gatley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 101612,
+          "name": "Carl Carrigan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136283,
+          "name": "Penny Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136284,
+          "name": "Denise Yvonne Fletcher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79387,
+          "name": "Ian Hunter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45945,
+          "name": "Stephanie Wyatt",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Davenport & Cale Green",
+      "ballot_paper_id": "local.stockport.davenport-cale-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 116992,
+          "name": "Alice Delemare",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136294,
+          "name": "Andrew Robert Glassford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112640,
+          "name": "Tara Louise Hughes",
+          "party_name": "Party Of Women"
+        },
+        {
+          "person_id": 136295,
+          "name": "Alan Livingstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 101569,
+          "name": "Nathan Lumb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101570,
+          "name": "Ashley Walker",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 11050,
+          "name": "Wendy Margaret Wild",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Edgeley",
+      "ballot_paper_id": "local.stockport.edgeley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 81193,
+          "name": "Robbie Cowbury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136945,
+          "name": "Peter Marsh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136946,
+          "name": "Jess Meller",
+          "party_name": "Edgeley Community Association"
+        },
+        {
+          "person_id": 136947,
+          "name": "Mike Naylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136948,
+          "name": "Stephen Wear",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136949,
+          "name": "Will York",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hazel Grove",
+      "ballot_paper_id": "local.stockport.hazel-grove.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11075,
+          "name": "John Howard Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55390,
+          "name": "Wendy Meikle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 76960,
+          "name": "Tim Morley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136434,
+          "name": "Dave Shearman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 101616,
+          "name": "Johnny White",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heald Green",
+      "ballot_paper_id": "local.stockport.heald-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 11061,
+          "name": "Anna Mary Charles-Jones",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 101575,
+          "name": "Minara Cook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137186,
+          "name": "Carl Anthony McCabe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137187,
+          "name": "Emma McCarthy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11064,
+          "name": "Kath Priestley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123656,
+          "name": "Nasser Shaikh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heatons North",
+      "ballot_paper_id": "local.stockport.heatons-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137212,
+          "name": "Timothy Cho",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137213,
+          "name": "Alex Hartley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11099,
+          "name": "Helena Julia Mellish",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 101502,
+          "name": "Jo Williams",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137214,
+          "name": "John Dennis Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heatons South",
+      "ballot_paper_id": "local.stockport.heatons-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 55333,
+          "name": "Dean Fitzpatrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137215,
+          "name": "Marcel Ridyard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 101620,
+          "name": "Joel Tennuchi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 55842,
+          "name": "Jake Welsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137216,
+          "name": "Mark Wilkinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137217,
+          "name": "Libby Williams",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor",
+      "ballot_paper_id": "local.stockport.manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11081,
+          "name": "John Peter Bates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137230,
+          "name": "Brian John Battle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137231,
+          "name": "Daniel Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76946,
+          "name": "Sue Glithero",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137232,
+          "name": "Jason Jones",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marple North",
+      "ballot_paper_id": "local.stockport.marple-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137158,
+          "name": "Megan Axon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 55210,
+          "name": "Peter Black",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92862,
+          "name": "John Bright",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 101636,
+          "name": "Nigel Noble",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137159,
+          "name": "Matthew Haydon Sharp",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marple South & High Lane",
+      "ballot_paper_id": "local.stockport.marple-south-high-lane.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 79409,
+          "name": "Annette Claire Finnie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137259,
+          "name": "Rebecca Hurst",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137260,
+          "name": "Carl Rydings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137261,
+          "name": "Dominic Warner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11027,
+          "name": "Brian Anthony Wild",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norbury & Woodsmoor",
+      "ballot_paper_id": "local.stockport.norbury-woodsmoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112678,
+          "name": "Colin Devine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14417,
+          "name": "Dominic Francis Thomas Hardwick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136799,
+          "name": "Jessica Hett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136800,
+          "name": "Oliver Speakman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136801,
+          "name": "John Wright",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Offerton",
+      "ballot_paper_id": "local.stockport.offerton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 101652,
+          "name": "Helen Hibbert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 101643,
+          "name": "Jamie Hirst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137262,
+          "name": "Stuart Philip Kirby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92885,
+          "name": "Andrew Stephen Lord",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137263,
+          "name": "Suzi Mäkinen",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Reddish North",
+      "ballot_paper_id": "local.stockport.reddish-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137307,
+          "name": "Dan Cole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118134,
+          "name": "Dan Farley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79405,
+          "name": "Karl Seppman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137308,
+          "name": "Heather Lauren Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137309,
+          "name": "David White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Reddish South",
+      "ballot_paper_id": "local.stockport.reddish-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118136,
+          "name": "Papa Andoh-Kweku",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137329,
+          "name": "Eileen V. Campbell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137330,
+          "name": "John Paul Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79393,
+          "name": "Hassan Sajjad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137331,
+          "name": "Laura Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

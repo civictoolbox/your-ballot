@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-walton-society",
+    "display_name": "The Walton Society",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Walton Society"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 17157,
+      "name": "Barry James Frederick Cheyne",
+      "party_name": "The Walton Society",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Walton"
+    },
+    {
+      "person_id": 17080,
+      "name": "Andrew Christopher Kelly",
+      "party_name": "The Walton Society",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Walton South & Oatlands"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-aspire",
+    "display_name": "Aspire",
+    "candidate_count": 45,
+    "council_count": 1,
+    "raw_party_names": [
+      "Aspire"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 132765,
+      "name": "Yusuf Mohamed Abdi",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 95186,
+      "name": "Syed Tareq Abdullah",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green East"
+    },
+    {
+      "person_id": 132807,
+      "name": "Syed Naem Ahmad",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow West"
+    },
+    {
+      "person_id": 94992,
+      "name": "Musthak Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green West"
+    },
+    {
+      "person_id": 89165,
+      "name": "Saied Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Canary Wharf"
+    },
+    {
+      "person_id": 132966,
+      "name": "Foysal Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Lansbury"
+    },
+    {
+      "person_id": 43361,
+      "name": "Suluk Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Spitalfields & Banglatown"
+    },
+    {
+      "person_id": 124534,
+      "name": "Faysal Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Spitalfields & Banglatown"
+    },
+    {
+      "person_id": 83851,
+      "name": "Kabir Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Weavers"
+    },
+    {
+      "person_id": 36586,
+      "name": "Shafi Ahmed",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Whitechapel"
+    },
+    {
+      "person_id": 39659,
+      "name": "Sabina Akhtar",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Stepney Green"
+    },
+    {
+      "person_id": 43455,
+      "name": "Mahbub Alam",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "St Katharine's & Wapping"
+    },
+    {
+      "person_id": 92034,
+      "name": "Mohammed Ripon Ali",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow West"
+    },
+    {
+      "person_id": 39818,
+      "name": "Syed Shofor Ali",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Island Gardens"
+    },
+    {
+      "person_id": 95140,
+      "name": "Abdul Wahid Ali",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Stepney Green"
+    },
+    {
+      "person_id": 40372,
+      "name": "Bodrul Islam Choudhury",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bromley South"
+    },
+    {
+      "person_id": 42166,
+      "name": "Gulam Kibria Choudhury",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Poplar"
+    },
+    {
+      "person_id": 43587,
+      "name": "Abu Talha Chowdhury",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green West"
+    },
+    {
+      "person_id": 94216,
+      "name": "Abulkashem Helal",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Whitechapel"
+    },
+    {
+      "person_id": 92608,
+      "name": "Iqbal Hossain",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Lansbury"
+    },
+    {
+      "person_id": 132770,
+      "name": "Mansur Nadim Hussain",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 133256,
+      "name": "Kamrul Hussain",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Whitechapel"
+    },
+    {
+      "person_id": 132864,
+      "name": "Mohammed Ilyas",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bromley North"
+    },
+    {
+      "person_id": 132705,
+      "name": "Halima Islam",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green East"
+    },
+    {
+      "person_id": 133157,
+      "name": "Shafiq Islam",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "St Dunstan's"
+    },
+    {
+      "person_id": 132772,
+      "name": "Hamida Begum Juti",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 133002,
+      "name": "Masudul Karim",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Limehouse"
+    },
+    {
+      "person_id": 95152,
+      "name": "Ahmodul Khabir",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green East"
+    },
+    {
+      "person_id": 95189,
+      "name": "Ahmodur Rahman Khan",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Blackwall & Cubitt Town"
+    },
+    {
+      "person_id": 133046,
+      "name": "Rougie Khanom",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 132739,
+      "name": "Minara Khatun",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Blackwall & Cubitt Town"
+    },
+    {
+      "person_id": 133225,
+      "name": "Abdul Khayer Mahboob",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Weavers"
+    },
+    {
+      "person_id": 133047,
+      "name": "Mohammed Hasan Mahmud",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 90192,
+      "name": "Abdul Mannan",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bromley North"
+    },
+    {
+      "person_id": 133049,
+      "name": "Mohammed Omar Mehdi",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Mile End"
+    },
+    {
+      "person_id": 42606,
+      "name": "Ana Miah",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Shadwell"
+    },
+    {
+      "person_id": 42607,
+      "name": "Mohammad Harun Miah",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Shadwell"
+    },
+    {
+      "person_id": 133161,
+      "name": "Shenaly Miah",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "St Dunstan's"
+    },
+    {
+      "person_id": 132975,
+      "name": "Abul Monsur",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Lansbury"
+    },
+    {
+      "person_id": 95001,
+      "name": "Amin Rahman",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green West"
+    },
+    {
+      "person_id": 94295,
+      "name": "Masood Rahman",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bromley South"
+    },
+    {
+      "person_id": 89122,
+      "name": "Sadiqur Rahman",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Island Gardens"
+    },
+    {
+      "person_id": 40560,
+      "name": "Maium Talukdar",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Canary Wharf"
+    },
+    {
+      "person_id": 40033,
+      "name": "Bellal Uddin",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Blackwall & Cubitt Town"
+    },
+    {
+      "person_id": 133206,
+      "name": "Rafique Uddin",
+      "party_name": "Aspire",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "St Katharine's & Wapping"
+    }
+  ]
+}

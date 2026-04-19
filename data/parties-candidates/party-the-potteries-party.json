@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-potteries-party",
+    "display_name": "The Potteries Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Potteries Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 37032,
+      "name": "Tom Heavey",
+      "party_name": "The Potteries Party",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Audley"
+    }
+  ]
+}

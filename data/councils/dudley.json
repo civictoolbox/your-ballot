@@ -1,0 +1,872 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "dudley",
+    "council_name": "Dudley"
+  },
+  "wards": [
+    {
+      "ward_name": "Amblecote",
+      "ballot_paper_id": "local.dudley.amblecote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16082,
+          "name": "Ian Martin Flynn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132169,
+          "name": "Wayne Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81480,
+          "name": "Adrian Mabe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112471,
+          "name": "Benjamin James McCloskey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16342,
+          "name": "Kamran Razzaq",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Belle Vale",
+      "ballot_paper_id": "local.dudley.belle-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132172,
+          "name": "Angela Blythe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17825,
+          "name": "Peter William Dobb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132173,
+          "name": "Steve Hilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132174,
+          "name": "Ben Pugh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112496,
+          "name": "Richard Wanklin",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brierley Hill & Wordsley South",
+      "ballot_paper_id": "local.dudley.brierley-hill-wordsley-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 111979,
+          "name": "Nawaz Aneesa",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99654,
+          "name": "Andrew Martin Bennett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132175,
+          "name": "Shane Gordon Birch-Bastock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132176,
+          "name": "Tony Dickenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132177,
+          "name": "Karen Elizabeth Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87799,
+          "name": "Wayne Thomas Lewis",
+          "party_name": "The Black Country Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brockmoor & Pensnett",
+      "ballot_paper_id": "local.dudley.brockmoor-pensnett.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 3124,
+          "name": "Jonathan Michael Bramall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132198,
+          "name": "Joel Benjamin Hyde",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16120,
+          "name": "John Ronald Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132202,
+          "name": "Matt Snell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99669,
+          "name": "Karen Westwood",
+          "party_name": "The Black Country Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle & Priory",
+      "ballot_paper_id": "local.dudley.castle-priory.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 99665,
+          "name": "David Ashley Bramall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132208,
+          "name": "Dan Dale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 59079,
+          "name": "Karl Denning",
+          "party_name": "The Black Country Party"
+        },
+        {
+          "person_id": 99666,
+          "name": "Ant Dugmore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132209,
+          "name": "Jan McGeough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112490,
+          "name": "Tony Middleton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coseley",
+      "ballot_paper_id": "local.dudley.coseley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132222,
+          "name": "Toni Elizabeth Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45206,
+          "name": "Martin Paul Day",
+          "party_name": "Libertarian Party"
+        },
+        {
+          "person_id": 112358,
+          "name": "Roxanne Holmes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112449,
+          "name": "Henry Oche",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112451,
+          "name": "Dave Roberts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132223,
+          "name": "Sat Sherwani",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cradley North & Wollescote",
+      "ballot_paper_id": "local.dudley.cradley-north-wollescote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 59132,
+          "name": "Caley Ashman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139108,
+          "name": "Matt Collins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132238,
+          "name": "Bridget Caroline Hilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112441,
+          "name": "Eric Perry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132239,
+          "name": "Abdul Qadus",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 82173,
+          "name": "Ethan Stafford",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gornal",
+      "ballot_paper_id": "local.dudley.gornal.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132251,
+          "name": "Kaz Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111965,
+          "name": "Stephen Holmes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112491,
+          "name": "Jeff Ndlovu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87812,
+          "name": "Claire Sullivan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132252,
+          "name": "Chris Whitehouse",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halesowen North",
+      "ballot_paper_id": "local.dudley.halesowen-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 99640,
+          "name": "Ash Flavin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82191,
+          "name": "Tracey Gregg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35150,
+          "name": "Stuart Carl Henley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111960,
+          "name": "Fiona Murray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132264,
+          "name": "Aveena Sherwani",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halesowen South",
+      "ballot_paper_id": "local.dudley.halesowen-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132271,
+          "name": "Andrew Barnfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99629,
+          "name": "Caroline Benton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111987,
+          "name": "Michael Hanley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87805,
+          "name": "Thomas Geoffrey Russon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 71465,
+          "name": "James Robert Windridge",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hayley Green & Cradley South",
+      "ballot_paper_id": "local.dudley.hayley-green-cradley-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132295,
+          "name": "Zach Beed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111985,
+          "name": "Bex Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132296,
+          "name": "Julian Hammond-Miller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132297,
+          "name": "Alison Joanne Hunt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132298,
+          "name": "Jon Mucklow",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingswinford North & Wall Heath",
+      "ballot_paper_id": "local.dudley.kingswinford-north-wall-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132299,
+          "name": "Stephen Richard Cole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132300,
+          "name": "Jacqueline Ann Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132301,
+          "name": "Ninette Harris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132302,
+          "name": "Charlie Passmore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59199,
+          "name": "Mark Webb",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingswinford South",
+      "ballot_paper_id": "local.dudley.kingswinford-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 94663,
+          "name": "Simon Geoffrey Daniel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16257,
+          "name": "Simon Paul Hanson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132304,
+          "name": "Graham Howes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16229,
+          "name": "Luke Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132305,
+          "name": "Dom Palermo",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lye & Stourbridge North",
+      "ballot_paper_id": "local.dudley.lye-stourbridge-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 45241,
+          "name": "Naz Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132329,
+          "name": "Lisa Marie Clinton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59010,
+          "name": "Ellen Hope Cobb",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87802,
+          "name": "Matt Cook",
+          "party_name": "The Black Country Party"
+        },
+        {
+          "person_id": 132330,
+          "name": "Danny Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132331,
+          "name": "Julia Annette Savage",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Netherton & Holly Hall",
+      "ballot_paper_id": "local.dudley.netherton-holly-hall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132334,
+          "name": "Manjit Kaur",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59198,
+          "name": "Shaneila Karamat Mughal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79778,
+          "name": "Richard Lloyd Priest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126706,
+          "name": "Jack Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112468,
+          "name": "James Warner Tye",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norton",
+      "ballot_paper_id": "local.dudley.norton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132335,
+          "name": "Phil Boaler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112469,
+          "name": "Matt Broad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132336,
+          "name": "Lee Robert Furness",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16336,
+          "name": "Alan Harry Hopwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99644,
+          "name": "Stephen James Price",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pedmore & Stourbridge East",
+      "ballot_paper_id": "local.dudley.pedmore-stourbridge-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 82186,
+          "name": "Dave Borley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112474,
+          "name": "Mark Christopher Kent",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112475,
+          "name": "Nigel Paul Kirkham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112477,
+          "name": "Beth Scrimshaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132347,
+          "name": "Jason Douglas Thorne",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Quarry Bank & Dudley Wood",
+      "ballot_paper_id": "local.dudley.quarry-bank-dudley-wood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132354,
+          "name": "Simon Mark Ballinger",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132355,
+          "name": "Rob Clinton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132356,
+          "name": "Errol Lawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132357,
+          "name": "Jules Singh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132358,
+          "name": "Faye Stafford",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sedgley",
+      "ballot_paper_id": "local.dudley.sedgley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 99630,
+          "name": "Colin Drewery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132359,
+          "name": "Bill Etheridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111964,
+          "name": "Tremaine Herbert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132360,
+          "name": "Shaun Roger Keasey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99621,
+          "name": "John Slim",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St. James's",
+      "ballot_paper_id": "local.dudley.st-jamess.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112499,
+          "name": "Carole Blackmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132370,
+          "name": "Katherine Alice Poole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82157,
+          "name": "Mollie Jo Priest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108839,
+          "name": "Caroline Reid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112502,
+          "name": "David Reynolds",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132371,
+          "name": "Ivor John Lawrence Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St. Thomas's",
+      "ballot_paper_id": "local.dudley.st-thomass.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112498,
+          "name": "Shakeela Bibi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132372,
+          "name": "Chris Chivers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99647,
+          "name": "Rob Johns",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99617,
+          "name": "Muhammad Najeeb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99618,
+          "name": "Zia Ur Rehman Qari",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 99619,
+          "name": "Adeela Qayyum",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upper Gornal & Woodsetton",
+      "ballot_paper_id": "local.dudley.upper-gornal-woodsetton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132401,
+          "name": "Zoe Bradley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132402,
+          "name": "Charlie Hilken",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39586,
+          "name": "Mushtaq Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52116,
+          "name": "Marco Longhi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39183,
+          "name": "Elaine Catherine Sheppard",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wollaston & Stourbridge Town",
+      "ballot_paper_id": "local.dudley.wollaston-stourbridge-town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 132411,
+          "name": "Ruth Jayne Battersea",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39180,
+          "name": "Lois Bramall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132412,
+          "name": "Marie Elizabeth Fields",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112504,
+          "name": "Linda Carol Foster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132413,
+          "name": "Jason Robert Griffin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124331,
+          "name": "Steve Hancock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132414,
+          "name": "Kam MacLeod",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87816,
+          "name": "Ken Moore",
+          "party_name": "Freedom Alliance"
+        },
+        {
+          "person_id": 132415,
+          "name": "Richard Andrew Prosser",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39184,
+          "name": "David John Sheppard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 115540,
+          "name": "Andrew Southall",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wordsley North",
+      "ballot_paper_id": "local.dudley.wordsley-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 87817,
+          "name": "Keith Archer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 2601,
+          "name": "Christopher Ashley Bramall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132436,
+          "name": "Alex Hughes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128769,
+          "name": "Samuel James Hussey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59220,
+          "name": "Matt Rogers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112362,
+          "name": "Dave Woolley",
+          "party_name": "The Black Country Party"
+        }
+      ]
+    }
+  ]
+}

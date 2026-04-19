@@ -1,0 +1,376 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "cannock-chase",
+    "council_name": "Cannock Chase"
+  },
+  "wards": [
+    {
+      "ward_name": "Brereton & Ravenhill",
+      "ballot_paper_id": "local.cannock-chase.brereton-ravenhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 109986,
+          "name": "Keeren Joseph Hart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74924,
+          "name": "Ian John Pyke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131864,
+          "name": "Michael Sheppard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 101225,
+          "name": "Dave Williams",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cannock Longford & Bridgtown",
+      "ballot_paper_id": "local.cannock-chase.cannock-longford-bridgtown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109991,
+          "name": "Richard James Craddock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39131,
+          "name": "Eloise Siobhan Cropp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126588,
+          "name": "Denise Elizabeth Gold",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81040,
+          "name": "Gareth Knox",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 10101,
+          "name": "Doug Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cannock Park & Old Fallow",
+      "ballot_paper_id": "local.cannock-chase.cannock-park-old-fallow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128279,
+          "name": "Mandy Jane Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 66830,
+          "name": "Warren Simon Cocker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88066,
+          "name": "Paris Theodorou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88083,
+          "name": "Steven Thornley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadsmoor",
+      "ballot_paper_id": "local.cannock-chase.chadsmoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110006,
+          "name": "Alex Robert Hunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10093,
+          "name": "Phil Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129287,
+          "name": "Emma Marie Melanie Osborne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88073,
+          "name": "Sue Thornley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Etching Hill & the Heath",
+      "ballot_paper_id": "local.cannock-chase.etching-hill-the-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128301,
+          "name": "Steven Deakin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65861,
+          "name": "Darren Foley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 10104,
+          "name": "Justin Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131930,
+          "name": "Diane Lynette Phizacklea",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hawks Green with Rumer Hill",
+      "ballot_paper_id": "local.cannock-chase.hawks-green-with-rumer-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 39148,
+          "name": "Leslie William Bullock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128316,
+          "name": "Melissa Kirsty Cecil",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109985,
+          "name": "Kevin Gary Elson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10087,
+          "name": "Phil Hewitt",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heath Hayes & Wimblebury",
+      "ballot_paper_id": "local.cannock-chase.heath-hayes-wimblebury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 121683,
+          "name": "Daniel Paul Cecil",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10119,
+          "name": "Diane Todd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88075,
+          "name": "Ian Douglas Wallace",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110050,
+          "name": "Helen Young",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hednesford Green Heath",
+      "ballot_paper_id": "local.cannock-chase.hednesford-green-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10109,
+          "name": "Mark Deakin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 69481,
+          "name": "David James Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88101,
+          "name": "Laura Caroline Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110035,
+          "name": "Garry John Samuels",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 2280,
+          "name": "Ron Turville",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hednesford Hills & Rawnsley",
+      "ballot_paper_id": "local.cannock-chase.hednesford-hills-rawnsley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 122117,
+          "name": "Rhys Anthony Mandry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10123,
+          "name": "Alan Raymond Pearson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110049,
+          "name": "Rachel Lauren Rock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131951,
+          "name": "Ron Sutton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hednesford Pye Green",
+      "ballot_paper_id": "local.cannock-chase.hednesford-pye-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 131955,
+          "name": "Robert Arron Branson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39154,
+          "name": "Sheila Margaret Cartwright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79279,
+          "name": "Sharon Denise Jagger",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131982,
+          "name": "Graham Terence Millington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126770,
+          "name": "Angela Rose Rushton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126743,
+          "name": "Cameron John Rushton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78180,
+          "name": "Paula Lilian Stanton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39113,
+          "name": "Hyra Sutton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norton Canes",
+      "ballot_paper_id": "local.cannock-chase.norton-canes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110056,
+          "name": "Jean Hill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131985,
+          "name": "Georgina Ellen Jeffery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83707,
+          "name": "Linda Joy Mawle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39156,
+          "name": "Wendy Yates",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Western Springs",
+      "ballot_paper_id": "local.cannock-chase.western-springs.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129295,
+          "name": "Leah Kirsty Adams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110039,
+          "name": "Joshua Leigh Birch",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101208,
+          "name": "Daniel Foceac",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109988,
+          "name": "John Parkes",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

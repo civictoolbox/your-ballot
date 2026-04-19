@@ -1,0 +1,553 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "preston",
+    "council_name": "Preston"
+  },
+  "wards": [
+    {
+      "ward_name": "Ashton",
+      "ballot_paper_id": "local.preston.ashton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127185,
+          "name": "Rachel Gill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123124,
+          "name": "Ronan Hodgson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 56893,
+          "name": "Andrew David MacLaren",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 32185,
+          "name": "Keith Sedgewick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121233,
+          "name": "Lee Slater",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brookfield",
+      "ballot_paper_id": "local.preston.brookfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 88483,
+          "name": "Mel Close",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 56038,
+          "name": "Daniel Duckworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16719,
+          "name": "Rebecca Potter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127435,
+          "name": "Rob Walsh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127436,
+          "name": "Robin Stewart Weston",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cadley",
+      "ballot_paper_id": "local.preston.cadley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127417,
+          "name": "Flo Emmanuel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 56748,
+          "name": "Daniel Gregg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46483,
+          "name": "Jono Grisdale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127418,
+          "name": "Isaac Oluwasuji Omopariola",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 56751,
+          "name": "Lakwinder Singh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "City Centre",
+      "ballot_paper_id": "local.preston.city-centre.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128134,
+          "name": "Tina Balmer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128135,
+          "name": "Lorenzo More",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7793,
+          "name": "Andy Pratt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 56056,
+          "name": "Mark Francis Routledge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128136,
+          "name": "Sam Zhang-Peak",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deepdale",
+      "ballot_paper_id": "local.preston.deepdale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127332,
+          "name": "Nathalie Cain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 56534,
+          "name": "Zafar Coupland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127333,
+          "name": "John Knight",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127334,
+          "name": "Nigel Antony Lister",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81320,
+          "name": "Kevin David Rigotti",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fishwick & Frenchwood",
+      "ballot_paper_id": "local.preston.fishwick-frenchwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127370,
+          "name": "Stephen Gregson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127371,
+          "name": "Ash Jariwala",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 56890,
+          "name": "Joanne Joyner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127372,
+          "name": "Christopher Soames",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88493,
+          "name": "Valerie Wise",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Garrison",
+      "ballot_paper_id": "local.preston.garrison.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 88496,
+          "name": "Amber Afzal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123174,
+          "name": "Aran Bailey",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16698,
+          "name": "Claire Craven",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16734,
+          "name": "Helen Disley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127591,
+          "name": "Simon Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109961,
+          "name": "Al-Yasa Khan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greyfriars",
+      "ballot_paper_id": "local.preston.greyfriars.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127449,
+          "name": "Andrew Craig Bielas-Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127450,
+          "name": "Jacob Bilsborrow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127448,
+          "name": "Joanne Afrin Black",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127451,
+          "name": "Simon Crowe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44516,
+          "name": "Fiona Duke",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ingol & Cottam",
+      "ballot_paper_id": "local.preston.ingol-cottam.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127414,
+          "name": "Derek Barton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34595,
+          "name": "Neil Darby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109964,
+          "name": "Sarah Jane Hart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109971,
+          "name": "David Preston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127415,
+          "name": "Toby Worth",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lea & Larches",
+      "ballot_paper_id": "local.preston.lea-larches.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127255,
+          "name": "Bill Adams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127256,
+          "name": "Keith Berry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117873,
+          "name": "Sean Little",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127257,
+          "name": "Javaris Maharaj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121236,
+          "name": "Jemma Louise Rushe",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plungington",
+      "ballot_paper_id": "local.preston.plungington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 56855,
+          "name": "Pav Akhtar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127323,
+          "name": "Susan Tracey Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 119241,
+          "name": "Penelope Dawber",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 81330,
+          "name": "Frankie Kennedy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127324,
+          "name": "Gabie Lowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127325,
+          "name": "Ruth Van Mierlo",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Preston Rural East",
+      "ballot_paper_id": "local.preston.preston-rural-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128219,
+          "name": "Karen Kendall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128220,
+          "name": "Beth Moore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128221,
+          "name": "Daniel Paul Nuttall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81325,
+          "name": "Steve Whittam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128222,
+          "name": "Liam Yip",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Preston Rural North",
+      "ballot_paper_id": "local.preston.preston-rural-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126061,
+          "name": "Daniel Bennett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56674,
+          "name": "Lynne Brooks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109977,
+          "name": "Rene Van Mierlo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127361,
+          "name": "Stephen Geoffrey Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 56622,
+          "name": "Fay Elizabeth Whittam",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ribbleton",
+      "ballot_paper_id": "local.preston.ribbleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127312,
+          "name": "Vasile Alecu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16744,
+          "name": "Edward Craven",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121235,
+          "name": "Michael Christopher McGowan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 56057,
+          "name": "Tes Slater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97447,
+          "name": "Daniel Thompson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sharoe Green",
+      "ballot_paper_id": "local.preston.sharoe-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 56040,
+          "name": "Maxwell Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127344,
+          "name": "Brian Martin Ollerton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127345,
+          "name": "Rick Seymour",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127346,
+          "name": "Jack Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127347,
+          "name": "Amy Strettle",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Matthew's",
+      "ballot_paper_id": "local.preston.st-matthews.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127271,
+          "name": "Waqas Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 88488,
+          "name": "Takhsin Akhtar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127272,
+          "name": "Gareth Basterfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127273,
+          "name": "Charlie Craig Fitzpatrick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121216,
+          "name": "Tayo Korede",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127274,
+          "name": "Anita Murray",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

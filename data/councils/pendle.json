@@ -1,0 +1,365 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "pendle",
+    "council_name": "Pendle"
+  },
+  "wards": [
+    {
+      "ward_name": "Barnoldswick",
+      "ballot_paper_id": "local.pendle.barnoldswick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 80078,
+          "name": "Chris Church",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 57780,
+          "name": "Euan Robert Clouston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133263,
+          "name": "Sean Robertson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133264,
+          "name": "Julie Sutcliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133265,
+          "name": "Richard Whiteley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Barrowford & Pendleside",
+      "ballot_paper_id": "local.pendle.barrowford-pendleside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 57992,
+          "name": "Anthony William Chamberlain",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133266,
+          "name": "Elektra Ellis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18917,
+          "name": "Susan Frances Nike",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 121175,
+          "name": "Vanessa Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78754,
+          "name": "Martyn Warren Stone",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boulsworth & Foulridge",
+      "ballot_paper_id": "local.pendle.boulsworth-foulridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133279,
+          "name": "Patricia Josephine Hannah-Wood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133280,
+          "name": "Alexander Jack Hustwit",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18923,
+          "name": "David Philip Johns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90791,
+          "name": "Lyndsey Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133281,
+          "name": "Alan Mark Whitehead",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bradley",
+      "ballot_paper_id": "local.pendle.bradley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133284,
+          "name": "Mohammad Ammer",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133285,
+          "name": "Ryan Thomas Andrew Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133286,
+          "name": "Drew Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133287,
+          "name": "Muhammad Huzaifa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37657,
+          "name": "Nigel Pearson-Asher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18926,
+          "name": "Howard Philip Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brierfield East & Clover Hill",
+      "ballot_paper_id": "local.pendle.brierfield-east-clover-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133289,
+          "name": "Sajjad Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 90888,
+          "name": "Benjamin Harrop",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58098,
+          "name": "Pauline Anne McCormick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 1312,
+          "name": "John Metcalfe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 33545,
+          "name": "Mary Elizabeth Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133290,
+          "name": "Adam Thomas Walsh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Earby & Coates",
+      "ballot_paper_id": "local.pendle.earby-coates.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133302,
+          "name": "David Andrew Hunter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 121193,
+          "name": "Jane Pratt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 33546,
+          "name": "David Michael Baxter Whipp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133303,
+          "name": "Glenn Robert Whittaker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18934,
+          "name": "Jane Veronica Bailes Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marsden & Southfield",
+      "ballot_paper_id": "local.pendle.marsden-southfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133305,
+          "name": "Riaz Ahmed Bashir",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 79881,
+          "name": "Philip Alfred Berry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133306,
+          "name": "Claire Brightley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133307,
+          "name": "Gary Anthony Hood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110533,
+          "name": "Marie Mary Stone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18955,
+          "name": "Sheila Wicks",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Vivary Bridge",
+      "ballot_paper_id": "local.pendle.vivary-bridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133319,
+          "name": "Andy Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133320,
+          "name": "Karen Lesley Clark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18939,
+          "name": "Mark Andrew Porter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133321,
+          "name": "Michael Howard Waddington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133322,
+          "name": "Kelly Whiteside",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waterside & Horsfield",
+      "ballot_paper_id": "local.pendle.waterside-horsfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133325,
+          "name": "Reece Jon Bailey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118564,
+          "name": "Philip Heyworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 58152,
+          "name": "Alice Rosemary Mann",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18957,
+          "name": "Nathan Thomas McCollum",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133326,
+          "name": "Jacky McGeoch",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitefield & Walverden",
+      "ballot_paper_id": "local.pendle.whitefield-walverden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 133246,
+          "name": "Ajaz Ahmed Ditta",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133247,
+          "name": "Sean Benjamin Eastwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34155,
+          "name": "Manzar Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133248,
+          "name": "Adrian Barry Mitchell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133249,
+          "name": "Mohammad Sakib",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133250,
+          "name": "David Sparrow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133251,
+          "name": "Gemma Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

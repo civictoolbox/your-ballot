@@ -1,0 +1,651 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "southampton",
+    "council_name": "Southampton"
+  },
+  "wards": [
+    {
+      "ward_name": "Banister & Polygon",
+      "ballot_paper_id": "local.southampton.banister-polygon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127020,
+          "name": "Sarah Baillie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125454,
+          "name": "Misty Calanthia Delamothe Burgess",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126387,
+          "name": "Toriola Isaiah Coker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126403,
+          "name": "John Dominic Cooney",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 102388,
+          "name": "Reuben Hinchliffe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37232,
+          "name": "Steve Leggett",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bargate",
+      "ballot_paper_id": "local.southampton.bargate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 87610,
+          "name": "Donna Dee",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 6391,
+          "name": "Adrian Ford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 55543,
+          "name": "Kevin Alan Masters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55525,
+          "name": "John Noon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125457,
+          "name": "Luke Reynolds",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14355,
+          "name": "Ivan William White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bassett",
+      "ballot_paper_id": "local.southampton.bassett.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 49618,
+          "name": "Sam Philip Chapman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127011,
+          "name": "Nick Davies",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 125459,
+          "name": "Bobby Grigore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37246,
+          "name": "Amanda Jane Guest",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126388,
+          "name": "Kurosh James Shadmand",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127012,
+          "name": "Robert Quillan Wolfe",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bevois",
+      "ballot_paper_id": "local.southampton.bevois.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 109989,
+          "name": "Nadia Noreen Ditta",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127147,
+          "name": "Abdiwali Mahmud Elmi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87607,
+          "name": "Paul Kenny",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55590,
+          "name": "Richard Arthur Palmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125460,
+          "name": "Amy Sefton-Thake",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126389,
+          "name": "Dennis Steas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bitterne Park",
+      "ballot_paper_id": "local.southampton.bitterne-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 50867,
+          "name": "Lindsi Bluemel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127077,
+          "name": "Tony Bunday",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6636,
+          "name": "Nick Chaffey",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126390,
+          "name": "Trecious Chitsika",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55545,
+          "name": "David John Fuller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96032,
+          "name": "Phil Webb",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coxford",
+      "ballot_paper_id": "local.southampton.coxford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 71656,
+          "name": "Philip Edward Crook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55567,
+          "name": "Maggie Fricker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 14413,
+          "name": "Peter Graham Galton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127036,
+          "name": "Gwen Gordon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 34611,
+          "name": "Ronald Nicholas Meldrum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87605,
+          "name": "Paul James Patrick Nolan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freemantle",
+      "ballot_paper_id": "local.southampton.freemantle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 73749,
+          "name": "Catherine Clarke",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 37220,
+          "name": "Diana June Galton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102267,
+          "name": "Max Dylan Hayman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127247,
+          "name": "Pam Kenny",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125462,
+          "name": "Sam Pryce",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126391,
+          "name": "Philip Small",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harefield",
+      "ballot_paper_id": "local.southampton.harefield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 2585,
+          "name": "Christopher Francis Bluemel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 104246,
+          "name": "Martyn Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95438,
+          "name": "Callum Daniel John Ford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14453,
+          "name": "Graham Michael Henry",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 14430,
+          "name": "Daniel John Jeffery",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126392,
+          "name": "Richard Piatkewicz",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Millbrook",
+      "ballot_paper_id": "local.southampton.millbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 109999,
+          "name": "Richard William Fricker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14333,
+          "name": "Andrew David Howe",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127023,
+          "name": "Anwar Jawula",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 105021,
+          "name": "Ellen McGeorge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126393,
+          "name": "Ross Ronald Mould",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3133,
+          "name": "Jeremy Moulton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peartree",
+      "ballot_paper_id": "local.southampton.peartree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126394,
+          "name": "Soham Bandyopadhyay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14449,
+          "name": "Sue Blatchford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55584,
+          "name": "Alex Houghton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125463,
+          "name": "Lee Ingram",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14398,
+          "name": "Mike Marx",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 14340,
+          "name": "Robert William Naish",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Portswood",
+      "ballot_paper_id": "local.southampton.portswood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127390,
+          "name": "Matthew William Bunday",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 102202,
+          "name": "David Howarth Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127391,
+          "name": "Marie Finn",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 110000,
+          "name": "Lori Foster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 104268,
+          "name": "Nick Moulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73747,
+          "name": "Tony Twine",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redbridge",
+      "ballot_paper_id": "local.southampton.redbridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 16525,
+          "name": "John Peter Edwards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79395,
+          "name": "Lisa Marie Fricker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102274,
+          "name": "Adrian Pimley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4386,
+          "name": "Andrew Pope",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 127836,
+          "name": "Dave Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14407,
+          "name": "Simon David  Stokes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13991,
+          "name": "Pete Wyatt",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shirley",
+      "ballot_paper_id": "local.southampton.shirley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123825,
+          "name": "Paul Chance",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 102271,
+          "name": "Joanne Clements",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127745,
+          "name": "Rebecca May McCreanor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 104920,
+          "name": "Hilary Moulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87620,
+          "name": "Alex Winning",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sholing",
+      "ballot_paper_id": "local.southampton.sholing.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 87617,
+          "name": "Sharon Pamela Hopkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87533,
+          "name": "Neil Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102374,
+          "name": "Andy Palmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127862,
+          "name": "Charlotte Louise Parkin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55597,
+          "name": "Sarah Marie Powell-Vaughan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swaythling",
+      "ballot_paper_id": "local.southampton.swaythling.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127055,
+          "name": "Fintan Liam Broderick",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 14439,
+          "name": "Angela Mary Cotton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87597,
+          "name": "Pritheepal Roath",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126397,
+          "name": "Bruce Adam Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127056,
+          "name": "Amelia Tamblyn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127057,
+          "name": "Jon Walsh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thornhill",
+      "ballot_paper_id": "local.southampton.thornhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 104245,
+          "name": "Edward Bolton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14338,
+          "name": "Jodie Luke Copeland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 3537,
+          "name": "Tim Cutter",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 37243,
+          "name": "Andy Frampton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37250,
+          "name": "Matt Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126398,
+          "name": "Tim Kiff-Munds",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woolston",
+      "ballot_paper_id": "local.southampton.woolston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 6635,
+          "name": "Sue Atkins",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126399,
+          "name": "Ryan James Collett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 102378,
+          "name": "Scott William Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 104768,
+          "name": "Francis Eric George Hedley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125473,
+          "name": "Carmel Dominique Herrigan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78893,
+          "name": "Victoria Ugwoeme",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hartlepool",
+    "council_name": "Hartlepool"
+  },
+  "wards": [
+    {
+      "ward_name": "Burn Valley",
+      "ballot_paper_id": "local.hartlepool.burn-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 53348,
+          "name": "Graham Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127167,
+          "name": "Lucas Hennells-Barber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 54854,
+          "name": "Owen Craig Riddle",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126071,
+          "name": "India Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127154,
+          "name": "Bryan Thompson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "De Bruce",
+      "ballot_paper_id": "local.hartlepool.de-bruce.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125413,
+          "name": "Nick Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80258,
+          "name": "Rachel Jayne Creevy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125760,
+          "name": "Jasmine Jade Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127179,
+          "name": "Lydia Dorelle Waller",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fens & Greatham",
+      "ballot_paper_id": "local.hartlepool.fens-greatham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125759,
+          "name": "Lisa Marie Arnell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125415,
+          "name": "Dave Bruce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10261,
+          "name": "Bob Buchan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122830,
+          "name": "Mark Joseph Hanson",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Foggy Furze",
+      "ballot_paper_id": "local.hartlepool.foggy-furze.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 5651,
+          "name": "Mike Cherrington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80316,
+          "name": "Christopher Groves",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80276,
+          "name": "Melanie Morley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 53229,
+          "name": "Connor Stallard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125416,
+          "name": "Rob Stevenson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hart",
+      "ballot_paper_id": "local.hartlepool.hart.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 137807,
+          "name": "Jo Banks",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126447,
+          "name": "Michael Brookes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110201,
+          "name": "Stuart Alan Campbell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 53266,
+          "name": "Rob Cook",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80289,
+          "name": "Brian Cowie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87891,
+          "name": "Barry McKinstray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 53267,
+          "name": "David Nicholson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 120153,
+          "name": "Jake Ethan Swinburne",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Headland & Harbour",
+      "ballot_paper_id": "local.hartlepool.headland-harbour.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127243,
+          "name": "Amanda Davis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125418,
+          "name": "Scott Gaitey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125762,
+          "name": "Jessica Louise Ingham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127249,
+          "name": "John Mawhinney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126069,
+          "name": "Nathan Maddison McLauchlan",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor House",
+      "ballot_paper_id": "local.hartlepool.manor-house.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127268,
+          "name": "Patricia Allen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125419,
+          "name": "Ronald Buglass",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10262,
+          "name": "Tom Casey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80297,
+          "name": "Pamela Claire Hargreaves",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rossmere",
+      "ballot_paper_id": "local.hartlepool.rossmere.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 80312,
+          "name": "Moss Boddy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125758,
+          "name": "Matthew James Hartley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42890,
+          "name": "Veronica Nicholson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125421,
+          "name": "Christine Wiley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural West",
+      "ballot_paper_id": "local.hartlepool.rural-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 33198,
+          "name": "Thomas Cassidy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125757,
+          "name": "Simon Niall Crute",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124010,
+          "name": "Sara Kadry Mohamed Hamouda",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 53363,
+          "name": "Richie Hughes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Seaton",
+      "ballot_paper_id": "local.hartlepool.seaton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126446,
+          "name": "Mia Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123552,
+          "name": "Nicholas Brian Cain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80336,
+          "name": "Gordon Cranney",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127303,
+          "name": "John Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80321,
+          "name": "Michael Noppen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125422,
+          "name": "Peter Storey",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Throston",
+      "ballot_paper_id": "local.hartlepool.throston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123543,
+          "name": "Jack Adam Callaghan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126070,
+          "name": "Samuel Allan Carr",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98100,
+          "name": "Margaret Lyall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80350,
+          "name": "Amanda Elizabeth Napper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126072,
+          "name": "Ewan Dawson Train",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Victoria",
+      "ballot_paper_id": "local.hartlepool.victoria.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 83694,
+          "name": "Gary Allen",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125756,
+          "name": "Connor James Dorrian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75297,
+          "name": "Adam Gaines",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98143,
+          "name": "Rodney Pangbourne",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

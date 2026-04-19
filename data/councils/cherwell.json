@@ -1,0 +1,613 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "cherwell",
+    "council_name": "Cherwell"
+  },
+  "wards": [
+    {
+      "ward_name": "Adderbury, Bloxham & Bodicote",
+      "ballot_paper_id": "local.cherwell.adderbury-bloxham-bodicote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127208,
+          "name": "David Andrew Collingwood-Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127209,
+          "name": "James Edsburg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76299,
+          "name": "David Richard Hingley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 105800,
+          "name": "Linda Newbery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 105765,
+          "name": "Helen Margaret Oldfield",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banbury Calthorpe & Easington",
+      "ballot_paper_id": "local.cherwell.banbury-calthorpe-easington.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 80503,
+          "name": "John Jefferson Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122089,
+          "name": "Sam Burnett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119696,
+          "name": "Andrew Edwin Eaton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93960,
+          "name": "Ian Harwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127292,
+          "name": "Alex Leonova",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127293,
+          "name": "Helen Mears",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127294,
+          "name": "Mark Naden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90226,
+          "name": "David Christopher Pallot",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 64265,
+          "name": "Phil Richards",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127295,
+          "name": "Jacqui Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127296,
+          "name": "Luke Whitehouse",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banbury Cross & Neithrop",
+      "ballot_paper_id": "local.cherwell.banbury-cross-neithrop.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 119695,
+          "name": "Rebecca Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80534,
+          "name": "Simon Zachary Garrett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127364,
+          "name": "Yvonne Greene",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127365,
+          "name": "Jake Howard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 49523,
+          "name": "Chuk Okeke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127367,
+          "name": "Jose Omombo Omekandji",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banbury Grimsbury & Hightown",
+      "ballot_paper_id": "local.cherwell.banbury-grimsbury-hightown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 110648,
+          "name": "Cassi Bellingham",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 77049,
+          "name": "Rebecca Biegel",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127430,
+          "name": "Sean Murray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127431,
+          "name": "Koppany Nagy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127432,
+          "name": "Jack Vere",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127433,
+          "name": "Chris Wiseman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banbury Hardwick",
+      "ballot_paper_id": "local.cherwell.banbury-hardwick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16902,
+          "name": "Andrew Crichton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45911,
+          "name": "Simi Cumberbatch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127569,
+          "name": "Paul Jeffreys",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127570,
+          "name": "Michael Offei",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111062,
+          "name": "Taraji Ogunnubi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Banbury Ruscote",
+      "ballot_paper_id": "local.cherwell.banbury-ruscote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 105792,
+          "name": "Julie Battison",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127893,
+          "name": "Mark Gorman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127894,
+          "name": "Karl Michael Kazimierz Kwiatkowski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127895,
+          "name": "Nikki Payne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127896,
+          "name": "Chloe Dawn Smith",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127897,
+          "name": "Kai Benjamin Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bicester East",
+      "ballot_paper_id": "local.cherwell.bicester-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73549,
+          "name": "Donna Ford",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 93997,
+          "name": "Amanda Maguire",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122152,
+          "name": "Andrew O'Gorman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105755,
+          "name": "Alex Thrupp",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127351,
+          "name": "Bryonie Wells",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bicester North & Caversfield",
+      "ballot_paper_id": "local.cherwell.bicester-north-caversfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122153,
+          "name": "Babatunde Aribisala",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10782,
+          "name": "Nicholas Edward Mawer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122162,
+          "name": "Robin Kenneth Winslow Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122170,
+          "name": "Julius Parker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122155,
+          "name": "Alan Thomas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bicester South & Ambrosden",
+      "ballot_paper_id": "local.cherwell.bicester-south-ambrosden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122137,
+          "name": "Tom Burgess",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127758,
+          "name": "Sarah Farrow",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73078,
+          "name": "Damien Maguire",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76958,
+          "name": "Chris Pruden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127759,
+          "name": "Shams Ud-din",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bicester West",
+      "ballot_paper_id": "local.cherwell.bicester-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 126501,
+          "name": "Claire Brenner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128654,
+          "name": "Marco Caso",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128655,
+          "name": "Naomi Rose Crookston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128656,
+          "name": "Paul Graham",
+          "party_name": "Animal Welfare Party"
+        },
+        {
+          "person_id": 128657,
+          "name": "Dan Hallett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 66481,
+          "name": "Tim Lobanov",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10739,
+          "name": "Andrew McHugh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128659,
+          "name": "George Popescu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122156,
+          "name": "Matt Webb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128660,
+          "name": "Jasmine Webb-Majnlund",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128661,
+          "name": "Michael Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cropredy, Sibfords & Wroxton",
+      "ballot_paper_id": "local.cherwell.cropredy-sibfords-wroxton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128593,
+          "name": "Nicola Rose Borkmann",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126066,
+          "name": "Michael William Patrick Clyne",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 10813,
+          "name": "Anne Cullen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122154,
+          "name": "Mitch Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128594,
+          "name": "Rachel M A Payne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128595,
+          "name": "Matthew Joseph Arthur Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deddington",
+      "ballot_paper_id": "local.cherwell.deddington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10824,
+          "name": "Aaron Bliss",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128163,
+          "name": "Gail Ann Collingwood-Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77050,
+          "name": "James Henry Dean Hartley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 10830,
+          "name": "Annette Murphy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 24118,
+          "name": "Eddie Fraser Reeves",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fringford & Heyfords",
+      "ballot_paper_id": "local.cherwell.fringford-heyfords.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127612,
+          "name": "Jean Margaret Conway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79074,
+          "name": "Sandy Lewis Dallimore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127613,
+          "name": "John Honey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127614,
+          "name": "Chris Nelson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kidlington East",
+      "ballot_paper_id": "local.cherwell.kidlington-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128770,
+          "name": "John Colegrave",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128771,
+          "name": "Gregory Michael Fish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 10798,
+          "name": "Fiona Valerie Mawson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38211,
+          "name": "Gabriel William Jonathan Schenk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128772,
+          "name": "Adie Spittle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128773,
+          "name": "Julian Martin Tytherleigh",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kidlington West",
+      "ballot_paper_id": "local.cherwell.kidlington-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128110,
+          "name": "Amanda Jane Carpenter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128111,
+          "name": "Dave Paintin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128112,
+          "name": "Martin Frederick Bach Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128113,
+          "name": "Lisa Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Launton & Otmoor",
+      "ballot_paper_id": "local.cherwell.launton-otmoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128178,
+          "name": "Timothy Simon Faltermeyer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122146,
+          "name": "Ian Richard Hodgson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90320,
+          "name": "Naomi Celia Karslake",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122147,
+          "name": "John Robert O'Regan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122138,
+          "name": "Andrew Payne",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

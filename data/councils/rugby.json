@@ -1,0 +1,497 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "rugby",
+    "council_name": "Rugby"
+  },
+  "wards": [
+    {
+      "ward_name": "Admirals and Cawston",
+      "ballot_paper_id": "local.rugby.admirals-and-cawston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14112,
+          "name": "Lee Chase",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126789,
+          "name": "Andrew Glowacki",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 119974,
+          "name": "Frank Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126790,
+          "name": "Robert Stanley Jerams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93242,
+          "name": "Chris Lee",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Benn",
+      "ballot_paper_id": "local.rugby.benn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 4848,
+          "name": "Sarah Catherine Downes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76242,
+          "name": "Angela Josephine Dunne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56035,
+          "name": "Richard Harrington",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109604,
+          "name": "Rebecca Frances Moran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126787,
+          "name": "Les Northey",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bilton",
+      "ballot_paper_id": "local.rugby.bilton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 98229,
+          "name": "Dapo Awotunde",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119306,
+          "name": "Nicky Bainbridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126806,
+          "name": "Phil Bates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18562,
+          "name": "Robert Bevin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93270,
+          "name": "Philip John Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126807,
+          "name": "Harriet Laura Beatrice Hart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120052,
+          "name": "Gareth Keeley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73635,
+          "name": "Toby James Patrick Lawrence",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126808,
+          "name": "John Partridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44881,
+          "name": "Stephen Pimm",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coton and Boughton",
+      "ballot_paper_id": "local.rugby.coton-and-boughton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109631,
+          "name": "Karolina Lipowska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78844,
+          "name": "Alison Ann Livesey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78846,
+          "name": "Jamie Pullin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126798,
+          "name": "Kay Taylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126799,
+          "name": "Rowan Wooding",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dunsmore",
+      "ballot_paper_id": "local.rugby.dunsmore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126762,
+          "name": "Elly Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126763,
+          "name": "Tom Costello",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98217,
+          "name": "Helen Rebecca Ford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126764,
+          "name": "Claude Hogea",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126765,
+          "name": "Umesh Mistry",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastlands",
+      "ballot_paper_id": "local.rugby.eastlands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109694,
+          "name": "Adewale Adewumi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83767,
+          "name": "Sam Edwards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126788,
+          "name": "Rachel Granger",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109692,
+          "name": "Francis Holden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 56282,
+          "name": "Carolyn Watson-Merret",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillmorton",
+      "ballot_paper_id": "local.rugby.hillmorton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126813,
+          "name": "Julie Douglas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109634,
+          "name": "Devenne Taylor Kedward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126814,
+          "name": "Alexander Linden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126815,
+          "name": "Liam Taverner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126816,
+          "name": "Vanya Dimitrova Yankova",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Bilton",
+      "ballot_paper_id": "local.rugby.new-bilton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 37582,
+          "name": "Andrew Bearne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 56034,
+          "name": "James Robert Moran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 739,
+          "name": "Roy Leonard Sandison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119309,
+          "name": "Anne-Marie Sonko",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120093,
+          "name": "Angela Mary Thompson",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newbold and Brownsover",
+      "ballot_paper_id": "local.rugby.newbold-and-brownsover.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126784,
+          "name": "Julian Cresswell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119975,
+          "name": "Alan Frederick Pavis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73482,
+          "name": "Wayne David John Rabin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98208,
+          "name": "Victoria Saxby-Edwards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126785,
+          "name": "Kyle Stewart",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Paddox",
+      "ballot_paper_id": "local.rugby.paddox.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109695,
+          "name": "Joel Baldwin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37564,
+          "name": "Bob Beggs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126793,
+          "name": "Coreena Glover",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 56033,
+          "name": "Mark William Gore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 31665,
+          "name": "Noreen New",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Revel and Binley Woods",
+      "ballot_paper_id": "local.rugby.revel-and-binley-woods.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 56276,
+          "name": "Sarah Yvonne Elizabeth Feeney",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37576,
+          "name": "Belinda Garcia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129184,
+          "name": "Sean Hannigan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37572,
+          "name": "Maralyn Pickup",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129185,
+          "name": "Pat Ruck",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rokeby and Overslade",
+      "ballot_paper_id": "local.rugby.rokeby-and-overslade.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129186,
+          "name": "Ara Anbarasu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129187,
+          "name": "Corissa Davis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129188,
+          "name": "Kirsty Sarah Louise Denyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120092,
+          "name": "Dan Glover",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76243,
+          "name": "Heidi Maria Thomas",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolston and the Lawfords",
+      "ballot_paper_id": "local.rugby.wolston-and-the-lawfords.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126773,
+          "name": "Sat Bhamra",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126775,
+          "name": "Wayne Broad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 56029,
+          "name": "Becca Stevenson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93274,
+          "name": "Simon Ward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126776,
+          "name": "Adam Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolvey and Shilton",
+      "ballot_paper_id": "local.rugby.wolvey-and-shilton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120106,
+          "name": "J-P Downes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126780,
+          "name": "Deborah Anne Leedham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126781,
+          "name": "Liam Keith Newsome",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126782,
+          "name": "Aidan Brook O'Brien",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18546,
+          "name": "Hossain Tafazzal",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

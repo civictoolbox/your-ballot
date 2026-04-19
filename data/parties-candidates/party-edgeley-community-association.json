@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-edgeley-community-association",
+    "display_name": "Edgeley Community Association",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Edgeley Community Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 136946,
+      "name": "Jess Meller",
+      "party_name": "Edgeley Community Association",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Edgeley"
+    }
+  ]
+}

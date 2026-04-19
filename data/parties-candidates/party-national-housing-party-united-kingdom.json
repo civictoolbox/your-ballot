@@ -1,0 +1,78 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-national-housing-party-united-kingdom",
+    "display_name": "National Housing Party United Kingdom",
+    "candidate_count": 8,
+    "council_count": 4,
+    "raw_party_names": [
+      "National Housing Party United Kingdom"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 138844,
+      "name": "Angel Daden",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "St Pancras & Somers Town"
+    },
+    {
+      "person_id": 138859,
+      "name": "Jose Fafian",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "Regent's Park"
+    },
+    {
+      "person_id": 138725,
+      "name": "Mark Furnell",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "Holborn & Covent Garden"
+    },
+    {
+      "person_id": 123965,
+      "name": "Angela Kingston",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "West Marsh"
+    },
+    {
+      "person_id": 87404,
+      "name": "John Lawrence",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Hollinwood"
+    },
+    {
+      "person_id": 138581,
+      "name": "Luke McCarthy",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "King's Cross"
+    },
+    {
+      "person_id": 93286,
+      "name": "Patrick McGinnis",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "camden",
+      "council_name": "Camden",
+      "ward_name": "Holborn & Covent Garden"
+    },
+    {
+      "person_id": 137561,
+      "name": "Grant Shimmen",
+      "party_name": "National Housing Party United Kingdom",
+      "council_slug": "islington",
+      "council_name": "Islington",
+      "ward_name": "Clerkenwell"
+    }
+  ]
+}

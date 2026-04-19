@@ -1,0 +1,574 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "epping-forest",
+    "council_name": "Epping Forest"
+  },
+  "wards": [
+    {
+      "ward_name": "Buckhurst Hill East & Whitebridge",
+      "ballot_paper_id": "local.epping-forest.buckhurst-hill-east-whitebridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 66929,
+          "name": "Naomi E. Davies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134991,
+          "name": "Joanna Farmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93865,
+          "name": "Elizabeth Gabbett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134992,
+          "name": "James Small",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Buckhurst Hill West",
+      "ballot_paper_id": "local.epping-forest.buckhurst-hill-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135052,
+          "name": "Eric D. Aradeon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135053,
+          "name": "Yvonne Hrusa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83388,
+          "name": "Alain Laviolette",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83389,
+          "name": "Smruti Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132586,
+          "name": "Ish Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135054,
+          "name": "C J Ubah",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chigwell with Lambourne",
+      "ballot_paper_id": "local.epping-forest.chigwell-with-lambourne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 112631,
+          "name": "Tony Casaluci",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135084,
+          "name": "Kieran Emery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14293,
+          "name": "Darshan Singh Sunger",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Epping East",
+      "ballot_paper_id": "local.epping-forest.epping-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 66696,
+          "name": "Edward Matthew Barnard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72416,
+          "name": "Karen Batley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14277,
+          "name": "Cherry Sharon McCredie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 81431,
+          "name": "James Murchison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112651,
+          "name": "Ian Roberts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Epping West & Rural",
+      "ballot_paper_id": "local.epping-forest.epping-west-rural.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 135158,
+          "name": "Alex John Frost",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 2192,
+          "name": "Andrew Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14278,
+          "name": "Holly Whitbread",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grange Hill",
+      "ballot_paper_id": "local.epping-forest.grange-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135181,
+          "name": "Jamie Braha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132577,
+          "name": "Yair Cohen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135182,
+          "name": "Richard M. Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112549,
+          "name": "Debby Rye",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135183,
+          "name": "Syed Sadaf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135184,
+          "name": "Erika Skingsley",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loughton Fairmead",
+      "ballot_paper_id": "local.epping-forest.loughton-fairmead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135199,
+          "name": "Tom Ayre",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135200,
+          "name": "Joseph Downie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135201,
+          "name": "Shivaje Karari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132582,
+          "name": "Natalie Wilding-Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14295,
+          "name": "David J. Wixley",
+          "party_name": "Independent Loughton Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loughton Forest",
+      "ballot_paper_id": "local.epping-forest.loughton-forest.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 135239,
+          "name": "Jon Bryan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135240,
+          "name": "Richard H. Cohen",
+          "party_name": "Independent Loughton Residents Association"
+        },
+        {
+          "person_id": 132581,
+          "name": "Glenn A. Hernandez",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5379,
+          "name": "Scott Jones",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 135241,
+          "name": "Hannah Lovell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108027,
+          "name": "Elizabeth Marsh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106954,
+          "name": "Mari-louise Whitbread",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loughton Roding",
+      "ballot_paper_id": "local.epping-forest.loughton-roding.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135266,
+          "name": "Manraj Atwal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132584,
+          "name": "Neil Carlsson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135267,
+          "name": "Chris Hill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82859,
+          "name": "Chidi Nweke",
+          "party_name": "Independent Loughton Residents Association"
+        },
+        {
+          "person_id": 83428,
+          "name": "Peter John Sinfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82322,
+          "name": "Debbie Wild",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loughton St John's",
+      "ballot_paper_id": "local.epping-forest.loughton-st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135416,
+          "name": "Ralph Cox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132580,
+          "name": "Joe Fellows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135417,
+          "name": "Adam Riches",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135418,
+          "name": "David Saunders",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112608,
+          "name": "Alastair Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112616,
+          "name": "Graham Wiskin",
+          "party_name": "Independent Loughton Residents Association"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Weald Bassett",
+      "ballot_paper_id": "local.epping-forest.north-weald-bassett.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 135426,
+          "name": "Tom Addenbrooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135427,
+          "name": "Jay Gupta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112126,
+          "name": "Ann Huish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135428,
+          "name": "Andy Irvine",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ongar",
+      "ballot_paper_id": "local.epping-forest.ongar.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 105007,
+          "name": "Ron Huish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 65663,
+          "name": "Paul Stefan Keska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132579,
+          "name": "Annie May O'Neill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105008,
+          "name": "Monica Phyllis Richardson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135938,
+          "name": "Tony Marc Sweetman",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roydon & Lower Nazeing",
+      "ballot_paper_id": "local.epping-forest.roydon-lower-nazeing.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 137440,
+          "name": "Phil Dawkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132591,
+          "name": "Alex Drummond",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93833,
+          "name": "Ronda Pugsley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural East",
+      "ballot_paper_id": "local.epping-forest.rural-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132592,
+          "name": "Karen McIvor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14344,
+          "name": "John Philip",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3753,
+          "name": "Robin Tilbrook",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 137465,
+          "name": "Dale Walker",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Theydon Bois with Passingford",
+      "ballot_paper_id": "local.epping-forest.theydon-bois-with-passingford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132578,
+          "name": "William Ayrton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137413,
+          "name": "Rahim Hussein",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47999,
+          "name": "Sue Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112646,
+          "name": "Christine Mortimer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137414,
+          "name": "Geoff Shaw",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waltham Abbey North",
+      "ballot_paper_id": "local.epping-forest.waltham-abbey-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 137441,
+          "name": "Amber Badyari",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137442,
+          "name": "Andrew Crowley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3907,
+          "name": "Kevin Hind",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137443,
+          "name": "Paul Kelleher",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waltham Abbey South & Rural",
+      "ballot_paper_id": "local.epping-forest.waltham-abbey-south-rural.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132880,
+          "name": "James Abbott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83564,
+          "name": "Timothy John Matthews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132881,
+          "name": "Paul Tippett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112627,
+          "name": "Sean Voitov",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waltham Abbey West",
+      "ballot_paper_id": "local.epping-forest.waltham-abbey-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 14284,
+          "name": "Angela Ayre",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112657,
+          "name": "Fraser James MacDonald Scott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 103673,
+          "name": "Paul Charles Ward",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136641,
+          "name": "Josh Webb",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

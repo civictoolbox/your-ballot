@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-revolting-party",
+    "display_name": "The Revolting Party",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Revolting Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 98013,
+      "name": "Miri Finch",
+      "party_name": "The Revolting Party",
+      "council_slug": "kirklees",
+      "council_name": "Kirklees",
+      "ward_name": "Denby Dale"
+    },
+    {
+      "person_id": 75217,
+      "name": "Jonathan Richard Tilt",
+      "party_name": "The Revolting Party",
+      "council_slug": "kirklees",
+      "council_name": "Kirklees",
+      "ward_name": "Crosland Moor"
+    }
+  ]
+}

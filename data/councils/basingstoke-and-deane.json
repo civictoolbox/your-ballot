@@ -1,0 +1,649 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "basingstoke-and-deane",
+    "council_name": "Basingstoke and Deane"
+  },
+  "wards": [
+    {
+      "ward_name": "Basing & Upton Grey",
+      "ballot_paper_id": "local.basingstoke-and-deane.basing-upton-grey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126290,
+          "name": "Annie Kemkaran",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 27368,
+          "name": "Richard Mark Lilleker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129517,
+          "name": "Kieran Paul Sidley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129518,
+          "name": "Kate Tuck",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129519,
+          "name": "Shantha Weerasiri",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bramley",
+      "ballot_paper_id": "local.basingstoke-and-deane.bramley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 27622,
+          "name": "Adam James Coulthard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 72183,
+          "name": "Tony Durrant",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 129506,
+          "name": "Christopher Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126292,
+          "name": "Christopher John Horwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129508,
+          "name": "Jonathan Johnson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brighton Hill",
+      "ballot_paper_id": "local.basingstoke-and-deane.brighton-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76756,
+          "name": "Andrea Karen Bowes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129503,
+          "name": "Carolyn Davison-Roper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9688,
+          "name": "Edward Michael Norman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129504,
+          "name": "Shibaji Shrestha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129505,
+          "name": "Keith Gideon Vaughan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brookvale & Kings Furlong",
+      "ballot_paper_id": "local.basingstoke-and-deane.brookvale-kings-furlong.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129500,
+          "name": "Bikram Banerjee",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129501,
+          "name": "Ashlynn Butler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86920,
+          "name": "Kishor Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2524,
+          "name": "John Daniel Shaw",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129502,
+          "name": "Alan Harvey Stone",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chineham",
+      "ballot_paper_id": "local.basingstoke-and-deane.chineham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129496,
+          "name": "Michael Blackberry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129497,
+          "name": "Ricardo Ferreira",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129498,
+          "name": "Ruth Elizabeth Kellaway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77291,
+          "name": "Michael Gavin McKay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129499,
+          "name": "Greggory Barry Wilkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastrop & Grove",
+      "ballot_paper_id": "local.basingstoke-and-deane.eastrop-grove.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129493,
+          "name": "Jay Richard Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43269,
+          "name": "Nick Bates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129494,
+          "name": "Lilly Rose Beeson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129495,
+          "name": "Niamh Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43264,
+          "name": "John Gavin Neil McKay",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Evingar",
+      "ballot_paper_id": "local.basingstoke-and-deane.evingar.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76932,
+          "name": "Samuel David Carr",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129491,
+          "name": "Erica Maria Shaw",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129492,
+          "name": "Gerald Clement Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76933,
+          "name": "Robert George Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97243,
+          "name": "Christopher John Whitehead",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatch Warren & Beggarwood",
+      "ballot_paper_id": "local.basingstoke-and-deane.hatch-warren-beggarwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129488,
+          "name": "Roger Edwin Blackmore-Squires",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129489,
+          "name": "Spencer John Cleary",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123623,
+          "name": "Dani Davies",
+          "party_name": "The All In Party"
+        },
+        {
+          "person_id": 129490,
+          "name": "Matthew Evans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 26079,
+          "name": "Stephen Reid",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kempshott & Buckskin",
+      "ballot_paper_id": "local.basingstoke-and-deane.kempshott-buckskin.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129476,
+          "name": "Andrew Benson-Wilson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124718,
+          "name": "Val Elliott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129477,
+          "name": "Catherine Elizabeth Hopkins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129478,
+          "name": "Mark Knight",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76949,
+          "name": "Samir Kotecha",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 129479,
+          "name": "Harrison Manners",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norden",
+      "ballot_paper_id": "local.basingstoke-and-deane.norden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129469,
+          "name": "Matthew James Cooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129470,
+          "name": "Linda Hynan",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 76851,
+          "name": "Scott Richard Lawrence",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129471,
+          "name": "Jonathan Tate",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110626,
+          "name": "Jack Alexander Wadge-Stacey",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oakley & The Candovers",
+      "ballot_paper_id": "local.basingstoke-and-deane.oakley-the-candovers.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 110611,
+          "name": "Christopher Michael Aldous",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77276,
+          "name": "Marc Connor",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 9684,
+          "name": "Robert Charles Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97251,
+          "name": "Hannah Lilian Jane Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129462,
+          "name": "Sherrie De Kiguchi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110616,
+          "name": "Taylor Parnell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110631,
+          "name": "Bronwyn Holly Phillips",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125236,
+          "name": "Alex Rowley",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 129463,
+          "name": "Michael Stockwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129464,
+          "name": "Martin Nigel Street",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Popley",
+      "ballot_paper_id": "local.basingstoke-and-deane.popley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 47714,
+          "name": "Michael Berwick-Gooding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129439,
+          "name": "Ellen Mary Hynes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129440,
+          "name": "Ty Murray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77301,
+          "name": "Satya Sookhun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129441,
+          "name": "Duncan Philip Stone",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sherborne St John & Rooksdown",
+      "ballot_paper_id": "local.basingstoke-and-deane.sherborne-st-john-rooksdown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129433,
+          "name": "Elle Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 51541,
+          "name": "Ryan James Hickling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129434,
+          "name": "John David Ernest Naldrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86901,
+          "name": "Bradley David Phillips",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129435,
+          "name": "Karl Rand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 51725,
+          "name": "Nick Robinson",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Ham",
+      "ballot_paper_id": "local.basingstoke-and-deane.south-ham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 9695,
+          "name": "Madeline Hussey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 104395,
+          "name": "Joseph Hutton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9692,
+          "name": "Tony Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129420,
+          "name": "Zena Lindsay",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129421,
+          "name": "Steven Paul Trumm",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129422,
+          "name": "Lilly Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tadley & Pamber",
+      "ballot_paper_id": "local.basingstoke-and-deane.tadley-pamber.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129396,
+          "name": "Kelly Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77282,
+          "name": "Jonathan Richards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129397,
+          "name": "Lyn Roberts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9748,
+          "name": "Jo Slimin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129398,
+          "name": "Wayne Terry",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tadley North, Kingsclere & Baughurst",
+      "ballot_paper_id": "local.basingstoke-and-deane.tadley-north-kingsclere-baughurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124738,
+          "name": "Bruce Buckland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129408,
+          "name": "Elliott Gardiner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77286,
+          "name": "Kerry Morrow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129409,
+          "name": "Daniel William Reah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129410,
+          "name": "Charlotte Lise Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitchurch, Overton & Laverstoke",
+      "ballot_paper_id": "local.basingstoke-and-deane.whitchurch-overton-laverstoke.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9749,
+          "name": "Chloe Ashfield",
+          "party_name": "Basingstoke & Deane Independents"
+        },
+        {
+          "person_id": 129389,
+          "name": "Victoria Harber",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129390,
+          "name": "Kieran McDermott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129391,
+          "name": "Ann Nold",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 24145,
+          "name": "Lucy Sloane Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winklebury & Manydown",
+      "ballot_paper_id": "local.basingstoke-and-deane.winklebury-manydown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129386,
+          "name": "Abigail Compton-Burnett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 76706,
+          "name": "Bill Farrington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110620,
+          "name": "Cait Roisin Janet Fuller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110643,
+          "name": "Christina Sheila Jordan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77272,
+          "name": "Wendy Elizabeth McKay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50041,
+          "name": "Mike Patchett",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

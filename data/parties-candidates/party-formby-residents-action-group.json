@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-formby-residents-action-group",
+    "display_name": "Formby Residents Action Group",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Formby Residents Action Group"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 41236,
+      "name": "Maria Bennett",
+      "party_name": "Formby Residents Action Group",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Formby East"
+    },
+    {
+      "person_id": 136942,
+      "name": "Paul Graham Wiencke",
+      "party_name": "Formby Residents Action Group",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Formby West"
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "st-albans",
+    "council_name": "St Albans"
+  },
+  "wards": [
+    {
+      "ward_name": "Batchwood",
+      "ballot_paper_id": "local.st-albans.batchwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127787,
+          "name": "Chris Cloke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112847,
+          "name": "Damian Gaskin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127789,
+          "name": "Chris Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127790,
+          "name": "Tatiana Metcalf-Riener",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15869,
+          "name": "Stella Nash",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127791,
+          "name": "Kathleen Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bernards Heath",
+      "ballot_paper_id": "local.st-albans.bernards-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 36893,
+          "name": "Helen Rosemary Campbell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89717,
+          "name": "Jane Cloke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15807,
+          "name": "Claire Gilbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82392,
+          "name": "Ambrose Killen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127755,
+          "name": "William Heugh Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clarence",
+      "ballot_paper_id": "local.st-albans.clarence.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 119495,
+          "name": "Stephen Bird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118821,
+          "name": "Livvy Gibbs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 70716,
+          "name": "Josie Madoc",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15823,
+          "name": "Martin McGrath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112869,
+          "name": "June Reid",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Colney Heath",
+      "ballot_paper_id": "local.st-albans.colney-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 55876,
+          "name": "Chris Brazier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127633,
+          "name": "Iain Grant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127634,
+          "name": "Frances Leonard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127635,
+          "name": "Rebecca Watters",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127636,
+          "name": "Mark Geoffrey Woolhouse",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cunningham",
+      "ballot_paper_id": "local.st-albans.cunningham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 55880,
+          "name": "Robert Francis Donald",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127637,
+          "name": "Rachael Drewitt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127638,
+          "name": "Isabelle Habib",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127639,
+          "name": "James Ian Humphrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15762,
+          "name": "John Paton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harpenden East",
+      "ballot_paper_id": "local.st-albans.harpenden-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 26600,
+          "name": "Lesley Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127871,
+          "name": "Thomas Oliver Cooney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55883,
+          "name": "Pip Liver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98173,
+          "name": "Neil Mulcock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55884,
+          "name": "Geoffrey Newman",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harpenden North & Rural",
+      "ballot_paper_id": "local.st-albans.harpenden-north-rural.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127929,
+          "name": "Joel Crichton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98178,
+          "name": "Ben Dearman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112855,
+          "name": "Sam Spiri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127930,
+          "name": "Kevin Timmons",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 119491,
+          "name": "Philip Martin Wells",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harpenden South",
+      "ballot_paper_id": "local.st-albans.harpenden-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118820,
+          "name": "Tanja Brueckmann-Rath",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15788,
+          "name": "David Heritage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128069,
+          "name": "Nikolaus Rath",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128070,
+          "name": "Matthew David Swan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128071,
+          "name": "Guy Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harpenden West",
+      "ballot_paper_id": "local.st-albans.harpenden-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128079,
+          "name": "Ric Belfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128080,
+          "name": "Paul Stuart Brayley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128081,
+          "name": "David Crew",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 67589,
+          "name": "Aaron Jacob",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5393,
+          "name": "Mario May",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hill End",
+      "ballot_paper_id": "local.st-albans.hill-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 89813,
+          "name": "Sudha Bharadia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128108,
+          "name": "Steve Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36886,
+          "name": "Jamie Day",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89816,
+          "name": "Marianne Jordan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128109,
+          "name": "Caspar Hugo Issac Thomas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "London Colney",
+      "ballot_paper_id": "local.st-albans.london-colney.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128051,
+          "name": "Aimee Crompton-Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128052,
+          "name": "David Eaton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112857,
+          "name": "Eleanor Frances Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 26578,
+          "name": "Tony Lillico",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128053,
+          "name": "Sarah Lister",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marshalswick East & Jersey Farm",
+      "ballot_paper_id": "local.st-albans.marshalswick-east-jersey-farm.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112851,
+          "name": "Larraine Charters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128114,
+          "name": "Joe Flynn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89860,
+          "name": "Lorraine Helen Kirby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 55941,
+          "name": "Graham Leonard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128115,
+          "name": "Stephen Poxon",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marshalswick West",
+      "ballot_paper_id": "local.st-albans.marshalswick-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 55874,
+          "name": "Don Deepthi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127400,
+          "name": "Jason Flynn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112859,
+          "name": "Sarah Heiser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89882,
+          "name": "Michael Mortimer Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127401,
+          "name": "Thomas Peter Russell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park Street",
+      "ballot_paper_id": "local.st-albans.park-street.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 82466,
+          "name": "Laurence Chester",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13903,
+          "name": "Richard Curthoys",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128124,
+          "name": "Rav Dighe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112860,
+          "name": "Roger John Curtis Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43781,
+          "name": "Mark Stephen Charles Park-Crowne",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redbourn",
+      "ballot_paper_id": "local.st-albans.redbourn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112867,
+          "name": "Naina Bloom",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89928,
+          "name": "Andy Hayes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55916,
+          "name": "David Mitchell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128146,
+          "name": "Amanda Nash",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128147,
+          "name": "Joy Katherine Swan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98210,
+          "name": "Matthew Thomas",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sandridge & Wheathampstead",
+      "ballot_paper_id": "local.st-albans.sandridge-wheathampstead.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 127839,
+          "name": "Denise Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127840,
+          "name": "Ann Ellen Mary Chance-Read",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127841,
+          "name": "Gill Clark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127842,
+          "name": "Danielle Durant-Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127843,
+          "name": "Nigel Kenneth Hawes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37382,
+          "name": "Oliver Hitch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108983,
+          "name": "Simon Richard Johns",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127844,
+          "name": "Frederick Alan Philpott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127845,
+          "name": "Symon Vegro",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127846,
+          "name": "Andrew Waterfield",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sopwell",
+      "ballot_paper_id": "local.st-albans.sopwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 119532,
+          "name": "Jane Dawson-Davis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15868,
+          "name": "Mark Antony Ewington",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 127756,
+          "name": "Len Pattenden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15848,
+          "name": "Heather Rench",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72860,
+          "name": "Sarwar Shamsher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127757,
+          "name": "Janet Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peters",
+      "ballot_paper_id": "local.st-albans.st-peters.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128160,
+          "name": "Jim Brodie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89950,
+          "name": "David Byatt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15806,
+          "name": "Claudio Duran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128161,
+          "name": "Sean William Hughes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37058,
+          "name": "Sally Leonard",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Stephen",
+      "ballot_paper_id": "local.st-albans.st-stephen.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 15861,
+          "name": "Janet Blackwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127584,
+          "name": "Richard Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89966,
+          "name": "Ajanta Hilton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127585,
+          "name": "Jane Hobday",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127586,
+          "name": "Mohammed Rafi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127587,
+          "name": "Martyn Redstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127588,
+          "name": "Gabriel Roberts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127589,
+          "name": "Simin Taheri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127590,
+          "name": "Ben Tiplady",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119542,
+          "name": "Stewart Irus Jason Vassie",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Verulam",
+      "ballot_paper_id": "local.st-albans.verulam.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 43756,
+          "name": "Susan Devi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127676,
+          "name": "Alan Hugh Dodds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89978,
+          "name": "Dawn Gamble",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89979,
+          "name": "Geoff Meade",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127677,
+          "name": "Kevin Tiplady",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

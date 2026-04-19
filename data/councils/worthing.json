@@ -1,0 +1,439 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "worthing",
+    "council_name": "Worthing"
+  },
+  "wards": [
+    {
+      "ward_name": "Broadwater",
+      "ballot_paper_id": "local.worthing.broadwater.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12813,
+          "name": "John Christopher Apsey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135331,
+          "name": "Tim Hicks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135332,
+          "name": "Lindsey Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135333,
+          "name": "Christopher Moros",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118045,
+          "name": "Jimi Robert Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.worthing.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 78469,
+          "name": "Ibsha Choudhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 63827,
+          "name": "Lionel Harman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78606,
+          "name": "lona Harte",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135359,
+          "name": "Soraya Hatami",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 33210,
+          "name": "Sean McDonald",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.worthing.central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 101896,
+          "name": "Odul Bozkurt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135242,
+          "name": "Natasha Louise Davie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 101913,
+          "name": "David Kingston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135243,
+          "name": "Sam Mitchell-Innes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101894,
+          "name": "Edmund John Rooke",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Durrington",
+      "ballot_paper_id": "local.worthing.durrington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135372,
+          "name": "Luke Angel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135373,
+          "name": "Charles John Ellerington James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135374,
+          "name": "Nikki Joule",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78591,
+          "name": "Robin Thurston Rogers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135375,
+          "name": "Bradley Rowatt",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gaisford",
+      "ballot_paper_id": "local.worthing.gaisford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135397,
+          "name": "Claire Lydia Hatfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135398,
+          "name": "Mathew Hoyland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135399,
+          "name": "Stuart James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86421,
+          "name": "Dale Overton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 33951,
+          "name": "Bryan William Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Goring",
+      "ballot_paper_id": "local.worthing.goring.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135268,
+          "name": "Jo Bayly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40355,
+          "name": "Kevin Jenkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101897,
+          "name": "Merlin Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135269,
+          "name": "Jenni Price",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135270,
+          "name": "Jasmine Ariadne Watkins",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heene",
+      "ballot_paper_id": "local.worthing.heene.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135419,
+          "name": "Jenny Blackie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135420,
+          "name": "Luke William Houghton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135421,
+          "name": "Richard Smart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109527,
+          "name": "Anthony Paul Squires",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116693,
+          "name": "Debbie Woudman",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marine",
+      "ballot_paper_id": "local.worthing.marine.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135435,
+          "name": "Sophie Fatehnia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135436,
+          "name": "Jamie Duncan MacMillan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43383,
+          "name": "Martin McCabe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135437,
+          "name": "Sally Nowak",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12818,
+          "name": "Trudi Ann Starling",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northbrook",
+      "ballot_paper_id": "local.worthing.northbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12861,
+          "name": "Mike Barrett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78670,
+          "name": "Russ Cochran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135474,
+          "name": "Alice Pimley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135475,
+          "name": "Rob Venn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78471,
+          "name": "Nicholas Stuart Wiltshire",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Offington",
+      "ballot_paper_id": "local.worthing.offington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135221,
+          "name": "Jeremy Leonard Berrett Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 63716,
+          "name": "Nigel James Morgan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109532,
+          "name": "Liz Nicholson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78703,
+          "name": "Stephen Rhodes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135222,
+          "name": "Sarah Ann Waghorn",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Salvington",
+      "ballot_paper_id": "local.worthing.salvington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135492,
+          "name": "Peter Henry Barnes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135493,
+          "name": "Karen Harman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135494,
+          "name": "Polly McGillivray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41371,
+          "name": "Emma Kate Norton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 73666,
+          "name": "Paisley Thomson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Selden",
+      "ballot_paper_id": "local.worthing.selden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 33303,
+          "name": "Christine Beryl Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135498,
+          "name": "Steven Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78462,
+          "name": "John Robert Salisbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135499,
+          "name": "Katie Thornton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12834,
+          "name": "Joe Thornton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tarring",
+      "ballot_paper_id": "local.worthing.tarring.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12862,
+          "name": "Keith Bickers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135518,
+          "name": "Catherine Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92596,
+          "name": "Rita Valerie Gladys Garner",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135519,
+          "name": "Cloe Irene Grampa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1845,
+          "name": "Hazel Thorpe",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

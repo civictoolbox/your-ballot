@@ -1,0 +1,86 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-english-democrats",
+    "display_name": "English Democrats",
+    "candidate_count": 9,
+    "council_count": 6,
+    "raw_party_names": [
+      "English Democrats"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 137662,
+      "name": "John Charles Barrow",
+      "party_name": "English Democrats",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Rustington"
+    },
+    {
+      "person_id": 99967,
+      "name": "Aaron James Brand",
+      "party_name": "English Democrats",
+      "council_slug": "tunbridge-wells",
+      "council_name": "Tunbridge Wells",
+      "ward_name": "Southborough & Bidborough"
+    },
+    {
+      "person_id": 127488,
+      "name": "Gary Knight",
+      "party_name": "English Democrats",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Dearne North"
+    },
+    {
+      "person_id": 7011,
+      "name": "Stephen Morris",
+      "party_name": "English Democrats",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Besses"
+    },
+    {
+      "person_id": 3905,
+      "name": "Valerie Morris",
+      "party_name": "English Democrats",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Holyrood"
+    },
+    {
+      "person_id": 1528,
+      "name": "Janus Polenceusz",
+      "party_name": "English Democrats",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Dearne North"
+    },
+    {
+      "person_id": 508,
+      "name": "Maxine Spencer",
+      "party_name": "English Democrats",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Dearne North"
+    },
+    {
+      "person_id": 3753,
+      "name": "Robin Tilbrook",
+      "party_name": "English Democrats",
+      "council_slug": "epping-forest",
+      "council_name": "Epping Forest",
+      "ward_name": "Rural East"
+    },
+    {
+      "person_id": 3753,
+      "name": "Robin Tilbrook",
+      "party_name": "English Democrats",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Ongar & Rural"
+    }
+  ]
+}

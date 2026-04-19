@@ -1,0 +1,1720 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "east-sussex",
+    "council_name": "East Sussex"
+  },
+  "wards": [
+    {
+      "ward_name": "Arlington, East Hoathly & Hellingly",
+      "ballot_paper_id": "local.east-sussex.arlington-east-hoathly-hellingly.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30458,
+          "name": "Nick Bennett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126466,
+          "name": "William Boone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133422,
+          "name": "Ricardo Canha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30525,
+          "name": "Brendan Robert Clegg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133438,
+          "name": "Laura Jane Murphy",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ashdown & Conquest",
+      "ballot_paper_id": "local.east-sussex.ashdown-conquest.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133442,
+          "name": "Louise Chantal",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123232,
+          "name": "Aidan Christian Fisher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14733,
+          "name": "Stewart Gregory Rayment",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93073,
+          "name": "Roger Streeten",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112687,
+          "name": "Paula Warne",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Baird & Ore",
+      "ballot_paper_id": "local.east-sussex.baird-ore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112688,
+          "name": "Liam Atkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133515,
+          "name": "Kim Forward",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 80222,
+          "name": "Martin Paul Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133454,
+          "name": "Jack Philip McCree",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112682,
+          "name": "Jo Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Battle & Crowhurst",
+      "ballot_paper_id": "local.east-sussex.battle-crowhurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 61554,
+          "name": "Nicky Bishop",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59437,
+          "name": "Pam Doodes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 30920,
+          "name": "Kathryn Margaret Field",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136260,
+          "name": "Austin Peter Henderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136261,
+          "name": "Marcus Kent",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bexhill East",
+      "ballot_paper_id": "local.east-sussex.bexhill-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 126534,
+          "name": "Jordan John Beeney",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 30966,
+          "name": "Charles Clark",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 108519,
+          "name": "Gareth Robert Michael Delany",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 30941,
+          "name": "Simon David Elford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108504,
+          "name": "Bill Goddard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136271,
+          "name": "Tim Gordon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136272,
+          "name": "Martin John Kenward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136273,
+          "name": "Tina Neale",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bexhill North",
+      "ballot_paper_id": "local.east-sussex.bexhill-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 60217,
+          "name": "Abul Kalam Azad",
+          "party_name": "Rother Association of Independent Councillors"
+        },
+        {
+          "person_id": 65047,
+          "name": "Sharon Joy Blagrove",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136155,
+          "name": "Chris Glenn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107500,
+          "name": "Mark Colby Legg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136156,
+          "name": "Paul Peters",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136157,
+          "name": "Jimmy Stanger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117715,
+          "name": "Donald Robert Walmsley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bexhill South",
+      "ballot_paper_id": "local.east-sussex.bexhill-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 100925,
+          "name": "Arren Rathbone Ariel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 34372,
+          "name": "Christine Ann Bayliss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136960,
+          "name": "Victoria Frances Carson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136961,
+          "name": "Michelle Lindsay Fairbrass",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136962,
+          "name": "Mark Edward Hobden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 65096,
+          "name": "Ian Richard Hollidge",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bexhill West",
+      "ballot_paper_id": "local.east-sussex.bexhill-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 122798,
+          "name": "Joe Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136285,
+          "name": "Timothy Mark Fenner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136286,
+          "name": "Rory Charles Lindsay Llewelyn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108290,
+          "name": "Ruairi Anthony McCourt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136287,
+          "name": "Pete Morley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108348,
+          "name": "Connor Jack Winter",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Braybrooke & Castle",
+      "ballot_paper_id": "local.east-sussex.braybrooke-castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133534,
+          "name": "Peter Anthony Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42324,
+          "name": "Paul Patrick James Foster",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42366,
+          "name": "Becca Horn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112027,
+          "name": "Josh Matthews",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14736,
+          "name": "Stephen Ludwig Milton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brede Valley & Marsham",
+      "ballot_paper_id": "local.east-sussex.brede-valley-marsham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136985,
+          "name": "Beverley Jane Coupar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136986,
+          "name": "Reece Honeywell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136987,
+          "name": "Daniel Emil Lach",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30933,
+          "name": "Carl Raymond Maynard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136988,
+          "name": "Imogen Pollard",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central St Leonards & Gensing",
+      "ballot_paper_id": "local.east-sussex.central-st-leonards-gensing.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45101,
+          "name": "Anne Gallop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93040,
+          "name": "Amanda Christabel Jobson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6690,
+          "name": "Caroline June Kerswell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134894,
+          "name": "Philip Morgan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133483,
+          "name": "Trevor Redmond",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chailey",
+      "ballot_paper_id": "local.east-sussex.chailey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132984,
+          "name": "Tim Embleton-Archard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132990,
+          "name": "Elizabeth Caroline Graham-Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132998,
+          "name": "Marion Joyce Hughes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133089,
+          "name": "Charlotte Keenan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 57744,
+          "name": "Isabelle Linington",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crowborough North & Jarvis Brook",
+      "ballot_paper_id": "local.east-sussex.crowborough-north-jarvis-brook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 126467,
+          "name": "Catherine Fielding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54459,
+          "name": "Nigel James Fox",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30468,
+          "name": "Bev Johnstone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133481,
+          "name": "Jeannette Elizabeth Towey",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crowborough South & St Johns",
+      "ballot_paper_id": "local.east-sussex.crowborough-south-st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 58799,
+          "name": "Alison Clare Arthur",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108342,
+          "name": "Martyn Everitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133504,
+          "name": "Sarah Jury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58800,
+          "name": "Neil Harry Waller",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125948,
+          "name": "Andrew James Ashton Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Devonshire",
+      "ballot_paper_id": "local.east-sussex.devonshire.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135551,
+          "name": "Mike Dickens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1748,
+          "name": "Keith Vernon Gell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 59623,
+          "name": "Stephen Holt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135552,
+          "name": "Chris Pettitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 29760,
+          "name": "Paul Adrian Richards",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135550,
+          "name": "Daniel De Rozarieux",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest Row & Groombridge",
+      "ballot_paper_id": "local.east-sussex.forest-row-groombridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133550,
+          "name": "Edward Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133554,
+          "name": "Julia Barbara Chowaniec",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126468,
+          "name": "Andrew Joad",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 71997,
+          "name": "Georgia Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hailsham Market",
+      "ballot_paper_id": "local.east-sussex.hailsham-market.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 73553,
+          "name": "Jordan Woonton Beech",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126469,
+          "name": "Neil Andrew Cleaver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30490,
+          "name": "Steve Murphy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133630,
+          "name": "Ali Stevens",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hailsham New Town",
+      "ballot_paper_id": "local.east-sussex.hailsham-new-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30513,
+          "name": "Gavin Michael Blake-Coggins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124568,
+          "name": "Trevor Leslie Botting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122835,
+          "name": "Barry William Carpenter",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126470,
+          "name": "Paul Soane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77871,
+          "name": "Simon Wells",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampden Park",
+      "ballot_paper_id": "local.east-sussex.hampden-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135555,
+          "name": "Moz Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106736,
+          "name": "Dave Poole",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 59618,
+          "name": "Margaret Elizabeth Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29798,
+          "name": "Colin Richard Swansborough",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135556,
+          "name": "Bernard Christopher Tominey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135557,
+          "name": "Zuza Zak",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heathfield & Mayfield",
+      "ballot_paper_id": "local.east-sussex.heathfield-mayfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 59932,
+          "name": "Anne Barbara Blake-Coggins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133677,
+          "name": "Teresa Jane Blaxland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108349,
+          "name": "Jessika Simone Hulbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133688,
+          "name": "Steve Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126471,
+          "name": "Andy Woolley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hollington & Wishing Tree",
+      "ballot_paper_id": "local.east-sussex.hollington-wishing-tree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112050,
+          "name": "Stephen Butterton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136329,
+          "name": "Mark Estcourt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14665,
+          "name": "Terry Keen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133563,
+          "name": "John Rankin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133503,
+          "name": "Justin Lee Wynne",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Langney",
+      "ballot_paper_id": "local.east-sussex.langney.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 59642,
+          "name": "Nick Ansell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 29792,
+          "name": "Ian Charles Garbutt",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 106723,
+          "name": "Angela Mary Goodchild",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135575,
+          "name": "Mike McCarthy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135577,
+          "name": "Carla Sheppard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 29793,
+          "name": "Alan Shuttleworth",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lewes",
+      "ballot_paper_id": "local.east-sussex.lewes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133102,
+          "name": "Lorraine Janet Crawley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80619,
+          "name": "Wendy Maples",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133104,
+          "name": "William Webb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133117,
+          "name": "Kevin West",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maresfield & Buxted",
+      "ballot_paper_id": "local.east-sussex.maresfield-buxted.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 108337,
+          "name": "Christina Nanna Mary Coleman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30500,
+          "name": "Roy Galley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 59103,
+          "name": "Gary Peter Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59168,
+          "name": "Tim Murray",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maze Hill & West St Leonards",
+      "ballot_paper_id": "local.east-sussex.maze-hill-west-st-leonards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30908,
+          "name": "Matthew Joseph Beaver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133553,
+          "name": "Derek Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58901,
+          "name": "Bruce Meredeen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82606,
+          "name": "Anna Sabin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45097,
+          "name": "Karen Simnett",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Meads",
+      "ballot_paper_id": "local.east-sussex.meads.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135578,
+          "name": "Peter James Bucklitsch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135579,
+          "name": "Jack Morrell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135580,
+          "name": "Dennis Leslie Scard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59641,
+          "name": "Robert Christopher Smart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106759,
+          "name": "Brett Anthony Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newhaven & Bishopstone",
+      "ballot_paper_id": "local.east-sussex.newhaven-bishopstone.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 100997,
+          "name": "Lesley Boniface",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 100955,
+          "name": "Catherine Boorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133190,
+          "name": "Joe Moughrabi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29682,
+          "name": "Emily O'Brien",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139119,
+          "name": "Archie Barry Edward Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northern Rother",
+      "ballot_paper_id": "local.east-sussex.northern-rother.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136289,
+          "name": "Jeannie Eason",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59811,
+          "name": "Stephen Philip Hardy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136290,
+          "name": "Jonathan Owen David Jennings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65023,
+          "name": "Paul Redstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 63449,
+          "name": "Andrew John Michael Wedmore",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Hastings & Tressell",
+      "ballot_paper_id": "local.east-sussex.old-hastings-tressell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14713,
+          "name": "James Edward Bacon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84399,
+          "name": "Donna Lynette Harris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14732,
+          "name": "Julia Jane Hilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133463,
+          "name": "Yoong Kam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14702,
+          "name": "Andrew Robert Patmore",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Town",
+      "ballot_paper_id": "local.east-sussex.old-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 1057,
+          "name": "Dave Brinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59643,
+          "name": "Peter Robert Diplock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106751,
+          "name": "Jessica Gail Gisby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135585,
+          "name": "Pauline Von Hellermann",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135583,
+          "name": "Martine Horvath",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 135584,
+          "name": "James Luke Norris",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ouse Valley West & Downs",
+      "ballot_paper_id": "local.east-sussex.ouse-valley-west-downs.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 133228,
+          "name": "Wilfred David Heasman-O'Neill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80627,
+          "name": "Paul Keene",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133234,
+          "name": "Steve Kemsley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6307,
+          "name": "Sarah Osborne",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peacehaven",
+      "ballot_paper_id": "local.east-sussex.peacehaven.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133282,
+          "name": "Andy Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133288,
+          "name": "Paul Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29698,
+          "name": "Nigel David Enever",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133301,
+          "name": "Harry Jack Garoghan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133304,
+          "name": "Tracy Pedro",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pevensey & Stone Cross",
+      "ballot_paper_id": "local.east-sussex.pevensey-stone-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 29791,
+          "name": "Lee Stephen Comfort",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76943,
+          "name": "Mark Fairweather",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133811,
+          "name": "Xander Gottlieb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30496,
+          "name": "Tom Liddiard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133823,
+          "name": "Roger David Lincoln",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30497,
+          "name": "Mike Pursglove",
+          "party_name": "UK Independence Party (UKIP)"
+        }
+      ]
+    },
+    {
+      "ward_name": "Polegate & Watermill",
+      "ballot_paper_id": "local.east-sussex.polegate-watermill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 54423,
+          "name": "Katrina Ruth Best",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133836,
+          "name": "Mickey Caira",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133852,
+          "name": "James Heward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5292,
+          "name": "Jake Ethan Lambert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133854,
+          "name": "Debbie Lillington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30491,
+          "name": "Daniel Dak Yan Shing",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ratton",
+      "ballot_paper_id": "local.east-sussex.ratton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135594,
+          "name": "David Charles Alfred",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 29780,
+          "name": "Colin Sidney Belsey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135595,
+          "name": "Ben Burbridge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135596,
+          "name": "Gary James Fry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59617,
+          "name": "Jim Murray",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ringmer & Lewes Bridge",
+      "ballot_paper_id": "local.east-sussex.ringmer-lewes-bridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 57948,
+          "name": "Janet Baah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133133,
+          "name": "Ros Brewer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 29690,
+          "name": "Johnny Denis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133144,
+          "name": "Mark Anthony O'Neill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133145,
+          "name": "Richard John Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rother North West",
+      "ballot_paper_id": "local.east-sussex.rother-north-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 116303,
+          "name": "Mark Andrew Ashdown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5767,
+          "name": "Jonathan Christopher Kent",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 63447,
+          "name": "Eleanor Mary Kirby-Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4834,
+          "name": "Tim MacPherson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 23864,
+          "name": "Mary Elizabeth Varrall",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rye & Eastern Rother",
+      "ballot_paper_id": "local.east-sussex.rye-eastern-rother.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 136072,
+          "name": "Dan Bradley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34796,
+          "name": "Sally-Ann Hart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136288,
+          "name": "Jimmy Edward Hyatt",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80763,
+          "name": "Dominic Mark Wistow Manning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5529,
+          "name": "Pete McLaren",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 53084,
+          "name": "Andrew Stanley Mier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123233,
+          "name": "Amanda Kate Carman Pollard",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Seaford North",
+      "ballot_paper_id": "local.east-sussex.seaford-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 29678,
+          "name": "Sam Adeniji",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59018,
+          "name": "Liz Boorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 100976,
+          "name": "Ezra Cohen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133324,
+          "name": "Jane Reeves",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Seaford South",
+      "ballot_paper_id": "local.east-sussex.seaford-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 58711,
+          "name": "Becky Francomb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 29680,
+          "name": "Carolyn Lambert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 58053,
+          "name": "Tam Large",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101000,
+          "name": "Bill Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80658,
+          "name": "Christopher Purser",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sovereign",
+      "ballot_paper_id": "local.east-sussex.sovereign.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 59660,
+          "name": "Penny Di Cara",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135540,
+          "name": "Eniko Kalo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120803,
+          "name": "Tom Nevill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135541,
+          "name": "Roy Peché",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 106774,
+          "name": "John Mitchell Stewart Sailing",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Helens & Silverhill",
+      "ballot_paper_id": "local.east-sussex.st-helens-silverhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136306,
+          "name": "Sean Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133535,
+          "name": "Shaun Dowling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45147,
+          "name": "Bob Lloyd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133538,
+          "name": "Howard Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133527,
+          "name": "Margi O'Callaghan",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St. Anthony's",
+      "ballot_paper_id": "local.east-sussex.st-anthonys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 107264,
+          "name": "Anthony Joseph Bracuti",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 29777,
+          "name": "John Lambert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118997,
+          "name": "Rosie Jessica Moon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 59656,
+          "name": "Hugh Wayne Parker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135607,
+          "name": "John Shuttle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135608,
+          "name": "Dave Watt",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Telscombe",
+      "ballot_paper_id": "local.east-sussex.telscombe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133388,
+          "name": "Shaun Boniface",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133398,
+          "name": "Stephen Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133402,
+          "name": "Phily Day",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100224,
+          "name": "Nikki Fabry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106047,
+          "name": "Sarah Victoria Webster",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Uckfield North",
+      "ballot_paper_id": "local.east-sussex.uckfield-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133874,
+          "name": "Michelle Coates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30481,
+          "name": "Claire Barbara Dowling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133880,
+          "name": "John Charles Rhodes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133881,
+          "name": "Dylan Underhill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 108413,
+          "name": "Kelvin John Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Uckfield South with Framfield",
+      "ballot_paper_id": "local.east-sussex.uckfield-south-with-framfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133906,
+          "name": "Kathy Butler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133908,
+          "name": "Linda Margaret Churnside",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59320,
+          "name": "Ben Sebastian Cox",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 30478,
+          "name": "Christopher David Dowling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5298,
+          "name": "Peter Griffiths",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upperton",
+      "ballot_paper_id": "local.east-sussex.upperton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135609,
+          "name": "Colin Charles Akers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79704,
+          "name": "Kathy Ballard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135612,
+          "name": "Carolann Van Dinter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135610,
+          "name": "Lisa Jane Gillette",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135611,
+          "name": "Yasin Shamsuddin Salazar",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wealden East",
+      "ballot_paper_id": "local.east-sussex.wealden-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 30517,
+          "name": "Bob Bowdler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 30519,
+          "name": "Laurence Victor Keeley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133936,
+          "name": "Tracey Jane Lovewell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133937,
+          "name": "Velvet Mason",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126473,
+          "name": "Stephen Potts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59438,
+          "name": "Barry Anthony Simons",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wealden North East",
+      "ballot_paper_id": "local.east-sussex.wealden-north-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126474,
+          "name": "Michael Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108361,
+          "name": "Serena Jane Gadd",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 59347,
+          "name": "Michael Peter Lunn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133972,
+          "name": "Ben Sherlock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133987,
+          "name": "Barbara Susan Taylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133994,
+          "name": "James Robert William Walker",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Willingdon & South Downs",
+      "ballot_paper_id": "local.east-sussex.willingdon-south-downs.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 108350,
+          "name": "Dionne Joanne Michelle Daniel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134000,
+          "name": "David Goulson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108395,
+          "name": "Paul William Hunt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1285,
+          "name": "Stephen Sai Hung Shing",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134009,
+          "name": "Ben Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 67659,
+          "name": "Nicholas Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

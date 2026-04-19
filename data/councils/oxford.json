@@ -1,0 +1,862 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "oxford",
+    "council_name": "Oxford"
+  },
+  "wards": [
+    {
+      "ward_name": "Barton & Sandhills",
+      "ballot_paper_id": "local.oxford.barton-sandhills.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 7244,
+          "name": "Chaka Artwell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 52416,
+          "name": "Felix Peter Bloomfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112614,
+          "name": "Boris Fedorov",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 8830,
+          "name": "Vernon Porter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79744,
+          "name": "Paul Rogers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8762,
+          "name": "Mike Rowley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125193,
+          "name": "Tariq Saeed",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackbird Leys",
+      "ballot_paper_id": "local.oxford.blackbird-leys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 45051,
+          "name": "Lubna Arshad",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125194,
+          "name": "Indigo Haynes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 54337,
+          "name": "Alexandrine Kantor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6184,
+          "name": "James Morbin",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 122263,
+          "name": "Kornel Schesztak",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 79552,
+          "name": "Fay Lana Sims",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carfax & Jericho",
+      "ballot_paper_id": "local.oxford.carfax-jericho.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132953,
+          "name": "Vittorio Peter Cuneo-Flood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3227,
+          "name": "Sushila Devi Dhall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122267,
+          "name": "Harriet Georgia Sophie Dolby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8777,
+          "name": "Alex Hollingsworth",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 6531,
+          "name": "John Orrell Howson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Churchill",
+      "ballot_paper_id": "local.oxford.churchill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45047,
+          "name": "Susan Woolford Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 25443,
+          "name": "Peter Charles Coggins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8825,
+          "name": "Tim Patmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132894,
+          "name": "Michael Sakkalli",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125195,
+          "name": "Ines Carmen Wilhelm",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowley",
+      "ballot_paper_id": "local.oxford.cowley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 122240,
+          "name": "Michael William Boyd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122254,
+          "name": "George Busby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82073,
+          "name": "Edward Mundy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 72992,
+          "name": "Ajaz Ur Rehman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 408,
+          "name": "Andrea Louise Stephenson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132957,
+          "name": "Ian Szwajca",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cutteslowe & Sunnymead",
+      "ballot_paper_id": "local.oxford.cutteslowe-sunnymead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132913,
+          "name": "Michael William Andrews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132122,
+          "name": "Nancy Lynn Cartwright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132914,
+          "name": "David John Cunningham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 79765,
+          "name": "Laurence George Fouweather",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125196,
+          "name": "Andrea Schiavi",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Donnington",
+      "ballot_paper_id": "local.oxford.donnington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 8807,
+          "name": "Simon James Bazley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132985,
+          "name": "Saqib Faradoon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 8849,
+          "name": "Graham Roderick Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125623,
+          "name": "Ralph Amory Noble",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 73083,
+          "name": "Rosie Rawle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122265,
+          "name": "Anna Marie Avila Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Headington",
+      "ballot_paper_id": "local.oxford.headington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 115843,
+          "name": "Neil Doig",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132861,
+          "name": "James Peter Jackson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125624,
+          "name": "Emily Lygo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130480,
+          "name": "Christopher Stephen Frederick Smowton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132862,
+          "name": "Sandhya Sunkara",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Headington Hill & Northway",
+      "ballot_paper_id": "local.oxford.headington-hill-northway.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 109489,
+          "name": "Sam Alston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133003,
+          "name": "Tenson Jacob",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74384,
+          "name": "Agnieszka Kowalska",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 117937,
+          "name": "Nasreen Majeed",
+          "party_name": "Independent Oxford Alliance"
+        },
+        {
+          "person_id": 82094,
+          "name": "George Edward Silvanus Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109243,
+          "name": "James Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45050,
+          "name": "Eleonore Rebekka Vogel",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hinksey Park",
+      "ballot_paper_id": "local.oxford.hinksey-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133018,
+          "name": "Geoffrey Brian Ager",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122258,
+          "name": "Amy Olivia Campbell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122081,
+          "name": "Siobhan Ann Lancaster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125284,
+          "name": "Hannah Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79826,
+          "name": "Rick Tanner",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holywell",
+      "ballot_paper_id": "local.oxford.holywell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 70053,
+          "name": "Ian Corthan Bearder",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124725,
+          "name": "Alfie Davis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125625,
+          "name": "Awab Ramadan Yahia Kazuz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132895,
+          "name": "Harry Richardson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Littlemore",
+      "ballot_paper_id": "local.oxford.littlemore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132873,
+          "name": "James Charles Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109490,
+          "name": "Tamsin Sky Tristram Blaxter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45065,
+          "name": "Tiago Corais",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8817,
+          "name": "Daniel Stafford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132874,
+          "name": "David Stares",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 98561,
+          "name": "Liz Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lye Valley",
+      "ballot_paper_id": "local.oxford.lye-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 8796,
+          "name": "Maria Bourbon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8785,
+          "name": "Gary William Dixon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122238,
+          "name": "Stephen Douglas Harwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109491,
+          "name": "James Richard Harry Thorniley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122252,
+          "name": "Jakub Zagdanski",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marston",
+      "ballot_paper_id": "local.oxford.marston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 25449,
+          "name": "Duncan Valentine Hatfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132896,
+          "name": "Richard Lewin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7921,
+          "name": "Andy McKay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45062,
+          "name": "Kate Josephine Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109215,
+          "name": "Emily Frances Scaysbrook",
+          "party_name": "Independent Oxford Alliance"
+        },
+        {
+          "person_id": 85081,
+          "name": "Charlotte Louise Vinnicombe",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northfield Brook",
+      "ballot_paper_id": "local.oxford.northfield-brook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133022,
+          "name": "Dianne Copestake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72989,
+          "name": "Trish Elphinstone",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 8832,
+          "name": "Rosemary Anne Beatrice Morlin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75912,
+          "name": "David Newman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36140,
+          "name": "Paul John Sims",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Osney & St Thomas",
+      "ballot_paper_id": "local.oxford.osney-st-thomas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125626,
+          "name": "David Calonge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133023,
+          "name": "Harry Roy Morgan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25699,
+          "name": "Lois Knight Muddiman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133024,
+          "name": "Rose-Marie Wheeler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126057,
+          "name": "Louis Watteau Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Quarry & Risinghurst",
+      "ballot_paper_id": "local.oxford.quarry-risinghurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 75896,
+          "name": "Stephen Robert Hurt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133037,
+          "name": "Edmund Charles Annandale Johnstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125621,
+          "name": "Alison Kahn",
+          "party_name": "Independent Oxford Alliance"
+        },
+        {
+          "person_id": 8836,
+          "name": "Chewe Edgar Munkonge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133038,
+          "name": "Cristina Parau",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133039,
+          "name": "Kai Zolleis",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rose Hill & Iffley",
+      "ballot_paper_id": "local.oxford.rose-hill-iffley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 45103,
+          "name": "Luke Barbanneau",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79776,
+          "name": "Geraldine Anne Coggins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133065,
+          "name": "Prudence Mary Prior Dailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125622,
+          "name": "Zack Iqbal",
+          "party_name": "Independent Oxford Alliance"
+        },
+        {
+          "person_id": 133066,
+          "name": "Suresh Lal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8841,
+          "name": "Edward Owen Turner",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Clement's",
+      "ballot_paper_id": "local.oxford.st-clements.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125386,
+          "name": "Ahalya Bala",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118923,
+          "name": "Thomas Ayudthaya Boyd",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 75084,
+          "name": "Pippa Hitchcock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 114965,
+          "name": "Vinay Raniga",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133077,
+          "name": "Martin Young",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.oxford.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 117071,
+          "name": "Gloria Croxall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109454,
+          "name": "Toby Stephen William James",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87502,
+          "name": "Emily Jane Elisabeth Kerr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132938,
+          "name": "Paula Jane MacFarlane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112168,
+          "name": "Richard Whelan",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Summertown",
+      "ballot_paper_id": "local.oxford.summertown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122189,
+          "name": "Christopher David Edward Fox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125198,
+          "name": "James Hewett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79834,
+          "name": "Katherine Sarah Miles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126288,
+          "name": "Freda Janet Wolfenden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132947,
+          "name": "Fee Yin",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Temple Cowley",
+      "ballot_paper_id": "local.oxford.temple-cowley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 8788,
+          "name": "Tony Brett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8831,
+          "name": "Patricia Gwendoline Mary Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8791,
+          "name": "Saj Malik",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132064,
+          "name": "Joseph Robert McManners",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132882,
+          "name": "Michael Sargent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109492,
+          "name": "Heather Laura Stallard",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walton Manor",
+      "ballot_paper_id": "local.oxford.walton-manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125199,
+          "name": "Zelalemawee Asheber",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133087,
+          "name": "Joanne Louise Bowlt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8852,
+          "name": "Penelope Anne Lenon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133088,
+          "name": "David Charles Lincoln",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45073,
+          "name": "Louise Upton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolvercote",
+      "ballot_paper_id": "local.oxford.wolvercote.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 125620,
+          "name": "Richard Peter Garbutt",
+          "party_name": "Independent Oxford Alliance"
+        },
+        {
+          "person_id": 132449,
+          "name": "Bev Humberstone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133095,
+          "name": "Stuart David Jolley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133096,
+          "name": "Paul Dean Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125200,
+          "name": "Cristina Palamini",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133097,
+          "name": "Elizabeth Asabea Abena Turkson Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

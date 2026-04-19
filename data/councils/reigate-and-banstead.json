@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "reigate-and-banstead",
+    "council_name": "Reigate and Banstead"
+  },
+  "wards": [
+    {
+      "ward_name": "Earlswood & Whitebushes",
+      "ballot_paper_id": "local.reigate-and-banstead.earlswood-whitebushes.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 40178,
+          "name": "Joseph Brian Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125872,
+          "name": "Chris Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133403,
+          "name": "Brian O'Neill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133404,
+          "name": "Robin Gordon Whitwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109482,
+          "name": "Elliott James Wragg",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

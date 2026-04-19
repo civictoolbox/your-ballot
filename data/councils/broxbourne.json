@@ -1,0 +1,360 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "broxbourne",
+    "council_name": "Broxbourne"
+  },
+  "wards": [
+    {
+      "ward_name": "Broxbourne and Hoddesdon South",
+      "ballot_paper_id": "local.broxbourne.broxbourne-and-hoddesdon-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127719,
+          "name": "Christopher John Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 27138,
+          "name": "Sally Ann Kemp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125812,
+          "name": "Mark Warren Perkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127720,
+          "name": "Rob Perry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86493,
+          "name": "Kiran Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheshunt North",
+      "ballot_paper_id": "local.broxbourne.cheshunt-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 90241,
+          "name": "Josh Asker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127439,
+          "name": "Cameron Kane Delaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39234,
+          "name": "Kostas Inchenko",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127441,
+          "name": "Skylar Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 104035,
+          "name": "Lisa Newby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14252,
+          "name": "Patsy Spears",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheshunt South and Theobalds",
+      "ballot_paper_id": "local.broxbourne.cheshunt-south-and-theobalds.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 93520,
+          "name": "Bea Gardner Asker",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127476,
+          "name": "Erin Celebi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127477,
+          "name": "Florine Nikound Imb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39238,
+          "name": "Siobhan Majella Monaghan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93775,
+          "name": "Zahra Lee Spencer",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Flamstead End",
+      "ballot_paper_id": "local.broxbourne.flamstead-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 119093,
+          "name": "James Andrew Beatty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127502,
+          "name": "Jacky Carr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127503,
+          "name": "Ian Dust",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82895,
+          "name": "Peter Kemp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127504,
+          "name": "George Nicolaou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 104036,
+          "name": "Aaron Smith",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Goffs Oak",
+      "ballot_paper_id": "local.broxbourne.goffs-oak.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123953,
+          "name": "Shenis Hassan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126133,
+          "name": "Mandy Jane Hayward",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35587,
+          "name": "David Bryan Payne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 56441,
+          "name": "Roy William Wareham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139114,
+          "name": "Chris Whitehead",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hoddesdon North",
+      "ballot_paper_id": "local.broxbourne.hoddesdon-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127734,
+          "name": "Joe Bertolone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127735,
+          "name": "Gerard Richard Dugdill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111346,
+          "name": "James Edward McQuillan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127736,
+          "name": "John Perkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127737,
+          "name": "Peter Skinner",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hoddesdon Town and Rye Park",
+      "ballot_paper_id": "local.broxbourne.hoddesdon-town-and-rye-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127695,
+          "name": "Kevin Andrews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126132,
+          "name": "Giorgio Christian Daniel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127696,
+          "name": "Stephen Frank Hawcroft",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111883,
+          "name": "Aeden Francis Rooney",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 112744,
+          "name": "Pauline Sulman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 82902,
+          "name": "Tim Vizer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rosedale and Bury Green",
+      "ballot_paper_id": "local.broxbourne.rosedale-and-bury-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127546,
+          "name": "Sue Anstee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112745,
+          "name": "Ed Dragusin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127547,
+          "name": "Laura Jayne Frost",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127548,
+          "name": "Giles Amponsah Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127549,
+          "name": "Neville Townsend",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waltham Cross",
+      "ballot_paper_id": "local.broxbourne.waltham-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127515,
+          "name": "Carol Anne Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39228,
+          "name": "Fabio Bonfante",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39229,
+          "name": "Carol Ann Bowman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76414,
+          "name": "Owen George Brett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112739,
+          "name": "Yinka Sonubi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93801,
+          "name": "Christine Thomas",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wormley and Turnford",
+      "ballot_paper_id": "local.broxbourne.wormley-and-turnford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 93790,
+          "name": "Ellie Austen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112747,
+          "name": "Robert Landon",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 118955,
+          "name": "Madeline McFadden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127377,
+          "name": "Rowan Quant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127378,
+          "name": "Theo Savidis",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

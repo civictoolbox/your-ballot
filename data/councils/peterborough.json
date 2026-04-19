@@ -1,0 +1,614 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "peterborough",
+    "council_name": "Peterborough"
+  },
+  "wards": [
+    {
+      "ward_name": "Bretton",
+      "ballot_paper_id": "local.peterborough.bretton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129918,
+          "name": "John Robert Bolton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129919,
+          "name": "Susan Jane Glasgow",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129920,
+          "name": "David Kerry Narrainen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 19226,
+          "name": "Scott Warren",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 62866,
+          "name": "Rohan Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.peterborough.central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 86754,
+          "name": "Steve Cawley",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130167,
+          "name": "Shaz Choudhary",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130168,
+          "name": "Khurram Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110699,
+          "name": "Jason Kerridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130169,
+          "name": "Shahzadi Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130170,
+          "name": "Jeff Pitt",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dogsthorpe",
+      "ballot_paper_id": "local.peterborough.dogsthorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 130269,
+          "name": "Pip Gardner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130270,
+          "name": "Mohammad Haseeb",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19227,
+          "name": "Ishfaq Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 19251,
+          "name": "Sandra Ringler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130271,
+          "name": "Petr Torak",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130272,
+          "name": "Bryan Andrew Tyler",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "East",
+      "ballot_paper_id": "local.peterborough.east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 35211,
+          "name": "Ian Hardman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47577,
+          "name": "Sam Hemraj",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86756,
+          "name": "Aleem Miran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129945,
+          "name": "Nassim Rhaiem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129946,
+          "name": "Dave West",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eye, Thorney & Newborough",
+      "ballot_paper_id": "local.peterborough.eye-thorney-newborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19219,
+          "name": "Anthony Church",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130140,
+          "name": "Sue Farr",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 19411,
+          "name": "Layton Mark Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19343,
+          "name": "John Peach",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110724,
+          "name": "Adam Warr",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fletton & Stanground",
+      "ballot_paper_id": "local.peterborough.fletton-stanground.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19307,
+          "name": "Christian Hogg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130135,
+          "name": "Andrew Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19268,
+          "name": "Jon Lloyd",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130136,
+          "name": "Maria Pinotes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110788,
+          "name": "Neil Seekings",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fletton & Woodston",
+      "ballot_paper_id": "local.peterborough.fletton-woodston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19264,
+          "name": "Andy Coles",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130139,
+          "name": "Steve Harknett",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 3704,
+          "name": "Ed Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 121214,
+          "name": "Yvonne Claire Scarrott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118016,
+          "name": "Harvey Woodhouse",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gunthorpe",
+      "ballot_paper_id": "local.peterborough.gunthorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129530,
+          "name": "Muhammad Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19281,
+          "name": "Andrew Bond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129531,
+          "name": "Andrew MacFarlaine",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129532,
+          "name": "Tom Rogers",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampton Vale",
+      "ballot_paper_id": "local.peterborough.hampton-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19292,
+          "name": "Marco Cereste",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129787,
+          "name": "Steve Newson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129788,
+          "name": "Toqeer Ahmed Sethi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120349,
+          "name": "Simon Turp",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129789,
+          "name": "Paul Wiggin",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hargate & Hempsted",
+      "ballot_paper_id": "local.peterborough.hargate-hempsted.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130156,
+          "name": "Hamza Jarral",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130157,
+          "name": "Simon Christopher Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109471,
+          "name": "Katherine Sharp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86768,
+          "name": "Vishal Vichare",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17256,
+          "name": "Neil Walton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North",
+      "ballot_paper_id": "local.peterborough.north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 75705,
+          "name": "Javed Akhtar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75660,
+          "name": "Noreen Bi",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 47920,
+          "name": "Mohammed Munir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130278,
+          "name": "Keith Sharp",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orton Longueville",
+      "ballot_paper_id": "local.peterborough.orton-longueville.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 97205,
+          "name": "Olu Akinyele",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129888,
+          "name": "Ruwan Madugalla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129889,
+          "name": "Jonathan Orchard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 67555,
+          "name": "Nick Penniall",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129890,
+          "name": "Philip Anthony Whitworth",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orton Waterville",
+      "ballot_paper_id": "local.peterborough.orton-waterville.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129855,
+          "name": "Stephen James Arnott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129856,
+          "name": "Steve Bailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129857,
+          "name": "Alex Bowerbanks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129858,
+          "name": "Sanjaya Dodamgoda",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75668,
+          "name": "Raymond Knight",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.peterborough.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 110778,
+          "name": "Murtaza Ahmed-Munir",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129947,
+          "name": "Reza Behravan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129948,
+          "name": "Tassadaq Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1789,
+          "name": "Fiona Radic",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 19344,
+          "name": "Beki Sellick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129949,
+          "name": "Saif Ali Yasin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Paston & Walton",
+      "ballot_paper_id": "local.peterborough.paston-walton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129767,
+          "name": "Iva Banyalieva",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129768,
+          "name": "Ryan Gallagher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75850,
+          "name": "Rob Petch",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 19356,
+          "name": "Asif Shaheed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129769,
+          "name": "Mohammed Yasin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ravensthorpe",
+      "ballot_paper_id": "local.peterborough.ravensthorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110782,
+          "name": "Shokat Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130208,
+          "name": "Matthew Clements",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 19361,
+          "name": "Gul Nawaz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130209,
+          "name": "Ashli Philip",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 638,
+          "name": "Nick Sandford",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stanground South",
+      "ballot_paper_id": "local.peterborough.stanground-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 47557,
+          "name": "Julian Bray",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130283,
+          "name": "Janet Elizabeth Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 19324,
+          "name": "June Mary Bull",
+          "party_name": "Peterborough First"
+        },
+        {
+          "person_id": 110747,
+          "name": "Charles Rhys Coster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130284,
+          "name": "Andrew Deacon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130285,
+          "name": "Peter David Reeve",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130286,
+          "name": "Miriam Sellick",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Werrington",
+      "ballot_paper_id": "local.peterborough.werrington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 42435,
+          "name": "Ruta Dalton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130130,
+          "name": "Bradley Dilloway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110795,
+          "name": "Sarah Areatha Hillier",
+          "party_name": "Peterborough First"
+        },
+        {
+          "person_id": 130131,
+          "name": "Chris Watson",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,625 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "north-tyneside",
+    "council_name": "North Tyneside"
+  },
+  "wards": [
+    {
+      "ward_name": "Backworth & Holystone",
+      "ballot_paper_id": "local.north-tyneside.backworth-holystone.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 119289,
+          "name": "John Falkenstein",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129041,
+          "name": "Yara Rodrigues Fowler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129038,
+          "name": "Christopher Johnston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129050,
+          "name": "Adam Ian Thompson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Battle Hill",
+      "ballot_paper_id": "local.north-tyneside.battle-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129067,
+          "name": "Christopher Michael Croft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39168,
+          "name": "Nick Martin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129069,
+          "name": "David Charles Office",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111566,
+          "name": "Steven Alan Phillips",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Camperdown",
+      "ballot_paper_id": "local.north-tyneside.camperdown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130450,
+          "name": "Michael Christopher Gibson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130451,
+          "name": "Rosemary Ann Kinghorn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118925,
+          "name": "Martin Henry Uren",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40048,
+          "name": "Joan Isabel Walker",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chirton & Percy Main",
+      "ballot_paper_id": "local.north-tyneside.chirton-percy-main.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129083,
+          "name": "David Ian Cross",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129081,
+          "name": "Jo Ellis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124284,
+          "name": "Peter John",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 40079,
+          "name": "Bruce Pickard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129080,
+          "name": "Steven Paul Robinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cullercoats & Whitley Bay South",
+      "ballot_paper_id": "local.north-tyneside.cullercoats-whitley-bay-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 40035,
+          "name": "Ken Barrie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123559,
+          "name": "Mark Belshaw",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 129166,
+          "name": "Paula Clough",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130475,
+          "name": "Mark Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130476,
+          "name": "Penny Reid",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40108,
+          "name": "Alan Steele",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest Hall",
+      "ballot_paper_id": "local.north-tyneside.forest-hall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 111806,
+          "name": "Stuart Clark Hill",
+          "party_name": "North Tyneside Community Independents"
+        },
+        {
+          "person_id": 131590,
+          "name": "Sam Lambert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50751,
+          "name": "Michael Andrew Newton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40014,
+          "name": "Susan Rodgerson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111807,
+          "name": "Joanne Marie Sharp",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Howdon",
+      "ballot_paper_id": "local.north-tyneside.howdon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 104489,
+          "name": "Connor Patrick Archie Bones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97806,
+          "name": "Carole Ann Nissen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130494,
+          "name": "Dan Robson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55270,
+          "name": "Matthew Brian Thirlaway",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Killingworth",
+      "ballot_paper_id": "local.north-tyneside.killingworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129152,
+          "name": "Bryan Shaun Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129153,
+          "name": "Fiona Gray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129154,
+          "name": "Paul William McKinlay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129155,
+          "name": "Mick Stobbart",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longbenton & Benton",
+      "ballot_paper_id": "local.north-tyneside.longbenton-benton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131598,
+          "name": "Mark James Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131599,
+          "name": "Ryan Crawford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39993,
+          "name": "Linda Darke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131600,
+          "name": "Deborah Jayne Lennox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122804,
+          "name": "Emma Lilian Vinton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Monkseaton",
+      "ballot_paper_id": "local.north-tyneside.monkseaton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 2912,
+          "name": "John Christopher Appleby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 55262,
+          "name": "Martin James Murphy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129108,
+          "name": "Nigel Christopher Parkinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111531,
+          "name": "Chloe-Louise Reilly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 106052,
+          "name": "David Steven",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "New York & Murton",
+      "ballot_paper_id": "local.north-tyneside.new-york-murton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129175,
+          "name": "Peter Daniel Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130576,
+          "name": "Daniel John Inglis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130577,
+          "name": "Keith McAllister",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80415,
+          "name": "Sophie Joanna McGlinn",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Shields",
+      "ballot_paper_id": "local.north-tyneside.north-shields.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11136,
+          "name": "Maureen Jeffrey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11137,
+          "name": "Frank Lott",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130574,
+          "name": "Andrew Anthony Mitchinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39998,
+          "name": "Martin Anthony Osborne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112586,
+          "name": "Charis Pollard",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Preston with Preston Grange",
+      "ballot_paper_id": "local.north-tyneside.preston-with-preston-grange.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 11169,
+          "name": "David Wallace Lilly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130572,
+          "name": "Phillip McGuire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125455,
+          "name": "Helen Smith McGuire",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129183,
+          "name": "Fletcher Sowerby",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shiremoor",
+      "ballot_paper_id": "local.north-tyneside.shiremoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 79593,
+          "name": "Michael Harrigan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130570,
+          "name": "John Charles Honeychurch-Kyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111536,
+          "name": "Caron Louise Kirkham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111632,
+          "name": "Kristin Dominica Nott",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.north-tyneside.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 40093,
+          "name": "Janet Elizabeth Appleby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130568,
+          "name": "Joanne Beynon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130569,
+          "name": "Naysin Maria Lambert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10308,
+          "name": "George Partis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129181,
+          "name": "Jack Lee Proud",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 11153,
+          "name": "Judith Wallace",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tynemouth",
+      "ballot_paper_id": "local.north-tyneside.tynemouth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 99548,
+          "name": "Jay Bartoli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 113208,
+          "name": "Julie Day",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130560,
+          "name": "Steve May",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89757,
+          "name": "Simon Richard Smithson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wallsend Central",
+      "ballot_paper_id": "local.north-tyneside.wallsend-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130479,
+          "name": "Valerie Anderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73860,
+          "name": "Ian Appleby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40050,
+          "name": "Ian Raymond Grayson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106051,
+          "name": "Richard Julian Oliver",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wallsend North",
+      "ballot_paper_id": "local.north-tyneside.wallsend-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109466,
+          "name": "Alexander James Amos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130564,
+          "name": "Iain Paul Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130565,
+          "name": "Alex Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80416,
+          "name": "Tricia Neira",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130566,
+          "name": "Sue Woolmore",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weetslade",
+      "ballot_paper_id": "local.north-tyneside.weetslade.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 5405,
+          "name": "Martin William Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129132,
+          "name": "Matt Johnsson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111791,
+          "name": "Liz McMullen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129133,
+          "name": "Richard Ross",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitley Bay North",
+      "ballot_paper_id": "local.north-tyneside.whitley-bay-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73866,
+          "name": "Helen MacKenzie Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11194,
+          "name": "Sandra Maria Graham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130561,
+          "name": "Dominique Stanislaus Mikula",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130562,
+          "name": "Ben Mooney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10404,
+          "name": "David Nisbet",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

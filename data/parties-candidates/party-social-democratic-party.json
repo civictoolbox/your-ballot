@@ -1,0 +1,398 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-social-democratic-party",
+    "display_name": "Social Democratic Party",
+    "candidate_count": 48,
+    "council_count": 18,
+    "raw_party_names": [
+      "Social Democratic Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 136606,
+      "name": "Hamed Aden",
+      "party_name": "Social Democratic Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Chorlton Park"
+    },
+    {
+      "person_id": 109367,
+      "name": "Stephen Andrew Balogh",
+      "party_name": "Social Democratic Party",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Hanger Hill"
+    },
+    {
+      "person_id": 126065,
+      "name": "John Frank Beal",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Armley"
+    },
+    {
+      "person_id": 109768,
+      "name": "Warwick Bettney",
+      "party_name": "Social Democratic Party",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Dearne South"
+    },
+    {
+      "person_id": 126066,
+      "name": "Michael William Patrick Clyne",
+      "party_name": "Social Democratic Party",
+      "council_slug": "cherwell",
+      "council_name": "Cherwell",
+      "ward_name": "Cropredy, Sibfords & Wroxton"
+    },
+    {
+      "person_id": 127686,
+      "name": "Rori Cook",
+      "party_name": "Social Democratic Party",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Penistone West"
+    },
+    {
+      "person_id": 131124,
+      "name": "Ian Robert Cousins",
+      "party_name": "Social Democratic Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Catherington"
+    },
+    {
+      "person_id": 75881,
+      "name": "Richard Cowles",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Chapel Allerton"
+    },
+    {
+      "person_id": 137879,
+      "name": "Paul Crilly",
+      "party_name": "Social Democratic Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 109759,
+      "name": "Mark Daniels",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Rothwell"
+    },
+    {
+      "person_id": 18775,
+      "name": "Wayne Alan Dixon",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Middleton Park"
+    },
+    {
+      "person_id": 41287,
+      "name": "Catherine Frances Dobson",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Horsforth"
+    },
+    {
+      "person_id": 131024,
+      "name": "Christine Ellis",
+      "party_name": "Social Democratic Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Ossett"
+    },
+    {
+      "person_id": 75884,
+      "name": "Thomas Peter Foster",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Killingbeck & Seacroft"
+    },
+    {
+      "person_id": 125782,
+      "name": "Sian Gardener",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Ardsley & Robin Hood"
+    },
+    {
+      "person_id": 40258,
+      "name": "Steve Gardner",
+      "party_name": "Social Democratic Party",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Hillingdon East"
+    },
+    {
+      "person_id": 137881,
+      "name": "Barnie Giltrap",
+      "party_name": "Social Democratic Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 130025,
+      "name": "Neil Andrew Gordon",
+      "party_name": "Social Democratic Party",
+      "council_slug": "wigan",
+      "council_name": "Wigan",
+      "ward_name": "Leigh South"
+    },
+    {
+      "person_id": 131473,
+      "name": "James Halls",
+      "party_name": "Social Democratic Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Thames"
+    },
+    {
+      "person_id": 110074,
+      "name": "Ian Robert Howell",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Bramley & Stanningley"
+    },
+    {
+      "person_id": 76259,
+      "name": "David Allan Jarvis",
+      "party_name": "Social Democratic Party",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Dearne South"
+    },
+    {
+      "person_id": 124284,
+      "name": "Peter John",
+      "party_name": "Social Democratic Party",
+      "council_slug": "north-tyneside",
+      "council_name": "North Tyneside",
+      "ward_name": "Chirton & Percy Main"
+    },
+    {
+      "person_id": 72847,
+      "name": "Cordelia Lynan",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Morley South"
+    },
+    {
+      "person_id": 75708,
+      "name": "Andrew Alexander Martin",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Gipton & Harehills"
+    },
+    {
+      "person_id": 126067,
+      "name": "Sandy McDougall",
+      "party_name": "Social Democratic Party",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Clapham Park"
+    },
+    {
+      "person_id": 114288,
+      "name": "Sebastian Moore",
+      "party_name": "Social Democratic Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Old Moat"
+    },
+    {
+      "person_id": 137885,
+      "name": "Michael Anthony Norman Newton",
+      "party_name": "Social Democratic Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 47834,
+      "name": "Jake Anthony Painter",
+      "party_name": "Social Democratic Party",
+      "council_slug": "islington",
+      "council_name": "Islington",
+      "ward_name": "Bunhill"
+    },
+    {
+      "person_id": 72846,
+      "name": "Nigel Perry",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Morley North"
+    },
+    {
+      "person_id": 128282,
+      "name": "Kimberley Ruth Reid",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Temple Newsam"
+    },
+    {
+      "person_id": 110038,
+      "name": "Carl Clements Richman",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Roundhay"
+    },
+    {
+      "person_id": 138205,
+      "name": "Lawrence Anthony Patrick Riley",
+      "party_name": "Social Democratic Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Esher, Claygate & Oxshott North"
+    },
+    {
+      "person_id": 107212,
+      "name": "Richard David Riley",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Farnley & Wortley"
+    },
+    {
+      "person_id": 131449,
+      "name": "Bill Runacre",
+      "party_name": "Social Democratic Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Caversham"
+    },
+    {
+      "person_id": 116200,
+      "name": "Hilary Salt",
+      "party_name": "Social Democratic Party",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Sale Central"
+    },
+    {
+      "person_id": 136710,
+      "name": "Connor Sanders",
+      "party_name": "Social Democratic Party",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Deansgate"
+    },
+    {
+      "person_id": 130972,
+      "name": "Damien Paul Sharpe",
+      "party_name": "Social Democratic Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Wakefield Rural"
+    },
+    {
+      "person_id": 116593,
+      "name": "Paul Shkurka",
+      "party_name": "Social Democratic Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Bingley West"
+    },
+    {
+      "person_id": 117434,
+      "name": "Chris Stephenson",
+      "party_name": "Social Democratic Party",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Heneage"
+    },
+    {
+      "person_id": 128278,
+      "name": "Paul Thomas",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Hunslet & Riverside"
+    },
+    {
+      "person_id": 128284,
+      "name": "Rajiv Kumar Thukral",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Temple Newsam"
+    },
+    {
+      "person_id": 126432,
+      "name": "Fred John Tidy",
+      "party_name": "Social Democratic Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Dorking"
+    },
+    {
+      "person_id": 75795,
+      "name": "Alexander Richard Vann",
+      "party_name": "Social Democratic Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Bingley East"
+    },
+    {
+      "person_id": 87578,
+      "name": "Rob Walker",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Weetwood"
+    },
+    {
+      "person_id": 107214,
+      "name": "Sasha Watson",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Beeston & Holbeck"
+    },
+    {
+      "person_id": 107109,
+      "name": "Sarah Welbourne",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Moortown"
+    },
+    {
+      "person_id": 49445,
+      "name": "Paul Daniel Whestone",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Burmantofts & Richmond Hill"
+    },
+    {
+      "person_id": 76219,
+      "name": "Paul Anthony Whetsone",
+      "party_name": "Social Democratic Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Cross Gates & Whinmoor"
+    }
+  ]
+}

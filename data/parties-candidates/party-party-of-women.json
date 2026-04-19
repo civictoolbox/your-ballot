@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-party-of-women",
+    "display_name": "Party Of Women",
+    "candidate_count": 3,
+    "council_count": 3,
+    "raw_party_names": [
+      "Party Of Women"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 112640,
+      "name": "Tara Louise Hughes",
+      "party_name": "Party Of Women",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Davenport & Cale Green"
+    },
+    {
+      "person_id": 117118,
+      "name": "Liz Panton",
+      "party_name": "Party Of Women",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Walker"
+    },
+    {
+      "person_id": 117184,
+      "name": "Bev White",
+      "party_name": "Party Of Women",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "St Neots Eatons"
+    }
+  ]
+}

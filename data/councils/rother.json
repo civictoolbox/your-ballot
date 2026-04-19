@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "rother",
+    "council_name": "Rother"
+  },
+  "wards": [
+    {
+      "ward_name": "Rye & Winchelsea",
+      "ballot_paper_id": "local.rother.rye-winchelsea.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136072,
+          "name": "Dan Bradley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136073,
+          "name": "David Peter Cooke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 30923,
+          "name": "Derek William Greenup",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80763,
+          "name": "Dominic Mark Wistow Manning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123233,
+          "name": "Amanda Kate Carman Pollard",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-community-campaign-hart",
+    "display_name": "Community Campaign (Hart)",
+    "candidate_count": 5,
+    "council_count": 2,
+    "raw_party_names": [
+      "Community Campaign (Hart)"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 44099,
+      "name": "Gill Butler",
+      "party_name": "Community Campaign (Hart)",
+      "council_slug": "hart",
+      "council_name": "Hart",
+      "ward_name": "Crookham East"
+    },
+    {
+      "person_id": 44079,
+      "name": "Angela Abigail Delaney",
+      "party_name": "Community Campaign (Hart)",
+      "council_slug": "hart",
+      "council_name": "Hart",
+      "ward_name": "Fleet West"
+    },
+    {
+      "person_id": 14054,
+      "name": "Wendy Louise Makepeace-Browne",
+      "party_name": "Community Campaign (Hart)",
+      "council_slug": "hart",
+      "council_name": "Hart",
+      "ward_name": "Crookham West and Ewshot"
+    },
+    {
+      "person_id": 24101,
+      "name": "Alan John Oliver",
+      "party_name": "Community Campaign (Hart)",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Church Crookham & Ewshot"
+    },
+    {
+      "person_id": 24101,
+      "name": "Alan John Oliver",
+      "party_name": "Community Campaign (Hart)",
+      "council_slug": "hart",
+      "council_name": "Hart",
+      "ward_name": "Fleet Central"
+    }
+  ]
+}

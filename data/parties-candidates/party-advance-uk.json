@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-advance-uk",
+    "display_name": "Advance UK",
+    "candidate_count": 17,
+    "council_count": 7,
+    "raw_party_names": [
+      "Advance UK"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 128615,
+      "name": "Andrew Beaumont",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Flixton"
+    },
+    {
+      "person_id": 106478,
+      "name": "Craig Thomas Birtwistle",
+      "party_name": "Advance UK",
+      "council_slug": "salford",
+      "council_name": "Salford",
+      "ward_name": "Walkden South"
+    },
+    {
+      "person_id": 82796,
+      "name": "Jade Elizabeth Chapman",
+      "party_name": "Advance UK",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Pelsall"
+    },
+    {
+      "person_id": 134655,
+      "name": "Lynnette Grimwood",
+      "party_name": "Advance UK",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Clacton North"
+    },
+    {
+      "person_id": 129358,
+      "name": "Ron Hutton",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Bowdon"
+    },
+    {
+      "person_id": 135816,
+      "name": "Adrian Kenneth Hutton",
+      "party_name": "Advance UK",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Streetly"
+    },
+    {
+      "person_id": 100607,
+      "name": "Tony Mack",
+      "party_name": "Advance UK",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Clacton West & St Osyth"
+    },
+    {
+      "person_id": 135868,
+      "name": "Martin Mason-Woodhouse",
+      "party_name": "Advance UK",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Brownhills"
+    },
+    {
+      "person_id": 41556,
+      "name": "Angela O'Neill",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Timperley North"
+    },
+    {
+      "person_id": 135871,
+      "name": "Joanna Maria Phillips",
+      "party_name": "Advance UK",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Brownhills"
+    },
+    {
+      "person_id": 40944,
+      "name": "Gary Regan",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Davyhulme"
+    },
+    {
+      "person_id": 13714,
+      "name": "Paul Regan",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Urmston"
+    },
+    {
+      "person_id": 137392,
+      "name": "Alan Shaw",
+      "party_name": "Advance UK",
+      "council_slug": "rochdale",
+      "council_name": "Rochdale",
+      "ward_name": "Hopwood Hall"
+    },
+    {
+      "person_id": 139127,
+      "name": "Ray Southam",
+      "party_name": "Advance UK",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Pheasey Park Farm"
+    },
+    {
+      "person_id": 127235,
+      "name": "Paul Swansborough",
+      "party_name": "Advance UK",
+      "council_slug": "trafford",
+      "council_name": "Trafford",
+      "ward_name": "Bucklow-St Martins"
+    },
+    {
+      "person_id": 129129,
+      "name": "Jack Tebay",
+      "party_name": "Advance UK",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Kearsley"
+    },
+    {
+      "person_id": 130129,
+      "name": "David John Wilkes",
+      "party_name": "Advance UK",
+      "council_slug": "sandwell",
+      "council_name": "Sandwell",
+      "ward_name": "Princes End"
+    }
+  ]
+}

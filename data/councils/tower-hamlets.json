@@ -1,0 +1,1735 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "tower-hamlets",
+    "council_name": "Tower Hamlets"
+  },
+  "wards": [
+    {
+      "ward_name": "Bethnal Green East",
+      "ballot_paper_id": "local.tower-hamlets.bethnal-green-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "person_id": 95186,
+          "name": "Syed Tareq Abdullah",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132700,
+          "name": "Md Shahin Ahmed",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132701,
+          "name": "Adham Alkhatip",
+          "party_name": "Forward Party"
+        },
+        {
+          "person_id": 94962,
+          "name": "Rebecca Claire Binns",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132702,
+          "name": "Ana Campillo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132703,
+          "name": "Robbie Davidson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 42605,
+          "name": "Freda Mary Graf",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132704,
+          "name": "Mohammed Muhebul Hasan",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 95107,
+          "name": "Nazma Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132705,
+          "name": "Halima Islam",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132706,
+          "name": "Md Kamruzzaman",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 95152,
+          "name": "Ahmodul Khabir",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132707,
+          "name": "Rizgar Khourshid",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132708,
+          "name": "Alexander Fraser King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123310,
+          "name": "Liam Gerard McQuade",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123936,
+          "name": "Martin Allistair Nesbit",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132709,
+          "name": "Marc Pisanski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95156,
+          "name": "Rebaka Sultana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132710,
+          "name": "Gareth Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132711,
+          "name": "Richard Noy Trouson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124509,
+          "name": "Harriet Walsh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bethnal Green West",
+      "ballot_paper_id": "local.tower-hamlets.bethnal-green-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "person_id": 132719,
+          "name": "Mohaemd Ahmed Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94992,
+          "name": "Musthak Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132720,
+          "name": "Peter John Bowring",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43587,
+          "name": "Abu Talha Chowdhury",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132721,
+          "name": "Warwick Richard Danks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124510,
+          "name": "Mae Dobbs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123901,
+          "name": "Carmine Greusard-Deffeuille",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132722,
+          "name": "Clive Adrian Heemskerk",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132723,
+          "name": "Muhibul Hoque",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 123902,
+          "name": "Gulay Icoz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132724,
+          "name": "Avi Islam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132725,
+          "name": "Nasir Ahmed Jilani",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132726,
+          "name": "Sundar Bhargav Joshi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43592,
+          "name": "Tarik Ahmed Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124533,
+          "name": "Ted Maxwell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123311,
+          "name": "Chelsea Chiamaka Ireoluwa Omoogun",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132727,
+          "name": "Paula Elizabeth Angela Palmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132728,
+          "name": "Ahmedur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95001,
+          "name": "Amin Rahman",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132729,
+          "name": "Graham Wild",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackwall & Cubitt Town",
+      "ballot_paper_id": "local.tower-hamlets.blackwall-cubitt-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 20,
+      "candidates": [
+        {
+          "person_id": 132736,
+          "name": "Yeadhir Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132737,
+          "name": "Zaheed Ahmed",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 123972,
+          "name": "Smrity Azad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124511,
+          "name": "Hakan Bas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35711,
+          "name": "Shelly Lorraine English",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 34484,
+          "name": "Richard Dominic Flowers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132738,
+          "name": "Idrees Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95189,
+          "name": "Ahmodur Rahman Khan",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132739,
+          "name": "Minara Khatun",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 94292,
+          "name": "Lesley Margaret Lincoln",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132740,
+          "name": "Shah Noor Muhammad",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 124512,
+          "name": "Gary O'Leary",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132741,
+          "name": "Catherine Prescott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123973,
+          "name": "Anwar Imaduddin Naseemi Punekar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132744,
+          "name": "Airin Sobhan",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 123974,
+          "name": "Alex Stanley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132746,
+          "name": "Richard Tudor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40033,
+          "name": "Bellal Uddin",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132747,
+          "name": "Katherine Eleanor Walsh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40561,
+          "name": "Andrew George Wood",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bow East",
+      "ballot_paper_id": "local.tower-hamlets.bow-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "person_id": 132765,
+          "name": "Yusuf Mohamed Abdi",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 6431,
+          "name": "Amina Ali",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132766,
+          "name": "Daniel David Bond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 74778,
+          "name": "Naomi Byron",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 73544,
+          "name": "Georgie Callé",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132767,
+          "name": "Md Salim Chowdhury",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 124514,
+          "name": "Mads Churchhouse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40067,
+          "name": "Robin William Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132768,
+          "name": "John Bayne Forster",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40068,
+          "name": "Marc Francis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132769,
+          "name": "Delwar Hira",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132770,
+          "name": "Mansur Nadim Hussain",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132771,
+          "name": "Md Shofiqul Islam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132772,
+          "name": "Hamida Begum Juti",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132773,
+          "name": "Jade Ayesha Kelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132774,
+          "name": "Dan Lan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117990,
+          "name": "Abdi Mohamed",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123312,
+          "name": "Jonathan Purcell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124515,
+          "name": "Ottilie Daisy Swinyard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132775,
+          "name": "Gary Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132776,
+          "name": "Kevin Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 27028,
+          "name": "Folkert Ferdinand Veenstra",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bow West",
+      "ballot_paper_id": "local.tower-hamlets.bow-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 132807,
+          "name": "Syed Naem Ahmad",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 92034,
+          "name": "Mohammed Ripon Ali",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 40126,
+          "name": "Asma Begum",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 43586,
+          "name": "Kevin Joseph Brady",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132808,
+          "name": "Debbie Buggs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95188,
+          "name": "Rupert George",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132811,
+          "name": "Robin Griffiths",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132812,
+          "name": "Momtaz Islam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132813,
+          "name": "Sayeda Fatema Tuj Johora",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 92036,
+          "name": "Tom Kaneko",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40239,
+          "name": "Janet Irene Ludlow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132816,
+          "name": "Nick Mitev",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123313,
+          "name": "Martin John Parker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromley North",
+      "ballot_paper_id": "local.tower-hamlets.bromley-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 123981,
+          "name": "Hirra Khan Adeogun",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132672,
+          "name": "John Bullard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123891,
+          "name": "Hamim Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94289,
+          "name": "Simon Nicholas Herbert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84237,
+          "name": "Samia Hersi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132864,
+          "name": "Mohammed Ilyas",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132865,
+          "name": "David Andre Lurie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90192,
+          "name": "Abdul Mannan",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 124516,
+          "name": "James George Edward Meadway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132866,
+          "name": "Abdul Mumin",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132867,
+          "name": "Sheikh Mohammed Nashar",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 92609,
+          "name": "Shaheda Rowshonara Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132868,
+          "name": "Alex Reeves",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132869,
+          "name": "Lauren Riley",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromley South",
+      "ballot_paper_id": "local.tower-hamlets.bromley-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 132903,
+          "name": "Liton Ahmed",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132904,
+          "name": "Ian Andrew Roy Burns",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40372,
+          "name": "Bodrul Islam Choudhury",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132905,
+          "name": "Mirren Gidda",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40694,
+          "name": "Shubo Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132906,
+          "name": "Matt Moorhouse",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123964,
+          "name": "Lynda Ouazar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132907,
+          "name": "Ron Packman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94295,
+          "name": "Masood Rahman",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 56434,
+          "name": "David Andrew Snowdon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124517,
+          "name": "Kim Ashleigh Sparks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132908,
+          "name": "Alex Warren",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Canary Wharf",
+      "ballot_paper_id": "local.tower-hamlets.canary-wharf.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 123569,
+          "name": "Mo Aboshanab",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 89165,
+          "name": "Saied Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132876,
+          "name": "Jon Bidwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124518,
+          "name": "Alexander James Stirling Bishop",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132877,
+          "name": "Michael George Brand",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132875,
+          "name": "Zahid Abu Hyath",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 123897,
+          "name": "Daniel Lloyd Lynch",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132878,
+          "name": "Finlay Jonah Munn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84527,
+          "name": "Callum Murphy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 20802,
+          "name": "Dominic Aidan Nolan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4752,
+          "name": "Alistair Polson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 4347,
+          "name": "Suzy Stride",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40560,
+          "name": "Maium Talukdar",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132879,
+          "name": "Luke Williamson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Island Gardens",
+      "ballot_paper_id": "local.tower-hamlets.island-gardens.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 39818,
+          "name": "Syed Shofor Ali",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 36569,
+          "name": "David Nicholas Allison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36556,
+          "name": "Paul David Burgess",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40691,
+          "name": "Mufeedah Bustin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112532,
+          "name": "Adam Gillman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 40693,
+          "name": "Peter Golds",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132920,
+          "name": "Michael Anthony Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94683,
+          "name": "Kamrul Hashan",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132921,
+          "name": "Christian Magnus Holland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132922,
+          "name": "Ewan Horton",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132923,
+          "name": "Ahmed Ibrahim",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132924,
+          "name": "Damian Adam Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95134,
+          "name": "Matthew Miles",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123903,
+          "name": "Ken Murphy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89122,
+          "name": "Sadiqur Rahman",
+          "party_name": "Aspire"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lansbury",
+      "ballot_paper_id": "local.tower-hamlets.lansbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "person_id": 132966,
+          "name": "Foysal Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132967,
+          "name": "Romna Begum",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132970,
+          "name": "Charles Henry Copley Du Cane",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94839,
+          "name": "Stephen Phillip Charge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41040,
+          "name": "Jahed Bakth Choudhury",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132968,
+          "name": "Daniel Cunliffe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132969,
+          "name": "Pete Dickenson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132971,
+          "name": "Corie Elizabeth Hawkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92608,
+          "name": "Iqbal Hossain",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132972,
+          "name": "Kaisol Islam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132973,
+          "name": "Daniel Klop",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95182,
+          "name": "Simon Paul Levey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132974,
+          "name": "Anwar Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132975,
+          "name": "Abul Monsur",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 132976,
+          "name": "Tangai Matthew Nyampingidza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132977,
+          "name": "Douglas Henry Oliver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132978,
+          "name": "Leslie Charles Pearce-Burden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132979,
+          "name": "Quintin Brian Duncombe Peppiatt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132980,
+          "name": "Mohammed Rob",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36560,
+          "name": "Daniel Thomas Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132981,
+          "name": "Shajia Sultana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41050,
+          "name": "John Urpeth",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Limehouse",
+      "ballot_paper_id": "local.tower-hamlets.limehouse.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 132999,
+          "name": "Jhahan Ibrahim Ali",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133000,
+          "name": "David John Edgar",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123314,
+          "name": "Jurgen Forster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133001,
+          "name": "Kellen Joseph Hadfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133002,
+          "name": "Masudul Karim",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 126200,
+          "name": "Jacob Courtnay Sinkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125248,
+          "name": "Mark Steven Wolfisz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mile End",
+      "ballot_paper_id": "local.tower-hamlets.mile-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 21,
+      "candidates": [
+        {
+          "person_id": 124569,
+          "name": "Christianah Agbabiaka",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133040,
+          "name": "Iftakhar Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 95002,
+          "name": "Leelu Ahmed",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 42005,
+          "name": "Shah Alam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133041,
+          "name": "Rupert Bawden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133042,
+          "name": "Andrew Paul Binns",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133043,
+          "name": "Catherine Hazel Burrows",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133044,
+          "name": "Raihan Chowdhury",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123315,
+          "name": "Martin Peter Donkin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123900,
+          "name": "Hytham Emam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133045,
+          "name": "Conor Francis Hilliard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124570,
+          "name": "Nauman Iqbal",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 42009,
+          "name": "Asma Islam",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133046,
+          "name": "Rougie Khanom",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 36590,
+          "name": "Neil Anthony King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133047,
+          "name": "Mohammed Hasan Mahmud",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133048,
+          "name": "Emilie Louise Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133049,
+          "name": "Mohammed Omar Mehdi",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 124101,
+          "name": "Amin Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133050,
+          "name": "Israt Sawda",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133051,
+          "name": "Alan Keith lestyn Walker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Poplar",
+      "ballot_paper_id": "local.tower-hamlets.poplar.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 133078,
+          "name": "Farhad Ahmed",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 42166,
+          "name": "Gulam Kibria Choudhury",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133079,
+          "name": "Seb Downing",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89121,
+          "name": "Zaglul Hussain Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34130,
+          "name": "Bethan Anghard Lant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133080,
+          "name": "Alan Henry Palmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92775,
+          "name": "Adrian Charles Thompson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shadwell",
+      "ballot_paper_id": "local.tower-hamlets.shadwell.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 133118,
+          "name": "Naomi Jane Goldberg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124523,
+          "name": "Jarod Hardcastle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 95009,
+          "name": "Gunther Jancke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36553,
+          "name": "Rabina Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133119,
+          "name": "Mark William Mapstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42606,
+          "name": "Ana Miah",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 42607,
+          "name": "Mohammad Harun Miah",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133120,
+          "name": "Muhi Uddin Muhammad Mikdad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133121,
+          "name": "Kwame Ansu Gyeabour Poku",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42611,
+          "name": "Daryl Martin Stafford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133122,
+          "name": "Mohammed Abdus Sukur",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133123,
+          "name": "Iain Tennant",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Spitalfields & Banglatown",
+      "ballot_paper_id": "local.tower-hamlets.spitalfields-banglatown.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133138,
+          "name": "Robert Adderley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43361,
+          "name": "Suluk Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 124534,
+          "name": "Faysal Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133139,
+          "name": "Rumana Azad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133140,
+          "name": "Helen Biebuyck",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133141,
+          "name": "Cristina Cecchinato",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43367,
+          "name": "Shad Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40376,
+          "name": "Kabir Hussain",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133142,
+          "name": "Nurul Maleque",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133143,
+          "name": "Mohammed Emdad Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87378,
+          "name": "Terrel Mollel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124524,
+          "name": "Daniele Pollicino",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124525,
+          "name": "Maggie Sawant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35910,
+          "name": "Gareth Lewis Shelton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Dunstan's",
+      "ballot_paper_id": "local.tower-hamlets.st-dunstans.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133153,
+          "name": "Olivier Charles Joseph Abelhauser",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133154,
+          "name": "Quentin Philip Patrick Croft",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133155,
+          "name": "Stefano Farina",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94502,
+          "name": "Alexander James Gallagher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85027,
+          "name": "Stephanie Clare Golder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133156,
+          "name": "Mohammad Amirul Islam",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133157,
+          "name": "Shafiq Islam",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133158,
+          "name": "Muhammed Kamruzzaman",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133159,
+          "name": "Shahanur Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133160,
+          "name": "Gemma Lucy Campbell Larter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133161,
+          "name": "Shenaly Miah",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133162,
+          "name": "Owen Murphy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39828,
+          "name": "Victoria Ngozi Obaze",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124526,
+          "name": "Flo Zwiers",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Katharine's & Wapping",
+      "ballot_paper_id": "local.tower-hamlets.st-katharines-wapping.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 43455,
+          "name": "Mahbub Alam",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 37319,
+          "name": "Guy Benson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125249,
+          "name": "Alex Brookes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133202,
+          "name": "Aysha Burton",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133203,
+          "name": "Mohammad Munshat Habib Chowdhury",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 39824,
+          "name": "Jane Elizabeth Emmerson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124528,
+          "name": "Jolley Harrison Gosnold",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133204,
+          "name": "Pete Holt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125235,
+          "name": "Victoria Fleur Lupton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133205,
+          "name": "Salim Malik",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 124529,
+          "name": "Mareva De Coninck Moyou",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133206,
+          "name": "Rafique Uddin",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 35800,
+          "name": "Abdal Ullah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133207,
+          "name": "Seb Villars",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133208,
+          "name": "John Charles Hilary Wilkes",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stepney Green",
+      "ballot_paper_id": "local.tower-hamlets.stepney-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 39659,
+          "name": "Sabina Akhtar",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 95140,
+          "name": "Abdul Wahid Ali",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133184,
+          "name": "Karen Biebuyck",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133185,
+          "name": "Hassan Mohamed Diriye",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133186,
+          "name": "Pankaj Goyal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124527,
+          "name": "Volker Gulde",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36588,
+          "name": "Aminur Rashid Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123316,
+          "name": "Roderick McGlynn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123917,
+          "name": "Sanu Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123918,
+          "name": "Nanziba Nishat Nasima",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133187,
+          "name": "Anthony John Newland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133188,
+          "name": "Mohammed Hobibur Rahman",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133189,
+          "name": "Freddy Simpson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95126,
+          "name": "Simon Alexander Tunnicliffe",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weavers",
+      "ballot_paper_id": "local.tower-hamlets.weavers.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133220,
+          "name": "Rakib Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83851,
+          "name": "Kabir Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 94680,
+          "name": "Amina Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133221,
+          "name": "Joseph Brazier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133222,
+          "name": "Judy Corstjens",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133223,
+          "name": "Sherrill May Evarschi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133224,
+          "name": "Imran Hossain",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 123889,
+          "name": "Dilwar Hussan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39892,
+          "name": "Edward Andrew Gilmore Long",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133225,
+          "name": "Abdul Khayer Mahboob",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133226,
+          "name": "Abdullah Nazimuddin",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 124530,
+          "name": "Sara Petrai",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35853,
+          "name": "Elliott Weaver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133227,
+          "name": "Abul Zubair",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitechapel",
+      "ballot_paper_id": "local.tower-hamlets.whitechapel.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 22,
+      "candidates": [
+        {
+          "person_id": 36586,
+          "name": "Shafi Ahmed",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 39817,
+          "name": "Faroque Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133252,
+          "name": "Md Ali Akbor",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 39819,
+          "name": "Shah Muhammad Rezaul Islam Suhel Ameen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133253,
+          "name": "Md Abdul Bashir",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 117016,
+          "name": "Phoebe Julia Gill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133254,
+          "name": "Warren Halpin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89167,
+          "name": "Mohammed Abdul Hannan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94216,
+          "name": "Abulkashem Helal",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133255,
+          "name": "Md. Liton Hossain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133256,
+          "name": "Kamrul Hussain",
+          "party_name": "Aspire"
+        },
+        {
+          "person_id": 133257,
+          "name": "Debbie Kirk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133258,
+          "name": "Sonia Mironenko",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 6777,
+          "name": "Hugo Pierre",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 95184,
+          "name": "Wei Qu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133259,
+          "name": "Md Mizanur Rahman",
+          "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 133260,
+          "name": "Garry Keith Ramsden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124531,
+          "name": "Ed Rhodes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133261,
+          "name": "Rick Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95196,
+          "name": "Michael David Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133262,
+          "name": "Kamrun Nehar Shajahan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124532,
+          "name": "Karissa Megan Singh",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

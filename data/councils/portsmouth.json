@@ -1,0 +1,477 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "portsmouth",
+    "council_name": "Portsmouth"
+  },
+  "wards": [
+    {
+      "ward_name": "Baffins",
+      "ballot_paper_id": "local.portsmouth.baffins.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131056,
+          "name": "Jemma Louise Artemis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88981,
+          "name": "Abdul Kadir",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123550,
+          "name": "Darren John Searley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109969,
+          "name": "Dave Giovanni Leme da Silva",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131057,
+          "name": "David Anthony Simpson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central Southsea",
+      "ballot_paper_id": "local.portsmouth.central-southsea.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123549,
+          "name": "Addy Asaduzzaman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131061,
+          "name": "Lucy Bridgewater",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131062,
+          "name": "Mackenzie Cumming",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131063,
+          "name": "Kate Dorrington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39192,
+          "name": "George David Fielding",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Charles Dickens",
+      "ballot_paper_id": "local.portsmouth.charles-dickens.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 88984,
+          "name": "Yinka Adeniran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89009,
+          "name": "David Michael Chandler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131076,
+          "name": "Sam Coupland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82708,
+          "name": "Elliott Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131077,
+          "name": "Harold McGregor-Sims",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Copnor",
+      "ballot_paper_id": "local.portsmouth.copnor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112321,
+          "name": "Andy Butterworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38018,
+          "name": "Tamara Groen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131080,
+          "name": "Carl Inman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131081,
+          "name": "Paul Antony Oakley-Cleife",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17793,
+          "name": "Ben Swann",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cosham",
+      "ballot_paper_id": "local.portsmouth.cosham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 123548,
+          "name": "Lamara Louise Fudge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131086,
+          "name": "Alex De Oliveira Martins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82672,
+          "name": "Asghar Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131087,
+          "name": "Timothy Charles Suffolk",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Drayton and Farlington",
+      "ballot_paper_id": "local.portsmouth.drayton-and-farlington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 46321,
+          "name": "Simon John Bosher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131090,
+          "name": "Stephen Michael Burt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131091,
+          "name": "Samantha Darragh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131092,
+          "name": "Matthew Sean Holland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131093,
+          "name": "Quenton James Kelley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastney and Craneswater",
+      "ballot_paper_id": "local.portsmouth.eastney-and-craneswater.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 131101,
+          "name": "John Malcolm Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112310,
+          "name": "Alison Jane Hoare",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112347,
+          "name": "Patrick Charles Keefe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131102,
+          "name": "Cliff Parsons",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 131103,
+          "name": "Lizzie Rose",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6440,
+          "name": "Matthew Ray Winnington",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fratton",
+      "ballot_paper_id": "local.portsmouth.fratton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131105,
+          "name": "Billy Ansell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46260,
+          "name": "Tom Coles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112298,
+          "name": "Tim Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38014,
+          "name": "Tim Sheerman-Chase",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102289,
+          "name": "Jacob Lee Short",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hilsea",
+      "ballot_paper_id": "local.portsmouth.hilsea.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 6221,
+          "name": "Matthew Jeremy Atkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101681,
+          "name": "Edward Batterbury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38017,
+          "name": "Emma Louise Kimberley Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93921,
+          "name": "Russell Peter William Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131123,
+          "name": "Kristine Teivane",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milton",
+      "ballot_paper_id": "local.portsmouth.milton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 131126,
+          "name": "Perry Barter",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131127,
+          "name": "Phil Carpenter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131128,
+          "name": "Melinda Koller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17731,
+          "name": "Steve Pitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131129,
+          "name": "Paula Ann Savage",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131130,
+          "name": "David Richard Trace",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nelson",
+      "ballot_paper_id": "local.portsmouth.nelson.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131132,
+          "name": "Steve Andrews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36459,
+          "name": "Jason Fazackarley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 61018,
+          "name": "Lewis Mark David Gosling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102309,
+          "name": "Robin Head",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131133,
+          "name": "Stan Marlow",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Paulsgrove",
+      "ballot_paper_id": "local.portsmouth.paulsgrove.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 5875,
+          "name": "Mark Andrew Farwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112346,
+          "name": "Thomas Christopher Hoare",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4643,
+          "name": "Ian David McCulloch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123206,
+          "name": "Michelle Jenny Simmons",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 101714,
+          "name": "Joe Standen",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Jude",
+      "ballot_paper_id": "local.portsmouth.st-jude.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131144,
+          "name": "Alvie Syed Ihsan Mahmud",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131145,
+          "name": "Mitchell Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131146,
+          "name": "Denise Perry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131147,
+          "name": "Orsolya Pokoly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46313,
+          "name": "Judith Deborah Smyth",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Thomas",
+      "ballot_paper_id": "local.portsmouth.st-thomas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131150,
+          "name": "Tom Austin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46276,
+          "name": "Terry Henderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89017,
+          "name": "Mark Jeffery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131151,
+          "name": "Jay Mercer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131152,
+          "name": "Oskar Lucjan Zabicki",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "ipswich",
+    "council_name": "Ipswich"
+  },
+  "wards": [
+    {
+      "ward_name": "Alexandra",
+      "ballot_paper_id": "local.ipswich.alexandra.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126980,
+          "name": "Jeffrey Ciobanu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3661,
+          "name": "John Cook",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 14886,
+          "name": "John Peter Downie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 26090,
+          "name": "David John Plowman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90176,
+          "name": "Giles Turner",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bixley",
+      "ballot_paper_id": "local.ipswich.bixley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14767,
+          "name": "Paul James Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80836,
+          "name": "Stephanie Gillian Cullen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126985,
+          "name": "David Anthony Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39946,
+          "name": "Edward James Joseph Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80837,
+          "name": "Lisa Weichert",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bridge",
+      "ballot_paper_id": "local.ipswich.bridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127005,
+          "name": "Jamie Allenden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125278,
+          "name": "Polly Ford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127006,
+          "name": "Rupert Tonkin-Galvin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39939,
+          "name": "Katherine Mary West",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 51394,
+          "name": "Henry Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle Hill",
+      "ballot_paper_id": "local.ipswich.castle-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125285,
+          "name": "Dawn Louise Allum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54905,
+          "name": "Stephen Richard Ion",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76096,
+          "name": "Jennifer McCarthy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80844,
+          "name": "Martin Edmund Pakes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127010,
+          "name": "William John Joseph Patrick",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gainsborough",
+      "ballot_paper_id": "local.ipswich.gainsborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127013,
+          "name": "Juliet Elizabeth Angela Garside",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 23011,
+          "name": "Liz Harsant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127014,
+          "name": "Ryan Procter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125264,
+          "name": "Saffeen Sirwan Yamulki",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gipping",
+      "ballot_paper_id": "local.ipswich.gipping.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 54826,
+          "name": "Daniel Davey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127016,
+          "name": "Leslie Richard John Foster",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127017,
+          "name": "Dalian Lewis Haynes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127018,
+          "name": "Bbosa Kiyingi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125281,
+          "name": "Simona Lazar",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holywells",
+      "ballot_paper_id": "local.ipswich.holywells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129312,
+          "name": "Angela Philomena Jennifer Klein",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82247,
+          "name": "George Samuel Lankester",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97718,
+          "name": "Rory Richardson-Todd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127021,
+          "name": "Robin Wilkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Priory Heath",
+      "ballot_paper_id": "local.ipswich.priory-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 15382,
+          "name": "Owen Leslie Bartholomew",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127025,
+          "name": "Tim Buttle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127026,
+          "name": "Paul Bryan Daley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90289,
+          "name": "Albert Demaj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127027,
+          "name": "Nigel Patrick Fox",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rushmere",
+      "ballot_paper_id": "local.ipswich.rushmere.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 54898,
+          "name": "Lucy Drake",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80871,
+          "name": "Susan Grace Hagley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127034,
+          "name": "Vicky Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80872,
+          "name": "Stefan Long",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127035,
+          "name": "Chijioke Philip",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sprites",
+      "ballot_paper_id": "local.ipswich.sprites.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 97577,
+          "name": "Stuart Allen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76105,
+          "name": "Martin Hynes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39208,
+          "name": "Michael Raymond Scanes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13926,
+          "name": "Colin Thomas Smart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14567,
+          "name": "Robin T Whitmore",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St John's",
+      "ballot_paper_id": "local.ipswich.st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127037,
+          "name": "Oliver Vernon Antony Lee-Pearson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14566,
+          "name": "Neil Edward MacDonald",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127038,
+          "name": "Joshua Owens",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127039,
+          "name": "Leon Aynsley Paternoster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97699,
+          "name": "Kelly Victoria Turner",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Margaret's",
+      "ballot_paper_id": "local.ipswich.st-margarets.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90200,
+          "name": "Laura Marie Allenby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127041,
+          "name": "Graham Martin Knight",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 23030,
+          "name": "Inga Elisabeth Lockington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14873,
+          "name": "Steven Peter Reynolds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14874,
+          "name": "Kirsty Ellen Wilmot",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stoke Park",
+      "ballot_paper_id": "local.ipswich.stoke-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125266,
+          "name": "Mika Berculean",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127045,
+          "name": "Morgan Brobyn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4645,
+          "name": "Barry Broom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90293,
+          "name": "Sian Olwyn Chantelle Gubb",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westgate",
+      "ballot_paper_id": "local.ipswich.westgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127047,
+          "name": "James Hollins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14878,
+          "name": "Martin Hore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110162,
+          "name": "Stephen Jason Kirby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40404,
+          "name": "Colin John Kreidewolf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14880,
+          "name": "John William Mann",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitehouse",
+      "ballot_paper_id": "local.ipswich.whitehouse.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14770,
+          "name": "David Alan Hurlbut",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39996,
+          "name": "Mark Patrick Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14876,
+          "name": "Trevor Arthur Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127048,
+          "name": "Julie Shooter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40427,
+          "name": "Colin Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitton",
+      "ballot_paper_id": "local.ipswich.whitton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 14794,
+          "name": "Stephen John Connelly",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 14887,
+          "name": "Tony Gould",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127054,
+          "name": "Groovy Scott",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

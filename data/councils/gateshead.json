@@ -1,0 +1,1566 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "gateshead",
+    "council_name": "Gateshead"
+  },
+  "wards": [
+    {
+      "ward_name": "Birtley North & Lamesley",
+      "ballot_paper_id": "local.gateshead.birtley-north-lamesley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 137592,
+          "name": "Abbie Jayne Batey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75448,
+          "name": "Andrew Philip Bex",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137593,
+          "name": "Robin Christopher Costello",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137594,
+          "name": "John Nigel Dawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126022,
+          "name": "Andrea Jane Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110828,
+          "name": "David Robert Lowes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126021,
+          "name": "Steven John Mullins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110681,
+          "name": "Joe Painter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137595,
+          "name": "Jason Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126020,
+          "name": "Michael Robert Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60747,
+          "name": "Judith Turner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137596,
+          "name": "Cameron Mathew Wallace",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birtley South",
+      "ballot_paper_id": "local.gateshead.birtley-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138363,
+          "name": "Stephen Brownless",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16325,
+          "name": "Paul Thomas Elliott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16344,
+          "name": "John Gardiner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90115,
+          "name": "Michael Alan Hall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110691,
+          "name": "Michelle Mabel Hepburn",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138364,
+          "name": "Kenneth Charles Jamieson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126023,
+          "name": "William Alfred Pay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126024,
+          "name": "Sandra Myra Pickering",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110692,
+          "name": "Joe William Kenneth Sowerby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138365,
+          "name": "Lauran Sowerby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138366,
+          "name": "Shaun Tumelty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126025,
+          "name": "Martin Turnbull",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blaydon",
+      "ballot_paper_id": "local.gateshead.blaydon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 59094,
+          "name": "Malcolm Alfred Brain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138380,
+          "name": "Steve Campion",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138381,
+          "name": "Gillian Susan Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138382,
+          "name": "Margaret Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138383,
+          "name": "Alexander MacKay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78006,
+          "name": "Lee-Ann Moir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16333,
+          "name": "Stephen Christopher Ronchetti",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138384,
+          "name": "Pedro Santos",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138385,
+          "name": "Emma Short",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110702,
+          "name": "Joanne Stanton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138386,
+          "name": "Neil Wilde",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138387,
+          "name": "Isla Mackie Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bridges",
+      "ballot_paper_id": "local.gateshead.bridges.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 117380,
+          "name": "Jonathan Shlomo Aibi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138350,
+          "name": "Alistair James Carr Bassett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138351,
+          "name": "Chris Beer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45522,
+          "name": "Rachel Mary Cabral",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138352,
+          "name": "Peter Charlton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138353,
+          "name": "Linda Carolyn Cook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138354,
+          "name": "Leon Lesley Dobie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78031,
+          "name": "Mark Andrew Gorman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138355,
+          "name": "Zahra Hakim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125820,
+          "name": "Melissa Amity Harker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138356,
+          "name": "Shane Lee Irwin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138357,
+          "name": "Luisa Scott",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chopwell & Rowlands Gill",
+      "ballot_paper_id": "local.gateshead.chopwell-rowlands-gill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 42379,
+          "name": "Victoria Louise Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45507,
+          "name": "Lynne Caffrey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45508,
+          "name": "Jean Margaret Callender",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138408,
+          "name": "Matthew Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138409,
+          "name": "Majead Farsi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138410,
+          "name": "Linda MacFarlane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59138,
+          "name": "Michael McNestry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138411,
+          "name": "Josh Morland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110725,
+          "name": "Jamie Joe Park",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138412,
+          "name": "Howard Stephen Schofield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138413,
+          "name": "Lee Spencer Wood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138414,
+          "name": "Jennifer Young",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chowdene",
+      "ballot_paper_id": "local.gateshead.chowdene.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138443,
+          "name": "Roy Alexander",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138444,
+          "name": "Neil Carpenter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16420,
+          "name": "Ruth Christina Grant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138445,
+          "name": "Josh Kemp",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110738,
+          "name": "Catherine Mary Knell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138446,
+          "name": "Caitlin McIsaac",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110789,
+          "name": "Sam Morden",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 138447,
+          "name": "Dev Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138448,
+          "name": "Emma Jane Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138449,
+          "name": "Edwin Snaith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138450,
+          "name": "Andrew David Wallace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16453,
+          "name": "Perry Wilson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 59194,
+          "name": "Keith Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crawcrook & Greenside",
+      "ballot_paper_id": "local.gateshead.crawcrook-greenside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138995,
+          "name": "John Clifford Barron",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138996,
+          "name": "Keith Blackett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110753,
+          "name": "Pat Chanse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77989,
+          "name": "Christopher Anthony Coxon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125775,
+          "name": "Shaun Lloyd Edge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138997,
+          "name": "Hugo Fearnley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138998,
+          "name": "Peter Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138999,
+          "name": "Jemma Louise Healey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107202,
+          "name": "Kathryn Alexandra Henderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16366,
+          "name": "Kathleen McCartney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16354,
+          "name": "Amelia Louise Ord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77990,
+          "name": "David Graham Randall",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deckham",
+      "ballot_paper_id": "local.gateshead.deckham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 139062,
+          "name": "Alan John Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 914,
+          "name": "Barry Malcolm Flux",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45491,
+          "name": "Martin Gannon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139063,
+          "name": "Sam Grinsell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6177,
+          "name": "Norman Hall",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 139064,
+          "name": "Craig Heathcote",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16377,
+          "name": "Leigh Kirton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139065,
+          "name": "Michaela McCaugherty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139066,
+          "name": "Stephen McCaugherty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 52184,
+          "name": "Bernadette Teresa Oliphant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139067,
+          "name": "Patricia Ann Shield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139068,
+          "name": "Paul Stewart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139069,
+          "name": "Roisin Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dunston Hill & Whickham East",
+      "ballot_paper_id": "local.gateshead.dunston-hill-whickham-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 139078,
+          "name": "Nick Allan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13827,
+          "name": "Mary Blanchflower",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139079,
+          "name": "Yvonne Dodds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139080,
+          "name": "Lynne Henderson-Lowe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139081,
+          "name": "Sarah-Jane Homer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139082,
+          "name": "Ronnie Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139083,
+          "name": "Jackie Kinnaird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139084,
+          "name": "Joseph March",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6452,
+          "name": "Peter James Maughan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139085,
+          "name": "Matthew McManus",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139086,
+          "name": "Jason Mark Meecham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121722,
+          "name": "Aidan Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45528,
+          "name": "Graham Steele",
+          "party_name": "Save Us Now"
+        },
+        {
+          "person_id": 139087,
+          "name": "James Frank Watson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dunston, Teams & Riverside",
+      "ballot_paper_id": "local.gateshead.dunston-teams-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 139054,
+          "name": "Gosia Balwierz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16446,
+          "name": "Dot Burnett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45492,
+          "name": "Diane Cadman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16382,
+          "name": "Brenda Clelland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139055,
+          "name": "Shadrach Esene",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 60662,
+          "name": "Gary Haley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1199,
+          "name": "Frank Hindle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139056,
+          "name": "Andrew Christopher Jay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139057,
+          "name": "Graham Keating",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139058,
+          "name": "Roger James Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139059,
+          "name": "Ronald Roger Maraj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139060,
+          "name": "Zoë Frances Meecham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139061,
+          "name": "Alison Christina Porritt",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Felling",
+      "ballot_paper_id": "local.gateshead.felling.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 139039,
+          "name": "Sophia Elizabeth Beadle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45458,
+          "name": "Gareth Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16392,
+          "name": "Sonya Dickie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139040,
+          "name": "Andy Dine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16416,
+          "name": "David Gilson Fawcett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139041,
+          "name": "Derek Finch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139042,
+          "name": "George Kasfikis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45494,
+          "name": "Hugh Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139043,
+          "name": "Ash McLean",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39551,
+          "name": "Chrystian Rengifo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 139044,
+          "name": "Liam Snowball",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139045,
+          "name": "Garry Thompson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "High Fell",
+      "ballot_paper_id": "local.gateshead.high-fell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 139070,
+          "name": "Joseph  Anyanwu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139071,
+          "name": "Shakuntala Beadle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139072,
+          "name": "Leonard Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139073,
+          "name": "Arthur Boylin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 2231,
+          "name": "Elaine Brunskill",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 139074,
+          "name": "Danielle Cavanagh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139076,
+          "name": "Catherine O Donovan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45447,
+          "name": "Judith Francesca Therese Gibson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139075,
+          "name": "Sidney Laws",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78014,
+          "name": "Gabriel Rubinstein",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110682,
+          "name": "Barry Robert Turnbull",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 107384,
+          "name": "Kathryn Dorothea Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139077,
+          "name": "Andrew Welsh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lobley Hill & Bensham",
+      "ballot_paper_id": "local.gateshead.lobley-hill-bensham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 41750,
+          "name": "Kevin Michael Dodds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138900,
+          "name": "Harry Farncombe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123873,
+          "name": "Crystal Hicks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138901,
+          "name": "Michael Lamport",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138902,
+          "name": "Michelle Susan Merrin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138903,
+          "name": "Corrina Mulholland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129262,
+          "name": "Andy Redfern",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138904,
+          "name": "Michael George Ruddy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138905,
+          "name": "David Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138906,
+          "name": "Tom Whyman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138907,
+          "name": "Jonny Witts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123874,
+          "name": "Shinu Yohannan",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Low Fell",
+      "ballot_paper_id": "local.gateshead.low-fell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138975,
+          "name": "John Atkinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1168,
+          "name": "Ron Beadle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138976,
+          "name": "Jonathan Dawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16418,
+          "name": "Daniel Stephen Duggan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138977,
+          "name": "Shaun Alexander Dunlop",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42430,
+          "name": "Neil Campbell Grant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138978,
+          "name": "Iain Henderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138979,
+          "name": "Simon James Morden",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 138980,
+          "name": "Arthur Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138981,
+          "name": "George James Poxon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138982,
+          "name": "Deacon Edward Robson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138983,
+          "name": "Jerome Ruddick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138984,
+          "name": "Robert Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45498,
+          "name": "Dawn Elizabeth Welsh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pelaw, Heworth & Bill Quay",
+      "ballot_paper_id": "local.gateshead.pelaw-heworth-bill-quay.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 60710,
+          "name": "Nicholas Boldrini",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138957,
+          "name": "Joel Cartwright",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138958,
+          "name": "James Edward Charlton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16442,
+          "name": "John Paul Diston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79113,
+          "name": "Sam Daniel Grist",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138959,
+          "name": "Emma Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138960,
+          "name": "Amy Lowes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138961,
+          "name": "Daniel Edward McFadyen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138962,
+          "name": "Caroline Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138963,
+          "name": "Nick Ng",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16427,
+          "name": "Ian Patterson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138964,
+          "name": "Michael Vinton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78058,
+          "name": "Amanda Renee Wintcher",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryton, Crookhill & Stella",
+      "ballot_paper_id": "local.gateshead.ryton-crookhill-stella.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 139011,
+          "name": "Eleanor Louise Craigan Baggaley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45424,
+          "name": "Christopher William Buckley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16431,
+          "name": "Ros Cooper",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 139012,
+          "name": "Deborah Jacqueline English",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139013,
+          "name": "Ollie Hemstock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110810,
+          "name": "Stephen Paul Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139015,
+          "name": "Jack Thomas Muers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16368,
+          "name": "Ralf Russow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139016,
+          "name": "Shan-Louise Simpson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139017,
+          "name": "Becky Skoyles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139014,
+          "name": "Gemma Lockyer Turnbull",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139018,
+          "name": "Paul Turnbull",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125232,
+          "name": "Craig Stuart Waite",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Saltwell",
+      "ballot_paper_id": "local.gateshead.saltwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 42378,
+          "name": "John Frederick Adams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139046,
+          "name": "Ayo Akin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 114036,
+          "name": "David Ayre",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41749,
+          "name": "Leanne May Brand",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139047,
+          "name": "Owain Curtis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139048,
+          "name": "Stephen Gibson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139049,
+          "name": "Graham Hankinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139050,
+          "name": "Simon Michael James",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139051,
+          "name": "Edita Petrylaite",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139052,
+          "name": "David Robert Prior",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89981,
+          "name": "Jamie Rickelton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139053,
+          "name": "David Ronald Digby Roberts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74004,
+          "name": "Denise Marianne Robson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wardley & Leam Lane",
+      "ballot_paper_id": "local.gateshead.wardley-leam-lane.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 139030,
+          "name": "Gavin Brierley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139031,
+          "name": "Catherine Emma Douglas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139032,
+          "name": "Maria Dynes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 60711,
+          "name": "Jill Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139033,
+          "name": "Michael Alexander Johnson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 139034,
+          "name": "Fiona Anne Pearce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139035,
+          "name": "Carrie Poon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90090,
+          "name": "Sharron Louise Potts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139036,
+          "name": "Peter John Ridden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139037,
+          "name": "Jordan Ridehalgh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139038,
+          "name": "Neil Graham Whittle",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whickham North & Swalwell",
+      "ballot_paper_id": "local.gateshead.whickham-north-swalwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 60743,
+          "name": "Jeff Bowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139019,
+          "name": "Iona Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139020,
+          "name": "Ruby Hazel Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139021,
+          "name": "Lynne Chatt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45445,
+          "name": "Peter Thomas Craig",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42807,
+          "name": "Susan Craig",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139022,
+          "name": "Chistopher James Ord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139023,
+          "name": "Jennifer Anne Peace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139024,
+          "name": "Lynn Robinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 139025,
+          "name": "Catriona Sibert-Peach",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139026,
+          "name": "Graeme Mark Wake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139027,
+          "name": "Charles John Whittle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139028,
+          "name": "Sebastian Michael Ziri-Sayle",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whickham South & Sunniside",
+      "ballot_paper_id": "local.gateshead.whickham-south-sunniside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138879,
+          "name": "Lindsay Graham Atkinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60729,
+          "name": "Alex Geddes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138880,
+          "name": "Joseph Gerrard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138881,
+          "name": "Christopher Higham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138882,
+          "name": "Nicola Ann March",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52172,
+          "name": "Jonathan Mohammed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42306,
+          "name": "Marilynn Ord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138883,
+          "name": "Michael John Pickering",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138884,
+          "name": "Mike Porritt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138885,
+          "name": "Wendy Elizabeth Prior",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138886,
+          "name": "Ian David Roper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 4602,
+          "name": "Jonathan Charles Wallace",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138887,
+          "name": "Mary Winn",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Windy Nook & Whitehills",
+      "ballot_paper_id": "local.gateshead.windy-nook-whitehills.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 139000,
+          "name": "Christine Craig",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139001,
+          "name": "James Robert Cummings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139002,
+          "name": "James Willam Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139003,
+          "name": "Rachel Hart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139004,
+          "name": "John Neville Sistron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139005,
+          "name": "Jeff Smart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139006,
+          "name": "Julie Smart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139007,
+          "name": "Hillary Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139008,
+          "name": "David William Tones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139009,
+          "name": "Lee Turner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16384,
+          "name": "Susan Walker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139010,
+          "name": "Joanne Wilson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Winlaton & High Spen",
+      "ballot_paper_id": "local.gateshead.winlaton-high-spen.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 78071,
+          "name": "Pamela Marie Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138871,
+          "name": "Daniel Clayton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138872,
+          "name": "Col Daughtry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138874,
+          "name": "Steven Frederick Dixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138873,
+          "name": "Cheryl May Dixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 60753,
+          "name": "Maria Theresa Hall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138875,
+          "name": "David Leonard Potts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16461,
+          "name": "Julie Simpson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16441,
+          "name": "Robinson Geoffrey Stanaway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138876,
+          "name": "Steven Tweddle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138877,
+          "name": "Lynda Ann Wilde",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138878,
+          "name": "James Wright",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

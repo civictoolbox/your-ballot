@@ -1,0 +1,126 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-official-monster-raving-loony-party",
+    "display_name": "The Official Monster Raving Loony Party",
+    "candidate_count": 14,
+    "council_count": 12,
+    "raw_party_names": [
+      "The Official Monster Raving Loony Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 35655,
+      "name": "Trevor Allman",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "greenwich",
+      "council_name": "Greenwich",
+      "ward_name": "Blackheath Westcombe"
+    },
+    {
+      "person_id": 3454,
+      "name": "A Gent Chinners",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "kingston-upon-thames",
+      "council_name": "Kingston upon Thames",
+      "ward_name": "Chessington South & Malden Rushett"
+    },
+    {
+      "person_id": 76226,
+      "name": "Captain Coiley",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "kingston-upon-thames",
+      "council_name": "Kingston upon Thames",
+      "ward_name": "Chessington South & Malden Rushett"
+    },
+    {
+      "person_id": 124775,
+      "name": "Nick The Duck Guy",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Beeston & Holbeck"
+    },
+    {
+      "person_id": 126540,
+      "name": "Eddie Marmite Salmagundy Henderson",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "suffolk",
+      "council_name": "Suffolk",
+      "ward_name": "Bungay"
+    },
+    {
+      "person_id": 422,
+      "name": "Alan Howling 'Laud' Hope",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Fleet Town"
+    },
+    {
+      "person_id": 422,
+      "name": "Alan Howling 'Laud' Hope",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "hart",
+      "council_name": "Hart",
+      "ward_name": "Fleet Central"
+    },
+    {
+      "person_id": 124772,
+      "name": "Wing Commander Lucky Luke Jackson",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Blundellsands"
+    },
+    {
+      "person_id": 124776,
+      "name": "Captain Loogie",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "calderdale",
+      "council_name": "Calderdale",
+      "ward_name": "Sowerby Bridge"
+    },
+    {
+      "person_id": 124774,
+      "name": "Miss Applied Malarkey",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Staines"
+    },
+    {
+      "person_id": 72256,
+      "name": "Earl Elvis of Outwell",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Marshland South"
+    },
+    {
+      "person_id": 126541,
+      "name": "Lord Febrezeo Quinnoa-Stakebake",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "tameside",
+      "council_name": "Tameside",
+      "ward_name": "Denton South"
+    },
+    {
+      "person_id": 132666,
+      "name": "Liam Angus Secrett",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "kingston-upon-thames",
+      "council_name": "Kingston upon Thames",
+      "ward_name": "Hook & Chessington North"
+    },
+    {
+      "person_id": 7420,
+      "name": "Baron Von Thunderclap",
+      "party_name": "The Official Monster Raving Loony Party",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Hurstpierpoint & Bolney"
+    }
+  ]
+}

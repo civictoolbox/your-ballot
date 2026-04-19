@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-taking-the-initiative-party",
+    "display_name": "Taking The Initiative Party",
+    "candidate_count": 15,
+    "council_count": 1,
+    "raw_party_names": [
+      "Taking The Initiative Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 129349,
+      "name": "Faustina Sebbie Amoah",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington South"
+    },
+    {
+      "person_id": 129341,
+      "name": "Emmanuel Amuzu",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington North"
+    },
+    {
+      "person_id": 129820,
+      "name": "Nadeen Andriesz",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 129564,
+      "name": "Jadah Archer",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 94943,
+      "name": "Jason Brown",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 129821,
+      "name": "Trevor Davy",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Thornton Heath"
+    },
+    {
+      "person_id": 129813,
+      "name": "Valencia Dawson",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 95109,
+      "name": "Mark Emanuel",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Woodside"
+    },
+    {
+      "person_id": 129561,
+      "name": "Amina Frea",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Woodside"
+    },
+    {
+      "person_id": 129348,
+      "name": "Ralph Pemberton",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington South"
+    },
+    {
+      "person_id": 125087,
+      "name": "Michael Pusey",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 129568,
+      "name": "Sienna Rowbury",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 129569,
+      "name": "Jermaine Sam",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Waddon"
+    },
+    {
+      "person_id": 111509,
+      "name": "Shane Sobers",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Woodside"
+    },
+    {
+      "person_id": 129344,
+      "name": "Corey Williams",
+      "party_name": "Taking The Initiative Party",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "New Addington North"
+    }
+  ]
+}

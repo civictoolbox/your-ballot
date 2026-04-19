@@ -1,0 +1,532 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "cambridge",
+    "council_name": "Cambridge"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbey",
+      "ballot_paper_id": "local.cambridge.abbey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 80914,
+          "name": "Rosemary Anne Roe Ansell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 120394,
+          "name": "Tommy Brace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109925,
+          "name": "Simon Brignell",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 125790,
+          "name": "Maria Margaret Cleminson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131285,
+          "name": "Ruaidhri O'Donnell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38178,
+          "name": "David Philip Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Arbury",
+      "ballot_paper_id": "local.cambridge.arbury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 80921,
+          "name": "Robert Boorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131286,
+          "name": "Will Burrows",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131287,
+          "name": "Sefira Carmen Davison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 20079,
+          "name": "Jocelynne Scutt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 35075,
+          "name": "Fionna Tod",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.cambridge.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 117207,
+          "name": "Khalid Abu-Tayyem",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131295,
+          "name": "Carol Bedson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124018,
+          "name": "Luke Patterson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121456,
+          "name": "Dace Ruklisa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131296,
+          "name": "Alex Sage",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83496,
+          "name": "Simon Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cherry Hinton",
+      "ballot_paper_id": "local.cambridge.cherry-hinton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9157,
+          "name": "Eric William Barrett-Payton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131297,
+          "name": "Anusha Iyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38237,
+          "name": "Russ McPherson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120376,
+          "name": "Mike Nicolson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124371,
+          "name": "Ahmad Rushdhi",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coleridge",
+      "ballot_paper_id": "local.cambridge.coleridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 81083,
+          "name": "Tim Brunton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130893,
+          "name": "Steve Burdett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38241,
+          "name": "Sarah Louise Nicmanis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 52838,
+          "name": "Anna Smith",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 103059,
+          "name": "Sam Mitchell Worthington",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Chesterton",
+      "ballot_paper_id": "local.cambridge.east-chesterton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 92883,
+          "name": "Jean-Ann Bartlett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124372,
+          "name": "Ania Bobrowska",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109380,
+          "name": "William James Dry",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 130939,
+          "name": "Isaac Groves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120375,
+          "name": "Sarah Haithcock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130940,
+          "name": "Godfrey Orr",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "King's Hedges",
+      "ballot_paper_id": "local.cambridge.kings-hedges.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 124019,
+          "name": "Mahfuj Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131307,
+          "name": "Zarina Anwar",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131308,
+          "name": "Eleanor Cooke",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124373,
+          "name": "David Michael Creek",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131309,
+          "name": "John McKay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131310,
+          "name": "Daniel Quinn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38243,
+          "name": "Martin Andrew Smart",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Market",
+      "ballot_paper_id": "local.cambridge.market.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130907,
+          "name": "Edwin Kwaku Addo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52857,
+          "name": "Katie Porrer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125791,
+          "name": "Alex Sefton-Tromans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130908,
+          "name": "Mark Wells",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121537,
+          "name": "Panda Xiong",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newnham",
+      "ballot_paper_id": "local.cambridge.newnham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126382,
+          "name": "Katie Barron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108972,
+          "name": "David Carmona",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130924,
+          "name": "Sabina Harris-Hercules",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130925,
+          "name": "Lui Murton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130926,
+          "name": "Eleanor Frances Toye Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47759,
+          "name": "Poppy Simister-Thomas",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Petersfield",
+      "ballot_paper_id": "local.cambridge.petersfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130910,
+          "name": "Luke Burrows",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 116726,
+          "name": "Kathryn Fisher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83535,
+          "name": "Cameron Myfyr Holloway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80990,
+          "name": "Sam Oliver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81173,
+          "name": "Paul Roper",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queen Edith's",
+      "ballot_paper_id": "local.cambridge.queen-ediths.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124017,
+          "name": "Maruf Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131275,
+          "name": "Colin Bedson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131276,
+          "name": "Magnus Alexander Burt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38248,
+          "name": "Shayne Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 20006,
+          "name": "Amanda Joan Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Romsey",
+      "ballot_paper_id": "local.cambridge.romsey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96709,
+          "name": "Rosy Greenlees",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81088,
+          "name": "Rob Nelson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83545,
+          "name": "John Charles Walmsley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131311,
+          "name": "Andrew Watson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121545,
+          "name": "Jacqui Whitmore",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Trumpington",
+      "ballot_paper_id": "local.cambridge.trumpington.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 80994,
+          "name": "Steven Michael George",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128760,
+          "name": "Edward Ekin Gokmen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130943,
+          "name": "Guy Greenway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128680,
+          "name": "John William Grimwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81745,
+          "name": "Olaf Hauk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80963,
+          "name": "John Michael Ionides",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130944,
+          "name": "Samuel Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96691,
+          "name": "Chloe Eva Mosonyi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130945,
+          "name": "Henry Shailer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82071,
+          "name": "Carlos Toranzos",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Chesterton",
+      "ballot_paper_id": "local.cambridge.west-chesterton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 81168,
+          "name": "Hannah Charlotte Copley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38247,
+          "name": "Mike Harford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131318,
+          "name": "Geoff Leach",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124374,
+          "name": "Guy Mills",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126386,
+          "name": "Nick Picton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 81031,
+          "name": "Richard Swift",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

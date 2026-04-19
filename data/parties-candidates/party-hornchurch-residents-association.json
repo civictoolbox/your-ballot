@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-hornchurch-residents-association",
+    "display_name": "Hornchurch Residents Association",
+    "candidate_count": 11,
+    "council_count": 1,
+    "raw_party_names": [
+      "Hornchurch Residents Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 124290,
+      "name": "Jay Belshaw",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Hylands & Harrow Lodge"
+    },
+    {
+      "person_id": 123535,
+      "name": "John Charles Cain",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Andrew's"
+    },
+    {
+      "person_id": 91530,
+      "name": "Kimberley Jane Gould",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Elm Park"
+    },
+    {
+      "person_id": 42041,
+      "name": "Barry Mugglestone",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Elm Park"
+    },
+    {
+      "person_id": 42043,
+      "name": "Stephanie Jane Nunn",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Elm Park"
+    },
+    {
+      "person_id": 42908,
+      "name": "Christine Smith",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Hylands & Harrow Lodge"
+    },
+    {
+      "person_id": 43254,
+      "name": "Bryan Thomas Vincent",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Andrew's"
+    },
+    {
+      "person_id": 42913,
+      "name": "Ciaran White",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Hylands & Harrow Lodge"
+    },
+    {
+      "person_id": 42456,
+      "name": "Reg Whitney",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Hacton"
+    },
+    {
+      "person_id": 91298,
+      "name": "Julie Wilkes",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Hacton"
+    },
+    {
+      "person_id": 91450,
+      "name": "John Wood",
+      "party_name": "Hornchurch Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Andrew's"
+    }
+  ]
+}

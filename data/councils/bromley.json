@@ -1,0 +1,1606 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "bromley",
+    "council_name": "Bromley"
+  },
+  "wards": [
+    {
+      "ward_name": "Beckenham Town & Copers Cope",
+      "ballot_paper_id": "local.bromley.beckenham-town-copers-cope.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 123682,
+          "name": "Stephen Mark Ayshford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109227,
+          "name": "Gita Kanchan Bapat",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130681,
+          "name": "Anna-Marie Clare Blewer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130682,
+          "name": "Mike Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130683,
+          "name": "Sebastian James Crisp",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 5234,
+          "name": "Ruth Fabricant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123942,
+          "name": "Steven Alexander Jefferies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130684,
+          "name": "Geoff Newman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123683,
+          "name": "Patrick Joseph Olliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40530,
+          "name": "Mark William Phillippo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47808,
+          "name": "Chloe-Jane Ross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47809,
+          "name": "Michael John Tickner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130685,
+          "name": "Steve Walker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130686,
+          "name": "Melody Anne Whelan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130687,
+          "name": "Dave Wibberley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bickley & Sundridge",
+      "ballot_paper_id": "local.bromley.bickley-sundridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 48127,
+          "name": "Mark Brock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130647,
+          "name": "Cecilia Mary Broderick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43572,
+          "name": "Robert Paul Cliff",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44953,
+          "name": "Martin Cooper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130648,
+          "name": "Gary Thomas Dixson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130649,
+          "name": "Michael Ellery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130650,
+          "name": "John Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47316,
+          "name": "Robert Neil Evans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130651,
+          "name": "Adrian Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44343,
+          "name": "Kate Lymer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130652,
+          "name": "Charles William Mulvihill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130653,
+          "name": "Kyle Harley James Sewell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44346,
+          "name": "Colin Paul Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130654,
+          "name": "Denis Tyurenkov",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46889,
+          "name": "Jon Webber",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Biggin Hill",
+      "ballot_paper_id": "local.bromley.biggin-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 41248,
+          "name": "Geoff Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130662,
+          "name": "Tim Allitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48091,
+          "name": "Steve Cranenburgh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91633,
+          "name": "Sophie Alexandra Dunbar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130663,
+          "name": "Aji Kunjachan George",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36731,
+          "name": "Geoff Gostt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130664,
+          "name": "Laurence Christian Dominic Hamilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130665,
+          "name": "Philip Hatch",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130666,
+          "name": "Steve James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91643,
+          "name": "Malcolm Bruce Westbrook",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromley Common & Holwood",
+      "ballot_paper_id": "local.bromley.bromley-common-holwood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 36733,
+          "name": "Clive Anthony Broadhurst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36734,
+          "name": "Alan Carter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109131,
+          "name": "Alan Cook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44342,
+          "name": "Kira Gabbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111443,
+          "name": "Louis Arthur Reginald Goddard-Glen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40528,
+          "name": "Sunil Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130708,
+          "name": "Simon Alexander Innes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130709,
+          "name": "Geraldine Ker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130710,
+          "name": "Shona Anne Moses",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122859,
+          "name": "Ian Frederick Payne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130711,
+          "name": "Clare Louise Searle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130712,
+          "name": "Michael Anthony Simms",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130713,
+          "name": "Alfie Stokes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94146,
+          "name": "Andrew John Viner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130714,
+          "name": "Sobia Zubair",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bromley Town",
+      "ballot_paper_id": "local.bromley.bromley-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 93477,
+          "name": "Larry Bayode Awobayiku",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46371,
+          "name": "Marie Bardsley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130699,
+          "name": "Rose-Marie Billington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130700,
+          "name": "Arturs Bilmanis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130701,
+          "name": "Oliver Luc Cameron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36730,
+          "name": "Graeme Lee Casey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130702,
+          "name": "Colin Clements",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130703,
+          "name": "Joshua Collins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126112,
+          "name": "Carol Denyer",
+          "party_name": "Better Bromley"
+        },
+        {
+          "person_id": 130704,
+          "name": "Max Peter English-Sayers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126114,
+          "name": "Caroline Ibukun",
+          "party_name": "Better Bromley"
+        },
+        {
+          "person_id": 8019,
+          "name": "Julie Mary Ireland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130705,
+          "name": "Tristan Francis Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130706,
+          "name": "Charmain Senior",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126117,
+          "name": "Sum Thiagarajan",
+          "party_name": "Better Bromley"
+        },
+        {
+          "person_id": 1164,
+          "name": "Sam Dunning Webber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93600,
+          "name": "Owen Andrew Wittekind",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chelsfield",
+      "ballot_paper_id": "local.bromley.chelsfield.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 46879,
+          "name": "Mike Botting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130723,
+          "name": "Steven Charles Clements",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130724,
+          "name": "Julian Patrick Greville Grainger",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94037,
+          "name": "Sumeet Jalan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130725,
+          "name": "Senthil Krishna",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123886,
+          "name": "Harsha Puttaswamy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91407,
+          "name": "Lynn Ann Sellwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48662,
+          "name": "Peter John Tozer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123887,
+          "name": "Joseph John Watchorn",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chislehurst",
+      "ballot_paper_id": "local.bromley.chislehurst.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130770,
+          "name": "Sam Blake",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130771,
+          "name": "Katharine Louise Bollon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130772,
+          "name": "Kamil Choudhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130773,
+          "name": "Julian Heal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130774,
+          "name": "Malcolm Hutty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93566,
+          "name": "Mike Jack",
+          "party_name": "Chislehurst Matters"
+        },
+        {
+          "person_id": 130775,
+          "name": "Andrew James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130776,
+          "name": "Peter Hennah Mansell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122860,
+          "name": "Laura Christine McCracken",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43576,
+          "name": "Christian Russell Mole",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93568,
+          "name": "Mark Jeffrey Smith",
+          "party_name": "Chislehurst Matters"
+        },
+        {
+          "person_id": 93569,
+          "name": "Alison Margaret Stammers",
+          "party_name": "Chislehurst Matters"
+        },
+        {
+          "person_id": 43579,
+          "name": "Kieran Terry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130777,
+          "name": "Alfie Thomas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130778,
+          "name": "Phil Wade",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clock House",
+      "ballot_paper_id": "local.bromley.clock-house.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 48125,
+          "name": "Jeremy Adams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130728,
+          "name": "James Alan Carter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130729,
+          "name": "Jenny Coleman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94167,
+          "name": "Claudio Gambarotta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130730,
+          "name": "Aidan Lucas Keogh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47635,
+          "name": "Josh King",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130731,
+          "name": "Larry Malyon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130732,
+          "name": "Justin O'Neill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47637,
+          "name": "Scott Curtis Pattenden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130733,
+          "name": "Sarah Jane Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130734,
+          "name": "Adam Pritchard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130735,
+          "name": "Paul Reeves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130736,
+          "name": "Victoria Louise Rennie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130737,
+          "name": "Emily Verazzo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130738,
+          "name": "Christopher Clifford Watts",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crystal Palace & Anerley",
+      "ballot_paper_id": "local.bromley.crystal-palace-anerley.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 124960,
+          "name": "Sonay Erten",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94155,
+          "name": "Stafford Malcom Fitch-Bunce",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94137,
+          "name": "Ruth McGregor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130640,
+          "name": "Karen Moran",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124961,
+          "name": "Jordaine Osaghae",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130641,
+          "name": "David Quarterman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130642,
+          "name": "Pearse Reynolds",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130643,
+          "name": "Terry Richardson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130644,
+          "name": "Tanya Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77073,
+          "name": "Ryan Thomson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darwin",
+      "ballot_paper_id": "local.bromley.darwin.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 91463,
+          "name": "Jonathan James Andrews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130695,
+          "name": "Barry Cook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5214,
+          "name": "Ann Christine Garrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94038,
+          "name": "Michael Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130696,
+          "name": "Freddie Price",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farnborough & Crofton",
+      "ballot_paper_id": "local.bromley.farnborough-crofton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130740,
+          "name": "Lou Bartholomew",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130741,
+          "name": "James Bowditch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48446,
+          "name": "Ian Catchpole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41018,
+          "name": "Andy Dourmoush",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130742,
+          "name": "Steven Guillemet",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130743,
+          "name": "Deepanshi Kaur Gulati",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130744,
+          "name": "Sheri Isa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130745,
+          "name": "Mary-Clare Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48095,
+          "name": "John Loosemore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48433,
+          "name": "Christine Lesley McNamara",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46885,
+          "name": "Angela Page",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112074,
+          "name": "Oscar Roy Seal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 105559,
+          "name": "Chris Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91571,
+          "name": "Juergen Wiegerling",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hayes & Coney Hall",
+      "ballot_paper_id": "local.bromley.hayes-coney-hall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 48498,
+          "name": "Peter John Ayres",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94148,
+          "name": "Sarah Louise Chant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94035,
+          "name": "Josh Coldspring-White",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130747,
+          "name": "Margaret Helen Gibbs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48502,
+          "name": "Tudor Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130748,
+          "name": "Elizabeth Ruth Johnstone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130749,
+          "name": "Gus Kennedy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47320,
+          "name": "Alexa Christine Anne Michael",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130750,
+          "name": "Henrietta Nwulu Oladipupo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130751,
+          "name": "Rayhan Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46378,
+          "name": "Diane Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94169,
+          "name": "Nicholas Weaks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 116353,
+          "name": "Andrew Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kelsey & Eden Park",
+      "ballot_paper_id": "local.bromley.kelsey-eden-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 115236,
+          "name": "Matt Aldridge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123796,
+          "name": "Mark Christopher Amis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123797,
+          "name": "Michael George Doble",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46376,
+          "name": "Robert Andrew Jackson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130753,
+          "name": "Paul Nicholas Robert Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130754,
+          "name": "Zach Knowles-Weir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46377,
+          "name": "Taylor Roger Charlie Matthews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130755,
+          "name": "Lisa Mutti",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130756,
+          "name": "Caroline Nevard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93567,
+          "name": "Ju Owens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1880,
+          "name": "Christopher William Stuart Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130757,
+          "name": "Louie Saunders",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130758,
+          "name": "Daniel Slade",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125826,
+          "name": "Matt Thorpe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130759,
+          "name": "Anne Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mottingham",
+      "ballot_paper_id": "local.bromley.mottingham.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 130667,
+          "name": "Sarah Adeduntan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123716,
+          "name": "Giles Cordwell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130668,
+          "name": "Zarreena Jameela McKenley-Osbourne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48434,
+          "name": "John Leslie Pead",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40060,
+          "name": "Will Rowlands",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130669,
+          "name": "Louise Sage",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130670,
+          "name": "Harriet Terry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130671,
+          "name": "Josh Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130672,
+          "name": "Jamie Andrew Tulacz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130673,
+          "name": "Vicki Wbber",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orpington",
+      "ballot_paper_id": "local.bromley.orpington.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 48565,
+          "name": "Kim Botting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48447,
+          "name": "Malcolm Douglas Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130762,
+          "name": "Angela Dees",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130763,
+          "name": "Patrick Lewis Malone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130764,
+          "name": "Dean Sawyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130765,
+          "name": "Richard Scoates",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6311,
+          "name": "Steven Roy Sollitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48573,
+          "name": "Pauline Anne Tunnicliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48436,
+          "name": "Allan Joseph James Tweddle",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penge & Cator",
+      "ballot_paper_id": "local.bromley.penge-cator.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130779,
+          "name": "Kyle Anthony Royalton Allen-Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41249,
+          "name": "Kathy Bance",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130780,
+          "name": "Sarah Juliet Dearing",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77071,
+          "name": "Suraj Rajesh Gandecha",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48568,
+          "name": "William Keith Ernest Huntington-Thresher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41255,
+          "name": "Simon Jeal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41250,
+          "name": "Kevin Kennedy-Brooks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94039,
+          "name": "Lindsay Victoria Maxwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130781,
+          "name": "Daniel Philip Meyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130782,
+          "name": "Calum Miler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130783,
+          "name": "David Morrall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 33225,
+          "name": "Tony Power",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130784,
+          "name": "Mila Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44987,
+          "name": "Michael James Rutherford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130785,
+          "name": "Dan Vongswang",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Petts Wood & Knoll",
+      "ballot_paper_id": "local.bromley.petts-wood-knoll.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130688,
+          "name": "George Andrew Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130689,
+          "name": "Sara Colaj",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130690,
+          "name": "Hugh Dasley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48093,
+          "name": "Simon Henry Fawthrop",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47822,
+          "name": "Tim Fisher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130691,
+          "name": "Ben Gulvin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130692,
+          "name": "John Hemming-Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130693,
+          "name": "Ben Loxley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46883,
+          "name": "Margaret Ann Mills",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48097,
+          "name": "Tony Owen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93598,
+          "name": "Saskia Felicitas Sabelus",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130694,
+          "name": "Thomas Wimal Velvick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48574,
+          "name": "Gareth Lloyd Wretham",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plaistow",
+      "ballot_paper_id": "local.bromley.plaistow.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 130790,
+          "name": "Paul Dhesi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47193,
+          "name": "Lesley Carol Furniss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47198,
+          "name": "Peter Robert Furniss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85073,
+          "name": "Alisa Igoe",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 48504,
+          "name": "Mary Elizabeth Ion",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130791,
+          "name": "Ian McCormack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47804,
+          "name": "Tony McPartlan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122861,
+          "name": "Elizabeth Hookway Morgan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93560,
+          "name": "Panos Robert Papayannakos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130792,
+          "name": "Alwin Puthenpurakal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47966,
+          "name": "Gary Stevens",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shortlands & Park Langley",
+      "ballot_paper_id": "local.bromley.shortlands-park-langley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130859,
+          "name": "Amin Aboushagor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 74732,
+          "name": "Edward Apostolides",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130860,
+          "name": "John Beecroft",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130861,
+          "name": "Gail Emerson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130862,
+          "name": "Sarah Annabel Fox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94141,
+          "name": "Adam Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123798,
+          "name": "Serena Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130863,
+          "name": "Jessica Hardy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130864,
+          "name": "Chris Hudson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130865,
+          "name": "Richard Percy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130866,
+          "name": "Adam Shahin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130867,
+          "name": "Jack Robert Cowood Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45319,
+          "name": "Gemma Turrell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48137,
+          "name": "Stephen Wells",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130868,
+          "name": "Hannah Moyne Witham",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary Cray",
+      "ballot_paper_id": "local.bromley.st-mary-cray.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 44950,
+          "name": "Nathaniel Arthur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44951,
+          "name": "Yvonne Bear",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130811,
+          "name": "Rebecca Elizabeth Casey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130812,
+          "name": "Edward Donald Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91611,
+          "name": "Richard Honess",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130813,
+          "name": "Hali Ibrahim",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48450,
+          "name": "Olly Loosemore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72383,
+          "name": "Seamus McCauley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130814,
+          "name": "John Michaelis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130815,
+          "name": "Matthew Pearson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130816,
+          "name": "Jake Paul Rest",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130817,
+          "name": "Claire Rushworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91621,
+          "name": "Shaun Slator",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44958,
+          "name": "Harry Randolph Stranger",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130818,
+          "name": "Julius Ugochukwu Ubochi",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Paul's Cray",
+      "ballot_paper_id": "local.bromley.st-pauls-cray.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 125835,
+          "name": "Bola Adediran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130822,
+          "name": "Katharine Elizabeth Barker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46882,
+          "name": "Gerda Claire Loosemore-Reppen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130823,
+          "name": "Christopher David Marlow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130824,
+          "name": "Dean James Miller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130825,
+          "name": "Richard James Newitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125837,
+          "name": "James Oleka",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125833,
+          "name": "Janvier Nadene Dorrance Yimbo Palmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91618,
+          "name": "Debbie Price",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48571,
+          "name": "Chris Price",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130826,
+          "name": "William Rawles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130827,
+          "name": "Jonathan Swift",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125836,
+          "name": "Anthony James Whelan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Wickham",
+      "ballot_paper_id": "local.bromley.west-wickham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130845,
+          "name": "Peter Lionel Rothwell Bently",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123799,
+          "name": "Daniel Michael Burden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130846,
+          "name": "Chris Davenport",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47801,
+          "name": "Alison Margaret Davis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130847,
+          "name": "Olga Evans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130848,
+          "name": "Ray Farnham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130849,
+          "name": "Hilary Gee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48133,
+          "name": "Hannah Gray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47633,
+          "name": "Christine Harris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94164,
+          "name": "Angela Rahil Hulm",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91648,
+          "name": "Richard Michael Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130850,
+          "name": "Anna Mansaray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130851,
+          "name": "Deborah Percy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130852,
+          "name": "Lewis James Quinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130853,
+          "name": "Laura Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

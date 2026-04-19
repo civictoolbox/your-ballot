@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-rochford-district-residents",
+    "display_name": "Rochford District Residents",
+    "candidate_count": 5,
+    "council_count": 2,
+    "raw_party_names": [
+      "Rochford District Residents"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 99066,
+      "name": "Nick Booth",
+      "party_name": "Rochford District Residents",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Rochford South"
+    },
+    {
+      "person_id": 9821,
+      "name": "Adrian Howard Eves",
+      "party_name": "Rochford District Residents",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Rochford North"
+    },
+    {
+      "person_id": 90201,
+      "name": "Deborah Patricia Squires-Coleman",
+      "party_name": "Rochford District Residents",
+      "council_slug": "rochford",
+      "council_name": "Rochford",
+      "ward_name": "Hawkwell East"
+    },
+    {
+      "person_id": 90258,
+      "name": "Vilma Anita Wilson",
+      "party_name": "Rochford District Residents",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Rayleigh West"
+    },
+    {
+      "person_id": 90258,
+      "name": "Vilma Anita Wilson",
+      "party_name": "Rochford District Residents",
+      "council_slug": "rochford",
+      "council_name": "Rochford",
+      "ward_name": "Sweyne Park & Grange"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "crawley",
+    "council_name": "Crawley"
+  },
+  "wards": [
+    {
+      "ward_name": "Bewbush & North Broadfield",
+      "ballot_paper_id": "local.crawley.bewbush-north-broadfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 11901,
+          "name": "Tina Belben",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87755,
+          "name": "Robin Burnham",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130858,
+          "name": "Ian James Butler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 69507,
+          "name": "Lawrence Carl Mallinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126453,
+          "name": "Ryan Hamish Rooke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87756,
+          "name": "Sharmila Sivarajah",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Broadfield",
+      "ballot_paper_id": "local.crawley.broadfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 125919,
+          "name": "David Bowen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130821,
+          "name": "Carolina Isabel Rodrigues Braga",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130819,
+          "name": "Rachael Colbran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 3235,
+          "name": "Tim Lunnon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130820,
+          "name": "Marie Wendy Mariette",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Furnace Green",
+      "ballot_paper_id": "local.crawley.furnace-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124351,
+          "name": "Younis Ainine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87758,
+          "name": "Hazel Hellier",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130881,
+          "name": "Sarah Letissier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11908,
+          "name": "Kevin James Richard Osborne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130882,
+          "name": "Tim Peacock",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ifield",
+      "ballot_paper_id": "local.crawley.ifield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 130533,
+          "name": "Grainne Conway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50397,
+          "name": "Jilly Hart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130534,
+          "name": "Asim Hussain",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 64681,
+          "name": "Valerie Knight",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87760,
+          "name": "Ines Elva Manning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124505,
+          "name": "Richard William Symonds",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Langley Green & Tushmore",
+      "ballot_paper_id": "local.crawley.langley-green-tushmore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 131389,
+          "name": "Lewis Earthrowl-Gould",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 96413,
+          "name": "Alan Hellier",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131390,
+          "name": "Laura Gomes Menezes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131391,
+          "name": "Oliver Lewis Pickstock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11884,
+          "name": "Tahira Rana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131392,
+          "name": "Kemuel Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maidenbower",
+      "ballot_paper_id": "local.crawley.maidenbower.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126364,
+          "name": "Imtiaz Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74134,
+          "name": "Max Perry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 50400,
+          "name": "Stephen Pritchard",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130837,
+          "name": "Riszard Anthony Rzepa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130838,
+          "name": "Sarah Ellen Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northgate & West Green",
+      "ballot_paper_id": "local.crawley.northgate-west-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 11918,
+          "name": "David Lee Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124352,
+          "name": "Nicky Ascenso",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130802,
+          "name": "Pat Gedge",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 109840,
+          "name": "Nick Park",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130803,
+          "name": "Susan Wheeler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130804,
+          "name": "Mitchall Roy Whiston",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pound Hill North & Forge Wood",
+      "ballot_paper_id": "local.crawley.pound-hill-north-forge-wood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109280,
+          "name": "Paul Castle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130793,
+          "name": "Fidel Kuzamba",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110380,
+          "name": "Neal Douglas Murdoch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124353,
+          "name": "Zahid Raja",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130794,
+          "name": "James Matthew Harry Tidy",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pound Hill South & Worth",
+      "ballot_paper_id": "local.crawley.pound-hill-south-worth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124354,
+          "name": "Flynn Robert Cowell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130808,
+          "name": "Heidi James-Dunbar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11906,
+          "name": "Bob Lanzer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130809,
+          "name": "Bob Laycock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130810,
+          "name": "Theo Hendrik Van der Lugt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southgate",
+      "ballot_paper_id": "local.crawley.southgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 64721,
+          "name": "Zack Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 114765,
+          "name": "Tim Charters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73952,
+          "name": "Robin David Fitton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87753,
+          "name": "Yasmin Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110310,
+          "name": "Bret Shattock",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Three Bridges",
+      "ballot_paper_id": "local.crawley.three-bridges.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 130872,
+          "name": "Lekan Hamzat Babalola",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130873,
+          "name": "Mandie Hains",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124355,
+          "name": "Marilyn Hilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110545,
+          "name": "Tim Holt",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130874,
+          "name": "Callum Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130875,
+          "name": "Georgia-Mae Pocock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41557,
+          "name": "Jonathan Purdy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130876,
+          "name": "Stephanie Joan Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130877,
+          "name": "Omar Shafiq",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130878,
+          "name": "Tom Wiggins",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tilgate",
+      "ballot_paper_id": "local.crawley.tilgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130834,
+          "name": "Hazel Mehmet",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130835,
+          "name": "Tarek Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11902,
+          "name": "Tony Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130836,
+          "name": "Emma Whiteoak",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

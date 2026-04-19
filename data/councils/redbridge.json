@@ -1,0 +1,1781 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "redbridge",
+    "council_name": "Redbridge"
+  },
+  "wards": [
+    {
+      "ward_name": "Aldborough",
+      "ballot_paper_id": "local.redbridge.aldborough.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 137368,
+          "name": "Zahrah Awaleh",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137369,
+          "name": "Joshua Cardel Bridgeman-Carty",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137370,
+          "name": "Ian Caswell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36531,
+          "name": "Gwyneth Deakins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92026,
+          "name": "Andrew George Eracleous",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48239,
+          "name": "Jyotsna Rahman Islam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137371,
+          "name": "Janum Janum",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137372,
+          "name": "Alison Jay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137373,
+          "name": "Sara Kassam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137374,
+          "name": "Naresh Macherla",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137375,
+          "name": "Rahul Mahajan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137376,
+          "name": "Shahana Mashrur",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91959,
+          "name": "Lebo Phakoe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46730,
+          "name": "Kam Rai",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137377,
+          "name": "Dhenesh Ramanathan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137378,
+          "name": "Savita Sharma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137379,
+          "name": "Omer Sohail",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137380,
+          "name": "Rosemary Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137381,
+          "name": "Alison Sarah Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Barkingside",
+      "ballot_paper_id": "local.redbridge.barkingside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137297,
+          "name": "Vinod Kumar Agrawal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137298,
+          "name": "Vaseem Ahmed",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137299,
+          "name": "Samine Aseeb",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137300,
+          "name": "Harminder Singh Bal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137301,
+          "name": "Steven Batey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91964,
+          "name": "Riaz Mahmood Bhatti",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137302,
+          "name": "John Richard Clare",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137304,
+          "name": "Ihsan Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137305,
+          "name": "Vishwanath Kokkonda",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91985,
+          "name": "Saravanan Muthusamy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137303,
+          "name": "Syeda Ferdause Pasha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48467,
+          "name": "Martin Sachs",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137306,
+          "name": "W Thomas Thambipillai",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bridge",
+      "ballot_paper_id": "local.redbridge.bridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 21231,
+          "name": "Stephen Adams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136950,
+          "name": "Misba Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136951,
+          "name": "Richard Ernest Andrews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46671,
+          "name": "Gurdial Singh Bhamra",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136952,
+          "name": "Jesmin Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6926,
+          "name": "Rachel Collinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136953,
+          "name": "Adam Joiner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136954,
+          "name": "Thomas Jose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136955,
+          "name": "Joe Iain McIntosh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136956,
+          "name": "Josiah Moseley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136957,
+          "name": "Dilip Padipurakalathi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136958,
+          "name": "Stuart Shulton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136959,
+          "name": "Rakesh Vasis",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadwell",
+      "ballot_paper_id": "local.redbridge.chadwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 137332,
+          "name": "Muhammad Touseef Afzal",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137333,
+          "name": "Waz Akram",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137334,
+          "name": "Shamima Aktar",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 137335,
+          "name": "Niamh Victoria Atkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46438,
+          "name": "Shirley Baah-Mensah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137336,
+          "name": "Arakoth Ahmed Chowdhury",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 47590,
+          "name": "Bert Alexander Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137337,
+          "name": "Monis Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137338,
+          "name": "Aba Kristilolu",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137339,
+          "name": "Muhammad Abdul Hakim Layek",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137340,
+          "name": "Ahmed Maruf",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 137341,
+          "name": "Prince Nnaemeka Nwankwo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137342,
+          "name": "Sagal Abshir Osman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137343,
+          "name": "Maximillian Phoenix",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92012,
+          "name": "Luthfa Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137344,
+          "name": "Syed Eyamen Siddiqi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47592,
+          "name": "Gary Peter Straight",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137345,
+          "name": "Sanjay Kumar Vijh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Churchfields",
+      "ballot_paper_id": "local.redbridge.churchfields.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137382,
+          "name": "Nicola Cuthbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19582,
+          "name": "Lloyd Jacob Duddridge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48462,
+          "name": "Judith Anne Naomi Garfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137383,
+          "name": "Jillian Ghose",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137384,
+          "name": "Chrissie Gorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137385,
+          "name": "Zohair Hassan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91953,
+          "name": "Heather Liddle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137386,
+          "name": "John Long",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137387,
+          "name": "Rita Mahli",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137388,
+          "name": "Samantha Quaresma-Cabral",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91979,
+          "name": "Martin Ian Rosner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38935,
+          "name": "Michael Helmut Teahan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137390,
+          "name": "Helen Watson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 47695,
+          "name": "Guy Owen Mansfield Williams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45979,
+          "name": "Alex Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayhall",
+      "ballot_paper_id": "local.redbridge.clayhall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 137271,
+          "name": "Krishen Bhardwaj",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137272,
+          "name": "Lily Jean Metcalfe Boon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137273,
+          "name": "Kalpana Bose",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137274,
+          "name": "John Andrew Brodie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137275,
+          "name": "Miki Dutta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137276,
+          "name": "Vinil Kumar Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137277,
+          "name": "Richard Martin Heins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7046,
+          "name": "Ashburn Holder",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137278,
+          "name": "Obaidul Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91984,
+          "name": "Kabir Mahmud",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 48466,
+          "name": "Karen Packer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91970,
+          "name": "Kamal Hussain Qureshi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137279,
+          "name": "Azizur Rahman",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137280,
+          "name": "Natascia Paola Servini",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137281,
+          "name": "Mohammed Abdus Shahid",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 91986,
+          "name": "Kathleen Patricia Teahan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46675,
+          "name": "Jamal Uddin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45934,
+          "name": "Joel Winston",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clementswood",
+      "ballot_paper_id": "local.redbridge.clementswood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137233,
+          "name": "Farjana Afroja",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 137234,
+          "name": "Zain Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137235,
+          "name": "Ritu Chaubey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137236,
+          "name": "Finlay Collins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137237,
+          "name": "Sarika Dube",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137238,
+          "name": "Fazlul Haque",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 48411,
+          "name": "Zulfiqar Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137239,
+          "name": "Abdurahman Akhtar Jafar",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 48412,
+          "name": "Muhammed Javed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137240,
+          "name": "Muhammad Arif Mughal",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137241,
+          "name": "Tanaka Nasrin Pinki",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47174,
+          "name": "Taifur Rashid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137242,
+          "name": "Peter Roovers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137243,
+          "name": "Saheena Saeed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137244,
+          "name": "Deepika Verma",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cranbrook",
+      "ballot_paper_id": "local.redbridge.cranbrook.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 47671,
+          "name": "Chaudhary Mushtaq Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109362,
+          "name": "Mohammed Asif",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137218,
+          "name": "Mohamed Shukry Haleemdeen",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 124476,
+          "name": "Feza Haque",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 91990,
+          "name": "Syed Shikul Islam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137219,
+          "name": "Grace Angelin Jacob",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47173,
+          "name": "Saira Yasar Jamil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137220,
+          "name": "Steven Kraft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137221,
+          "name": "Vissen Limbeea",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137222,
+          "name": "Nicole MacCari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137223,
+          "name": "Tahreem Noor",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137224,
+          "name": "Surinder Pahl",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137225,
+          "name": "Rambabu Siripurapu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137226,
+          "name": "Patricia Fay Steel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137227,
+          "name": "Chiranjeev Verma",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fairlop",
+      "ballot_paper_id": "local.redbridge.fairlop.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 137087,
+          "name": "Madhuri Bandaru",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137088,
+          "name": "Gavin Bowtell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45931,
+          "name": "Bob Chattaway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137089,
+          "name": "Catherine Margaret Davies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137090,
+          "name": "Erza Doda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47675,
+          "name": "Richard David Firmstone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137091,
+          "name": "Razwana Hafiz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137092,
+          "name": "Richard King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36630,
+          "name": "Cedric Vincent Felix Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35651,
+          "name": "Joyce Ellen Ryan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137093,
+          "name": "Yogesh Saini",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137094,
+          "name": "Philip Richard Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 116948,
+          "name": "Sayeed Syduzzaman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137095,
+          "name": "Mark James Vince",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fullwell",
+      "ballot_paper_id": "local.redbridge.fullwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135562,
+          "name": "Gowri Satish Adimulam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135563,
+          "name": "James Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 116081,
+          "name": "Imran Arshad",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 7781,
+          "name": "Lee Michael Burkwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135564,
+          "name": "Laura Elliott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92003,
+          "name": "Matthew Goddin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135566,
+          "name": "Arpan Mahajan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135567,
+          "name": "Ghazala Muhammad",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 135568,
+          "name": "Linda Anne Mullis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135569,
+          "name": "Sara Nazir",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 135570,
+          "name": "Amir ljaz Sandhu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135571,
+          "name": "Amanda Swords",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135572,
+          "name": "Vibhu Taneja",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135573,
+          "name": "Vrindha Vaishnav",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135565,
+          "name": "Fahad Zeeshan",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Goodmayes",
+      "ballot_paper_id": "local.redbridge.goodmayes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137248,
+          "name": "Shorif Hossain Akhonda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46726,
+          "name": "Maureen Ashley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137249,
+          "name": "Amina Azmath",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137250,
+          "name": "Chacko Bibin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137251,
+          "name": "Hannah Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137252,
+          "name": "Helen Choudhury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137253,
+          "name": "Mohammed Abul Kashem Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137254,
+          "name": "Ben Oliver Alan Cornish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91982,
+          "name": "Prabjit Gurm",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137255,
+          "name": "Amjad Iqbal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137256,
+          "name": "Shorful Islam",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137257,
+          "name": "Spencer Rose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118760,
+          "name": "Robin Thakur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47593,
+          "name": "John Charles Tyne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137258,
+          "name": "Humera Yasin",
+          "party_name": "Redbridge Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hainault",
+      "ballot_paper_id": "local.redbridge.hainault.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 136077,
+          "name": "Rana Riaz Ahmad",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 92010,
+          "name": "Shah Muhammad Jahir Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 71493,
+          "name": "Neil Philip Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136078,
+          "name": "Pamkaj Laxmidas Baldev",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136079,
+          "name": "Sunil Bali",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136080,
+          "name": "Piotr Pawel Berndt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 76872,
+          "name": "Pushpita Gupta",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136081,
+          "name": "Sylvester Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120471,
+          "name": "Helen Mullis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136082,
+          "name": "Kamaldeep Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136083,
+          "name": "Cat Still",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136084,
+          "name": "Prabhu Vasudevan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ilford Town",
+      "ballot_paper_id": "local.redbridge.ilford-town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 45307,
+          "name": "Saima Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136219,
+          "name": "Hossain Mohammed Enamul",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 136220,
+          "name": "Roger Fallows",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136221,
+          "name": "Mohammed Ashfaque Zaman Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136222,
+          "name": "Naresh Maharaj",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136223,
+          "name": "Zahirul Islam Mirdha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136224,
+          "name": "Isaac Odejimi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124475,
+          "name": "Firoz Patel",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 45310,
+          "name": "Shoaib Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113895,
+          "name": "Syed Shumon Siddiqi",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loxford",
+      "ballot_paper_id": "local.redbridge.loxford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 134754,
+          "name": "Muhammad Naseer Afzal",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 134755,
+          "name": "Iqbal Ahmed",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 134756,
+          "name": "Ruthba Amin",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 134757,
+          "name": "Nisa Firdaus",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134758,
+          "name": "Poonam Gaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134759,
+          "name": "Aleska Hossain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134760,
+          "name": "Jaffry Jaman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134761,
+          "name": "Tad Jani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134762,
+          "name": "Razaul Karim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134763,
+          "name": "Ramona Mitrache",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 134764,
+          "name": "Kashif Naqvi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134765,
+          "name": "Michael Noel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134766,
+          "name": "Ataur Rahman",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 38443,
+          "name": "Foyzur Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92002,
+          "name": "Mazhar Saleem",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134767,
+          "name": "Mohsin Toga",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76870,
+          "name": "Sahdia Ehsan Warraich",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mayfield",
+      "ballot_paper_id": "local.redbridge.mayfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137020,
+          "name": "ljaz Amjad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137021,
+          "name": "Imran Awan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117524,
+          "name": "Noor Jahan Begum",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137022,
+          "name": "Rishi Sharma Bhagi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48407,
+          "name": "Matthew Alexander Cole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137023,
+          "name": "Sharad Desai",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137024,
+          "name": "Russel Dias",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137025,
+          "name": "Joanne Nicola Hennessey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137026,
+          "name": "Harneek Kaur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92021,
+          "name": "Tanweer Akhtar Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137027,
+          "name": "Bilal Muhammad",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137028,
+          "name": "Carl Odell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137029,
+          "name": "Edreis Rizwan",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137030,
+          "name": "Eva Marta Takacs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137031,
+          "name": "Azmain Tazwar",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Monkhams",
+      "ballot_paper_id": "local.redbridge.monkhams.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 137189,
+          "name": "Gerald Bouchier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137190,
+          "name": "Timothy John Harris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39224,
+          "name": "Joel Anthony Herga",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38932,
+          "name": "Claire Frazer Hunt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137191,
+          "name": "Romana Kousar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137192,
+          "name": "Jordan Patrick Meakin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137193,
+          "name": "Chris Portou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137194,
+          "name": "Ghandhimathy Sooriyakumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4704,
+          "name": "Clark Edward Vasey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137195,
+          "name": "Savan Vyas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newbury",
+      "ballot_paper_id": "local.redbridge.newbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 137136,
+          "name": "Tanvir Ahmed",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 92024,
+          "name": "Sunny Brar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91967,
+          "name": "Syeda Lovely Choudhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137137,
+          "name": "Winslow Bernard Green",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 137138,
+          "name": "Ibtasum Iktador",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137139,
+          "name": "Aslam Mohammed Iqbal",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 47934,
+          "name": "Thavathuray Jeyaranjan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137140,
+          "name": "Chloe Juliette",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137141,
+          "name": "Samia Chidera Emeka Nneji",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45309,
+          "name": "Olakunle Olaifa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137142,
+          "name": "Maulik Pravinchandra Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137143,
+          "name": "Stanley Segor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137144,
+          "name": "Moazzam Sultan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137145,
+          "name": "Strungaru Vitalie",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Seven Kings",
+      "ballot_paper_id": "local.redbridge.seven-kings.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 136557,
+          "name": "Imran Ahmed",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 136564,
+          "name": "Mir Maqdoom Hai Qamer Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136558,
+          "name": "Awab Bahri",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136559,
+          "name": "Chiara Castelli",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136560,
+          "name": "Kes Choudhery",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 36629,
+          "name": "Tony Csoka",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92029,
+          "name": "Nav Johal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136561,
+          "name": "Thomas Kempster",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45370,
+          "name": "Sadiq Yakub Kothia",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136562,
+          "name": "Mohammed Khaled Noor",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 136563,
+          "name": "Dak Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136565,
+          "name": "Usman Rasheed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136566,
+          "name": "Abdur Rashid",
+          "party_name": "Redbridge Matters"
+        },
+        {
+          "person_id": 35696,
+          "name": "Vanisha Surendra Bharti Solanki",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48242,
+          "name": "Andy Walker",
+          "party_name": "Redbridge Trade Union Party"
+        },
+        {
+          "person_id": 136567,
+          "name": "Rayhana Yasmin",
+          "party_name": "Redbridge Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Woodford",
+      "ballot_paper_id": "local.redbridge.south-woodford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 39364,
+          "name": "Crispin William Acton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39219,
+          "name": "Beverley Lisa Brewer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47689,
+          "name": "Paul Canal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133864,
+          "name": "Sam Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46674,
+          "name": "Robert Alexander Cole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133865,
+          "name": "Kallan Greybe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47875,
+          "name": "Joe Hehir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133866,
+          "name": "Jaya Narinesingh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133867,
+          "name": "Robert John Newman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39225,
+          "name": "Suzanne Nolan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133868,
+          "name": "Monika Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133869,
+          "name": "Jonathan Santaub",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36465,
+          "name": "Scott Raymond Wilding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133870,
+          "name": "Sam Windle",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Valentines",
+      "ballot_paper_id": "local.redbridge.valentines.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 136989,
+          "name": "Waheed Arshad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136990,
+          "name": "Neil Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136991,
+          "name": "Priti Bhatawadekar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136992,
+          "name": "Daniel Blackwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136993,
+          "name": "Frederick Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92048,
+          "name": "Alex Charlton-Holmes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136994,
+          "name": "Rashida Khanam Choudhery",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 43904,
+          "name": "Khayer Muhammed Rahman Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136995,
+          "name": "Marwan Elfallah",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 136996,
+          "name": "Munaf Iqbal Gani",
+          "party_name": "Redbridge Independents"
+        },
+        {
+          "person_id": 92050,
+          "name": "Kumud Datta Joshi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136997,
+          "name": "Anu Kapoor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136998,
+          "name": "Malik Faizan Khalid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136999,
+          "name": "Brian Mankin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137000,
+          "name": "Neelam Pahl",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137001,
+          "name": "Ahsan Uddin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wanstead Park",
+      "ballot_paper_id": "local.redbridge.wanstead-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 136923,
+          "name": "Milli Richards Clack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118761,
+          "name": "Nadir Iqbal Gilani",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92061,
+          "name": "Neil Hepworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136921,
+          "name": "Andrew Malcolm Joyce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40423,
+          "name": "Simon John Miller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136922,
+          "name": "Yit Chan Phoenix",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118228,
+          "name": "Emma Selina Shepherd-Mallinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136924,
+          "name": "Paul Anton Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136925,
+          "name": "David Alexander Thom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136926,
+          "name": "Alan Howard Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wanstead Village",
+      "ballot_paper_id": "local.redbridge.wanstead-village.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137047,
+          "name": "Md Kabir Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36514,
+          "name": "Jo Blackman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137048,
+          "name": "William John Collins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137049,
+          "name": "Corbyn Leon D'Alanno",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137050,
+          "name": "David Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137051,
+          "name": "Mark Gitsham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137053,
+          "name": "Sharmon Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36516,
+          "name": "Daniel Huw Morgan-Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137054,
+          "name": "Humza Sair",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137055,
+          "name": "Mark Evan Scannell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137056,
+          "name": "David Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137057,
+          "name": "Rabiya Tehseen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76869,
+          "name": "Mohammed Ohid Uddin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137052,
+          "name": "Neal Krishan Vithlani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137058,
+          "name": "Sue Whitehead",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

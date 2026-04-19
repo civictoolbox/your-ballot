@@ -1,0 +1,748 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "trafford",
+    "council_name": "Trafford"
+  },
+  "wards": [
+    {
+      "ward_name": "Altrincham",
+      "ballot_paper_id": "local.trafford.altrincham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128168,
+          "name": "Nick Dean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34696,
+          "name": "Dan Jerrome",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128169,
+          "name": "Donald McIntosh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128170,
+          "name": "Mark Nesbitt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128171,
+          "name": "Stuart Craig Niven",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ashton upon Mersey",
+      "ballot_paper_id": "local.trafford.ashton-upon-mersey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128302,
+          "name": "Jonathan Bevan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 55834,
+          "name": "Christopher Halliday",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128303,
+          "name": "Ben Hartley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 100483,
+          "name": "Diane Elizabeth Plunkett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128304,
+          "name": "Luke Sowerby",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bowdon",
+      "ballot_paper_id": "local.trafford.bowdon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 78158,
+          "name": "Bridget Mary Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129358,
+          "name": "Ron Hutton",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 100185,
+          "name": "Kate Lamerton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129359,
+          "name": "Michelle Lesley McCusker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14723,
+          "name": "Ludo Tolhurst-Cleaver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41364,
+          "name": "Shengke Zhi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Broadheath",
+      "ballot_paper_id": "local.trafford.broadheath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128246,
+          "name": "Terence Charnock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10423,
+          "name": "Stephen John Farndon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128247,
+          "name": "Barbara Gerard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128248,
+          "name": "Javed Bakht Khwaja",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100201,
+          "name": "Prakash Nathani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78494,
+          "name": "Alexander Young",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brooklands",
+      "ballot_paper_id": "local.trafford.brooklands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 89891,
+          "name": "Renate Aspden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128162,
+          "name": "John Spencer Churchill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10422,
+          "name": "Pauline Cliff",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90982,
+          "name": "Bheem Pulla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 49424,
+          "name": "Rose Thompson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bucklow-St Martins",
+      "ballot_paper_id": "local.trafford.bucklow-st-martins.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41153,
+          "name": "Margaret Hamilton Boysen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128691,
+          "name": "George James Speight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127235,
+          "name": "Paul Swansborough",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 128441,
+          "name": "Istvan Toth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128692,
+          "name": "Charlotte Amy Eileen Waterworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35222,
+          "name": "Aidan James Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Davyhulme",
+      "ballot_paper_id": "local.trafford.davyhulme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128824,
+          "name": "Billy Burke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55972,
+          "name": "Karina Carter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90064,
+          "name": "Kevin Peter Chatterton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 54500,
+          "name": "Jonathan Coupe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40944,
+          "name": "Gary Regan",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 55309,
+          "name": "Briony Stephenson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Flixton",
+      "ballot_paper_id": "local.trafford.flixton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128615,
+          "name": "Andrew Beaumont",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 78544,
+          "name": "Katrin Cotter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78545,
+          "name": "Tim Kinsella",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13718,
+          "name": "Paul Lally",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78546,
+          "name": "Dolores Catherine O'Sullivan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128616,
+          "name": "Mark John Ormiston",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gorse Hill & Cornbrook",
+      "ballot_paper_id": "local.trafford.gorse-hill-cornbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 41120,
+          "name": "Dawn Lee Carberry-Power",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 73378,
+          "name": "Stuart Donnelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128191,
+          "name": "Aaron James Fradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 72791,
+          "name": "Fianna Frances Ritchen Hornby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128192,
+          "name": "Bill Sumner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hale",
+      "ballot_paper_id": "local.trafford.hale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128749,
+          "name": "Seth Edward Champion",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100750,
+          "name": "Rupert Owen Kelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128750,
+          "name": "Richard Anthony Shean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110500,
+          "name": "Jason Stack",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123251,
+          "name": "Orla Weir",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hale Barns & Timperley South",
+      "ballot_paper_id": "local.trafford.hale-barns-timperley-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128572,
+          "name": "Leslie Cupitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41420,
+          "name": "Nathan Evans",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128573,
+          "name": "Isaac Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128574,
+          "name": "Centaine Wendy Parker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100186,
+          "name": "Matt Sellars",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longford",
+      "ballot_paper_id": "local.trafford.longford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10426,
+          "name": "Chris Boyes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34656,
+          "name": "Anna Fryer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13737,
+          "name": "Judith Ann Lloyd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128597,
+          "name": "Charles William Oliver Rear",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89869,
+          "name": "Gareth Adam Twose",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lostock & Barton",
+      "ballot_paper_id": "local.trafford.lostock-barton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128467,
+          "name": "Ian Andrew Edwards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90065,
+          "name": "Tracey Beryl Haworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128468,
+          "name": "Stephen William Holman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10463,
+          "name": "David Kierman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128469,
+          "name": "Mark Gregory Tobin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor",
+      "ballot_paper_id": "local.trafford.manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 100206,
+          "name": "Dan Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110502,
+          "name": "Gawain Glenton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55231,
+          "name": "James McGlashan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90097,
+          "name": "Rupali Paul",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10452,
+          "name": "Simon Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Trafford",
+      "ballot_paper_id": "local.trafford.old-trafford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 100684,
+          "name": "Diane Coupe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128228,
+          "name": "Alan Cowell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78573,
+          "name": "Andy Hick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123177,
+          "name": "Mahvish Masood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13725,
+          "name": "Jennie Patricia Wadsworth",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sale Central",
+      "ballot_paper_id": "local.trafford.sale-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 100170,
+          "name": "Kameswari Achanta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128318,
+          "name": "Stephen Colin Ardern",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99923,
+          "name": "Joe Samuel Kramer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90162,
+          "name": "Eve Rebecca Parker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116200,
+          "name": "Hilary Salt",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 128319,
+          "name": "Teddy Somers",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sale Moor",
+      "ballot_paper_id": "local.trafford.sale-moor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90100,
+          "name": "Chris James Hargreaves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128327,
+          "name": "James William McCullough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 100200,
+          "name": "James Miller",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41297,
+          "name": "Liz Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128328,
+          "name": "Kishorchandra Patil",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stretford & Humphrey Park",
+      "ballot_paper_id": "local.trafford.stretford-humphrey-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129208,
+          "name": "Daniel John Bowdler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90082,
+          "name": "Hazel Joy Gibb-Shacklock",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123620,
+          "name": "Jamie Gordon Hook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40629,
+          "name": "Stephen Lee Power",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128639,
+          "name": "Syeda Bushra Rizvi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41363,
+          "name": "Jane Winifred Slater",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Timperley Central",
+      "ballot_paper_id": "local.trafford.timperley-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110518,
+          "name": "James William Brooke-Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124321,
+          "name": "Vineeta Singh Chouhan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123273,
+          "name": "Philip Alexander Holt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10410,
+          "name": "Julian David Newgrosh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13730,
+          "name": "Barbara Ruth Twiney",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Timperley North",
+      "ballot_paper_id": "local.trafford.timperley-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 55219,
+          "name": "Angela Bruer-Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41172,
+          "name": "Will Frass",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41556,
+          "name": "Angela O'Neill",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 129029,
+          "name": "Jo Sharpe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129030,
+          "name": "Anthony Shaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 100669,
+          "name": "Aagash Vadera",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Urmston",
+      "ballot_paper_id": "local.trafford.urmston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 110470,
+          "name": "Ali Aydogdu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77851,
+          "name": "John Robert Franklin-Johnston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13714,
+          "name": "Paul Regan",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 123274,
+          "name": "Clare Sheridan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128618,
+          "name": "Dave Stubbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10465,
+          "name": "Steve Tennant",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

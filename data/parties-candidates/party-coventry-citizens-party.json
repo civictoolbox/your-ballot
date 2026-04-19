@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-coventry-citizens-party",
+    "display_name": "Coventry Citizens Party",
+    "candidate_count": 4,
+    "council_count": 1,
+    "raw_party_names": [
+      "Coventry Citizens Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 74227,
+      "name": "Cameron Ewart Baxter",
+      "party_name": "Coventry Citizens Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Binley & Willenhall"
+    },
+    {
+      "person_id": 79465,
+      "name": "Gary Ronald Cooper",
+      "party_name": "Coventry Citizens Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Wyken"
+    },
+    {
+      "person_id": 11797,
+      "name": "Ian Arthur Rogers",
+      "party_name": "Coventry Citizens Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Woodlands"
+    },
+    {
+      "person_id": 82746,
+      "name": "Karen Wilson",
+      "party_name": "Coventry Citizens Party",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Bablake"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-animal-welfare-party",
+    "display_name": "Animal Welfare Party",
+    "candidate_count": 3,
+    "council_count": 3,
+    "raw_party_names": [
+      "Animal Welfare Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 127820,
+      "name": "Jacqui Cook",
+      "party_name": "Animal Welfare Party",
+      "council_slug": "huntingdonshire",
+      "council_name": "Huntingdonshire",
+      "ward_name": "Hemingford Grey & Houghton"
+    },
+    {
+      "person_id": 128656,
+      "name": "Paul Graham",
+      "party_name": "Animal Welfare Party",
+      "council_slug": "cherwell",
+      "council_name": "Cherwell",
+      "ward_name": "Bicester West"
+    },
+    {
+      "person_id": 131556,
+      "name": "Mike Kelson",
+      "party_name": "Animal Welfare Party",
+      "council_slug": "merton",
+      "council_name": "Merton",
+      "ward_name": "Lavender Fields"
+    }
+  ]
+}

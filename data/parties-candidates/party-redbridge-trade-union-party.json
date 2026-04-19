@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-redbridge-trade-union-party",
+    "display_name": "Redbridge Trade Union Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Redbridge Trade Union Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 48242,
+      "name": "Andy Walker",
+      "party_name": "Redbridge Trade Union Party",
+      "council_slug": "redbridge",
+      "council_name": "Redbridge",
+      "ward_name": "Seven Kings"
+    }
+  ]
+}

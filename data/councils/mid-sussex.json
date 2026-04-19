@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "mid-sussex",
+    "council_name": "Mid Sussex"
+  },
+  "wards": [
+    {
+      "ward_name": "Hurstpierpoint",
+      "ballot_paper_id": "local.mid-sussex.hurstpierpoint.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125387,
+          "name": "Eliza Brazil",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127774,
+          "name": "Thomas Givons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127775,
+          "name": "James Christian Stringfellow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127776,
+          "name": "Lyn Joyce Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

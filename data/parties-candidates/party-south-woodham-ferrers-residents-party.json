@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-south-woodham-ferrers-residents-party",
+    "display_name": "South Woodham Ferrers Residents Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "South Woodham Ferrers Residents Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 59182,
+      "name": "Keith Bentley",
+      "party_name": "South Woodham Ferrers Residents Party",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Woodham Ferrers"
+    }
+  ]
+}

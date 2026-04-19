@@ -1,0 +1,1229 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "south-tyneside",
+    "council_name": "South Tyneside"
+  },
+  "wards": [
+    {
+      "ward_name": "Beacon & Bents",
+      "ballot_paper_id": "local.south-tyneside.beacon-bents.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130439,
+          "name": "Mark Andrew Berriman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 98757,
+          "name": "Aaron Michael Cain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 54113,
+          "name": "Fay Cunningham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110125,
+          "name": "Jabed Hossain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117381,
+          "name": "Ahmed Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130440,
+          "name": "Scott Lancaster",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16076,
+          "name": "Sarah McKeown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130441,
+          "name": "Daniel Edward Stuart O'Neill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130442,
+          "name": "Georgia Partridge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130443,
+          "name": "Rana Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130444,
+          "name": "James Michael Stark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 62617,
+          "name": "Sue Stonehouse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130449,
+          "name": "Edith Tye",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bede",
+      "ballot_paper_id": "local.south-tyneside.bede.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 81045,
+          "name": "John Chilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39930,
+          "name": "Stephen Dean",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110112,
+          "name": "Terry Foggon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131490,
+          "name": "Donna Foggon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16787,
+          "name": "Tony Gair",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131526,
+          "name": "Mo Karim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131537,
+          "name": "Michael Oughton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131580,
+          "name": "Margaret Mary Peacock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131591,
+          "name": "Alan Rice",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39932,
+          "name": "Keith Roberts",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131609,
+          "name": "Lynne Saunders",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131625,
+          "name": "Sean Anthony Stonehouse",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131649,
+          "name": "Chris Wears",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Biddick & All Saints",
+      "ballot_paper_id": "local.south-tyneside.biddick-all-saints.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 138923,
+          "name": "Chris Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138924,
+          "name": "Alan Lawless",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138925,
+          "name": "Martin Edward Lightfoot",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138926,
+          "name": "Steve Maddison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 62684,
+          "name": "Katharine Emma Maxwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99429,
+          "name": "Darius Seago",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138927,
+          "name": "Steven Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138928,
+          "name": "Rachael Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138929,
+          "name": "Lee Theaker",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138930,
+          "name": "Michelle Teresa Turnbull",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boldon Colliery",
+      "ballot_paper_id": "local.south-tyneside.boldon-colliery.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138965,
+          "name": "Ben Allison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138966,
+          "name": "Ruth Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80624,
+          "name": "Peter Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138967,
+          "name": "Ian Jason Diamond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138968,
+          "name": "Chris Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138969,
+          "name": "Paul Freemen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138970,
+          "name": "Mason Gilhespy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138971,
+          "name": "Michael Gerard Girdlestone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138972,
+          "name": "John Lennox",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138973,
+          "name": "Ethan Moffatt-Oliver",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80625,
+          "name": "Simon Kevin Oliver",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138974,
+          "name": "Thomas William Stradling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 39918,
+          "name": "Alison Strike",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cleadon Park & Harton Moor",
+      "ballot_paper_id": "local.south-tyneside.cleadon-park-harton-moor.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138946,
+          "name": "Lewis Bridgewood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138947,
+          "name": "Russell Stephen Clifton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138948,
+          "name": "Daniel Cook",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81063,
+          "name": "George Robert William Elsom",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 5445,
+          "name": "Steve Harrison",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138949,
+          "name": "Vicky Harrison",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138950,
+          "name": "Tariq Jaman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106032,
+          "name": "Justin Knight",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138951,
+          "name": "Ken Mitchell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138952,
+          "name": "Colin Noble",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138953,
+          "name": "Richard Pressling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138954,
+          "name": "Helen Louise Ross",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138955,
+          "name": "Heidi Wildhirt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138956,
+          "name": "Karen Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cleadon Village & East Boldon",
+      "ballot_paper_id": "local.south-tyneside.cleadon-village-east-boldon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138985,
+          "name": "Peter Atherton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138986,
+          "name": "Phil Barron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5222,
+          "name": "Shirley Ford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5115,
+          "name": "David Herbert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138987,
+          "name": "Samuel Thomas Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138988,
+          "name": "Nick Markwick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138989,
+          "name": "Abbey Muquith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138990,
+          "name": "Scott Oliver",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138991,
+          "name": "Mervyn Carl William Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138992,
+          "name": "Tina Lindsay Roche",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138993,
+          "name": "John Robert Temple",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138994,
+          "name": "Dawn Wildhirt",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fellgate & Hedworth",
+      "ballot_paper_id": "local.south-tyneside.fellgate-hedworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138807,
+          "name": "Taz Ali",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138808,
+          "name": "Patrick Balmer",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138809,
+          "name": "Badri Bechlem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138816,
+          "name": "Mal Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139107,
+          "name": "Allan Michael Fitzgerald",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138810,
+          "name": "Katie Groom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39812,
+          "name": "Geraldine Margaret Teresa Kilgour",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138811,
+          "name": "Nick Lamb",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138812,
+          "name": "Melanie Maughan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138813,
+          "name": "Jean Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138814,
+          "name": "Kerry Redhead",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110160,
+          "name": "Tony Roberts",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138815,
+          "name": "Pauline Stoker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harton",
+      "ballot_paper_id": "local.south-tyneside.harton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138400,
+          "name": "Shaun Barclay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138401,
+          "name": "Ann Margaret Brenen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87457,
+          "name": "Michael Henry Clare",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138402,
+          "name": "Alex Robert Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138403,
+          "name": "Declan Guiney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138404,
+          "name": "Pat Hay",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138405,
+          "name": "Kathryn Kaupa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39792,
+          "name": "Neil Maxwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99433,
+          "name": "Jim Mouat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138406,
+          "name": "Karen Louise Myers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138407,
+          "name": "Michael Thomas Pittuck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58623,
+          "name": "Susan Traynor",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hebburn North",
+      "ballot_paper_id": "local.south-tyneside.hebburn-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138823,
+          "name": "George Currie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 62652,
+          "name": "Brian Goodman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138824,
+          "name": "Andy Heywood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16857,
+          "name": "Liz McHugh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138825,
+          "name": "Yvonne McShane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81064,
+          "name": "John Riley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138826,
+          "name": "Stephen George Rutherford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138827,
+          "name": "Richard George Scott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138828,
+          "name": "Mike Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138829,
+          "name": "Susan Sybenga",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16806,
+          "name": "Colin Tosh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hebburn South",
+      "ballot_paper_id": "local.south-tyneside.hebburn-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 139090,
+          "name": "Ayo Akin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 139091,
+          "name": "Amy Andrews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139092,
+          "name": "Annette Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139093,
+          "name": "Elliott Curry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139094,
+          "name": "Gary Elsender",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 62660,
+          "name": "Wilf Flynn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139095,
+          "name": "Jackie Griffin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139096,
+          "name": "Sean Halligan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87461,
+          "name": "Angela Lamonte",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139097,
+          "name": "Neil Newton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 139098,
+          "name": "Mark Francis Richardson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139099,
+          "name": "Shane Andrew Smith",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Horsley Hill & Westoe Crown",
+      "ballot_paper_id": "local.south-tyneside.horsley-hill-westoe-crown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138913,
+          "name": "Owen Batchelor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138914,
+          "name": "Gill Brown",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80641,
+          "name": "Phil Brown",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138915,
+          "name": "Jason Stephen Carr",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138916,
+          "name": "Audrey Fenwick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138917,
+          "name": "Vicki Gardener",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110174,
+          "name": "Dorothy Jane Grainger",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138918,
+          "name": "Darren Henry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39599,
+          "name": "Eileen Leask",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138919,
+          "name": "Erin Maxwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138920,
+          "name": "Charlie Medcalf",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138921,
+          "name": "Pat Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138922,
+          "name": "Shamol Shahran",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Monkton",
+      "ballot_paper_id": "local.south-tyneside.monkton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138755,
+          "name": "Emma Kate Corr",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 62673,
+          "name": "Paul Dean",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138756,
+          "name": "Tony Easter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138757,
+          "name": "Sheryl Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138758,
+          "name": "Matt Ling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138759,
+          "name": "Rory Cunningham Page",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138760,
+          "name": "Kasia Parker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81050,
+          "name": "Graeme Slator",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 62670,
+          "name": "Marian Elizabeth Stead",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138761,
+          "name": "Tracey Stephenson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138762,
+          "name": "Sonia Teasdale-Banks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138763,
+          "name": "John Watson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Primrose",
+      "ballot_paper_id": "local.south-tyneside.primrose.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 138888,
+          "name": "Anita Ashbridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138889,
+          "name": "Alex Barr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138890,
+          "name": "Lauren Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138891,
+          "name": "Lindsey Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138892,
+          "name": "Bob Farrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110179,
+          "name": "Joan Hamilton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 81051,
+          "name": "David Kennedy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138893,
+          "name": "Karen Kennedy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138894,
+          "name": "Andrew Lockney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138895,
+          "name": "Joanne McKie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138896,
+          "name": "Adam James Naylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39814,
+          "name": "John Andrew Robertson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138897,
+          "name": "Adam Nicholas Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138898,
+          "name": "Elaine Cecilia Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138899,
+          "name": "Stephen Wheeler",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Simonside & Rekendyke",
+      "ballot_paper_id": "local.south-tyneside.simonside-rekendyke.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138790,
+          "name": "Phillip Charles Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138791,
+          "name": "Adrian Thomas Cartwright",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138792,
+          "name": "Michelle Fascione",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138793,
+          "name": "Anthony Fenwick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138794,
+          "name": "Jimmy King",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16905,
+          "name": "Edward Malcolm",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138795,
+          "name": "Sophia Malik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138796,
+          "name": "Abdul Rob Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138797,
+          "name": "Mark Nellist",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138798,
+          "name": "Luke Perry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39671,
+          "name": "Lynne Ann Proudlock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81054,
+          "name": "Kenneth George Wood",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Park",
+      "ballot_paper_id": "local.south-tyneside.west-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138937,
+          "name": "Syed Shorif Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138938,
+          "name": "Matt Blair",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138939,
+          "name": "Helen Hudson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138940,
+          "name": "Jeff Lazenby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138941,
+          "name": "Tony Leather",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138942,
+          "name": "Richard Saunders",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138943,
+          "name": "Adam John Stevenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138944,
+          "name": "Jasim Uddin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138945,
+          "name": "Tom Veitch",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westoe",
+      "ballot_paper_id": "local.south-tyneside.westoe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138707,
+          "name": "Noor Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80645,
+          "name": "Paul Brenen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138708,
+          "name": "Jordan Buncan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138709,
+          "name": "Andrew Guy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138710,
+          "name": "William Alan Jamieson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138711,
+          "name": "Abhinav Kumar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110167,
+          "name": "Kate Owens-Palmer",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138712,
+          "name": "Karen Pittuck",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99437,
+          "name": "Luke Andrew Robson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138713,
+          "name": "Nathan Slight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138714,
+          "name": "Sharlene May Tooley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123869,
+          "name": "Liam Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138715,
+          "name": "Tracey Windle",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitburn & Marsden",
+      "ballot_paper_id": "local.south-tyneside.whitburn-marsden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138931,
+          "name": "Steve Cain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16927,
+          "name": "Tracey Allison Dixon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 62691,
+          "name": "Anne Hetherington",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138932,
+          "name": "Tony Humphrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138933,
+          "name": "Steve Lavelle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138934,
+          "name": "David Royal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 62698,
+          "name": "Trevor Sewell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138935,
+          "name": "Lewis Spence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138936,
+          "name": "Joyce Welsh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whiteleas",
+      "ballot_paper_id": "local.south-tyneside.whiteleas.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 138908,
+          "name": "Lisa Cooley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87472,
+          "name": "Ken Dawes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 62704,
+          "name": "Ernest Matthew Gibson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138909,
+          "name": "Phoenix Haynes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138910,
+          "name": "Paul Anthony Mackings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16077,
+          "name": "Doreen Purvis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138911,
+          "name": "Chris Turnbull",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138912,
+          "name": "Stan Wildhirt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87458,
+          "name": "Sophie-Jane Williams",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

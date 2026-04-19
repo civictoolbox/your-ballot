@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-communist-league-election-campaign",
+    "display_name": "Communist League Election Campaign",
+    "candidate_count": 3,
+    "council_count": 3,
+    "raw_party_names": [
+      "Communist League Election Campaign"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 136712,
+      "name": "Julie Crawford",
+      "party_name": "Communist League Election Campaign",
+      "council_slug": "southwark",
+      "council_name": "Southwark",
+      "ward_name": "Old Kent Road"
+    },
+    {
+      "person_id": 135625,
+      "name": "Dag Irving Tirsen",
+      "party_name": "Communist League Election Campaign",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Haselbury"
+    },
+    {
+      "person_id": 42445,
+      "name": "Hugo Wils",
+      "party_name": "Communist League Election Campaign",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Longsight"
+    }
+  ]
+}

@@ -1,0 +1,1543 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "haringey",
+    "council_name": "Haringey"
+  },
+  "wards": [
+    {
+      "ward_name": "Alexandra Park",
+      "ballot_paper_id": "local.haringey.alexandra-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 136528,
+          "name": "Michael Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126052,
+          "name": "Yulia Bakman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 43820,
+          "name": "Guy Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36036,
+          "name": "Paul Michael Dennison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123996,
+          "name": "AJ Egemonye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126053,
+          "name": "Helen Gerolaki",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123997,
+          "name": "Melanie Gingell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136529,
+          "name": "Will Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93085,
+          "name": "Xander Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93209,
+          "name": "Shelley Salter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136530,
+          "name": "Brij Sharma",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bounds Green",
+      "ballot_paper_id": "local.haringey.bounds-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 92461,
+          "name": "Emily Arkell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136534,
+          "name": "John Philip Attree",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136535,
+          "name": "Emily Rebecca Carr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124001,
+          "name": "Andrea Hodgson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136536,
+          "name": "Dan Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87881,
+          "name": "Kono Votu Kono-Ugen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136537,
+          "name": "Asli Nicolaou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136538,
+          "name": "Adam Daniel Cathles Rynhold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136539,
+          "name": "Phil Sheridan",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bruce Castle",
+      "ballot_paper_id": "local.haringey.bruce-castle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 136356,
+          "name": "Kehinde Ajao",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92489,
+          "name": "Ibrahim Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92490,
+          "name": "James Andrew Barton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136357,
+          "name": "Kevin John Blackwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132310,
+          "name": "Paul John Burnham",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 132099,
+          "name": "Amelie Cooper",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 35989,
+          "name": "Justin David Hinchcliffe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92493,
+          "name": "Sue Jameson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 5794,
+          "name": "Cara Penelope Jenkinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136358,
+          "name": "Dan Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36029,
+          "name": "Paul Gilbert Negus",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136359,
+          "name": "John Poulter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93166,
+          "name": "Queenjane Tobin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124008,
+          "name": "Duygu Toguz",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crouch End",
+      "ballot_paper_id": "local.haringey.crouch-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 124006,
+          "name": "Niall Adams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136380,
+          "name": "Imad Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92498,
+          "name": "Lester Buxton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36031,
+          "name": "Luke Cawley-Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136381,
+          "name": "Christian-C Dike",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136382,
+          "name": "Rimil Hembrom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92500,
+          "name": "Cressida Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136383,
+          "name": "Theodora Nathanael",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136384,
+          "name": "Fiona Orford-Williams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136385,
+          "name": "Tay Riann Quartermain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136386,
+          "name": "Jeanne Dorothy Sherwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39519,
+          "name": "Julian Alexander James Sherwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136387,
+          "name": "Ann Sinnott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136388,
+          "name": "Dushka Wertenbaker-Man",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136389,
+          "name": "Thomas Rhys Williams",
+          "party_name": "Christian Peoples Alliance"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fortis Green",
+      "ballot_paper_id": "local.haringey.fortis-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 1986,
+          "name": "Dawn Barnes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92509,
+          "name": "Matthew Peter Bentham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123991,
+          "name": "Michael Brookes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136757,
+          "name": "Karin Carver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136758,
+          "name": "Jo Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136759,
+          "name": "Debbie Michele Dixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136760,
+          "name": "Greg Dryer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123992,
+          "name": "David Kahn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136761,
+          "name": "Lidia Ana Mihele",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136762,
+          "name": "Christyn Parkes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123993,
+          "name": "Daniela Parry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35991,
+          "name": "Viv Ross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136763,
+          "name": "Jai Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136764,
+          "name": "Michael David Tringham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136765,
+          "name": "Rebecca Louise White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harringay",
+      "ballot_paper_id": "local.haringey.harringay.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 92517,
+          "name": "Anna Abela",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 36033,
+          "name": "Karen Jane Alexander",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124000,
+          "name": "Olly Bennathan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 43940,
+          "name": "Zena Brabazon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127011,
+          "name": "Nick Davies",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 136402,
+          "name": "Juliet Eileen Donnelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136403,
+          "name": "Dom Gibson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124301,
+          "name": "Marc John Jenner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124300,
+          "name": "Jo Kuper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124302,
+          "name": "Rosie Latchford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136404,
+          "name": "Rosemary Linda Parry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 847,
+          "name": "David Reuben Schmitz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136405,
+          "name": "Lili Shtipska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136406,
+          "name": "Jonathan Thornton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hermitage & Gardens",
+      "ballot_paper_id": "local.haringey.hermitage-gardens.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 93110,
+          "name": "Ronald Aitken",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124304,
+          "name": "Ata Berk Aksit",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136432,
+          "name": "Susan Dorothy Attridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125084,
+          "name": "Millie Cartwright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136433,
+          "name": "Amnon Jonathan Baron Cohen",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 44043,
+          "name": "Daniel El-Gamry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44042,
+          "name": "Catherine El-Gamry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124303,
+          "name": "Fin Fitzgerald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36028,
+          "name": "Lydia Elena Hirst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125085,
+          "name": "Edward Lewis-Smith",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highgate",
+      "ballot_paper_id": "local.haringey.highgate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136390,
+          "name": "Eva Marie Bell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7727,
+          "name": "Nick Da Costa",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36020,
+          "name": "Scott Emery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136391,
+          "name": "Max Knowles-Parr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46180,
+          "name": "Catherine McQueen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136392,
+          "name": "Christian Mehl",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136393,
+          "name": "Shahab Mossavat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136394,
+          "name": "Shamim Muhammad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136395,
+          "name": "Svenja Martina Nierwetberg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136396,
+          "name": "Sofia Patse",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136397,
+          "name": "Skye Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112244,
+          "name": "Sean Smyth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93047,
+          "name": "Nathan Steinberg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123990,
+          "name": "David Talbot",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136398,
+          "name": "Oliver Iglesia Victorio",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hornsey",
+      "ballot_paper_id": "local.haringey.hornsey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124305,
+          "name": "David Alexander Baulk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124307,
+          "name": "Lucas Kai Bouvier",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43818,
+          "name": "Dana Carlin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 7239,
+          "name": "Kay Julie Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136330,
+          "name": "John Stuart MacDonald Carver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136331,
+          "name": "Mark Cortacans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136332,
+          "name": "Gilly Kilby-Gjini",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124306,
+          "name": "Felicity De Motta",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36021,
+          "name": "Julia Ogiehor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117893,
+          "name": "Adam Small",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136333,
+          "name": "Harry Sullivan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43827,
+          "name": "Elin Weston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136334,
+          "name": "Tom Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Muswell Hill",
+      "ballot_paper_id": "local.haringey.muswell-hill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 136551,
+          "name": "Karolina Braun",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93082,
+          "name": "Cathy Brennan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93204,
+          "name": "Eva Carr",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136552,
+          "name": "Geno Esposito",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136553,
+          "name": "Michael Gabbay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136554,
+          "name": "Benjamin William Lloyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40668,
+          "name": "Sean O'Donovan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93096,
+          "name": "Tony Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136555,
+          "name": "Joshua Prideaux Thomson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136556,
+          "name": "Florence Margaret Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Noel Park",
+      "ballot_paper_id": "local.haringey.noel-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 43998,
+          "name": "Peray Ahmet",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36025,
+          "name": "David Morgan Beacham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136360,
+          "name": "Johann Beckford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136361,
+          "name": "Jade Tracy Blackwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136362,
+          "name": "Simon Matthew Clark",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136363,
+          "name": "Arzu Ercan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136364,
+          "name": "David Hardie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34383,
+          "name": "Emine Ibrahim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136365,
+          "name": "Eva Kleinova",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136366,
+          "name": "Richard Milnes Mansfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136367,
+          "name": "Martyna Piadlowska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136368,
+          "name": "Dariusz Piadlowski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136369,
+          "name": "Erin Wolson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124009,
+          "name": "Menha Tresor Zola",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northumberland Park",
+      "ballot_paper_id": "local.haringey.northumberland-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 44005,
+          "name": "Kaushika Amin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44006,
+          "name": "John Bevan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132459,
+          "name": "Alison Davy",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 40970,
+          "name": "Robin Charles Everett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93177,
+          "name": "Peter Gorski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136136,
+          "name": "Dominic Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136137,
+          "name": "Jayon Henriques",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132520,
+          "name": "Gary Alexander Joseph McFarlane",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 136138,
+          "name": "Glen Nichol",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93115,
+          "name": "Ajda Ovat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136139,
+          "name": "Charlotte Sophia Mortimer Schmitz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136140,
+          "name": "Dominic Adam Simler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136141,
+          "name": "Richard Ian Teuten",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Seven Sisters",
+      "ballot_paper_id": "local.haringey.seven-sisters.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 124308,
+          "name": "Ash Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44034,
+          "name": "Barbara Blake",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124309,
+          "name": "Luisa Brands",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136524,
+          "name": "Miguel Baruc Koseleff",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93140,
+          "name": "Joan Lindeman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136525,
+          "name": "Raul Mancera",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136526,
+          "name": "Tatiana Nachman Piadlowska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136527,
+          "name": "Jhonny Rodriguez",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93142,
+          "name": "Shloime Royde",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93128,
+          "name": "Michelle Simmons-Safo",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Tottenham",
+      "ballot_paper_id": "local.haringey.south-tottenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136510,
+          "name": "Suzanne Jane Crossman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136511,
+          "name": "Aisha Dodwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93043,
+          "name": "Mark Grosskopf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44087,
+          "name": "Makbule Gunes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 39694,
+          "name": "Anna Lawton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136512,
+          "name": "Joss MacDonald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136513,
+          "name": "Richard Jeffrey Marks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136514,
+          "name": "Patricia Mindham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136515,
+          "name": "Roger Stuart Mothersdale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44038,
+          "name": "Stephen Michael Noble",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136516,
+          "name": "Judith Okeno",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136517,
+          "name": "Charlotte Maria Pink",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136518,
+          "name": "Ian David Sinclair",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Ann's",
+      "ballot_paper_id": "local.haringey.st-anns.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 136500,
+          "name": "Susan Jane Button",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136501,
+          "name": "Devi Dimitrova",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123994,
+          "name": "Vanessa Heron-Hua",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93191,
+          "name": "Gregory Hirst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123995,
+          "name": "Amit Kamal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93022,
+          "name": "Claudia Matthews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118816,
+          "name": "Ruairidh George Paton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6575,
+          "name": "Marisha Priyanka Ray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124310,
+          "name": "Georgia Helen Twigg",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stroud Green",
+      "ballot_paper_id": "local.haringey.stroud-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 92434,
+          "name": "Amelia Allao",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 124313,
+          "name": "Bethany Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36249,
+          "name": "Nicholas Robert Auvache",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 40662,
+          "name": "David Douglas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92436,
+          "name": "George Dunstall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40663,
+          "name": "Daphne Forrest",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43822,
+          "name": "Peter Forrest",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136484,
+          "name": "Mark Gurney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124004,
+          "name": "James Hand",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136485,
+          "name": "Valerie Henderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124311,
+          "name": "Gio Iozzi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124005,
+          "name": "Navdeep Kaur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136486,
+          "name": "Ciprian Mihele",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136487,
+          "name": "Nicholas Orford-Williams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 7988,
+          "name": "Helen Spiby-Vann",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 124312,
+          "name": "Eddy Thacker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108900,
+          "name": "David Robert Vigoureux",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136488,
+          "name": "Liz Whitlock",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tottenham Central",
+      "ballot_paper_id": "local.haringey.tottenham-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124002,
+          "name": "Funmi Abari",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 41224,
+          "name": "Mark Antony Blake",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136350,
+          "name": "Joseph Frederick Doyle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93163,
+          "name": "Matthew Richard Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124003,
+          "name": "Zak Ivany",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124315,
+          "name": "Dixie-Ann Joseph",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136351,
+          "name": "Trevor Malcolm",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136352,
+          "name": "Jeanne Coreen Mendis-Abeysekera",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136353,
+          "name": "Yolanda Julia Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136354,
+          "name": "Uladzislau Ramanenka",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44047,
+          "name": "Andrew Nigel Reid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136355,
+          "name": "Doulla Theodorou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40975,
+          "name": "Matt White",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tottenham Hale",
+      "ballot_paper_id": "local.haringey.tottenham-hale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136407,
+          "name": "Tamouy Black",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124007,
+          "name": "Sarah Carson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44105,
+          "name": "Ruth Gordon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136408,
+          "name": "Maria Joseph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124318,
+          "name": "Tehseen Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136409,
+          "name": "Daniel Kinnear",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93141,
+          "name": "Gavin Harvey Rosenthal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124316,
+          "name": "Nelly Tackie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118814,
+          "name": "Stephen Tawiah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136410,
+          "name": "Tracy June Wackett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124317,
+          "name": "Hannah Elizabeth Ward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46525,
+          "name": "Julie Whittaker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136411,
+          "name": "Elizabeth Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Green",
+      "ballot_paper_id": "local.haringey.west-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 49255,
+          "name": "Seema Chandwani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136435,
+          "name": "Azbi Dauti",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136436,
+          "name": "Birgit Duncan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136437,
+          "name": "Anne Maureen Gray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136438,
+          "name": "Damian Grigorov",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36039,
+          "name": "Jim Jenks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44046,
+          "name": "Caesar Lalobo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136439,
+          "name": "Sami Ngoie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44010,
+          "name": "Ewa Ostrowski",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136440,
+          "name": "Andrew Robert Price",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132671,
+          "name": "John Sinha",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 132656,
+          "name": "Meryem Ulger",
+          "party_name": "Haringey Socialist Alliance"
+        },
+        {
+          "person_id": 43885,
+          "name": "Sarah Anne Williams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136441,
+          "name": "Michael Denis Woods",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "White Hart Lane",
+      "ballot_paper_id": "local.haringey.white-hart-lane.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136453,
+          "name": "Andrew Charles Bence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123999,
+          "name": "Beverley Berrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136454,
+          "name": "Emma Louise Chennells",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36054,
+          "name": "Jeremy Elwes Cunnington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136455,
+          "name": "Plamena Grigorova",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136456,
+          "name": "Mike Hodges",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136457,
+          "name": "Marie Dippel Kristensen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93113,
+          "name": "Robert Lindsay-Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93202,
+          "name": "Ahmed Mahbub",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136458,
+          "name": "Jacqueline Jean Newland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136459,
+          "name": "Ishaq Pathan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136460,
+          "name": "David Mark Powder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136461,
+          "name": "Esther Prasad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136462,
+          "name": "Shaan Rafiq",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 95575,
+          "name": "Angelos Kyriacos Tsangarides",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodside",
+      "ballot_paper_id": "local.haringey.woodside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 123998,
+          "name": "Hasret Bozdogan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136318,
+          "name": "Mikeleno Fureraj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136319,
+          "name": "Rita Hand",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136320,
+          "name": "Tammy Hymas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136321,
+          "name": "Marsha Isilar-Gosling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93207,
+          "name": "Thayahlan Iyngkaran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136322,
+          "name": "Hayley Nicola Jukes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136323,
+          "name": "Ciprian Moises Mihele",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136324,
+          "name": "Sumrah Paras Mohammed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41228,
+          "name": "Lucia Das Neves",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44123,
+          "name": "Neil O'Shea",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34836,
+          "name": "Ruth Price",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136325,
+          "name": "Nigel Peter Scott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136326,
+          "name": "Keshon Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136327,
+          "name": "Da Wei",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

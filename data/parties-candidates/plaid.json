@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "plaid",
+    "display_name": "Plaid Cymru",
+    "candidate_count": 2,
+    "council_count": 2,
+    "raw_party_names": [
+      "Plaid Cymru - The Party of Wales"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 135380,
+      "name": "lestyn Davies",
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "council_slug": "newport",
+      "council_name": "Newport",
+      "ward_name": "Rogerstone North"
+    },
+    {
+      "person_id": 135978,
+      "name": "Thomas Duggan",
+      "party_name": "Plaid Cymru - The Party of Wales",
+      "council_slug": "powys",
+      "council_name": "Powys",
+      "ward_name": "Llandrindod South"
+    }
+  ]
+}

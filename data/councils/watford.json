@@ -1,0 +1,426 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "watford",
+    "council_name": "Watford"
+  },
+  "wards": [
+    {
+      "ward_name": "Callowland",
+      "ballot_paper_id": "local.watford.callowland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112275,
+          "name": "Ola Alade",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127320,
+          "name": "Lisa Godden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127321,
+          "name": "Zeba Laskar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127322,
+          "name": "Seen Wai Lavelle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15668,
+          "name": "Ian Alexander Eric Stotesbury",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.watford.central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127052,
+          "name": "Stephen Burrows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16285,
+          "name": "Aga Dychton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127053,
+          "name": "Avi Geller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94905,
+          "name": "Mo Wadud Hakim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112695,
+          "name": "Xiaolei Xie",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holywell",
+      "ballot_paper_id": "local.watford.holywell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 120770,
+          "name": "Michael Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120765,
+          "name": "Jake Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6775,
+          "name": "Mark Stephen O'Connor",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 94966,
+          "name": "Sanjaya Pant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127310,
+          "name": "Emil Anwar Rowe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44921,
+          "name": "Asma Saeed Suleman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leggatts",
+      "ballot_paper_id": "local.watford.leggatts.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 120553,
+          "name": "Daniel Bagley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83674,
+          "name": "Malcolm Bush",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17275,
+          "name": "Derek Roy Foster",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 78586,
+          "name": "Sarah Jane Knott",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 127288,
+          "name": "Junaid Laskar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127289,
+          "name": "Marius Lupu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127290,
+          "name": "Monjuma Rahman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Meriden",
+      "ballot_paper_id": "local.watford.meriden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120708,
+          "name": "Mark Robert Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50403,
+          "name": "Jenny Pattinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94922,
+          "name": "Jennie Raperport",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17243,
+          "name": "Richard Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127240,
+          "name": "Alison Wiesner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nascot",
+      "ballot_paper_id": "local.watford.nascot.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127204,
+          "name": "Mick Cash",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83667,
+          "name": "Ravi Kura",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127205,
+          "name": "Tristan Joshua Masson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127206,
+          "name": "Nicola Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83668,
+          "name": "Tom Osborn",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oxhey",
+      "ballot_paper_id": "local.watford.oxhey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127180,
+          "name": "Carole Bamford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127181,
+          "name": "Dylan Bartley-Downer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127182,
+          "name": "Shirena Counter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127183,
+          "name": "Angela Tunstall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78520,
+          "name": "Neal Webber",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.watford.park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112708,
+          "name": "John Craddock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45818,
+          "name": "Peter John Christopher Kloss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127163,
+          "name": "Maria Mandic",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 105911,
+          "name": "Arijit Mukherjee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127164,
+          "name": "Helen Mary Rice",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stanborough",
+      "ballot_paper_id": "local.watford.stanborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127089,
+          "name": "Rhoda Amezado",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 120767,
+          "name": "Malcolm Mathew Caborn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112273,
+          "name": "David Gordon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 105910,
+          "name": "Laura Jayne Griffiths",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78498,
+          "name": "Peter Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tudor",
+      "ballot_paper_id": "local.watford.tudor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 46748,
+          "name": "John Leroy Dowdle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123354,
+          "name": "Dave Dunckley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17310,
+          "name": "Diana Ivory",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 119285,
+          "name": "Danny Mosley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127128,
+          "name": "Sean Silver",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Vicarage",
+      "ballot_paper_id": "local.watford.vicarage.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 112272,
+          "name": "Vibhor Agarwal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 26302,
+          "name": "David Charles Ealey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127112,
+          "name": "Sandra Mano",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127113,
+          "name": "Sarah McMahon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112692,
+          "name": "James Francis O'Connor",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 17232,
+          "name": "Nasreen Shah",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodside",
+      "ballot_paper_id": "local.watford.woodside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 44920,
+          "name": "Lola Adedoyin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127358,
+          "name": "Thomas Micheal Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17263,
+          "name": "Anne Joynes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17242,
+          "name": "Glen Bryce Saffery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127359,
+          "name": "Dani White",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

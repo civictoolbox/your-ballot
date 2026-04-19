@@ -1,0 +1,2877 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "norfolk",
+    "council_name": "Norfolk"
+  },
+  "wards": [
+    {
+      "ward_name": "Acle",
+      "ballot_paper_id": "local.norfolk.acle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 102227,
+          "name": "John Patrick Chapman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6356,
+          "name": "Lana Hempsall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76560,
+          "name": "Victor Frederick Morgan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131413,
+          "name": "Grant Nurden",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 102249,
+          "name": "Jess Royal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 57527,
+          "name": "Justine Thomas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Attleborough",
+      "ballot_paper_id": "local.norfolk.attleborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131762,
+          "name": "Jayne Booth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131763,
+          "name": "Daniel Robert Burcham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98268,
+          "name": "Marcia Solloway-Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60377,
+          "name": "Taila Joan Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Aylsham",
+      "ballot_paper_id": "local.norfolk.aylsham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 48928,
+          "name": "Sue Catchpole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131417,
+          "name": "Peter Darling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131418,
+          "name": "Paul Freeman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83521,
+          "name": "Kay Montandon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89727,
+          "name": "Thomas Williamson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blofield & Brundall",
+      "ballot_paper_id": "local.norfolk.blofield-brundall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 102229,
+          "name": "Emma Jennifer Covington",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 50035,
+          "name": "Jan Davis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131425,
+          "name": "David Disney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102523,
+          "name": "Peter Richard Freeman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24089,
+          "name": "Eleanor Rose Mason",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bowthorpe",
+      "ballot_paper_id": "local.norfolk.bowthorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 41089,
+          "name": "Neil Hardman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112676,
+          "name": "Rebeka Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138569,
+          "name": "Mike Sands",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138570,
+          "name": "Joe Skipper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138571,
+          "name": "Amber Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Breydon",
+      "ballot_paper_id": "local.norfolk.breydon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133309,
+          "name": "Simon Cole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124880,
+          "name": "Jess Coleman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124265,
+          "name": "Michael Charles French",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 11773,
+          "name": "Michael Jeal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97415,
+          "name": "Gerald Andrew Rouse",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 32029,
+          "name": "Carl Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Catton Grove",
+      "ballot_paper_id": "local.norfolk.catton-grove.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138589,
+          "name": "Mike Conroy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138590,
+          "name": "George Andrew Heaney",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 139106,
+          "name": "Nigel Clifford Lubbock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17489,
+          "name": "Tony Arthur Park",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 57193,
+          "name": "Samuel Walker",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clenchwarton & King's Lynn South",
+      "ballot_paper_id": "local.norfolk.clenchwarton-kings-lynn-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128926,
+          "name": "Gary Archdale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 67272,
+          "name": "Ben Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 33055,
+          "name": "Alexandra Kemp",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128927,
+          "name": "Steve Rumbelow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 33897,
+          "name": "Ian Donald Swinton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 33898,
+          "name": "Sheila Patricia Young",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coltishall & Spixworth",
+      "ballot_paper_id": "local.norfolk.coltishall-spixworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131433,
+          "name": "Jack Austin Chapman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94004,
+          "name": "Phoebe Connell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56865,
+          "name": "Martin Lee Murrell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2112,
+          "name": "Dan Roper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131435,
+          "name": "Jason Charles Squire",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Costessey",
+      "ballot_paper_id": "local.norfolk.costessey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 58755,
+          "name": "Gary Blundell",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131439,
+          "name": "James Edwards-Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131440,
+          "name": "David Henson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58921,
+          "name": "Terry Laidlaw",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 103713,
+          "name": "Jenny McCloskey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 58925,
+          "name": "Joshua Blair Woolliscroft",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crome",
+      "ballot_paper_id": "local.norfolk.crome.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138604,
+          "name": "Tim Day",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17570,
+          "name": "Richard Alan Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113138,
+          "name": "Paul Nathan Guille",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 102434,
+          "name": "Tod James",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 113144,
+          "name": "Philip Jimenez",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cromer",
+      "ballot_paper_id": "local.norfolk.cromer.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 33151,
+          "name": "Tim Adams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108030,
+          "name": "David Clifford Batley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131445,
+          "name": "Rupert Sandino Eris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131446,
+          "name": "Angela Margaret Fitch-Tillett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131447,
+          "name": "Benjamin Albert Martin Miles",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dereham North & Scarning",
+      "ballot_paper_id": "local.norfolk.dereham-north-scarning.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131769,
+          "name": "Charlotte Foley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 30092,
+          "name": "Linda Goreham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131770,
+          "name": "Andy Keats",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 61016,
+          "name": "Alison Mary Webb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131771,
+          "name": "Aidan Webster",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dereham South",
+      "ballot_paper_id": "local.norfolk.dereham-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30098,
+          "name": "Harry Clarke",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 30099,
+          "name": "Phillip James Duigan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131766,
+          "name": "Benjamin Gibbons",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131767,
+          "name": "Robin James Hunter-Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131768,
+          "name": "Karin John Lyle Purvis",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dersingham",
+      "ballot_paper_id": "local.norfolk.dersingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 67265,
+          "name": "Alistair Walter Beales",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44393,
+          "name": "Angie Dickinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96861,
+          "name": "Christopher Joseph Heneghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128933,
+          "name": "Naomi Alicia Howard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128934,
+          "name": "Keith Hamilton Newton Ives",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128935,
+          "name": "Lee Jarvis",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Diss & Roydon",
+      "ballot_paper_id": "local.norfolk.diss-roydon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 54873,
+          "name": "Graham Terrance Minshull",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123969,
+          "name": "Will Porteous",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24034,
+          "name": "Pam Reekie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126074,
+          "name": "Colin David McLean Sutton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 54877,
+          "name": "Trevor Leonard Wenman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Docking",
+      "ballot_paper_id": "local.norfolk.docking.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 80816,
+          "name": "Michelle Louise Carter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138575,
+          "name": "Julie Costley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 33258,
+          "name": "Michael John Baylis Chenery of Horsbrugh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 56627,
+          "name": "Terry Parish",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138576,
+          "name": "Rachael Claire Windsor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Downham Market",
+      "ballot_paper_id": "local.norfolk.downham-market.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 63688,
+          "name": "Pallavi Devulapalli",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128851,
+          "name": "Doug Dew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128852,
+          "name": "Pat Gould",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128853,
+          "name": "Joshua Osborne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128854,
+          "name": "Tony White",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Drayton & Horsford",
+      "ballot_paper_id": "local.norfolk.drayton-horsford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131453,
+          "name": "Jason Francis Butler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 57526,
+          "name": "Glenn John Springett-Lees",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 57242,
+          "name": "Lisa Angela Starling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131454,
+          "name": "Richard Wink",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131455,
+          "name": "Simon Don Woodbridge",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Depwade",
+      "ballot_paper_id": "local.norfolk.east-depwade.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 23998,
+          "name": "James Eddy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131460,
+          "name": "Ed Gillespie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 103694,
+          "name": "Trevor Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131461,
+          "name": "Murray Gray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 57395,
+          "name": "Clayton James Hudson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131462,
+          "name": "Joseph Albert Terence Kerrison",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eaton",
+      "ballot_paper_id": "local.norfolk.eaton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138622,
+          "name": "Bert Bremner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40884,
+          "name": "Iain Gwynn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17509,
+          "name": "Jane Isobel Saunders",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138623,
+          "name": "Thomas Edward Waterhouse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24191,
+          "name": "Brian Watkins",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elmham & Mattishall",
+      "ballot_paper_id": "local.norfolk.elmham-mattishall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30091,
+          "name": "Bill Borrett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131775,
+          "name": "Matthew Anthony Carding-Woods",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131776,
+          "name": "Paul Wilfred Carr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 65915,
+          "name": "Kendra Cogman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 64841,
+          "name": "Mark Foley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Erpingham",
+      "ballot_paper_id": "local.norfolk.erpingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131467,
+          "name": "Nicholas Timothy Coppack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131468,
+          "name": "Sarah Freestone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 32313,
+          "name": "Stephen John Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131469,
+          "name": "DeeDee Lomax",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 20851,
+          "name": "Callum Edward Ringer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fakenham & The Raynhams",
+      "ballot_paper_id": "local.norfolk.fakenham-the-raynhams.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 131491,
+          "name": "Abbie Clare Elton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 32785,
+          "name": "Tom Fitzpatrick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131492,
+          "name": "Robert Ian Jamieson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131493,
+          "name": "Joe Ethan Leverett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131494,
+          "name": "Eric Philip Ashwell Masters",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131495,
+          "name": "Mollie Elizabeth Stephens",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Feltwell",
+      "ballot_paper_id": "local.norfolk.feltwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96979,
+          "name": "Gary Conway",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 67279,
+          "name": "Alan Thomas Holmes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 67269,
+          "name": "Eamonn Patrick McCusker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128941,
+          "name": "Sue Prigg",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 23725,
+          "name": "Martin Stuart Storey",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forehoe",
+      "ballot_paper_id": "local.norfolk.forehoe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131503,
+          "name": "Deborah Joanne Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17486,
+          "name": "Daniel Edward Elmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4429,
+          "name": "Deborah Helen Sacks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80031,
+          "name": "Carol Gale Sharp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24036,
+          "name": "Ian Victor Spratt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freebridge Lynn",
+      "ballot_paper_id": "local.norfolk.freebridge-lynn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 96966,
+          "name": "Remi Nicole Clark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122731,
+          "name": "Jacqueline Fry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128947,
+          "name": "David John Irving",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 66949,
+          "name": "Joshua Adam Lowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96913,
+          "name": "Simon John Ring",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128948,
+          "name": "Fran Rumbelow",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gaywood North & Central",
+      "ballot_paper_id": "local.norfolk.gaywood-north-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 33800,
+          "name": "Rob Colwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 32505,
+          "name": "Wilf Lambert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128955,
+          "name": "Lea Palloma McGurk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122732,
+          "name": "Ian Milburn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128956,
+          "name": "Paul Powers",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gaywood South",
+      "ballot_paper_id": "local.norfolk.gaywood-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 123286,
+          "name": "Ade Adeyemo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128978,
+          "name": "Tim Daniel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128979,
+          "name": "Stefan Dicianu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5832,
+          "name": "Jo Rust",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128980,
+          "name": "Theresa Michelle Sarjeant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128981,
+          "name": "Rob Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gorleston",
+      "ballot_paper_id": "local.norfolk.gorleston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124885,
+          "name": "John Alexander Gethin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124266,
+          "name": "Barry Simon Gravenell",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 133340,
+          "name": "Jeanette McMullen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133341,
+          "name": "Faye Marie Morse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 33079,
+          "name": "Graham Robert Plant",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Guiltcross",
+      "ballot_paper_id": "local.norfolk.guiltcross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131784,
+          "name": "Jacob Robert Allen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131785,
+          "name": "Rachael Kate Carding-Woods",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131786,
+          "name": "Nathan Flatman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95284,
+          "name": "Terry Land",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 65927,
+          "name": "William Nunn",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hellesdon",
+      "ballot_paper_id": "local.norfolk.hellesdon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24081,
+          "name": "David John Britcher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 24082,
+          "name": "Shelagh Cassandra Gurney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131516,
+          "name": "Andrew Lock",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131517,
+          "name": "Lee Bassett Marsden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113142,
+          "name": "Nick Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Henstead",
+      "ballot_paper_id": "local.norfolk.henstead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131533,
+          "name": "Martin Beckett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131534,
+          "name": "Joshua Horsfall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 24010,
+          "name": "Vic Thomson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 103709,
+          "name": "Jim Webber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131535,
+          "name": "John Wilkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hethersett",
+      "ballot_paper_id": "local.norfolk.hethersett.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131589,
+          "name": "Peter John Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 105024,
+          "name": "Rachel Barrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 103697,
+          "name": "Kathryn Elizabeth Cross",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130615,
+          "name": "Ben Weston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123598,
+          "name": "Steve Witt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hingham",
+      "ballot_paper_id": "local.norfolk.hingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24015,
+          "name": "Margaret Dewsbury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131601,
+          "name": "Gary Douglas-Beet",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59047,
+          "name": "Suzanne Nuri-Nixon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131602,
+          "name": "Debbie Laura Rowden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59100,
+          "name": "Victoria Walters",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holt",
+      "ballot_paper_id": "local.norfolk.holt.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 33152,
+          "name": "Mike Bossingham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58636,
+          "name": "Andrew Herman Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78882,
+          "name": "Clive Frederick Hallam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131607,
+          "name": "Steven Ribbons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 100326,
+          "name": "Martyn George Morgan Sloman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hoveton",
+      "ballot_paper_id": "local.norfolk.hoveton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 105937,
+          "name": "Kevin Terence Bayes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131611,
+          "name": "Frances Mary Kemp",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 108039,
+          "name": "Jason Patchett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 66525,
+          "name": "Adam Jonathan Varley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 108056,
+          "name": "Diane Margaret Wiles",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "King's Lynn North & Central",
+      "ballot_paper_id": "local.norfolk.kings-lynn-north-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 53595,
+          "name": "Lesley Bambridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96877,
+          "name": "Joel Blackmur",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74748,
+          "name": "Lorraine Douglas",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 128801,
+          "name": "Ben Griffin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96828,
+          "name": "Deborah Lynne Heneghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 33260,
+          "name": "David Robert Mills",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128800,
+          "name": "Michael De Whalley",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lakenham",
+      "ballot_paper_id": "local.norfolk.lakenham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 61307,
+          "name": "Carol Denise Chilton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138751,
+          "name": "Rosemary Jean Duff",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136031,
+          "name": "Richard Eminson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55418,
+          "name": "Robert Hammond",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138752,
+          "name": "Tom Ludson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Launditch",
+      "ballot_paper_id": "local.norfolk.launditch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131795,
+          "name": "Tom Dickerson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98280,
+          "name": "Howard Hawkes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 64842,
+          "name": "Jane Keidan-Cooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 30090,
+          "name": "Mark Alexander Kiddle-Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76549,
+          "name": "Matt Weatherill",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loddon",
+      "ballot_paper_id": "local.norfolk.loddon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131641,
+          "name": "Alexander Timothy Ashman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58759,
+          "name": "Kay Mason Billig",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131642,
+          "name": "Neil Thomas Humphries",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 58762,
+          "name": "Jeremy Bruce Rowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78924,
+          "name": "Eric Wareham",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Long Stratton",
+      "ballot_paper_id": "local.norfolk.long-stratton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 121748,
+          "name": "Karl George Anthony Catchpole",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131499,
+          "name": "John Cook",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131500,
+          "name": "John Wallace Hemmant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24002,
+          "name": "Bob McClenning",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131501,
+          "name": "Ann Margaret Reeder",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 105020,
+          "name": "Claire Sparkes",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lothingland",
+      "ballot_paper_id": "local.norfolk.lothingland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 32862,
+          "name": "Carl Adrian Annison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133397,
+          "name": "Adrian Myers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83241,
+          "name": "Trevor Rawson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76545,
+          "name": "Gordon Stanley Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124267,
+          "name": "Jon Wedon",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 63518,
+          "name": "Bernard Williamson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Magdalen",
+      "ballot_paper_id": "local.norfolk.magdalen.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 124881,
+          "name": "Damian Alexander Elliott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124335,
+          "name": "Kevin Huggins",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 133420,
+          "name": "Nigel Eric Light",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97407,
+          "name": "Linda Jane Phillips",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 32030,
+          "name": "Trevor John Wainwright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mancroft",
+      "ballot_paper_id": "local.norfolk.mancroft.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136022,
+          "name": "Paul Buckland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136023,
+          "name": "Sing On Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136024,
+          "name": "Clara Lynch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118939,
+          "name": "Serene Shibli",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41158,
+          "name": "Cavan Conan Stewart",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marshland North",
+      "ballot_paper_id": "local.norfolk.marshland-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 53594,
+          "name": "Rob Archer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128817,
+          "name": "Matthew Bowles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128818,
+          "name": "Julian Kirk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128819,
+          "name": "Paul McGurk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128820,
+          "name": "Jason Ashley Unsworth",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marshland South",
+      "ballot_paper_id": "local.norfolk.marshland-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 82215,
+          "name": "Chris Dawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96853,
+          "name": "Heather Fouracre",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128780,
+          "name": "Tina Kiddell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72256,
+          "name": "Earl Elvis of Outwell",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 33490,
+          "name": "Josie Ratcliffe",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mile Cross",
+      "ballot_paper_id": "local.norfolk.mile-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 121975,
+          "name": "Craig Gordon Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 61105,
+          "name": "Sean Timothy Bennett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113137,
+          "name": "Georgi Dimitrov",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 32686,
+          "name": "Chrissie Rumsby",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125428,
+          "name": "Helena Wysocki",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nar & Wissey Valleys",
+      "ballot_paper_id": "local.norfolk.nar-wissey-valleys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128983,
+          "name": "Liam Convery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96886,
+          "name": "Graham Dent",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97721,
+          "name": "Sue Lintern",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128984,
+          "name": "Johnny Martin Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98297,
+          "name": "Matthew Stirrup",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120325,
+          "name": "Mike Westman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nelson",
+      "ballot_paper_id": "local.norfolk.nelson.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138655,
+          "name": "Richard John Edmunds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 107892,
+          "name": "Michael Tony Howard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17564,
+          "name": "Paul Vincent Neale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 121754,
+          "name": "Marlowe North",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138656,
+          "name": "James Nutman",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 61279,
+          "name": "John Clarke Ward",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Caister & Ormesby",
+      "ballot_paper_id": "local.norfolk.north-caister-ormesby.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 11792,
+          "name": "Gary William Boyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133433,
+          "name": "Melanie E.Milligan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133432,
+          "name": "Tom Garrod",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124268,
+          "name": "Glenn James Hurren",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 72242,
+          "name": "Anne Marie Killett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97436,
+          "name": "Brian Pilkington",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Coast",
+      "ballot_paper_id": "local.norfolk.north-coast.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123281,
+          "name": "Tammy Edmunds",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96938,
+          "name": "Kenneth Malcolm Hubbard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 105227,
+          "name": "Alison Claire Large",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128996,
+          "name": "Peter Jonathan Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 51434,
+          "name": "Peter Samuel Wilkinson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Walsham East",
+      "ballot_paper_id": "local.norfolk.north-walsham-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 57212,
+          "name": "Pauline Patricia Mary Porter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131577,
+          "name": "Robert Philip Harry Reid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131578,
+          "name": "Rachel May Rising",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 57436,
+          "name": "Lucy Doreen Emma Shires",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131579,
+          "name": "Mike Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Walsham West & Mundesley",
+      "ballot_paper_id": "local.norfolk.north-walsham-west-mundesley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 117998,
+          "name": "Mal Gray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82958,
+          "name": "Jasper William Haywood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131651,
+          "name": "Ray Mooney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108047,
+          "name": "Rob Scammell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131652,
+          "name": "Oliver Ward",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Catton",
+      "ballot_paper_id": "local.norfolk.old-catton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24063,
+          "name": "Martin Gower Callam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 32664,
+          "name": "Ian Peter Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24064,
+          "name": "Bill Couzens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1935,
+          "name": "Antony Daniel Little",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131667,
+          "name": "Mark Shaun Tucker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Reepham",
+      "ballot_paper_id": "local.norfolk.reepham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10669,
+          "name": "Peter Bulman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 57372,
+          "name": "Jo Emmerson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131671,
+          "name": "Geraldine Mary Gray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 57155,
+          "name": "Sarah Catherine Morgan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102260,
+          "name": "David Michael Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sewell",
+      "ballot_paper_id": "local.norfolk.sewell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 61230,
+          "name": "Helen Bernadette Arundell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138692,
+          "name": "Michelle Solange Gregory",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118999,
+          "name": "Jenny Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 55419,
+          "name": "Christine Mackie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138693,
+          "name": "Alexander Ben Stevens",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sheringham",
+      "ballot_paper_id": "local.norfolk.sheringham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131496,
+          "name": "Greg Battha-Pajor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 71714,
+          "name": "Gary Timothy Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131497,
+          "name": "Matthew James Reilly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 71904,
+          "name": "Liz Withington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131498,
+          "name": "Edmund Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Caister & Bure",
+      "ballot_paper_id": "local.norfolk.south-caister-bure.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133460,
+          "name": "Nicholas Stuart Dack",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124884,
+          "name": "Jen Denison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133461,
+          "name": "Daniel Columba McGrath",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 83253,
+          "name": "Ivan Leo Murray-Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133462,
+          "name": "Jenny Newcombe",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sprowston",
+      "ballot_paper_id": "local.norfolk.sprowston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 57346,
+          "name": "Bibin Baby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131834,
+          "name": "Stephen Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131835,
+          "name": "Ailsa Jean Claire Marcham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24066,
+          "name": "John Martyn Ward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131836,
+          "name": "Derek Frederick John Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stalham",
+      "ballot_paper_id": "local.norfolk.stalham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131684,
+          "name": "Kevin John Corrigan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 57609,
+          "name": "Elizabeth Anne Dixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83510,
+          "name": "Richard Paul Stowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84099,
+          "name": "Matthew Patrick Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131685,
+          "name": "Tyler Daniel Wragg",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swaffham",
+      "ballot_paper_id": "local.norfolk.swaffham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131793,
+          "name": "Wendy Ann Bensley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98273,
+          "name": "Doug Jefferson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131794,
+          "name": "Sally Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125720,
+          "name": "Jaden Lister",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30081,
+          "name": "Victor Keith Scrivens",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Taverham",
+      "ballot_paper_id": "local.norfolk.taverham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24056,
+          "name": "Stuart Michael Clancy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 57010,
+          "name": "Caroline Karimi-Ghovanlou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131690,
+          "name": "Alice Kemp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131691,
+          "name": "Hannah Alexandra Moody",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126362,
+          "name": "Jake Thomas Norman",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "The Brecks",
+      "ballot_paper_id": "local.norfolk.the-brecks.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 98323,
+          "name": "David Blackbourn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 26016,
+          "name": "Fabian Royston Eagle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 113493,
+          "name": "Scott Hussey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131796,
+          "name": "Richard Michael McKenny",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118539,
+          "name": "Timothy Soar",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "The Fleggs",
+      "ballot_paper_id": "local.norfolk.the-fleggs.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 11791,
+          "name": "James William Bensly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83261,
+          "name": "Rebecca Elizabeth Anne Durant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133505,
+          "name": "Jason Francis William Hughes",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 133506,
+          "name": "Ivan Anthony Lees",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133507,
+          "name": "Adrian Charles Rodford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 63524,
+          "name": "Claire Wardley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thetford East",
+      "ballot_paper_id": "local.norfolk.thetford-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 65926,
+          "name": "Liz Bernard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131790,
+          "name": "Matthew Bray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131791,
+          "name": "Dee Hilton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 23544,
+          "name": "Jane Lillian James",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 33817,
+          "name": "Carol Anne Renard",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thetford West",
+      "ballot_paper_id": "local.norfolk.thetford-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 55151,
+          "name": "Carla Barreto",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 120799,
+          "name": "David Robert Bick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131787,
+          "name": "Julia Ann Dew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 51433,
+          "name": "Vic Peters",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131788,
+          "name": "Jamie Walker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98308,
+          "name": "Paula Ann Wood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thorpe Hamlet",
+      "ballot_paper_id": "local.norfolk.thorpe-hamlet.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 61255,
+          "name": "Jeremy Nigel Hooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 61256,
+          "name": "Simon Mark Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138667,
+          "name": "Alan Michael Mallett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 107971,
+          "name": "Jane Christine Overhill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138668,
+          "name": "Jo Smith",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thorpe St Andrew",
+      "ballot_paper_id": "local.norfolk.thorpe-st-andrew.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 81485,
+          "name": "Eleanor Clare Laming",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131727,
+          "name": "Susan Pamela Lawn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24053,
+          "name": "Ian James MacKie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102515,
+          "name": "Sandra Caroline O'Neill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 24054,
+          "name": "Phyllida Isobel Margaret Scrivens",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Town Close",
+      "ballot_paper_id": "local.norfolk.town-close.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138740,
+          "name": "Lisa Charlotte Alston",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138741,
+          "name": "Mark Broome",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17550,
+          "name": "Mary Josephine Chacksfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17546,
+          "name": "David Angus Fairbairn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138867,
+          "name": "Maxine Webb",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "University",
+      "ballot_paper_id": "local.norfolk.university.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138868,
+          "name": "Niall Thomas Adams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138745,
+          "name": "Jenny Ashburn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138869,
+          "name": "Tommy Best",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92092,
+          "name": "James Andrew Hawketts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138870,
+          "name": "Laura Elizabeth McCartney-Gray",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Watlington & The Fens",
+      "ballot_paper_id": "local.norfolk.watlington-the-fens.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 96980,
+          "name": "Phillip Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128999,
+          "name": "Mike Knights",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129000,
+          "name": "Maurice Leonard Leeke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 33816,
+          "name": "Brian Winston Charles Long",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129001,
+          "name": "Olivia Victoria Morris",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Watton",
+      "ballot_paper_id": "local.norfolk.watton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 30079,
+          "name": "Claire Rosemary Bowes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 30101,
+          "name": "Ann Patricia Robertson Bowyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131779,
+          "name": "Robin Goreham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131780,
+          "name": "Sheila Mary Hodgkinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131781,
+          "name": "Jack William White",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waveney Valley",
+      "ballot_paper_id": "local.norfolk.waveney-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131686,
+          "name": "George Alexander Jonathan Boyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 103678,
+          "name": "Peter Richard Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131687,
+          "name": "Vinod Mahtani",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58705,
+          "name": "David Reekie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 24029,
+          "name": "Barry Michael Stone",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wells",
+      "ballot_paper_id": "local.norfolk.wells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131901,
+          "name": "William Richard Gee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83325,
+          "name": "Victoria Holliday",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99732,
+          "name": "Roy MacDonald",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131902,
+          "name": "Julia Ray Reid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108984,
+          "name": "James Patrick Whitehead",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wensum",
+      "ballot_paper_id": "local.norfolk.wensum.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 24434,
+          "name": "Gordon Richard Dean",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40957,
+          "name": "John Fisher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17559,
+          "name": "Ben Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138688,
+          "name": "Kevin Spilling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138689,
+          "name": "Maggie Wheeler",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Depwade",
+      "ballot_paper_id": "local.norfolk.west-depwade.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 98839,
+          "name": "Kim Carsok",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131879,
+          "name": "Jacqueline Frances Elizabeth Ives",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131880,
+          "name": "Christina Fay Kenna",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59070,
+          "name": "Alyson Read",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131881,
+          "name": "Margaret Thomas",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodside",
+      "ballot_paper_id": "local.norfolk.woodside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131688,
+          "name": "Wendy Jane Atkinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83294,
+          "name": "Martin Alexander Booth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131689,
+          "name": "Peter John Harwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56948,
+          "name": "Brian Michael Howe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121751,
+          "name": "Edith Jones",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wroxham",
+      "ballot_paper_id": "local.norfolk.wroxham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 57174,
+          "name": "Andy Cawdron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24420,
+          "name": "Ian Richard Leach",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 65896,
+          "name": "Irene MacDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131741,
+          "name": "Ed Matthews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50038,
+          "name": "Fran Whymark",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wymondham",
+      "ballot_paper_id": "local.norfolk.wymondham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 103696,
+          "name": "Paul Anthony Barrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 103687,
+          "name": "Lowell Patrick Doheny",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 58889,
+          "name": "Dave Roberts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 58606,
+          "name": "Robert James Savage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131750,
+          "name": "Gokce Schuler",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yare & Necton",
+      "ballot_paper_id": "local.norfolk.yare-necton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76533,
+          "name": "Ulrike Corinna Behrendt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131751,
+          "name": "Marie Patricia Brennan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123616,
+          "name": "Marshall Phillip Bunting",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98265,
+          "name": "Kabeer Kher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30089,
+          "name": "Joe Sisto",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yare Valley",
+      "ballot_paper_id": "local.norfolk.yare-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 100054,
+          "name": "Justin Stephen Cork",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59099,
+          "name": "Richard James Elliott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131854,
+          "name": "Dave Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131855,
+          "name": "Des Fulcher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131856,
+          "name": "Malcolm Douglas Latarche",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yarmouth Nelson & Southtown",
+      "ballot_paper_id": "local.norfolk.yarmouth-nelson-southtown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124886,
+          "name": "Jack Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133532,
+          "name": "Alexander Ian Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97383,
+          "name": "Laura May Candon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11788,
+          "name": "Nick Dyer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 63549,
+          "name": "Kerry Robinson-Payne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124269,
+          "name": "Callum Ward-Kendall",
+          "party_name": "Great Yarmouth First"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yarmouth North & Central",
+      "ballot_paper_id": "local.norfolk.yarmouth-north-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124319,
+          "name": "Steve Grimmer",
+          "party_name": "Great Yarmouth First"
+        },
+        {
+          "person_id": 133557,
+          "name": "Lewis Mark Hall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97423,
+          "name": "Tony Harris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133558,
+          "name": "Ricky Jeffs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97391,
+          "name": "Tamsin Eleanor Lodge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11770,
+          "name": "Paula Waters-Bunn",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

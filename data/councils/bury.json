@@ -1,0 +1,563 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "bury",
+    "council_name": "Bury"
+  },
+  "wards": [
+    {
+      "ward_name": "Besses",
+      "ballot_paper_id": "local.bury.besses.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 70579,
+          "name": "Noel Bayley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128821,
+          "name": "Elizabeth Melanie Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128822,
+          "name": "Pat Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128823,
+          "name": "Tom Gray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7011,
+          "name": "Stephen Morris",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 94880,
+          "name": "Martyn John West",
+          "party_name": "Bury Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bury East",
+      "ballot_paper_id": "local.bury.bury-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 78744,
+          "name": "Ayesha Arif",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128777,
+          "name": "Maisie Cunningham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128778,
+          "name": "Nick Haslam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123544,
+          "name": "Hasan Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128779,
+          "name": "Bilal Zahoor",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bury West",
+      "ballot_paper_id": "local.bury.bury-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 78599,
+          "name": "Carol Anne Bernstein",
+          "party_name": "Together for Bury"
+        },
+        {
+          "person_id": 66483,
+          "name": "Jackie Harris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126985,
+          "name": "David Anthony Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129167,
+          "name": "Elle Riley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94285,
+          "name": "Helen Jane Varnom",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elton",
+      "ballot_paper_id": "local.bury.elton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 95068,
+          "name": "Mazhar Aslam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128849,
+          "name": "James Ferguson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 68241,
+          "name": "Michael Hankey",
+          "party_name": "Bury Independents"
+        },
+        {
+          "person_id": 94608,
+          "name": "Gary Joseph Kirkley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73102,
+          "name": "Jack Bernard Rydeheard",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holyrood",
+      "ballot_paper_id": "local.bury.holyrood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 107464,
+          "name": "Adnan Chaudhry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44296,
+          "name": "Peter Curati",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128806,
+          "name": "Ray Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3905,
+          "name": "Valerie Morris",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 14642,
+          "name": "David Silbiger",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Manor",
+      "ballot_paper_id": "local.bury.north-manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 14560,
+          "name": "Charlie Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78728,
+          "name": "Roger Charles Arthur Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128702,
+          "name": "Mike Hankins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95031,
+          "name": "Julie Anne Southworth",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pilkington Park",
+      "ballot_paper_id": "local.bury.pilkington-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 78745,
+          "name": "Russell Stewart Bernstein",
+          "party_name": "Together for Bury"
+        },
+        {
+          "person_id": 128887,
+          "name": "John Fitzpatrick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128888,
+          "name": "Peter John Freeman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44304,
+          "name": "John Joseph Mallon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94879,
+          "name": "Dan Ross",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 107382,
+          "name": "Shadman Zaman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Radcliffe East",
+      "ballot_paper_id": "local.bury.radcliffe-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 68262,
+          "name": "Carol Ann Birchmore",
+          "party_name": "Radcliffe First"
+        },
+        {
+          "person_id": 128867,
+          "name": "Mark Alexander Carrigan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128868,
+          "name": "Oscar David Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95088,
+          "name": "Sally McGill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94851,
+          "name": "Azhar Ismaeel Mehboob",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Radcliffe North & Ainsworth",
+      "ballot_paper_id": "local.bury.radcliffe-north-ainsworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128721,
+          "name": "Lilly Beards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44305,
+          "name": "Donald Berry",
+          "party_name": "Radcliffe First"
+        },
+        {
+          "person_id": 113166,
+          "name": "Paul Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94283,
+          "name": "Andrew McAnulty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128722,
+          "name": "Eddy Redmund",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 128723,
+          "name": "Phil Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Radcliffe West",
+      "ballot_paper_id": "local.bury.radcliffe-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128712,
+          "name": "Reece Bowey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107372,
+          "name": "Josh Harcup",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128713,
+          "name": "Glyn Stuart Marsden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128714,
+          "name": "Judi Sheppard",
+          "party_name": "Radcliffe First"
+        },
+        {
+          "person_id": 128715,
+          "name": "Keith Worthington",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ramsbottom",
+      "ballot_paper_id": "local.bury.ramsbottom.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 94832,
+          "name": "Martyn Bristow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126502,
+          "name": "Zach Jacob Campbell-Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128875,
+          "name": "Charlotte Louise Hunt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128876,
+          "name": "Alex Mays",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128877,
+          "name": "Jonathan Moss",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128878,
+          "name": "Ann Schofield",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redvales",
+      "ballot_paper_id": "local.bury.redvales.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 95017,
+          "name": "Geoff Baron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128797,
+          "name": "Tony Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94801,
+          "name": "Nikki Frith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128798,
+          "name": "Usma Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113120,
+          "name": "Shabaz Imtiaz Shamim",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 128799,
+          "name": "Alice Sugden",
+          "party_name": "Bury Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sedgley",
+      "ballot_paper_id": "local.bury.sedgley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 68265,
+          "name": "Richard Gold",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128718,
+          "name": "Dacey Rose Prentice",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123545,
+          "name": "Avi Schwartz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128719,
+          "name": "Rachel Carys Webster",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St. Mary's",
+      "ballot_paper_id": "local.bury.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128891,
+          "name": "Luke James Broadfoot",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128892,
+          "name": "Ann Buckley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44287,
+          "name": "Eamonn O'Brien",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128895,
+          "name": "Max Wyatt Sampson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tottington",
+      "ballot_paper_id": "local.bury.tottington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124327,
+          "name": "Drew Keanu Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128802,
+          "name": "Liz Cronshaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14651,
+          "name": "Greg Keeley",
+          "party_name": "Together for Bury"
+        },
+        {
+          "person_id": 124328,
+          "name": "Chloe King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94636,
+          "name": "Andrew Paul Luxton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 68110,
+          "name": "Yvonne Susan Wright",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Unsworth",
+      "ballot_paper_id": "local.bury.unsworth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128735,
+          "name": "Samantha Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128736,
+          "name": "Chris Malkin",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 14656,
+          "name": "Steve Middleton",
+          "party_name": "Bury Independents"
+        },
+        {
+          "person_id": 128737,
+          "name": "Mehwish Nasir",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 128734,
+          "name": "Max Blackwell Pickup",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128738,
+          "name": "Jerome Samuel Magnus Roith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128739,
+          "name": "Katherine Thorpe",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

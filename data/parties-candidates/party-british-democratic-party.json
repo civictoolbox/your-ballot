@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-british-democratic-party",
+    "display_name": "British Democratic Party",
+    "candidate_count": 5,
+    "council_count": 5,
+    "raw_party_names": [
+      "British Democratic Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 77652,
+      "name": "Christopher David Bateman",
+      "party_name": "British Democratic Party",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Castledon & Crouch"
+    },
+    {
+      "person_id": 48058,
+      "name": "Zack Jake Culshaw",
+      "party_name": "British Democratic Party",
+      "council_slug": "rushmoor",
+      "council_name": "Rushmoor",
+      "ward_name": "Rowhill"
+    },
+    {
+      "person_id": 720,
+      "name": "James Graham Lewthwaite",
+      "party_name": "British Democratic Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Wyke"
+    },
+    {
+      "person_id": 130769,
+      "name": "Keith Sharp",
+      "party_name": "British Democratic Party",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Wakefield North"
+    },
+    {
+      "person_id": 138701,
+      "name": "Kai Andrew Stephens",
+      "party_name": "British Democratic Party",
+      "council_slug": "norwich",
+      "council_name": "Norwich",
+      "ward_name": "Crome"
+    }
+  ]
+}

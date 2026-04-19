@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-communities-united-party",
+    "display_name": "Communities United Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Communities United Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 138374,
+      "name": "Ahmad Saeed",
+      "party_name": "Communities United Party",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Plaistow North"
+    }
+  ]
+}

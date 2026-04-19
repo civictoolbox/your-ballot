@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-all-in-party",
+    "display_name": "The All In Party",
+    "candidate_count": 2,
+    "council_count": 2,
+    "raw_party_names": [
+      "The All In Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 123623,
+      "name": "Dani Davies",
+      "party_name": "The All In Party",
+      "council_slug": "basingstoke-and-deane",
+      "council_name": "Basingstoke and Deane",
+      "ward_name": "Hatch Warren & Beggarwood"
+    },
+    {
+      "person_id": 86984,
+      "name": "Stacy Hart",
+      "party_name": "The All In Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Basingstoke South West"
+    }
+  ]
+}

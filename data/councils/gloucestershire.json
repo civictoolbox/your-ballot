@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "gloucestershire",
+    "council_name": "Gloucestershire"
+  },
+  "wards": [
+    {
+      "ward_name": "St Mark's & St Peter's",
+      "ballot_paper_id": "local.gloucestershire.st-marks-st-peters.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 36423,
+          "name": "Victoria Mae Atherstone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77352,
+          "name": "Julie Frances Farmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127668,
+          "name": "Bowie Johnstone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119251,
+          "name": "Billy Jones",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 67007,
+          "name": "Warwick Peter Ross",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127250,
+          "name": "Risha Santilal",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

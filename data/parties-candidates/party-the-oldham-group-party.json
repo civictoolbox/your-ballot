@@ -1,0 +1,70 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-oldham-group-party",
+    "display_name": "The Oldham Group Party",
+    "candidate_count": 7,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Oldham Group Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 129484,
+      "name": "Mir Ajawat",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Waterhead"
+    },
+    {
+      "person_id": 129739,
+      "name": "Sonny Shah Arstan",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "St Mary's"
+    },
+    {
+      "person_id": 129688,
+      "name": "Shabir Hussain",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Alexandra"
+    },
+    {
+      "person_id": 129735,
+      "name": "Maqsood Hussain",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "St James'"
+    },
+    {
+      "person_id": 129695,
+      "name": "Muhammad Irfan",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Chadderton South"
+    },
+    {
+      "person_id": 129719,
+      "name": "Abdul Wahid",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Hollinwood"
+    },
+    {
+      "person_id": 129475,
+      "name": "Sharoon Zaman",
+      "party_name": "The Oldham Group Party",
+      "council_slug": "oldham",
+      "council_name": "Oldham",
+      "ward_name": "Medlock Vale"
+    }
+  ]
+}

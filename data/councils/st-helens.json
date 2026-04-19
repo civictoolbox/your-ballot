@@ -1,0 +1,916 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "st-helens",
+    "council_name": "St Helens"
+  },
+  "wards": [
+    {
+      "ward_name": "Billinge & Seneley Green",
+      "ballot_paper_id": "local.st-helens.billinge-seneley-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 131712,
+          "name": "Rod Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90437,
+          "name": "Colin Richard Betts",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131717,
+          "name": "Stephen William Gaskell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131718,
+          "name": "Jennifer Anne Gerrard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90439,
+          "name": "Denise Anne Gibney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131722,
+          "name": "Phil Gwilliam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131726,
+          "name": "Sarah Isabel Jennings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131736,
+          "name": "Matthew Kent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125407,
+          "name": "Steve Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15877,
+          "name": "Peter Peers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131744,
+          "name": "John Terence Porter",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackbrook",
+      "ballot_paper_id": "local.st-helens.blackbrook.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 132021,
+          "name": "Nigel Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13986,
+          "name": "Anthony James Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124270,
+          "name": "Lorraine Vivienne Clarke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90438,
+          "name": "Gareth William Cross",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75251,
+          "name": "Jack Eiddon Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132022,
+          "name": "Eileen Fleming",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118306,
+          "name": "Victor Floyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41638,
+          "name": "Paul McQuade",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117073,
+          "name": "Daniel John Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132023,
+          "name": "David Michael Titmuss",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bold & Lea Green",
+      "ballot_paper_id": "local.st-helens.bold-lea-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135455,
+          "name": "Samson Chika Egbike",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135456,
+          "name": "Sam Harding",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135459,
+          "name": "David Edward Hawley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135461,
+          "name": "Mark Joseph Hitchen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124730,
+          "name": "Graeme Thomas John Knapper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125409,
+          "name": "Alan Langley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135464,
+          "name": "John Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135466,
+          "name": "Angela McCauley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124724,
+          "name": "Fae Sophia Morgan Oakley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15948,
+          "name": "Paul Joseph Pritchard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15884,
+          "name": "Barbara Evelyn Woodcock",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eccleston",
+      "ballot_paper_id": "local.st-helens.eccleston.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125411,
+          "name": "Joy Akinkuade",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137476,
+          "name": "Elizabeth Ann Appleton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77415,
+          "name": "Philip Jonathan Cass",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137477,
+          "name": "Sally Dodgson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 54441,
+          "name": "Michael Haw",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137478,
+          "name": "Billy Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137479,
+          "name": "David Lawrenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41781,
+          "name": "Geoff Pearl",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137480,
+          "name": "Joe Quinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137481,
+          "name": "Steve Townsend",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haydock",
+      "ballot_paper_id": "local.st-helens.haydock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 136891,
+          "name": "Andrea Marie Blake",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 81134,
+          "name": "Emma Carolyn Van der Burg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136892,
+          "name": "Caleb Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136893,
+          "name": "Michael John Chesworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136894,
+          "name": "Stephen Philip Claybrook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123653,
+          "name": "Oliver Eddleston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136895,
+          "name": "Owen Thomas Farnworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136896,
+          "name": "Rachael Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73573,
+          "name": "Paul Robert Hooton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13993,
+          "name": "Melanie Ann Marie Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136897,
+          "name": "Stephen David Mousdell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136898,
+          "name": "Ian Samuel Sutton",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moss Bank",
+      "ballot_paper_id": "local.st-helens.moss-bank.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 54445,
+          "name": "Jeanette Susan Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125403,
+          "name": "Shana Begum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54440,
+          "name": "Lisa Cunliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77408,
+          "name": "Tracy Dickinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137456,
+          "name": "Gary Edgerton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126026,
+          "name": "Allan John Kayll",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137457,
+          "name": "David Kent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137458,
+          "name": "Jack Thomas Styles",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newton-le-Willows East",
+      "ballot_paper_id": "local.st-helens.newton-le-willows-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 15904,
+          "name": "John Philip Cunliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124915,
+          "name": "Chris Kennedy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42171,
+          "name": "Keith Anthony Laird",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125515,
+          "name": "Tom Middleton-Leonard",
+          "party_name": "Newton-le-Willows Independents"
+        },
+        {
+          "person_id": 125412,
+          "name": "Ian Francis Mills",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135495,
+          "name": "John David Murphy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135496,
+          "name": "John Henry Owen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41881,
+          "name": "Lisa Kathleen Preston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135497,
+          "name": "David Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 116152,
+          "name": "George Woodward",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newton-le-Willows West",
+      "ballot_paper_id": "local.st-helens.newton-le-willows-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 90152,
+          "name": "Dave Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131939,
+          "name": "Mark Bell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125414,
+          "name": "Peter Thomas Blood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90577,
+          "name": "Karl Lionel Collier",
+          "party_name": "Newton-le-Willows Independents"
+        },
+        {
+          "person_id": 42308,
+          "name": "Allan Albert Dockerty",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131940,
+          "name": "Robert Hart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77387,
+          "name": "Terry Maguire",
+          "party_name": "Newton-le-Willows Independents"
+        },
+        {
+          "person_id": 131941,
+          "name": "Gillian Pierre-Louis Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90578,
+          "name": "Craig Smith",
+          "party_name": "Newton-le-Willows Independents"
+        },
+        {
+          "person_id": 125417,
+          "name": "Scott Steven Smulders",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Parr",
+      "ballot_paper_id": "local.st-helens.parr.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 135509,
+          "name": "Dan Axworthy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15913,
+          "name": "Andy Bowden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124735,
+          "name": "Cath Brooks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77462,
+          "name": "Mackenzie Jacob France",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135510,
+          "name": "Teri George",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135511,
+          "name": "Lizzie O'Dell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 61800,
+          "name": "Bisi Osundeko",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135512,
+          "name": "Janet Rowlands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72138,
+          "name": "Mal Webster",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135513,
+          "name": "Jeff Williams",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peasley Cross & Fingerpost",
+      "ballot_paper_id": "local.st-helens.peasley-cross-fingerpost.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 42480,
+          "name": "Iris Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136975,
+          "name": "Andrew Kiang Seng Low",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 74077,
+          "name": "Damien Patrick O'Connor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136976,
+          "name": "Em Patterson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136977,
+          "name": "Sharon Louise Roughley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rainford",
+      "ballot_paper_id": "local.st-helens.rainford.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 126063,
+          "name": "Charlotte Case",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134221,
+          "name": "Philip Corden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123654,
+          "name": "Sean Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134222,
+          "name": "Anthony Devanny",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134223,
+          "name": "Richard Jacques",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123655,
+          "name": "Amber Carole Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42172,
+          "name": "Linda Mussell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134224,
+          "name": "Malcolm Simm",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rainhill",
+      "ballot_paper_id": "local.st-helens.rainhill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 131932,
+          "name": "Neil Peter Conway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126064,
+          "name": "James Dunn",
+          "party_name": "Rainhill Independents"
+        },
+        {
+          "person_id": 131933,
+          "name": "Mark Gilgannon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49972,
+          "name": "Donna Greaves",
+          "party_name": "Rainhill Independents"
+        },
+        {
+          "person_id": 131934,
+          "name": "Elaine Hodkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131935,
+          "name": "Tabinda Iftikhar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15943,
+          "name": "Henry John Spriggs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131936,
+          "name": "James Stephen Tasker",
+          "party_name": "Rainhill Independents"
+        },
+        {
+          "person_id": 131937,
+          "name": "Jo Woodhouse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131938,
+          "name": "Masooma Zaki",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton North West",
+      "ballot_paper_id": "local.st-helens.sutton-north-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90678,
+          "name": "Niall Peter Andrew Campbell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90679,
+          "name": "John William Hodkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137014,
+          "name": "Mark Barry Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137013,
+          "name": "Anthony Albert Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137015,
+          "name": "Anne Marie Spanner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton South East",
+      "ballot_paper_id": "local.st-helens.sutton-south-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135476,
+          "name": "Brendan Moss",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118799,
+          "name": "John Leonard Pinnington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13531,
+          "name": "Charlie Preston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125402,
+          "name": "John Patrick Riley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135477,
+          "name": "Dawn Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thatto Heath",
+      "ballot_paper_id": "local.st-helens.thatto-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 137495,
+          "name": "Alexandru-Emilian Adamovici",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137496,
+          "name": "Emma Victoria Beck",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137497,
+          "name": "Jack Joseph Benyon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137498,
+          "name": "Sue Bishop",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137499,
+          "name": "Elizabeth Black",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15932,
+          "name": "Nova Louise Charlton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 61827,
+          "name": "Robyn Hattersley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137500,
+          "name": "James William Long",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42355,
+          "name": "Richard McCauley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Park",
+      "ballot_paper_id": "local.st-helens.west-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 125400,
+          "name": "Patrick Alcantara",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 61799,
+          "name": "Tom Armstrong",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137396,
+          "name": "Anthony Aster",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15944,
+          "name": "Richard William Barton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90497,
+          "name": "Matthew Peter Butterworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137397,
+          "name": "Michael James Gibson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125399,
+          "name": "Julie Gwendoline Hand",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137398,
+          "name": "Mark Anthony King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137399,
+          "name": "Stephen Little",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137400,
+          "name": "Sarah Whelan",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Windle",
+      "ballot_paper_id": "local.st-helens.windle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 15941,
+          "name": "Lynn Clarke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77378,
+          "name": "Andrew William Donnelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135536,
+          "name": "Clayton Ede",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135537,
+          "name": "Leighton James Frawley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135538,
+          "name": "Anthony Michael Keogh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125405,
+          "name": "George Andrew McCulley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 61828,
+          "name": "Terence Stephen Price",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41634,
+          "name": "Sue Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135539,
+          "name": "Alex Callum Twist",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125404,
+          "name": "Robbie Young",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

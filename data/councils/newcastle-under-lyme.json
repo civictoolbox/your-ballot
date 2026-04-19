@@ -1,0 +1,1003 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "newcastle-under-lyme",
+    "council_name": "Newcastle Under Lyme"
+  },
+  "wards": [
+    {
+      "ward_name": "Audley",
+      "ballot_paper_id": "local.newcastle-under-lyme.audley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 128437,
+          "name": "Maggie Babb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89758,
+          "name": "Nick Crisp",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13771,
+          "name": "Eric Geoffrey Durber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128438,
+          "name": "Patricia Jillian Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37032,
+          "name": "Tom Heavey",
+          "party_name": "The Potteries Party"
+        },
+        {
+          "person_id": 95193,
+          "name": "Peter Roy Lawrence",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 119947,
+          "name": "Rhys James Machin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89771,
+          "name": "Sally Jane Rudd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128439,
+          "name": "Janice Sain-Reiners",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128440,
+          "name": "John Sutton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90378,
+          "name": "Claire Elizabeth Vodrey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 27051,
+          "name": "Andrew Robert Wemyss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 5462,
+          "name": "Ian Frank Wilkes",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bradwell",
+      "ballot_paper_id": "local.newcastle-under-lyme.bradwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 37935,
+          "name": "Julie Margaret Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127872,
+          "name": "Andrew Gareth Fox-Hewitt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127873,
+          "name": "Jeanette Hodges",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127874,
+          "name": "Pamela Jellyman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108850,
+          "name": "Rebekah Sioban Lewis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 89831,
+          "name": "Jude Powell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127875,
+          "name": "Lesley Ann Richards",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127876,
+          "name": "Liam Joseph Shirley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127877,
+          "name": "Ben Joshua Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127878,
+          "name": "Harry Joseph Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127879,
+          "name": "Glenn Michael Tift",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayton",
+      "ballot_paper_id": "local.newcastle-under-lyme.clayton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 90784,
+          "name": "Leigh Hughes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 33623,
+          "name": "Stephen John Mclean Sweeney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128474,
+          "name": "Anja Winter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128475,
+          "name": "Paul Malcolm Wood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crackley & Red Street",
+      "ballot_paper_id": "local.newcastle-under-lyme.crackley-red-street.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 72663,
+          "name": "Lilian Barker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89913,
+          "name": "Joel Sean George Edgington-Plunkett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90760,
+          "name": "Conna Douglas Eynon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128470,
+          "name": "Janet Mary Pazio",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128471,
+          "name": "Deborah Percy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128472,
+          "name": "Vanessa Renshaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128473,
+          "name": "Peter Bernard Walton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cross Heath",
+      "ballot_paper_id": "local.newcastle-under-lyme.cross-heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 127936,
+          "name": "Mark Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89952,
+          "name": "Thomas Robert David Molloy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127937,
+          "name": "Christopher Saxton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127938,
+          "name": "Natalie Soleiman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37169,
+          "name": "John Williams",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 37164,
+          "name": "Gill Williams",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127939,
+          "name": "Tom Wytcherley",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holditch & Chesterton",
+      "ballot_paper_id": "local.newcastle-under-lyme.holditch-chesterton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128487,
+          "name": "Wayne Barber",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128488,
+          "name": "Jon Lee Chamberlain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72664,
+          "name": "David Peter Grocott",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128489,
+          "name": "Precious Idowu Osode",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37184,
+          "name": "Ken Owen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89933,
+          "name": "Kevin John Robinson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Keele",
+      "ballot_paper_id": "local.newcastle-under-lyme.keele.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128493,
+          "name": "Sami Islam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128494,
+          "name": "Dave Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128495,
+          "name": "Wenslie Dee Naylon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128496,
+          "name": "James Vernon",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kidsgrove & Ravenscliffe",
+      "ballot_paper_id": "local.newcastle-under-lyme.kidsgrove-ravenscliffe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 128331,
+          "name": "Mark Allen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13781,
+          "name": "Silvia Burgess",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13813,
+          "name": "Rebecca Anne Carter",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128333,
+          "name": "Charlie Edward George Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128334,
+          "name": "Michael James Dowler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 20069,
+          "name": "Jonathan Gullis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13814,
+          "name": "John Heesom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37275,
+          "name": "Simon John Philip Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128332,
+          "name": "Kienen Catterall D K",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90375,
+          "name": "Jason Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128336,
+          "name": "Adam Peter Henry Rollison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128337,
+          "name": "Olivia Mae Wozny",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Knutton",
+      "ballot_paper_id": "local.newcastle-under-lyme.knutton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128179,
+          "name": "James Linden Dowler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128180,
+          "name": "Joshua Gilbert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128181,
+          "name": "Graham Paul Shaw",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Loggerheads",
+      "ballot_paper_id": "local.newcastle-under-lyme.loggerheads.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128237,
+          "name": "Nigel David John Hadfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76100,
+          "name": "Jeff Love",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128238,
+          "name": "Grant Clifford Martin Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125602,
+          "name": "Graham David Sedgley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128239,
+          "name": "Robert Alwyn Selwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120141,
+          "name": "Andrew William Turnock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128240,
+          "name": "Phillip Arthur Watts",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Madeley & Betley",
+      "ballot_paper_id": "local.newcastle-under-lyme.madeley-betley.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 90707,
+          "name": "Robert Bettley-Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128576,
+          "name": "Elaine Blake",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128577,
+          "name": "Vicky England",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128578,
+          "name": "Steve French",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128579,
+          "name": "Kerri Louise Jackman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128580,
+          "name": "Moonoon Moontaha Jawadin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116532,
+          "name": "Neill Antony Walker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117920,
+          "name": "Jill Pamela Whitmore",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maer & Whitmore",
+      "ballot_paper_id": "local.newcastle-under-lyme.maer-whitmore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 13818,
+          "name": "Dave Lee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 2877,
+          "name": "Jeremy John Elton Lefroy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127985,
+          "name": "Richard Woodward",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "May Bank",
+      "ballot_paper_id": "local.newcastle-under-lyme.may-bank.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 127989,
+          "name": "Deborah Elizabeth Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120312,
+          "name": "Bayley Dickin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90343,
+          "name": "David Hutchison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127991,
+          "name": "Oliver Robert Kane",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127992,
+          "name": "Jackie Olszewski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127993,
+          "name": "Anthony-Claret Ifeanyi Onwutalobi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127994,
+          "name": "Craig Anthony Rolinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127995,
+          "name": "Finn Swain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37379,
+          "name": "John Henry Tagg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127996,
+          "name": "Stefan John Whittaker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newchapel & Mow Cop",
+      "ballot_paper_id": "local.newcastle-under-lyme.newchapel-mow-cop.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 128548,
+          "name": "Keith Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128549,
+          "name": "Gordon Hugh Davies",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128550,
+          "name": "Cressida Diane Townley Dickens",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128551,
+          "name": "Jonathan Christopher Downs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37056,
+          "name": "Sarah Elizabeth Pickup",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128554,
+          "name": "Jozsef Spekker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128555,
+          "name": "Scott Thomas Stevenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13783,
+          "name": "Ray Williams",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Silverdale",
+      "ballot_paper_id": "local.newcastle-under-lyme.silverdale.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128567,
+          "name": "Martyn Trevor Ashworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90265,
+          "name": "Sylvia Teresa Butler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128568,
+          "name": "Shauney Harry Connor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128569,
+          "name": "George Charles McBride",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128570,
+          "name": "Ian Anthony Sparks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128571,
+          "name": "Jamie Tomkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37352,
+          "name": "Thomas Wilson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Talke & Butt Lane",
+      "ballot_paper_id": "local.newcastle-under-lyme.talke-butt-lane.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 37218,
+          "name": "David Allport",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128285,
+          "name": "Julie Anne Dunlevy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37477,
+          "name": "Sylvia Norma Dymond",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128286,
+          "name": "Gary Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 27050,
+          "name": "Trevor George Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128287,
+          "name": "Simon Kasperowicz",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128288,
+          "name": "Laura May Matthews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119600,
+          "name": "Martin Gavin Rogerson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13939,
+          "name": "Michael Robert Stubbs",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thistleberry",
+      "ballot_paper_id": "local.newcastle-under-lyme.thistleberry.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 128588,
+          "name": "Sue Beeston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7031,
+          "name": "Nigel Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 4909,
+          "name": "Hilary Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128589,
+          "name": "Christopher Mueller",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128590,
+          "name": "Richard Sellers-Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128591,
+          "name": "Chris Sweeney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90742,
+          "name": "Joan Ann Whieldon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37567,
+          "name": "Roger William Wilkes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128592,
+          "name": "Margaret Wilkes",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Town",
+      "ballot_paper_id": "local.newcastle-under-lyme.town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 129219,
+          "name": "Amanda Jane Berrisford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37209,
+          "name": "James Martin Borg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118340,
+          "name": "Sheelagh Casey-Hulme",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129220,
+          "name": "Nick Chidlow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129221,
+          "name": "Christine Ann Duffy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129222,
+          "name": "Thomas Paul Edgington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129223,
+          "name": "Ian David Gilmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13976,
+          "name": "Morgan-Ross Inwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129224,
+          "name": "Mark Allan Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13978,
+          "name": "Ruth Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westbury Park & Northwood",
+      "ballot_paper_id": "local.newcastle-under-lyme.westbury-park-northwood.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 128404,
+          "name": "Stephen John Axon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128405,
+          "name": "Luke Simon Bland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37618,
+          "name": "Andrew Thomas Fear",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128406,
+          "name": "David William Gameson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120019,
+          "name": "Adam Brent Griffiths",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13790,
+          "name": "Andrew David Parker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128407,
+          "name": "Richard John Parkes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128408,
+          "name": "Thomas Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westlands",
+      "ballot_paper_id": "local.newcastle-under-lyme.westlands.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 11969,
+          "name": "Kyle Mark Bolderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90340,
+          "name": "Nicholas James Butler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128534,
+          "name": "Rosa Al-Baldawi Dilling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13920,
+          "name": "Gary Fedtschyschak",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37845,
+          "name": "Gillian Mary Heesom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 33422,
+          "name": "Mark Edward Holland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128535,
+          "name": "Jaffar Javed Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128536,
+          "name": "Mike Melling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 119946,
+          "name": "Keith Parker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128537,
+          "name": "Garry Proctor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128538,
+          "name": "Carol Stimpson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 31666,
+          "name": "Simon John Tagg",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolstanton",
+      "ballot_paper_id": "local.newcastle-under-lyme.wolstanton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128388,
+          "name": "Christopher Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128389,
+          "name": "Andrew Mark Fisher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128390,
+          "name": "Philip Hodges",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128391,
+          "name": "Shaun James McDonagh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13773,
+          "name": "Mark Joseph Olszewski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90854,
+          "name": "Philip Reece",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128392,
+          "name": "Robbie David Trickett",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

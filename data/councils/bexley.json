@@ -1,0 +1,1106 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "bexley",
+    "council_name": "Bexley"
+  },
+  "wards": [
+    {
+      "ward_name": "Barnehurst",
+      "ballot_paper_id": "local.bexley.barnehurst.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 127348,
+          "name": "John Gerard Ely",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127349,
+          "name": "Dr Michael Gillespie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127352,
+          "name": "Rachel Gogo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127355,
+          "name": "Lyndon Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40762,
+          "name": "Howard William Jackson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127360,
+          "name": "Lois Jane Moules",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127363,
+          "name": "Matthew James Murphy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127368,
+          "name": "Deborah Anne Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Belvedere",
+      "ballot_paper_id": "local.bexley.belvedere.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 86909,
+          "name": "Sarah Barry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44989,
+          "name": "Christine Frances Bishop",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127381,
+          "name": "Christopher Finlay Calvert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130911,
+          "name": "Jeremy Fosten",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130912,
+          "name": "Chris Frampton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130913,
+          "name": "Matthew John Gater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44474,
+          "name": "Sally Hinkley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130914,
+          "name": "Edwin Clement Hollands",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130915,
+          "name": "Sam Kanu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40783,
+          "name": "Masbah Uddin Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74770,
+          "name": "Deji Olayinka",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 45000,
+          "name": "Anthony Scott Riches",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130916,
+          "name": "Jonathan David Tringham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127416,
+          "name": "Michael John Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bexleyheath",
+      "ballot_paper_id": "local.bexley.bexleyheath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 44487,
+          "name": "Jawharah Qasem Mahfoudh Albakri",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127429,
+          "name": "Yolanda Evelyn Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86941,
+          "name": "Bola Carew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127434,
+          "name": "Andrew Cronin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86942,
+          "name": "Eric James Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127446,
+          "name": "Lily Patricia Demetriou",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127447,
+          "name": "Hannah Christine Gillespie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127459,
+          "name": "Colin Harold Grostate",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127467,
+          "name": "Brendan Keenan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127468,
+          "name": "Ronnie King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127469,
+          "name": "Mike Lyons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86943,
+          "name": "Rags Sandhu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127475,
+          "name": "Nancy Willmouth-Coates",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackfen & Lamorbey",
+      "ballot_paper_id": "local.bexley.blackfen-lamorbey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131015,
+          "name": "Tunde Adewopo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40759,
+          "name": "Brian John Bishop",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131016,
+          "name": "Robert David Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44472,
+          "name": "Frazer Lewis Brooks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131017,
+          "name": "James Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44446,
+          "name": "John Browning",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40923,
+          "name": "Peter Craske",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131018,
+          "name": "James Handscombe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131019,
+          "name": "Graham Robert Holland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131020,
+          "name": "James Kenneth Albert Hunt",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 131021,
+          "name": "Nicola Jane Iles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44426,
+          "name": "Robin Paul Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131022,
+          "name": "Lynn Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blendon & Penhill",
+      "ballot_paper_id": "local.bexley.blendon-penhill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 45001,
+          "name": "Esther Amaning",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44488,
+          "name": "Pat Ball",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131364,
+          "name": "Shule Antoinette Basaran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87003,
+          "name": "Zoe Georgina Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131365,
+          "name": "Mike Ferro",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44490,
+          "name": "David Leaf",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40656,
+          "name": "Mac McGannon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40930,
+          "name": "Cafer Munur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87064,
+          "name": "Ben Ryan Nottle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44492,
+          "name": "Nicholas O'Hare",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131366,
+          "name": "Jon Templer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131367,
+          "name": "Mariam Zahedi",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crayford",
+      "ballot_paper_id": "local.bexley.crayford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 131330,
+          "name": "Paul Barrett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131331,
+          "name": "Sevda Bloom",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131332,
+          "name": "Sandra Elizabeth Cerisola",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131333,
+          "name": "Colin Chin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131334,
+          "name": "Andrew Martin Credgington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131335,
+          "name": "Oke Ene",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131336,
+          "name": "Jonathan Richard Gillespie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44992,
+          "name": "Geraldene Anne Lucia-Hennis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131337,
+          "name": "Nathan Ogunleye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131338,
+          "name": "Debbie Ryan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131339,
+          "name": "Francesca Wyvern",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crook Log",
+      "ballot_paper_id": "local.bexley.crook-log.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 131252,
+          "name": "Cemile Dilber Ahmet",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131253,
+          "name": "Tony Ball",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40653,
+          "name": "Graham Martin D'Amiral",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44478,
+          "name": "Liam James Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131254,
+          "name": "Eamonn James Delaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131255,
+          "name": "John William Dunford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131256,
+          "name": "Vianney Kimbugwe",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 131261,
+          "name": "Lindsay Alison Mackie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87004,
+          "name": "Tim Nicholls",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131257,
+          "name": "Daisy Page",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131258,
+          "name": "Philip Andrew Savage",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131259,
+          "name": "Chris Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131260,
+          "name": "Giuseppe Tomaselli",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87006,
+          "name": "Janice Ward-Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Wickham",
+      "ballot_paper_id": "local.bexley.east-wickham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 131177,
+          "name": "Vincent Fisayo Adegoke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131178,
+          "name": "David Brian Byrne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44997,
+          "name": "Steven Frederick Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131179,
+          "name": "Miles Langham Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131180,
+          "name": "Baris Lefkonuklu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87031,
+          "name": "David Li",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131181,
+          "name": "Bob Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44999,
+          "name": "Caroline Newton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131182,
+          "name": "Veronica Olabisi Obadara",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131183,
+          "name": "Philip John Segurola",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131184,
+          "name": "Connor Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Erith",
+      "ballot_paper_id": "local.bexley.erith.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 87030,
+          "name": "Chris Ball",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130656,
+          "name": "Laurie Bennett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130657,
+          "name": "Gurhan Otem",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130658,
+          "name": "Caroline Panetta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130659,
+          "name": "Joe Pollard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130660,
+          "name": "Martin Radbon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44907,
+          "name": "Nicola Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130661,
+          "name": "Geoff Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Falconwood & Welling",
+      "ballot_paper_id": "local.bexley.falconwood-welling.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131112,
+          "name": "Catherine Louise Allard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131113,
+          "name": "Pamela Andrews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44996,
+          "name": "Christine Margaret Catterall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131114,
+          "name": "Richard Arthur Chown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131115,
+          "name": "Dave Curtois",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131117,
+          "name": "Nicola Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44452,
+          "name": "Ian Robert McCawley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131118,
+          "name": "Luke Patrick Murphy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131116,
+          "name": "Mercedes Gale Parr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131119,
+          "name": "Lis Radbon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131120,
+          "name": "Daniel Stavros Richard Rowson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131121,
+          "name": "Barry John Ian Saunders",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87007,
+          "name": "Janet White",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longlands",
+      "ballot_paper_id": "local.bexley.longlands.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 131067,
+          "name": "Julian Alexander Baxter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131068,
+          "name": "Alexander Cleak",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41017,
+          "name": "Ana Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131069,
+          "name": "Oscar Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41023,
+          "name": "Paul William Hurren",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131070,
+          "name": "Christine Landman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131071,
+          "name": "Gary Paul Levett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74376,
+          "name": "Lisa-Jane Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131072,
+          "name": "Anita Paris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131073,
+          "name": "David Paris",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northumberland Heath",
+      "ballot_paper_id": "local.bexley.northumberland-heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 44432,
+          "name": "Paul Andrew Bargery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131004,
+          "name": "Sean Paul Brackstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125540,
+          "name": "Marcio Fasano",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87053,
+          "name": "Baljeet Singh Gill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131005,
+          "name": "Thomas Phillips",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131006,
+          "name": "Chris Purfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125542,
+          "name": "Unisa Sesay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131007,
+          "name": "Daniel Stamp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131008,
+          "name": "Temilola Stewart",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sidcup",
+      "ballot_paper_id": "local.bexley.sidcup.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 130590,
+          "name": "Ranw Aso-Rashid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130591,
+          "name": "Terry Barcock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44440,
+          "name": "Jo Chodha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86963,
+          "name": "John Alexander Cove",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130592,
+          "name": "Andy Curtois",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92214,
+          "name": "Julian Himmerich",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87063,
+          "name": "Tonya Kelsey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100300,
+          "name": "Daniel Kersten",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130593,
+          "name": "Tristan Adam Thomas Lowne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130594,
+          "name": "Daniel James Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130595,
+          "name": "David John Merry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130596,
+          "name": "Sue Petty",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 92197,
+          "name": "Inke Schreiber",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87065,
+          "name": "Dimitri Shvorob",
+          "party_name": "Working for Sidcup"
+        },
+        {
+          "person_id": 44444,
+          "name": "June Elizabeth Slaughter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 6615,
+          "name": "Laurence Williams",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Slade Green & Northend",
+      "ballot_paper_id": "local.bexley.slade-green-northend.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 131419,
+          "name": "Bimpe Adepoju",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4267,
+          "name": "Stefano Borella",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41015,
+          "name": "Donna Briant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131420,
+          "name": "Sarah Louise Frost",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131421,
+          "name": "John Frederick McDermont",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131422,
+          "name": "Mark Robson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131423,
+          "name": "Adam Rook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131424,
+          "name": "Bright Oghemakpobo Uwhokori",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's & St James",
+      "ballot_paper_id": "local.bexley.st-marys-st-james.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 87045,
+          "name": "Oliver John Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87083,
+          "name": "Kurtis Christoforides",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130467,
+          "name": "Rob Davies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130468,
+          "name": "Simon Paul Francis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130469,
+          "name": "Victoria Hart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130470,
+          "name": "Garret Anthony Lynch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130471,
+          "name": "Marko Minka",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130472,
+          "name": "Sophia  Parr",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44443,
+          "name": "David Frederick Sexton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87087,
+          "name": "Cameron James Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thamesmead East",
+      "ballot_paper_id": "local.bexley.thamesmead-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 87098,
+          "name": "Zainab Olamide Asunramu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130894,
+          "name": "Lee Keiran Delaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87099,
+          "name": "Larry Ferguson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130895,
+          "name": "Angela Lorraine Gillespie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130896,
+          "name": "Allison Avril Joanne Hartshorn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86991,
+          "name": "Abi Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130897,
+          "name": "Ayo Mohammed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44475,
+          "name": "Graham Anthony Moon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2536,
+          "name": "Jonathan Rooks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130898,
+          "name": "Matthew Ernest Solo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130899,
+          "name": "Tom Staples",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Heath",
+      "ballot_paper_id": "local.bexley.west-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 86977,
+          "name": "Ahmad Brooke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130453,
+          "name": "Stuart Carter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124339,
+          "name": "Thomas William Clapperton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130454,
+          "name": "Sue Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130455,
+          "name": "Andrew Michael Kellett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130456,
+          "name": "Ian Rowlands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44994,
+          "name": "Melvin Norman Seymour",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130457,
+          "name": "Kate Sillah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130458,
+          "name": "David Simmons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44906,
+          "name": "Eliot Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130459,
+          "name": "Ray Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

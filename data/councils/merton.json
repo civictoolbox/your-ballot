@@ -1,0 +1,1525 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "merton",
+    "council_name": "Merton"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbey",
+      "ballot_paper_id": "local.merton.abbey.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 123709,
+          "name": "Kara Regina Rose Una Abrams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44932,
+          "name": "Nigel Charles Benbow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48175,
+          "name": "John Matthew Braithwaite",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93690,
+          "name": "George Nicholas Burridge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123710,
+          "name": "Andrew Robert Copeland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47297,
+          "name": "Klaar Dresselaers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130883,
+          "name": "Clark Inglis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 102141,
+          "name": "Ellie Christina Lauren Ioannou",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130884,
+          "name": "Shajaki Jeyaveerasingam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130885,
+          "name": "Zoe Miller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130886,
+          "name": "Simon Ogilvie-Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130887,
+          "name": "James Sellers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44936,
+          "name": "Barry John Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124382,
+          "name": "Cleon Edmund Enrique Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cannon Hill",
+      "ballot_paper_id": "local.merton.cannon-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 131047,
+          "name": "Emma Jane Alexander",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131048,
+          "name": "Mohammad Ahsan Ashraf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47880,
+          "name": "Asif Ashraf",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131049,
+          "name": "Troy Lee Bowler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131050,
+          "name": "Neil Valentine Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131051,
+          "name": "Paul Gaskin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47300,
+          "name": "Nick McLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123800,
+          "name": "Robert James Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47301,
+          "name": "Michael Charles Joseph Paterson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84515,
+          "name": "Frank Laurance Pocock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 85110,
+          "name": "Richard David Poole",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94342,
+          "name": "Margaret Clare Rogers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48184,
+          "name": "Elizabeth Ann Sherwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131052,
+          "name": "John William Wigmore",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Colliers Wood",
+      "ballot_paper_id": "local.merton.colliers-wood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 131153,
+          "name": "Olivier Beumer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123801,
+          "name": "Jenny Booth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124384,
+          "name": "Andrew Robert Cole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47941,
+          "name": "Caroline Masue Cooper-Marbiah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84519,
+          "name": "Rob Cossins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131031,
+          "name": "Conor Mark Dunwoody",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131154,
+          "name": "Alex Forbes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123802,
+          "name": "George Hadjiyiannakis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131155,
+          "name": "Fevzi Hussein",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124386,
+          "name": "Martin Thomas Lake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94474,
+          "name": "Mehmood Naqshbandi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94569,
+          "name": "Stuart Neaverson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 85134,
+          "name": "John Michael Oliver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131156,
+          "name": "William Richards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131157,
+          "name": "Joanna Sieradzinska",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131158,
+          "name": "Edward Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cricket Green",
+      "ballot_paper_id": "local.merton.cricket-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 94700,
+          "name": "Michael Kevin Butcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92056,
+          "name": "Eleanor Anne Cox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94702,
+          "name": "Usaama Kaweesa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131477,
+          "name": "Richard Law",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131478,
+          "name": "Ryan Lee Omamori Letbe-Holder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94703,
+          "name": "Peter Vindal Ludvigsen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94704,
+          "name": "Gill Manly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131479,
+          "name": "Artem Mikheev",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131480,
+          "name": "Adele Pinkett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131481,
+          "name": "Casey Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47781,
+          "name": "Vivian Rose Vella",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131482,
+          "name": "Debbie Wills",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131483,
+          "name": "Yu Wing Wong",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43509,
+          "name": "William Woodward",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Figge's Marsh",
+      "ballot_paper_id": "local.merton.figges-marsh.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 47606,
+          "name": "Agatha Mary Akyigyina",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46836,
+          "name": "Elizabeth Jean Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131484,
+          "name": "Omar Daair",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131485,
+          "name": "Ronan Fraser",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46839,
+          "name": "Alice Sophie Jane Hammond",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47946,
+          "name": "Sally Patricia Hammond",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46092,
+          "name": "Dan Johnston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131486,
+          "name": "Johnathan Ian Gifford Knight",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117827,
+          "name": "Vinayak Malhotra",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131487,
+          "name": "Steeve Mandarin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94503,
+          "name": "Franca Ofeimu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 92205,
+          "name": "Sally Pannifex",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44934,
+          "name": "Matthew William Payne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131488,
+          "name": "Emma Catherine Wiley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131489,
+          "name": "William Henry Woodroofe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Graveney",
+      "ballot_paper_id": "local.merton.graveney.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 131518,
+          "name": "Franki Appleton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131519,
+          "name": "Iain James Coleman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131520,
+          "name": "Darrell Ennis-Gayle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35859,
+          "name": "Billy Hayes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131521,
+          "name": "Ivana Jurcevic",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45896,
+          "name": "Linda Christine Kirby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48545,
+          "name": "Beth Mitchell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45898,
+          "name": "Thomas Sebastian George Moulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46309,
+          "name": "Hamish Thomas Norbrook",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131522,
+          "name": "James Oakenfull",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94259,
+          "name": "Devina Marylyn Paul",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91144,
+          "name": "Caitilin Jane Dawson Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131523,
+          "name": "Rupert Arthur Stevens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131524,
+          "name": "Charles Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131525,
+          "name": "Man Ho Yip",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillside",
+      "ballot_paper_id": "local.merton.hillside.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 123803,
+          "name": "Sarah Jane Golby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46091,
+          "name": "Suzanne Ellen Grocott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48274,
+          "name": "Dan Holden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131196,
+          "name": "Catherine Kagau",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131197,
+          "name": "Angus Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94814,
+          "name": "Robert Newbery",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131198,
+          "name": "Nick Robins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48656,
+          "name": "Richard Shillito",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131199,
+          "name": "Guy Winterflood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lavender Fields",
+      "ballot_paper_id": "local.merton.lavender-fields.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 131547,
+          "name": "Vivian Aku-Barton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131548,
+          "name": "Amanda Ashford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131549,
+          "name": "Marco Bocci",
+          "party_name": "Libertarian Party"
+        },
+        {
+          "person_id": 131550,
+          "name": "Malcolm Trevor Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131551,
+          "name": "Gareth James Davidson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131552,
+          "name": "Emma Antonia Donegan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131553,
+          "name": "Capri Chanel Fox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131554,
+          "name": "John Furness",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131555,
+          "name": "Gina Ann Harper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131556,
+          "name": "Mike Kelson",
+          "party_name": "Animal Welfare Party"
+        },
+        {
+          "person_id": 67073,
+          "name": "Cosmo Patrick Lupton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46841,
+          "name": "Edith Joan MacAuley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94301,
+          "name": "Harry John Platts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131557,
+          "name": "Gary Michael Pritchard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47948,
+          "name": "Emily Jane Robertson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93693,
+          "name": "Slawek Szczepanski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131558,
+          "name": "Dom Teuma",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longthornton",
+      "ballot_paper_id": "local.merton.longthornton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130620,
+          "name": "Jonathan Deane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130621,
+          "name": "Roger Stephen Drage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46307,
+          "name": "Brenda Lorraine Fraser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93289,
+          "name": "Ross Benjamin Garrod",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130622,
+          "name": "Kelly Caroline Hockey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46840,
+          "name": "Mary-Jane Jeanes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130623,
+          "name": "Leslie Colin King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130624,
+          "name": "Savas Michael Nicolaides",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85116,
+          "name": "Christine Peace",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130625,
+          "name": "Sonia Elaine Phillips",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116069,
+          "name": "Ryan Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47623,
+          "name": "Christopher Adrian Stanton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130626,
+          "name": "Ann Montrose Strydom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130627,
+          "name": "Hugo Hawksley Summerson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lower Morden",
+      "ballot_paper_id": "local.merton.lower-morden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 92055,
+          "name": "Martin John Astrand",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47616,
+          "name": "Vincent James William Bolt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131507,
+          "name": "Georgina Dilali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 20004,
+          "name": "Jack Alexander Gebhard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84525,
+          "name": "Joe Hackett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131508,
+          "name": "Dan Hogan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131509,
+          "name": "Rohan Kempadoo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47884,
+          "name": "Sally Isabel Kenny",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131510,
+          "name": "Guy Mercer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131511,
+          "name": "Ahmed Nasir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131512,
+          "name": "Fraser Robertson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84792,
+          "name": "Daniel Lewis Shearer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47303,
+          "name": "Harry Joseph Todd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131513,
+          "name": "Elizabeth Weeks",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Merton Park",
+      "ballot_paper_id": "local.merton.merton-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 131398,
+          "name": "Melinda Balatoni",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131399,
+          "name": "Ricky Bello",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131400,
+          "name": "Christopher Dunn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48179,
+          "name": "Edward Foley",
+          "party_name": "Merton Park Ward Independent Residents"
+        },
+        {
+          "person_id": 131401,
+          "name": "Elizabeth Hawes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131402,
+          "name": "Yuriy Lysenko",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48544,
+          "name": "Emma Tamsin Maddison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94869,
+          "name": "Stephen Mercer",
+          "party_name": "Merton Park Ward Independent Residents"
+        },
+        {
+          "person_id": 46269,
+          "name": "Hayley Emma Ormrod",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46843,
+          "name": "Christopher Oxford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94504,
+          "name": "Shirley Pritchard",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pollards Hill",
+      "ballot_paper_id": "local.merton.pollards-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131594,
+          "name": "Zainul Abadeen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47881,
+          "name": "Anne Babington Blanchard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131595,
+          "name": "Chun Yin Cheung",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47775,
+          "name": "Stephen Paul Crowe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48648,
+          "name": "Anton Gjeta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131596,
+          "name": "Sandy Gretton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48219,
+          "name": "Nicholas Paul Harris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48543,
+          "name": "Joan Palmeta Henry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 85118,
+          "name": "Susie Hicks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48547,
+          "name": "Michael Ormrod",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131597,
+          "name": "Irene Perdomo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123707,
+          "name": "Ryan Rodrigues",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 7838,
+          "name": "Martin Whelton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ravensbury",
+      "ballot_paper_id": "local.merton.ravensbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 48646,
+          "name": "Stephen Alambritis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123806,
+          "name": "Christopher Michael Bird",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130990,
+          "name": "James Bogle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130991,
+          "name": "Julia Mary Cox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130992,
+          "name": "Simon Goldstein",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130993,
+          "name": "Val Hoppichler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130994,
+          "name": "Jeremy James Klerck",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47401,
+          "name": "Brian Ernest Lewis-Lavender",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123807,
+          "name": "Edward Marsh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48653,
+          "name": "Peter Joseph McCabe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47436,
+          "name": "David Miller-Holland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130995,
+          "name": "Nicholas Shaun Prangnell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130996,
+          "name": "Alexander Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Raynes Park",
+      "ballot_paper_id": "local.merton.raynes-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 46087,
+          "name": "Michael Martin Bull",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131632,
+          "name": "Sandy Cowling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131633,
+          "name": "Richard Mark Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131634,
+          "name": "Mark Featherston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 85124,
+          "name": "Chessie Flack",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131635,
+          "name": "Kadir Kadir",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131636,
+          "name": "Darren Manning",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131637,
+          "name": "Angela Jane Manser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131638,
+          "name": "Timothy John Patrick McLoughlin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131639,
+          "name": "Charles Patrick McSwiggan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131640,
+          "name": "Nigel Christopher Popham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44935,
+          "name": "Sivas Ranjan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 85126,
+          "name": "Matthew James Willis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85125,
+          "name": "Victoria Jane Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Helier",
+      "ballot_paper_id": "local.merton.st-helier.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130977,
+          "name": "Charlie Beale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130978,
+          "name": "Steve Coles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130979,
+          "name": "Nedra Nalda Daniel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130976,
+          "name": "Assana Assadi Haghi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130980,
+          "name": "Joshua Jonathan Harmston-Gething",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130981,
+          "name": "Andrew John Judge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130982,
+          "name": "Christopher Lovejoy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48223,
+          "name": "Pippa Maslin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130983,
+          "name": "Andrew Robin Parr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130984,
+          "name": "Sophia Paterson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130985,
+          "name": "Hermione Peace",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130986,
+          "name": "John Leslie Raymond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 34376,
+          "name": "Benjamin Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130987,
+          "name": "Shuile Narmin Syeda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130988,
+          "name": "Sarah Elizabeth Weber",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Village",
+      "ballot_paper_id": "local.merton.village.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 47940,
+          "name": "Max Daniel Austin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131654,
+          "name": "Fiona Beumer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131655,
+          "name": "Alistair Robert Boyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131656,
+          "name": "Rachel Eileen Brooks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131657,
+          "name": "Andrea Colquhoun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124380,
+          "name": "Jan Comer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 85117,
+          "name": "Ursula Gillian Faulkner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131658,
+          "name": "Eoin Fraser",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131659,
+          "name": "Ann Teresa Gillespie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123805,
+          "name": "Leo Liao",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124381,
+          "name": "Will Orson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131660,
+          "name": "Margaret Tulloch",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123804,
+          "name": "Iain Hugh Wadie",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wandle",
+      "ballot_paper_id": "local.merton.wandle.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 123708,
+          "name": "Sebastian Budner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131543,
+          "name": "Richard Albert Dalton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 85132,
+          "name": "Kirsten Galea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6253,
+          "name": "Philip Ling",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131544,
+          "name": "Thomas Clive McCall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48295,
+          "name": "Oonagh Jane Moulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131545,
+          "name": "Jeremy Singer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44937,
+          "name": "Eleanor Stringer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131546,
+          "name": "Gideon Noah Tarry",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Barnes",
+      "ballot_paper_id": "local.merton.west-barnes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 6342,
+          "name": "Charles Barraball",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47398,
+          "name": "Hina Bokhari",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131612,
+          "name": "Teresa Elzbieta Engley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131613,
+          "name": "Oenone Kate Flambert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131614,
+          "name": "Petra Frolkova",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131615,
+          "name": "Mariam Hakim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47402,
+          "name": "Gilli Lewis-Lavender",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46308,
+          "name": "Sarah Jane Bosley McAlister",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131616,
+          "name": "Christopher McLaughlin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131617,
+          "name": "Susan Rose O'Connor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 85133,
+          "name": "Robert Page",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131618,
+          "name": "Alex Pinna",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131619,
+          "name": "Rebecca Claire Tate",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131620,
+          "name": "John Clive Townsend",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wimbledon Park",
+      "ballot_paper_id": "local.merton.wimbledon-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 48289,
+          "name": "Juliet Dorothy Boyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48290,
+          "name": "Hugh Constant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131746,
+          "name": "David Cowling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48291,
+          "name": "Terry Daniels",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131747,
+          "name": "Stephen Gibson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 85135,
+          "name": "Jil Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47420,
+          "name": "Andrew Geoffrey Eliot Howard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48294,
+          "name": "Janice Mary Elizabeth Howard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131748,
+          "name": "John Christopher Pearson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117287,
+          "name": "Edward Powell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48549,
+          "name": "Tony Reiss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131749,
+          "name": "James Francis Norman Robson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47624,
+          "name": "Linda Joan Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 85114,
+          "name": "Nick Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wimbledon Town & Dundonald",
+      "ballot_paper_id": "local.merton.wimbledon-town-dundonald.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 131564,
+          "name": "Lisa Kay Bassett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131565,
+          "name": "Timothy Becker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131566,
+          "name": "John Bradbury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131567,
+          "name": "Huw Henry Mason Buckley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94341,
+          "name": "Anthony Neil Cole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46090,
+          "name": "Anthony John Fairclough",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94258,
+          "name": "Abigail Clare Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48276,
+          "name": "Samantha MacArthur",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46093,
+          "name": "Simon McGrath",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131568,
+          "name": "Peter Richard Payne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131569,
+          "name": "Sarah Elizabeth Poole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131570,
+          "name": "Katie Russell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131571,
+          "name": "Joel Daniel Winter",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

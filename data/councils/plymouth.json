@@ -1,0 +1,732 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "plymouth",
+    "council_name": "Plymouth"
+  },
+  "wards": [
+    {
+      "ward_name": "Budshead",
+      "ballot_paper_id": "local.plymouth.budshead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 105926,
+          "name": "Charlie Carson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109421,
+          "name": "Nicola Cooke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 43472,
+          "name": "Dave Downie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129246,
+          "name": "Hilary Colvill Fursdon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129247,
+          "name": "Howard Ian Simpson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94508,
+          "name": "Jim Spencer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Compton",
+      "ballot_paper_id": "local.plymouth.compton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14614,
+          "name": "Richard Veysey Bray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121555,
+          "name": "James Stephen Chesson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128665,
+          "name": "Ellie Alicia Crockett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124271,
+          "name": "Richard William Evans",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128666,
+          "name": "Helen Mary Kelly",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Devonport",
+      "ballot_paper_id": "local.plymouth.devonport.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 17595,
+          "name": "Lesley Faith Duncan",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 104986,
+          "name": "Ian Thomas Fleming",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129227,
+          "name": "Alan Peter Jagodzinski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129228,
+          "name": "Simon David Pannett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129229,
+          "name": "Paul Victor Rielly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129230,
+          "name": "David James Rixon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 36366,
+          "name": "Bill Stevens",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Drake",
+      "ballot_paper_id": "local.plymouth.drake.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129214,
+          "name": "Saahi Aroori",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 57912,
+          "name": "Tim Blazevic",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110985,
+          "name": "Edward Jack Evans",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 129216,
+          "name": "Mark Timothy Edward Ingall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129217,
+          "name": "Mark Winter Ingrouille",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129218,
+          "name": "Chelsea Marie Shelton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4434,
+          "name": "Chaz Singh",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Efford and Lipson",
+      "ballot_paper_id": "local.plymouth.efford-and-lipson.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 17691,
+          "name": "Nik Brookson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 83631,
+          "name": "Pat Bushell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36367,
+          "name": "Neil Keith Hendy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46823,
+          "name": "Alex Primmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129274,
+          "name": "Chris Sharpe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17703,
+          "name": "Edmund Harold Shillabeer",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eggbuckland",
+      "ballot_paper_id": "local.plymouth.eggbuckland.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 58196,
+          "name": "Dennis Sidney Draper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128936,
+          "name": "Lorna Peggy Amelia Gaskin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128937,
+          "name": "Paul Hagan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128938,
+          "name": "Kevin Michael Neil",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 110998,
+          "name": "Seb Soper",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 46834,
+          "name": "Chip Tofan",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ham",
+      "ballot_paper_id": "local.plymouth.ham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 128929,
+          "name": "Josh Ayres",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83209,
+          "name": "Charlotte Elizabeth Carlyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83555,
+          "name": "Stephen Thomas Hulme",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128930,
+          "name": "Kara Odinsdottir",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 74863,
+          "name": "Tim Parkin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128931,
+          "name": "Ben David Rowe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17604,
+          "name": "Tina Tuohy",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Honicknowle",
+      "ballot_paper_id": "local.plymouth.honicknowle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 87982,
+          "name": "Margaret Francis Dorothy Boadella",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83557,
+          "name": "Frank Hartkopf",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109419,
+          "name": "Shaun Hooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129260,
+          "name": "Magda Janczak-Hogarth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129261,
+          "name": "Tina Anne Scott",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moor View",
+      "ballot_paper_id": "local.plymouth.moor-view.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128699,
+          "name": "Andrew David Crumplin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128700,
+          "name": "Caroline Ann Mills",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128701,
+          "name": "Aiden Nicholls",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45173,
+          "name": "Jacqui Spencer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17580,
+          "name": "Andy White",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 4696,
+          "name": "Nicky Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peverell",
+      "ballot_paper_id": "local.plymouth.peverell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 3172,
+          "name": "Stuart Andrew Bonar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38936,
+          "name": "Nicholas John Casley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14227,
+          "name": "Jeremy Goslin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129176,
+          "name": "Luke David Hudson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129177,
+          "name": "Alison Stallard",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 123554,
+          "name": "Colin Edward Wells",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plympton Chaddlewood",
+      "ballot_paper_id": "local.plymouth.plympton-chaddlewood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128785,
+          "name": "Ben Antony Ferrier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128786,
+          "name": "Ben Manning",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14615,
+          "name": "Chris Mavin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87983,
+          "name": "Zoe Philippa Ann Reilly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128788,
+          "name": "Angie Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128789,
+          "name": "Nicky Trevaskis",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plympton St Mary",
+      "ballot_paper_id": "local.plymouth.plympton-st-mary.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 48233,
+          "name": "Maddi Bridgeman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 99611,
+          "name": "loana-Cristina Draper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128762,
+          "name": "Robin Furner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 83571,
+          "name": "Natalie Sara Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109431,
+          "name": "Vanessa Glynis Tyler",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128763,
+          "name": "Julia Annette Elsie Wildman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plymstock Dunstone",
+      "ballot_paper_id": "local.plymouth.plymstock-dunstone.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 16709,
+          "name": "Steven Guy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88049,
+          "name": "Andy Lugger",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129284,
+          "name": "Sara Leah O'Hanlon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129285,
+          "name": "Alistair Philpot",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16711,
+          "name": "Grace Stickland",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plymstock Radford",
+      "ballot_paper_id": "local.plymouth.plymstock-radford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128879,
+          "name": "Simon David Adderley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128880,
+          "name": "Elena Cornelia Agapescu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 107114,
+          "name": "Peter Gold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 58186,
+          "name": "John Mahony",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47073,
+          "name": "Roy John Minden Plumley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southway",
+      "ballot_paper_id": "local.plymouth.southway.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129198,
+          "name": "Simon Geoffrey Batchelor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 105748,
+          "name": "Anthony Richard Bligh",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 129199,
+          "name": "Dan Browning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129200,
+          "name": "Jon Dredge",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129201,
+          "name": "Jean Margaret Hebson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129202,
+          "name": "John Arthur Morris McCurdy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109422,
+          "name": "Jacqueline Sansom",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Budeaux",
+      "ballot_paper_id": "local.plymouth.st-budeaux.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128774,
+          "name": "Jon Christopher Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128775,
+          "name": "Joanne Bowden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 58404,
+          "name": "Mark Kevin Deacon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128776,
+          "name": "Mark Anthony Hadfield",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peter and the Waterfront",
+      "ballot_paper_id": "local.plymouth.st-peter-and-the-waterfront.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 17599,
+          "name": "Ryan John Aldred",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128724,
+          "name": "Rachel Jehana Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128725,
+          "name": "Benjamin Barton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 17677,
+          "name": "Hugh Janes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111016,
+          "name": "Kevin John Kelway",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2886,
+          "name": "Alison Jane Raynsford",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128726,
+          "name": "Andy Rose",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stoke",
+      "ballot_paper_id": "local.plymouth.stoke.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 73491,
+          "name": "Tom Briars-Delve",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128751,
+          "name": "Jacqui Cant",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128752,
+          "name": "Jess Duffy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 105743,
+          "name": "Ehren John Duke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17700,
+          "name": "Helen Catherine Guy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 105745,
+          "name": "Alex Moore",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128753,
+          "name": "Nigel Anthony Theyer",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sutton and Mount Gould",
+      "ballot_paper_id": "local.plymouth.sutton-and-mount-gould.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 36376,
+          "name": "Mary Elizabeth Aspinall",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 8862,
+          "name": "Fleur Olivia Stoner Ball",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109425,
+          "name": "Lee Bunker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87986,
+          "name": "Byran John Driver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 104960,
+          "name": "Alexandra Sampson",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128837,
+          "name": "Robert  Zajko",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

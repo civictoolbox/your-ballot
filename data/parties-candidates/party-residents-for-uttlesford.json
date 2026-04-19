@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-residents-for-uttlesford",
+    "display_name": "Residents for Uttlesford",
+    "candidate_count": 5,
+    "council_count": 1,
+    "raw_party_names": [
+      "Residents for Uttlesford"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 82178,
+      "name": "Bianca Maria Donald",
+      "party_name": "Residents for Uttlesford",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Stansted"
+    },
+    {
+      "person_id": 67927,
+      "name": "Martin Liam Foley",
+      "party_name": "Residents for Uttlesford",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Thaxted"
+    },
+    {
+      "person_id": 82118,
+      "name": "Paul David Gadd",
+      "party_name": "Residents for Uttlesford",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Saffron Walden"
+    },
+    {
+      "person_id": 68844,
+      "name": "Sandi Merifield",
+      "party_name": "Residents for Uttlesford",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Dunmow"
+    },
+    {
+      "person_id": 49386,
+      "name": "Maggie Sutton",
+      "party_name": "Residents for Uttlesford",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Takeley"
+    }
+  ]
+}

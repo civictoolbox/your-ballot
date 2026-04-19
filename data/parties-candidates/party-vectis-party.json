@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-vectis-party",
+    "display_name": "Vectis Party",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Vectis Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 31377,
+      "name": "Graham James Mark Perks",
+      "party_name": "Vectis Party",
+      "council_slug": "isle-of-wight",
+      "council_name": "Isle of Wight",
+      "ward_name": "Ventnor & St Lawrence"
+    },
+    {
+      "person_id": 31453,
+      "name": "Linda Pauline Pitcher",
+      "party_name": "Vectis Party",
+      "council_slug": "isle-of-wight",
+      "council_name": "Isle of Wight",
+      "ward_name": "Wootton Bridge"
+    }
+  ]
+}

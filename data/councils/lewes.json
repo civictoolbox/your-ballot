@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "lewes",
+    "council_name": "Lewes"
+  },
+  "wards": [
+    {
+      "ward_name": "Newhaven South",
+      "ballot_paper_id": "local.lewes.newhaven-south.by.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 100955,
+          "name": "Catherine Boorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136063,
+          "name": "Scott Burrell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136064,
+          "name": "James Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133190,
+          "name": "Joe Moughrabi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 101000,
+          "name": "Bill Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136065,
+          "name": "Jo Pettitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 100855,
+          "name": "Tai Ray-Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 58161,
+          "name": "Richard Turner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136066,
+          "name": "Archie Barry Edward Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

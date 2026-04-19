@@ -1,0 +1,715 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "salford",
+    "council_name": "Salford"
+  },
+  "wards": [
+    {
+      "ward_name": "Barton & Winton",
+      "ballot_paper_id": "local.salford.barton-winton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124929,
+          "name": "Kirsty Anne Downie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 78109,
+          "name": "Antony Ian Duke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128273,
+          "name": "Yvonne Earnshaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128274,
+          "name": "Holly Ann Muldoon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14203,
+          "name": "John Mullen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128275,
+          "name": "Babak Winstanley-Sharples",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackfriars & Trinity",
+      "ballot_paper_id": "local.salford.blackfriars-trinity.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 5750,
+          "name": "David Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112099,
+          "name": "Darren Matthews",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128376,
+          "name": "Christopher Roscoe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112093,
+          "name": "Craig Russell Walsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128377,
+          "name": "Brian Westley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boothstown & Ellenbrook",
+      "ballot_paper_id": "local.salford.boothstown-ellenbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127260,
+          "name": "Jan Barrington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127261,
+          "name": "Graham Bates",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127262,
+          "name": "Paige Dawson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112137,
+          "name": "Muhammad Kashif",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127263,
+          "name": "Terry Mather",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Broughton",
+      "ballot_paper_id": "local.salford.broughton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 106213,
+          "name": "Kathleen Frances Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78228,
+          "name": "Patience Assam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127082,
+          "name": "Gary Mark Bardsley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127083,
+          "name": "Hugh Patrick Caffrey",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127084,
+          "name": "John David Merry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75838,
+          "name": "Ben Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cadishead & Lower Irlam",
+      "ballot_paper_id": "local.salford.cadishead-lower-irlam.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 128393,
+          "name": "Skye Ainscough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128394,
+          "name": "Alex Gravener",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128395,
+          "name": "James Richard Hart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128396,
+          "name": "Bill McLaughlin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128397,
+          "name": "Leighton James Medley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 106254,
+          "name": "Ninad Vivek Oak",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128398,
+          "name": "Ceewhy Ochoga",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128399,
+          "name": "Jonathan Thomason",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128400,
+          "name": "Matty Wilson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Claremont",
+      "ballot_paper_id": "local.salford.claremont.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127062,
+          "name": "Chris Bates",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40835,
+          "name": "Ian Alexander McKinlay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41285,
+          "name": "Neil Andrew Reynolds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59333,
+          "name": "Christopher Frederick Seed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127063,
+          "name": "Janet West",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eccles",
+      "ballot_paper_id": "local.salford.eccles.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127149,
+          "name": "Denis Allen Adshead",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127151,
+          "name": "Janet Reygan Cgn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14815,
+          "name": "Sally Griffiths",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127150,
+          "name": "Sara Laing",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78096,
+          "name": "Nathaniel Djangmah Tetteh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127152,
+          "name": "Daniel Lee Wells",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Higher Irlam & Peel Green",
+      "ballot_paper_id": "local.salford.higher-irlam-peel-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128409,
+          "name": "Christopher Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128410,
+          "name": "Akiva Kline",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128411,
+          "name": "Andrew Neil Parkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78311,
+          "name": "Mishal Saeed",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kersal & Broughton Park",
+      "ballot_paper_id": "local.salford.kersal-broughton-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128210,
+          "name": "Hormoz Ahmadzadeh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15791,
+          "name": "Adam Robert Carney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128211,
+          "name": "Simon Fan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128212,
+          "name": "Declan Curtis Murphy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78314,
+          "name": "Andrew Avrohom Yitzchok Walter",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Hulton",
+      "ballot_paper_id": "local.salford.little-hulton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128417,
+          "name": "Mike Ashdown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128418,
+          "name": "Lewis Croden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128419,
+          "name": "Anne Fasan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41016,
+          "name": "Stuart Oxbrow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78245,
+          "name": "Teresa Christina Pepper",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ordsall",
+      "ballot_paper_id": "local.salford.ordsall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127280,
+          "name": "Craig Stephen Barclay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41659,
+          "name": "John Grant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112159,
+          "name": "Brendan Keville",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127281,
+          "name": "Charlie Ng",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127282,
+          "name": "Martyn Stockley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pendlebury & Clifton",
+      "ballot_paper_id": "local.salford.pendlebury-clifton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112240,
+          "name": "Angela May Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78403,
+          "name": "Susan Vanessa Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88947,
+          "name": "Chichi Mgbeokwere",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 78349,
+          "name": "Andrew Nadin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128458,
+          "name": "Natalie Anne Rowland",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pendleton & Charlestown",
+      "ballot_paper_id": "local.salford.pendleton-charlestown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127067,
+          "name": "Ayotunde Adedeji Ajibola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127068,
+          "name": "Jacob John Allen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127069,
+          "name": "Andrew Stephen Behan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127070,
+          "name": "Matthew Callaghan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127071,
+          "name": "Daryl Stone-Shaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127072,
+          "name": "Kenneth Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Quays",
+      "ballot_paper_id": "local.salford.quays.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127657,
+          "name": "Owen Martin Hammond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127658,
+          "name": "Daniel Harold",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88901,
+          "name": "Paul Heilbron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106514,
+          "name": "Andrea Romero O'Brien",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127659,
+          "name": "Gary Michael Slawther",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swinton & Wardley",
+      "ballot_paper_id": "local.salford.swinton-wardley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128517,
+          "name": "Peter Charles Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109021,
+          "name": "Liz McCoy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 15813,
+          "name": "Joe O'Neill",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128518,
+          "name": "Colin Seeney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128519,
+          "name": "Andy Spratt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128520,
+          "name": "Anton Strong",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swinton Park",
+      "ballot_paper_id": "local.salford.swinton-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128412,
+          "name": "Farzam Barghian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78095,
+          "name": "John McLellan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128413,
+          "name": "Monika Katarzyna Puchalska",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128414,
+          "name": "Karl Robert Robson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128415,
+          "name": "Andrew Wong",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walkden North",
+      "ballot_paper_id": "local.salford.walkden-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127231,
+          "name": "Miles Alexander Henderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127232,
+          "name": "Adam Kenyon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127233,
+          "name": "Arlene Royle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 69826,
+          "name": "Paul Anthony Whitelegg",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127234,
+          "name": "Jack Leslie Youd",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walkden South",
+      "ballot_paper_id": "local.salford.walkden-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 106478,
+          "name": "Craig Thomas Birtwistle",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 127337,
+          "name": "Rachel Lindsey Fitzsimmons",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127338,
+          "name": "Guy Muntu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78405,
+          "name": "Irfan Syed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127339,
+          "name": "Ivan Voronov",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weaste & Seedley",
+      "ballot_paper_id": "local.salford.weaste-seedley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 42118,
+          "name": "Anne Broomhead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127327,
+          "name": "Paul Doyle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139115,
+          "name": "James Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127328,
+          "name": "Oliver James Ritchie Scott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78423,
+          "name": "Alexis Murura Shama",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41523,
+          "name": "John David Warmisham",
+          "party_name": "Your Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Worsley & Westwood Park",
+      "ballot_paper_id": "local.salford.worsley-westwood-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 64326,
+          "name": "JP Atley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41410,
+          "name": "James Karl Blessing",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127244,
+          "name": "Kaiden Jason Morrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127245,
+          "name": "Seema Azam Rajpura",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127246,
+          "name": "Daniel Whitehouse",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "harlow",
+    "council_name": "Harlow"
+  },
+  "wards": [
+    {
+      "ward_name": "Bush Fair",
+      "ballot_paper_id": "local.harlow.bush-fair.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131452,
+          "name": "Rosanna Marian Daisy Jackson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46258,
+          "name": "Dan Long",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131456,
+          "name": "Geoff Longster",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96410,
+          "name": "David Steven Margetts",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Church Langley North & Newhall",
+      "ballot_paper_id": "local.harlow.church-langley-north-newhall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131502,
+          "name": "Tracy Ann Cranfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14534,
+          "name": "Michael Edward Hardware",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131506,
+          "name": "Jeff Mace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109549,
+          "name": "Bengi White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Church Langley South & Potter Street",
+      "ballot_paper_id": "local.harlow.church-langley-south-potter-street.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131530,
+          "name": "Paul Ian King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78667,
+          "name": "James Leppard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14470,
+          "name": "Amanda Susan Harris Maison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14392,
+          "name": "Gary Roberts",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112148,
+          "name": "Harry Tennison",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Parndon",
+      "ballot_paper_id": "local.harlow.great-parndon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131606,
+          "name": "Peter John Buss",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131610,
+          "name": "Neil John Crouch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78652,
+          "name": "Matthew Richard Saggers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 102361,
+          "name": "Anita Schultschik",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Latton Bush & Stewards",
+      "ballot_paper_id": "local.harlow.latton-bush-stewards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131643,
+          "name": "Howard Charles Beaumont",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14550,
+          "name": "John Steer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131650,
+          "name": "Stephen George Martin Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131653,
+          "name": "Simon John Vincent",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Parndon & Town Centre",
+      "ballot_paper_id": "local.harlow.little-parndon-town-centre.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131670,
+          "name": "Madison May Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14356,
+          "name": "Simon Nicholas Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131673,
+          "name": "Wendy-Jane Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14446,
+          "name": "Lanie Shears",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mark Hall",
+      "ballot_paper_id": "local.harlow.mark-hall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 112144,
+          "name": "Christine Anne Gallacher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 5109,
+          "name": "Mark Robert Edward Gough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112153,
+          "name": "John Matthew Purse",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90619,
+          "name": "Julie Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Netteswell",
+      "ballot_paper_id": "local.harlow.netteswell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131719,
+          "name": "Cindy Fry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131721,
+          "name": "Charlie Hancock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 64693,
+          "name": "Colleen Lee Morrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14536,
+          "name": "Stefan Peter Mullard-Toal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14445,
+          "name": "Lesley Anne Rideout",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Harlow",
+      "ballot_paper_id": "local.harlow.old-harlow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45885,
+          "name": "Liam Kerrigan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78637,
+          "name": "Paul Lenihan",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 63673,
+          "name": "Sue Jeanette Livings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131757,
+          "name": "Eileen Margaret McManus",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90509,
+          "name": "Jennifer Steadman",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Passmores",
+      "ballot_paper_id": "local.harlow.passmores.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 112130,
+          "name": "Nidhi Hindocha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131778,
+          "name": "Stephanie Angela Marsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131782,
+          "name": "Shirley Ann McGee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14358,
+          "name": "Jake David Adam Shepherd",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sumners & Kingsmoor",
+      "ballot_paper_id": "local.harlow.sumners-kingsmoor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109563,
+          "name": "Julie Bull",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133232,
+          "name": "Charlie Cochrane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90617,
+          "name": "Emma Louise Marie Ghaffari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132687,
+          "name": "Andrew James Hammond",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 132689,
+          "name": "Jamie Paul Terence Winslow",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

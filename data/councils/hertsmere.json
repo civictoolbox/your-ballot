@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hertsmere",
+    "council_name": "Hertsmere"
+  },
+  "wards": [
+    {
+      "ward_name": "Bentley Heath & The Royds",
+      "ballot_paper_id": "local.hertsmere.bentley-heath-the-royds.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 27095,
+          "name": "John Martin Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72000,
+          "name": "John Humphries",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 102422,
+          "name": "Simon Edward Rhodes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 102447,
+          "name": "Theresa Noreen Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126587,
+          "name": "Lisa Worrell",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

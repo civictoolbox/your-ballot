@@ -1,0 +1,1666 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "brent",
+    "council_name": "Brent"
+  },
+  "wards": [
+    {
+      "ward_name": "Alperton",
+      "ballot_paper_id": "local.brent.alperton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 72714,
+          "name": "Mansoor Akram",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133664,
+          "name": "Nimisha Ananada",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133665,
+          "name": "Roger Mihai Berlea",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133666,
+          "name": "Krishna Chauhan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92711,
+          "name": "Charlie Clinton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 7825,
+          "name": "Anton Georgiou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91577,
+          "name": "Sanjana Madan Mohan Karnani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48581,
+          "name": "Hema Mistry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123318,
+          "name": "Delroy Morrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133667,
+          "name": "Aparna Prakashchandra Pandya",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133670,
+          "name": "Vishal Ramesh Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133669,
+          "name": "Vinodchandra Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133668,
+          "name": "Gunjan Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133671,
+          "name": "Emma Louise Russell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133672,
+          "name": "Amy Sharrocks",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Barnhill",
+      "ballot_paper_id": "local.brent.barnhill.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 134866,
+          "name": "Femi Abel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92429,
+          "name": "Mabel Balogun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134868,
+          "name": "Kathleen Fraser",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134869,
+          "name": "Tara Furlong",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134870,
+          "name": "Zoe Georgiou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123321,
+          "name": "Rhoda Mohamoud Ibrahim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48140,
+          "name": "Robin Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134871,
+          "name": "Raju Karania",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134872,
+          "name": "Shirley Kurland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134867,
+          "name": "Rosanna De Lisle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134873,
+          "name": "Manish Jitendrakumar Pancholi",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brondesbury Park",
+      "ballot_paper_id": "local.brent.brondesbury-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133784,
+          "name": "Will Awomoyi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133785,
+          "name": "Hannah Camilleri",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133787,
+          "name": "Raphael Louis Fulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133786,
+          "name": "Frederic Max Fulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48003,
+          "name": "Erica Gbajumo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92343,
+          "name": "Ryan Aaron Hack",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133788,
+          "name": "Lorraine King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133789,
+          "name": "Beninio McDonough",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133790,
+          "name": "Felipe Raskin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123322,
+          "name": "Tashi Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cricklewood & Mapesbury",
+      "ballot_paper_id": "local.brent.cricklewood-mapesbury.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 134879,
+          "name": "Robert Afia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134880,
+          "name": "Usman Cheema",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47752,
+          "name": "Tariq Dar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47753,
+          "name": "Anthony Dunn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47755,
+          "name": "Alyssa Gilbert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79072,
+          "name": "Gwen Grahl",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134881,
+          "name": "Vignesh Natarajan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134882,
+          "name": "Ashokkumar Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47475,
+          "name": "William Relton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134883,
+          "name": "Paul John Stephens",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dollis Hill",
+      "ballot_paper_id": "local.brent.dollis-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 39492,
+          "name": "Parvez Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137128,
+          "name": "Osmond Ajibade",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47348,
+          "name": "Diana Ayres",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137129,
+          "name": "Pappy Boswie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92712,
+          "name": "Baston Anthony De'Medici-Jaguar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39493,
+          "name": "Liz Dixon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137130,
+          "name": "Benjamin Max Goodrick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137131,
+          "name": "Nigel Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137132,
+          "name": "Jeremy Christopher Walker Hadwin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39496,
+          "name": "Alison Frances Hopkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137133,
+          "name": "Klaudian Kokoshi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39498,
+          "name": "Arshad Mahmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137134,
+          "name": "Suzanne O'Farrell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137135,
+          "name": "Yogi Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92696,
+          "name": "Aloka Roy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harlesden & Kensal Green",
+      "ballot_paper_id": "local.brent.harlesden-kensal-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 134978,
+          "name": "Ahmed Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134979,
+          "name": "Amandine Marie Alexandre",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123323,
+          "name": "Tina Amadi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47548,
+          "name": "Charles David William Brand",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134980,
+          "name": "Ben Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134981,
+          "name": "Nina Czudej",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92702,
+          "name": "Said Yusuf Deria",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134985,
+          "name": "Padraig Kalen Mueses Furlong",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134982,
+          "name": "Mansukh Karsan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46447,
+          "name": "Matt Kelcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134983,
+          "name": "Elisabete Lemos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134984,
+          "name": "Alastair McWilliams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134986,
+          "name": "Abi Odunsi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 45861,
+          "name": "Mili Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134987,
+          "name": "Alfaiz Saiyad",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134988,
+          "name": "Zengha Wellings-Longmore",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kenton",
+      "ballot_paper_id": "local.brent.kenton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 133678,
+          "name": "George Binney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117527,
+          "name": "Ian Collier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133679,
+          "name": "Zubaida Muhamed Hassan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92714,
+          "name": "Sunita Hirani",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 48319,
+          "name": "Suresh Kansagra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133680,
+          "name": "David Lawes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133681,
+          "name": "Hannah Lindoewood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48372,
+          "name": "Janice Elizabeth Long",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 72718,
+          "name": "Sai Karthik Madabhushi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133682,
+          "name": "Himal Mehta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 19451,
+          "name": "Peter Richard Murry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133683,
+          "name": "Sanjay Nazerali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133684,
+          "name": "Anup Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123324,
+          "name": "John Lincoln Poole",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133685,
+          "name": "Sanjay Radia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133686,
+          "name": "Ishaan Singh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kilburn",
+      "ballot_paper_id": "local.brent.kilburn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135139,
+          "name": "Lester William Blent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135140,
+          "name": "Andrew Capon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47550,
+          "name": "Rita Lacey Conneely",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135141,
+          "name": "Edwin Dooley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135142,
+          "name": "Dai Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126584,
+          "name": "Suzanne Gallagher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135143,
+          "name": "Leeta Holmes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124448,
+          "name": "Stephen Malonga",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135144,
+          "name": "Yashika Manji",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48006,
+          "name": "Tilly McAuliffe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92682,
+          "name": "Anthony Molloy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47555,
+          "name": "Derick Rethans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126365,
+          "name": "Paul Ryan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43890,
+          "name": "Gerald Haim Soames",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135145,
+          "name": "Astrid Wallace",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingsbury",
+      "ballot_paper_id": "local.brent.kingsbury.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 123327,
+          "name": "Jasbinder Bajwa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48073,
+          "name": "Saqib Ilyas Butt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135123,
+          "name": "Marius Carp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135124,
+          "name": "Michael Furlong",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135125,
+          "name": "Kaci Kerwick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46506,
+          "name": "Larry Ngan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135126,
+          "name": "Prashant Parekh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135127,
+          "name": "James Paton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135128,
+          "name": "Ravi Rawat",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135129,
+          "name": "Violet Margaret Steele",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northwick Park",
+      "ballot_paper_id": "local.brent.northwick-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 92433,
+          "name": "Narinder Singh Bajwa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136519,
+          "name": "Tae-Reece Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136520,
+          "name": "Sneha Gautami Chaubey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45628,
+          "name": "David Clement Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42670,
+          "name": "Wilhelmina Calista Mitchell-Murray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89582,
+          "name": "Mahendra Negi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136521,
+          "name": "Keith Perrin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123328,
+          "name": "Shyamala Rajan-Vince",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136522,
+          "name": "Satish Sharma",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136523,
+          "name": "Nisha Vakani",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Preston",
+      "ballot_paper_id": "local.brent.preston.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135160,
+          "name": "Kaushik Bhattacharya",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135161,
+          "name": "losif Borsos",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42667,
+          "name": "Valerie Lydia Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135162,
+          "name": "Jeffrey Hassan Deen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47720,
+          "name": "Orleen Hylton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 48580,
+          "name": "Daniel Timothy Kennelly",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135163,
+          "name": "Nadia Shanta Joy Rasheed Klok",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135164,
+          "name": "Martin Lemon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48320,
+          "name": "Michael David Maurice",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3869,
+          "name": "Harshadbhai Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135165,
+          "name": "Georgina Abigail Vanmali",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queens Park",
+      "ballot_paper_id": "local.brent.queens-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 123332,
+          "name": "Marc Harris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136442,
+          "name": "Felix Ingram",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136443,
+          "name": "Owen Matthews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136444,
+          "name": "Fiona Mulaisho",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136445,
+          "name": "Sarla Mahendra Negi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46431,
+          "name": "Neil Benjamin Nerva",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136446,
+          "name": "Rasine Nkwaya",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136447,
+          "name": "Elsie Ocran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136448,
+          "name": "Harshilkumar Bhailalbhai Prajapati",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136449,
+          "name": "Yariv Reeve",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136450,
+          "name": "Sonu Sharma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117883,
+          "name": "Lesley Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34764,
+          "name": "Deborah Unger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136451,
+          "name": "Barbara Want",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136452,
+          "name": "Phillip Marshall Weitzman",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queensbury",
+      "ballot_paper_id": "local.brent.queensbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 91507,
+          "name": "Eileen Vartan Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123330,
+          "name": "Simon Cheng",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133703,
+          "name": "Eleanor Corr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123329,
+          "name": "Omid Fadakar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133704,
+          "name": "Amy Garvey-Eckett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133705,
+          "name": "Mohil Gohil",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133706,
+          "name": "David John Hopkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89209,
+          "name": "Manoj Mishra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46504,
+          "name": "Kanta Mistry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133708,
+          "name": "Lalit Mohanty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133709,
+          "name": "Marius Moisa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133710,
+          "name": "Candy Nyarko",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133711,
+          "name": "Arvind Patel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46507,
+          "name": "Jayanti Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133712,
+          "name": "Hassan Warsame",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roundwood",
+      "ballot_paper_id": "local.brent.roundwood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137160,
+          "name": "Syed Alam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123333,
+          "name": "Samiah Anderson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137161,
+          "name": "Virginia Brand",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137162,
+          "name": "Ying Cheng",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137163,
+          "name": "Joel Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47470,
+          "name": "Fleur Donnelly-Jackson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47351,
+          "name": "Harbi Elmi Farah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137164,
+          "name": "Azhar Khan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123982,
+          "name": "Abdillahi Sheikh Awels Mohamed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137165,
+          "name": "Ashish Raj Pant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123938,
+          "name": "Karishma Satyan Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92733,
+          "name": "Jake Rubin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126591,
+          "name": "Sat Shekhar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137166,
+          "name": "Anubhav Shukla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47355,
+          "name": "Richard Sisson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stonebridge",
+      "ballot_paper_id": "local.brent.stonebridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 38970,
+          "name": "Abdi Aden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136851,
+          "name": "Zeeshan Akhtar",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 136852,
+          "name": "Sam Angelova",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136853,
+          "name": "Mohammad Anwar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123334,
+          "name": "Trevor Blackman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136854,
+          "name": "Kathleen Yvonne Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136855,
+          "name": "Daud Hussein",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136856,
+          "name": "Ali Javed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 92721,
+          "name": "Sellathurai Jeyakumar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136857,
+          "name": "Sharla Rachel Kew",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38973,
+          "name": "Promise Knight",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136858,
+          "name": "Abdul Matin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136859,
+          "name": "Sunil Mendonca",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136860,
+          "name": "Aruna Lakshmi Ranganatha",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124633,
+          "name": "James Rossi",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 92704,
+          "name": "Ajoy Kumar Roy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136861,
+          "name": "Attila Szep",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124632,
+          "name": "Asif Zamir",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 89308,
+          "name": "Chintan Kirtibhai Zaveri",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sudbury",
+      "ballot_paper_id": "local.brent.sudbury.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 89306,
+          "name": "Teo Benea",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137179,
+          "name": "Bridget Miranda Rose Craghill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137180,
+          "name": "Himanshu Finaviya",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123335,
+          "name": "Greg Innes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6276,
+          "name": "Paul Lorber",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137182,
+          "name": "Neha Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137181,
+          "name": "Harish Rameschandra Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137183,
+          "name": "Nirmala Patel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137184,
+          "name": "Mihir Vinodroy Shah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137185,
+          "name": "Geevaka Crysantha Silva",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tokyngton",
+      "ballot_paper_id": "local.brent.tokyngton.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 47719,
+          "name": "Muhammed Asghar Butt",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45627,
+          "name": "Shamim Ahmed Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46500,
+          "name": "Peggy Jean Cruickshank",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 926,
+          "name": "Martin Roger Francis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136175,
+          "name": "Shaheen Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136176,
+          "name": "Vincent Joseph McGovern",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136177,
+          "name": "Vijaya Prashant Mokal-Parekh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136178,
+          "name": "Kevin Michael Nugent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42674,
+          "name": "Krupa Sheth",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136179,
+          "name": "Effie Woods",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Welsh Harp",
+      "ballot_paper_id": "local.brent.welsh-harp.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 47347,
+          "name": "Amer Hussain Agha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123337,
+          "name": "Iftekhar Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133763,
+          "name": "Mohammed Alghoul",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 74377,
+          "name": "Sapna Chadha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92431,
+          "name": "Peter Corcoran",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133764,
+          "name": "David Andrew Howard",
+          "party_name": "UK Independence Party (UKIP)"
+        },
+        {
+          "person_id": 7320,
+          "name": "Elcena Jeffers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133765,
+          "name": "Ash Misal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133766,
+          "name": "Ahmed Mohamed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133767,
+          "name": "Fathima Nuska Mohamed Naleer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133768,
+          "name": "Chris Palmer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92317,
+          "name": "Richard Porter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133769,
+          "name": "Wojtek Poza",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47353,
+          "name": "Freda Raingold",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92398,
+          "name": "Anand Kumar Roy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133770,
+          "name": "leva Tomsone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133771,
+          "name": "Ruth Washbrook",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wembley Central",
+      "ballot_paper_id": "local.brent.wembley-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 48325,
+          "name": "Rajan Arasu-Seelan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45625,
+          "name": "Daniel Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136900,
+          "name": "Ryan D'Souza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136899,
+          "name": "Brijesh Dokwal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136901,
+          "name": "Hetal Jansali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136902,
+          "name": "Irene Lobo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136903,
+          "name": "Marina McIntyre",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136904,
+          "name": "Caren Lisbeth Wynn Owen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136905,
+          "name": "Jayeshkumar Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136906,
+          "name": "Miranda Shakti Persaud",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92671,
+          "name": "Sushil Rapatwar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136907,
+          "name": "Jigar Shah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72719,
+          "name": "Sonia Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47724,
+          "name": "Ketan Sheth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48584,
+          "name": "Anita Thakkar",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wembley Hill",
+      "ballot_paper_id": "local.brent.wembley-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 134856,
+          "name": "Camille Jeanne Therese Ainsworth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134857,
+          "name": "Sandra Assuncao",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134858,
+          "name": "Jolene Dias",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134859,
+          "name": "Charles Peter Fernandes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134860,
+          "name": "Elizabeth Gordon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91512,
+          "name": "Douglas Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45857,
+          "name": "Lloyd McLeish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134861,
+          "name": "Vanita Sunil Mendonca",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91514,
+          "name": "Ishma Younus Moeen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134862,
+          "name": "Ibraheem Nawaz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92310,
+          "name": "Pranav Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126689,
+          "name": "Andi Porri",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91509,
+          "name": "Floyd Anjoe Dias do Rosario",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123338,
+          "name": "Angela Joyce De Souza",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 72713,
+          "name": "Harmit Vyas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40145,
+          "name": "Jonah Weisz",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wembley Park",
+      "ballot_paper_id": "local.brent.wembley-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 91506,
+          "name": "Ajmal Akram",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48138,
+          "name": "Sushil Dokwal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136915,
+          "name": "Francis Paul Henry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136916,
+          "name": "Semi Ideis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136917,
+          "name": "Elizabeth Olajumoke Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136918,
+          "name": "Maggie Lau",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92719,
+          "name": "Iman Ahmadi Moghaddam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136919,
+          "name": "Neil Pickles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123339,
+          "name": "Apurva Saral Sharma",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136920,
+          "name": "Najib Abdulkadir Abdi Warsame",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Willesden Green",
+      "ballot_paper_id": "local.brent.willesden-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 79071,
+          "name": "Philip Alexander",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137205,
+          "name": "Andrew Simon Beckman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123341,
+          "name": "George Robert Murray Burn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89159,
+          "name": "Saqlain Aftab Choudry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48365,
+          "name": "Mark Cummins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137206,
+          "name": "Mohamed Elfatih Younis Elnaiem",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137207,
+          "name": "Tony Ethapemi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137208,
+          "name": "Emmanuel Flavius",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92366,
+          "name": "Richard Christopher Geldart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137209,
+          "name": "Mary Elizabeth Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137210,
+          "name": "Satish Ramanandan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137211,
+          "name": "Nat Teves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118457,
+          "name": "Prerna Thakkar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47476,
+          "name": "Ulla Thiessen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92685,
+          "name": "Retno Widuri",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

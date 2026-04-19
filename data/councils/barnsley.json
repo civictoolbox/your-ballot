@@ -1,0 +1,1618 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "barnsley",
+    "council_name": "Barnsley"
+  },
+  "wards": [
+    {
+      "ward_name": "Athersley & New Lodge",
+      "ballot_paper_id": "local.barnsley.athersley-new-lodge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 127452,
+          "name": "Andrew Allerton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127453,
+          "name": "Neil Philip Calvert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127454,
+          "name": "Ian Paul Earp",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127455,
+          "name": "Jayne Hulme",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127456,
+          "name": "Rocky Laybourn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47925,
+          "name": "Dave Leech",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79645,
+          "name": "Matthew Nicholson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127457,
+          "name": "Lina Soura",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9598,
+          "name": "Sarah Jane Tattersall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79634,
+          "name": "Rebecca Jean Trotman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127458,
+          "name": "Sue Wright",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47535,
+          "name": "Neil Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central",
+      "ballot_paper_id": "local.barnsley.central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 127405,
+          "name": "Gerald Bateman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110282,
+          "name": "Sam Bullcock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127406,
+          "name": "Christopher Mark Mannion",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127407,
+          "name": "Andrew Micklethwaite",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127408,
+          "name": "Nick Milne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127409,
+          "name": "Eloise Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86743,
+          "name": "Janine Moyes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98791,
+          "name": "Martin Joseph O'Donoghue",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127410,
+          "name": "Davinder Pinder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127411,
+          "name": "Pietro Politano",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127412,
+          "name": "Patricia Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35470,
+          "name": "Nicola Sumner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110271,
+          "name": "Elaine Weems",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cudworth",
+      "ballot_paper_id": "local.barnsley.cudworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 127420,
+          "name": "Stanley John Bryan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127419,
+          "name": "Diane Bryan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50955,
+          "name": "Anita Cherryholme",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127421,
+          "name": "Elizabeth Foers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127422,
+          "name": "Peter Forbes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42297,
+          "name": "Joe Hayward",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9529,
+          "name": "Steve Houghton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127423,
+          "name": "Dale Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127424,
+          "name": "Richard Knights",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45466,
+          "name": "Glenn Lawrence",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127425,
+          "name": "Gary Marsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127426,
+          "name": "Richard Szenk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127427,
+          "name": "Thomas Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darfield & Great Houghton",
+      "ballot_paper_id": "local.barnsley.darfield-great-houghton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 127438,
+          "name": "David Goddard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139121,
+          "name": "Gary Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52650,
+          "name": "Paul Hand-Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127442,
+          "name": "Ehren Holt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 79628,
+          "name": "Simon Richard Hulme",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47293,
+          "name": "Pauline Markham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86701,
+          "name": "Scott McKenzie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127443,
+          "name": "Gregory Harrison Needham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127444,
+          "name": "John Norton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76281,
+          "name": "Kevin John Howard Osborne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127445,
+          "name": "Alison Palmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123639,
+          "name": "Richard Thomas Ullyott",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darton East",
+      "ballot_paper_id": "local.barnsley.darton-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 127460,
+          "name": "Eunice Asante",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127461,
+          "name": "Phil Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127462,
+          "name": "Kirsty Bogic",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86684,
+          "name": "Dickie Denton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98813,
+          "name": "Roger Haw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46749,
+          "name": "Tom Heyes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127463,
+          "name": "Wayne Martindale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127464,
+          "name": "Stephen John Morgan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127465,
+          "name": "Nina Musgrave",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110246,
+          "name": "Leyla Nayeri",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127466,
+          "name": "Carl Snowden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110249,
+          "name": "Phil Weems",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86686,
+          "name": "Teresa Wilcockson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darton West",
+      "ballot_paper_id": "local.barnsley.darton-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 42850,
+          "name": "Kevin Bennett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127579,
+          "name": "Sam Burdett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50948,
+          "name": "Trevor Raymond Cave",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127575,
+          "name": "Andy Cudworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46750,
+          "name": "Sharon Howard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127581,
+          "name": "Jo Mathewson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98823,
+          "name": "Trevor Anthony Mayne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110237,
+          "name": "Kabir Nepal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127582,
+          "name": "Sophie Alice Parkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127578,
+          "name": "David Rodger",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130715,
+          "name": "Patrick Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9600,
+          "name": "Mike Toon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110299,
+          "name": "Luca Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110220,
+          "name": "Simon John Jordan Williamson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dearne North",
+      "ballot_paper_id": "local.barnsley.dearne-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 86889,
+          "name": "Sue Bellamy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127486,
+          "name": "Ian Martin James Berry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 76282,
+          "name": "Wendy Cain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86897,
+          "name": "Brian John Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127487,
+          "name": "Brian Kilner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127488,
+          "name": "Gary Knight",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 127489,
+          "name": "Francis McCane",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98807,
+          "name": "Martin Morrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1528,
+          "name": "Janus Polenceusz",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 126027,
+          "name": "Hayden George Prescott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127490,
+          "name": "Rhiannon Rees",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127491,
+          "name": "Helen Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 508,
+          "name": "Maxine Spencer",
+          "party_name": "English Democrats"
+        },
+        {
+          "person_id": 127492,
+          "name": "Luke Wheat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127493,
+          "name": "Neil Young",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dearne South",
+      "ballot_paper_id": "local.barnsley.dearne-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 109768,
+          "name": "Warwick Bettney",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 47929,
+          "name": "Janine Marie Bowler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127539,
+          "name": "Christopher Alan Charlton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127540,
+          "name": "John Michael Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127541,
+          "name": "Jonathan Cutts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79631,
+          "name": "Linda Fielding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127542,
+          "name": "Keith Geal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127543,
+          "name": "Matthew Lewis Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86898,
+          "name": "Rosemary Sharon Jackson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76259,
+          "name": "David Allan Jarvis",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 127544,
+          "name": "Kay Kilner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127545,
+          "name": "Mark Anthony Langridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76447,
+          "name": "Mandy Lowe-Flello",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110270,
+          "name": "Deborah Jane Pearson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dodworth, Stainborough & Tankersley",
+      "ballot_paper_id": "local.barnsley.dodworth-stainborough-tankersley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 127494,
+          "name": "Betty Barnes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126974,
+          "name": "Thomas Beech",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127495,
+          "name": "Melvyn Bird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127496,
+          "name": "Lee Dorian Long",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127497,
+          "name": "Michael Naughton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127498,
+          "name": "Chris Newton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9538,
+          "name": "Lee Ogden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127499,
+          "name": "Roland Cornelius Powell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127500,
+          "name": "Becky Thompson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9578,
+          "name": "Debbie Toon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45464,
+          "name": "Andy Waters",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9570,
+          "name": "John Wilson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125434,
+          "name": "Janet Wray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 79635,
+          "name": "Chris Wray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127501,
+          "name": "Rachael Yardley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hoyland Milton",
+      "ballot_paper_id": "local.barnsley.hoyland-milton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 127505,
+          "name": "Barnaby Churchill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44351,
+          "name": "Michael James Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127506,
+          "name": "Charlie Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48104,
+          "name": "Robin Franklin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 101497,
+          "name": "Brian Gregory",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127507,
+          "name": "Rachael Grace Kay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127508,
+          "name": "Peter Murray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127509,
+          "name": "Gareth Parkin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127510,
+          "name": "Gina Rayner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127511,
+          "name": "Claire Redmond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50952,
+          "name": "Tim Shepherd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9551,
+          "name": "Mick Stowe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73737,
+          "name": "Angela Ruth Waller",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingstone",
+      "ballot_paper_id": "local.barnsley.kingstone.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 110218,
+          "name": "Steve Bullcock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127529,
+          "name": "Granville Corker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127530,
+          "name": "Nieve Elliott",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 54841,
+          "name": "Peter Gordon Giles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127531,
+          "name": "Sharon Gillis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127532,
+          "name": "Ian Guest",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9555,
+          "name": "Tracey-Ann Holland",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127533,
+          "name": "Amy Holling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127534,
+          "name": "Deniss Kurnovs",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127535,
+          "name": "David Miller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52641,
+          "name": "Andrew Millner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127536,
+          "name": "Garry Needham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127537,
+          "name": "Laur Tupling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127538,
+          "name": "Clare Louise Simone Winder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82543,
+          "name": "Philip Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Monk Bretton",
+      "ballot_paper_id": "local.barnsley.monk-bretton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 127561,
+          "name": "Brigid Rose Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18489,
+          "name": "Amy Caroline Brookes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127562,
+          "name": "Thomas Collings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50031,
+          "name": "Peter James Fielding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127563,
+          "name": "Jessica Hackleton Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127564,
+          "name": "Paul Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127565,
+          "name": "Elaine Micklethwaite",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127566,
+          "name": "Kate Milner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127567,
+          "name": "Kevin Orrell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127568,
+          "name": "Alan Parker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48108,
+          "name": "Kenneth Richardson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45467,
+          "name": "Sue Rose",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50954,
+          "name": "Margaret Sheard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87091,
+          "name": "Rachel Jane Stewart",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "North East",
+      "ballot_paper_id": "local.barnsley.north-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 55505,
+          "name": "Raymond Archer",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127595,
+          "name": "Martin Richard Bancroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98814,
+          "name": "Ruth Booker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127596,
+          "name": "William John Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127597,
+          "name": "James Clay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50947,
+          "name": "Dorothy Coates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127598,
+          "name": "Alexis Rose Fielding-Webb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127599,
+          "name": "Alex Mathewson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87101,
+          "name": "Ashley James Peace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38330,
+          "name": "Geoff Reid",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127600,
+          "name": "Jane Margaret Sellars",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127601,
+          "name": "Ann Shelbourne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127602,
+          "name": "John Sidebottom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127603,
+          "name": "Sophie Jane Steele",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127604,
+          "name": "Alison White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Town",
+      "ballot_paper_id": "local.barnsley.old-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 125437,
+          "name": "Eloise Bailey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42069,
+          "name": "Ken Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43996,
+          "name": "Michael Barraclough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127643,
+          "name": "David Shaun Cunningham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110285,
+          "name": "Steve Dangerfield",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 78097,
+          "name": "Will Fielding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123636,
+          "name": "Brandon James Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9564,
+          "name": "Phil Lofts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127644,
+          "name": "Simon Nettleton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47649,
+          "name": "Jo Newing",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78098,
+          "name": "Gillian Margaret Nixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35789,
+          "name": "Clive Pickering",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98794,
+          "name": "Ken Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127645,
+          "name": "Ian Westwood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penistone East",
+      "ballot_paper_id": "local.barnsley.penistone-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 46418,
+          "name": "Robert Barnard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9553,
+          "name": "Steven Burkinshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76285,
+          "name": "Alex Burnett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127520,
+          "name": "Kay Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127521,
+          "name": "Tom Lindley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127522,
+          "name": "Peter Millar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127523,
+          "name": "Freya Nepal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98820,
+          "name": "Frances Nixon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127524,
+          "name": "James Perigo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46420,
+          "name": "Kate Helen Raynor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127525,
+          "name": "John Roberts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76233,
+          "name": "Catherine Rogerson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127526,
+          "name": "Matthew James Summers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127527,
+          "name": "Adam Wiszniewski",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penistone West",
+      "ballot_paper_id": "local.barnsley.penistone-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 127685,
+          "name": "Florentine Bootha-King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127686,
+          "name": "Rori Cook",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 127687,
+          "name": "Sue Cutting",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45468,
+          "name": "David Greenhough",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127688,
+          "name": "Kirk Harper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127689,
+          "name": "Vicky Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127690,
+          "name": "Sam Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127691,
+          "name": "Lawrence Maitland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127692,
+          "name": "Willow Kate Raynor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127693,
+          "name": "Paul Ian Sammon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9573,
+          "name": "Richard Thomas James Trotman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45465,
+          "name": "Sue Waters",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110226,
+          "name": "Ian White",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42299,
+          "name": "Samuel Wilkinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52642,
+          "name": "David Wood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127694,
+          "name": "Bryan Anthony Worth",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rockingham",
+      "ballot_paper_id": "local.barnsley.rockingham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 127699,
+          "name": "Lucy Louise Benoit",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127700,
+          "name": "Sam Calvert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127701,
+          "name": "Christopher Denton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127702,
+          "name": "Pat Gregory",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127703,
+          "name": "Edana Rose Guest",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127704,
+          "name": "Ian Hague-Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127705,
+          "name": "Adam Harrington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98834,
+          "name": "Sherry Holling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127706,
+          "name": "Anita Kimberley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127707,
+          "name": "Michelle Klepper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9565,
+          "name": "Gill Millner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127708,
+          "name": "Amelia Rushworth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9584,
+          "name": "Clive Watkinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98825,
+          "name": "Andy Wray",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royston",
+      "ballot_paper_id": "local.barnsley.royston.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 127722,
+          "name": "Tina Adkin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127723,
+          "name": "Michael Close",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127724,
+          "name": "Lewis Cusworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127725,
+          "name": "Terry Durkin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127726,
+          "name": "Nick Everest",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76256,
+          "name": "Neil Fisher",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87190,
+          "name": "George Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87153,
+          "name": "Jonathan Hood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9581,
+          "name": "Caroline Makinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 50958,
+          "name": "Pauline McCarthy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127727,
+          "name": "Stefan McCrum",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127728,
+          "name": "Jon Palmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127729,
+          "name": "Angela Pollard",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stairfoot",
+      "ballot_paper_id": "local.barnsley.stairfoot.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 79622,
+          "name": "Marie Bates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127738,
+          "name": "Louise Cassidy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 76261,
+          "name": "Edward Dillingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50959,
+          "name": "Karen Dyson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127739,
+          "name": "Andrew Gillis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76248,
+          "name": "Liam Hardcastle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52625,
+          "name": "James Robert Kitching",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98832,
+          "name": "Paul Murray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127740,
+          "name": "Lee Ross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87184,
+          "name": "Ian Patrick Shirt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127741,
+          "name": "Nell Dru Stockton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127742,
+          "name": "Pete Wall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98793,
+          "name": "Charlotte Wilkinson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wombwell",
+      "ballot_paper_id": "local.barnsley.wombwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 127768,
+          "name": "Theresa Arnold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127767,
+          "name": "Andy Arnold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 64180,
+          "name": "Mark Brook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50961,
+          "name": "Brenda Eastwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127769,
+          "name": "Josh Foers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38960,
+          "name": "Robert Frost",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127770,
+          "name": "Suzanne Gill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127771,
+          "name": "Robert W Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78929,
+          "name": "James Lewis Higginbottom",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127772,
+          "name": "Deborah Hirst",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110304,
+          "name": "Jessica Claire Roebuck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127773,
+          "name": "Tracy Skinner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Worsbrough",
+      "ballot_paper_id": "local.barnsley.worsbrough.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 127478,
+          "name": "Jonathan Bennett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50956,
+          "name": "Roy Bowser",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43997,
+          "name": "Sarah Calvert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127479,
+          "name": "Gill Carr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127480,
+          "name": "John William Clarke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127481,
+          "name": "Joshua Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127482,
+          "name": "Rachel Louise Lloyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9603,
+          "name": "Jake Michael Lodge",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127483,
+          "name": "Mike Lycett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110303,
+          "name": "Simon Glen Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47678,
+          "name": "Adrian Thompson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9567,
+          "name": "Amy Louise Walker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127484,
+          "name": "David Lee Webster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127485,
+          "name": "Alex Wright",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

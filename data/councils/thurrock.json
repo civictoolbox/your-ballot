@@ -1,0 +1,1065 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "thurrock",
+    "council_name": "Thurrock"
+  },
+  "wards": [
+    {
+      "ward_name": "Aveley",
+      "ballot_paper_id": "local.thurrock.aveley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 130250,
+          "name": "Colin Leslie Adams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130251,
+          "name": "Ollie Beck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130252,
+          "name": "Anthony John Coyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81067,
+          "name": "Mo Amin Hoque",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130253,
+          "name": "Chris Irvine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128717,
+          "name": "George Monk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75829,
+          "name": "Srikanth Panjala",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75830,
+          "name": "Maureen Carol Pearce",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130254,
+          "name": "Aiden Prince",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99157,
+          "name": "Cathy Sisterson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Belhus",
+      "ballot_paper_id": "local.thurrock.belhus.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 130287,
+          "name": "Benjamin Agyemang",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130288,
+          "name": "Linda Benson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81090,
+          "name": "Sophie Corcoran",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130290,
+          "name": "Fahima Danishmal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130291,
+          "name": "Bogdan Enache",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130292,
+          "name": "Oluwatoyin Imole-Sontan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130293,
+          "name": "Rosalyn Joyce Jenkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130294,
+          "name": "Tom Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99734,
+          "name": "Shamim Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130295,
+          "name": "Lalitha Panjala",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130296,
+          "name": "Geraldine Jane Roche",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadwell St Mary",
+      "ballot_paper_id": "local.thurrock.chadwell-st-mary.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 40434,
+          "name": "Abbie Akinbohun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99722,
+          "name": "Ngozi Christa Alike",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40728,
+          "name": "Daniel Chukwu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129611,
+          "name": "Jack Thomas Wilfred Fuller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129612,
+          "name": "Matt Lake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129613,
+          "name": "James William MacKintosh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129614,
+          "name": "Elizabeth Onibokun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129615,
+          "name": "Melissa Perry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129616,
+          "name": "Jo Potter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129617,
+          "name": "Yogesh Jagdish Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chafford Hundred East",
+      "ballot_paper_id": "local.thurrock.chafford-hundred-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 130298,
+          "name": "Jessica Bartlett-Hyde",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16412,
+          "name": "Adam Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130299,
+          "name": "Peggy Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130300,
+          "name": "Stephen Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130301,
+          "name": "Peter David Eates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130302,
+          "name": "Julie Eke-Lawrence",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98706,
+          "name": "Vikki Hartstean",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chafford Hundred West",
+      "ballot_paper_id": "local.thurrock.chafford-hundred-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 130279,
+          "name": "Oscar Ellis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109566,
+          "name": "Caitlin Fallows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130280,
+          "name": "Wilmer Luna",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130281,
+          "name": "Jason Mitchell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40435,
+          "name": "Tunde Ojetola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130282,
+          "name": "Susan Shinnick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81104,
+          "name": "Gary Watson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Corringham & Fobbing",
+      "ballot_paper_id": "local.thurrock.corringham-fobbing.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 129807,
+          "name": "Holly Eleanor Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60676,
+          "name": "John Cecil",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129808,
+          "name": "Ian Croom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129809,
+          "name": "Sam Flatt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129810,
+          "name": "Kamlesh Rani Kumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129811,
+          "name": "Anita Nuss",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60678,
+          "name": "Gbenga Olajugbagbe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129812,
+          "name": "Sara Lisa Poyntz",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49770,
+          "name": "Shane Ralph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 60659,
+          "name": "Jimmy Thandi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Tilbury, Linford & West Tilbury",
+      "ballot_paper_id": "local.thurrock.east-tilbury-linford-west-tilbury.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 130036,
+          "name": "Jon Bowler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130037,
+          "name": "Adam Breese",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130038,
+          "name": "Michelle Louise Burton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99444,
+          "name": "Alastair Michael Craft",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130039,
+          "name": "Sandra Anne Elliott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130040,
+          "name": "Kevin Eric Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130041,
+          "name": "Lesley Maney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130042,
+          "name": "Alan Reilly",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grays Riverside",
+      "ballot_paper_id": "local.thurrock.grays-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130303,
+          "name": "Funmi Ademilua",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130304,
+          "name": "Chloe Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130306,
+          "name": "Kimberley Zoe Dennis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130305,
+          "name": "Darren Dennis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130307,
+          "name": "Catalin-Daniel Farcas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13931,
+          "name": "Tony Fish",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81123,
+          "name": "Mark Wayne Hurrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130308,
+          "name": "Claudia Luna",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130309,
+          "name": "Paul Ryan Parfitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130310,
+          "name": "Rakhi Rashmi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130311,
+          "name": "Joe Soper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130312,
+          "name": "Adeleke Abidemi Taiwo",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grays Town",
+      "ballot_paper_id": "local.thurrock.grays-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130171,
+          "name": "Michael Okon Antai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130172,
+          "name": "Milena Bingley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130173,
+          "name": "Zoe Anne Duran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110464,
+          "name": "Lynda Hilary Heath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130174,
+          "name": "Simon Lancaster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130175,
+          "name": "Gurkiran Kaur Maan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99736,
+          "name": "Cici Manwa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 68731,
+          "name": "Harold Ogunfemi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130176,
+          "name": "Michael Kevin Shakespeare",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130177,
+          "name": "Howard James Simmons",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130178,
+          "name": "Marc Stanley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16413,
+          "name": "Lynn Worrall",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Thurrock Blackshots",
+      "ballot_paper_id": "local.thurrock.little-thurrock-blackshots.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129883,
+          "name": "Abidemi Agidee-Adekunle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16410,
+          "name": "Mike Fletcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129884,
+          "name": "Laura Perrett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129885,
+          "name": "Steven Pester",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110468,
+          "name": "Joglur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40681,
+          "name": "Lizzie Rigby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129886,
+          "name": "Robert Percy Willoughby",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Thurrock Rectory",
+      "ballot_paper_id": "local.thurrock.little-thurrock-rectory.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 129797,
+          "name": "Marcel Abaneke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129798,
+          "name": "Marion Cherry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129799,
+          "name": "Sanjit Das",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40085,
+          "name": "Jay Hayers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16372,
+          "name": "Allen Mayes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87436,
+          "name": "David Morgan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129801,
+          "name": "Eddie Stringer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129802,
+          "name": "Davina Ann Wager",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ockendon",
+      "ballot_paper_id": "local.thurrock.ockendon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 121503,
+          "name": "Alan Benson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49768,
+          "name": "Russ Cherry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129605,
+          "name": "Leo Roderick Dredge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129606,
+          "name": "Rory Hildick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 121505,
+          "name": "Sue Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121506,
+          "name": "Kameel Mohammed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129607,
+          "name": "Jayden O'Brien",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129609,
+          "name": "Prince Samuel Tico Ogbomoh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129608,
+          "name": "Peter Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40682,
+          "name": "Graham Snell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129610,
+          "name": "Jay Daniel Varley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Orsett, Horndon & Bulphan",
+      "ballot_paper_id": "local.thurrock.orsett-horndon-bulphan.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 129836,
+          "name": "Bill Cook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38115,
+          "name": "David Day",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129837,
+          "name": "Carlos Diaz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81080,
+          "name": "Daniel David Fallows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16378,
+          "name": "Barry William Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40217,
+          "name": "Martin Christopher Kerin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129838,
+          "name": "Jack Speight",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129839,
+          "name": "Steve Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Purfleet-on-Thames",
+      "ballot_paper_id": "local.thurrock.purfleet-on-thames.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 42446,
+          "name": "David John Beesley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130316,
+          "name": "Angela Bolesworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87432,
+          "name": "Aaron James Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130317,
+          "name": "Michelle Louise Heal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130318,
+          "name": "Cornell Olive Heiser",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130319,
+          "name": "Danny Reynolds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40683,
+          "name": "Lee Watson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stanford-le-Hope South",
+      "ballot_paper_id": "local.thurrock.stanford-le-hope-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 129826,
+          "name": "Alex Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129827,
+          "name": "Michelle Brownscombe-Adu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129828,
+          "name": "Andrea Ekong",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129829,
+          "name": "Suraj Lohia",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129830,
+          "name": "Teresa O'Keeffe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110467,
+          "name": "Bunmi Ojetola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129831,
+          "name": "James Richard Poyntz",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129832,
+          "name": "Phil Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16348,
+          "name": "Neil Speight",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129833,
+          "name": "Mark Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129834,
+          "name": "Mitchell Uncle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129835,
+          "name": "Steven James Woolrich",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stifford",
+      "ballot_paper_id": "local.thurrock.stifford.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 130320,
+          "name": "Richard Audubon Bingley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87435,
+          "name": "Mark Anthony Hooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130321,
+          "name": "Alex Howell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130322,
+          "name": "Bill Mumford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130323,
+          "name": "Kevin Rankin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10500,
+          "name": "Joy Redsell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130324,
+          "name": "Sam Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "The Homesteads & Stanford-le-Hope North",
+      "ballot_paper_id": "local.thurrock.the-homesteads-stanford-le-hope-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 130223,
+          "name": "Esther Ajilore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130224,
+          "name": "Eric Alfred Bevan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16408,
+          "name": "Gary James Byrne",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16409,
+          "name": "Gary Collins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130225,
+          "name": "Mark Bland Kimpton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130226,
+          "name": "Pam McCabe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130227,
+          "name": "Joanne Lisa Quirk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130228,
+          "name": "James Peter Scarsbrook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130229,
+          "name": "Hanna Uwakwe-Mangse",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130230,
+          "name": "Gena Lynn White",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130231,
+          "name": "Brian Whiten",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tilbury Riverside",
+      "ballot_paper_id": "local.thurrock.tilbury-riverside.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129891,
+          "name": "Emmanuel Andrews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129892,
+          "name": "Christina Dallyn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129893,
+          "name": "David Hollenbach",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129894,
+          "name": "Mina Begum Hoque",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16371,
+          "name": "Michelle MacAdangdang",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129895,
+          "name": "Dennis Maney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129896,
+          "name": "Harley Pyman-Brickwood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tilbury St Chads",
+      "ballot_paper_id": "local.thurrock.tilbury-st-chads.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 60698,
+          "name": "Clare Baldwin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129868,
+          "name": "Shirley Bartlett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41141,
+          "name": "Steve Liddiard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129869,
+          "name": "Devante Likando",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40292,
+          "name": "Ben Maney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129870,
+          "name": "Alfie Jay Rees",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129871,
+          "name": "Bailey Terry Scott",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Thurrock & South Stifford",
+      "ballot_paper_id": "local.thurrock.west-thurrock-south-stifford.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 16386,
+          "name": "Qaisar Abbas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118983,
+          "name": "Shalini Bhatt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129793,
+          "name": "Vincent Ronald Hamish Bye",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129794,
+          "name": "Chris Gilbody",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129795,
+          "name": "Ron Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129796,
+          "name": "John Pearson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126802,
+          "name": "Elena Pelin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

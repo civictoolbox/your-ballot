@@ -1,0 +1,94 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-great-yarmouth-first",
+    "display_name": "Great Yarmouth First",
+    "candidate_count": 10,
+    "council_count": 2,
+    "raw_party_names": [
+      "Great Yarmouth First"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 124265,
+      "name": "Michael Charles French",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Breydon"
+    },
+    {
+      "person_id": 124266,
+      "name": "Barry Simon Gravenell",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Gorleston"
+    },
+    {
+      "person_id": 124319,
+      "name": "Steve Grimmer",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Yarmouth North & Central"
+    },
+    {
+      "person_id": 124335,
+      "name": "Kevin Huggins",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Magdalen"
+    },
+    {
+      "person_id": 133505,
+      "name": "Jason Francis William Hughes",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "The Fleggs"
+    },
+    {
+      "person_id": 124268,
+      "name": "Glenn James Hurren",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "North Caister & Ormesby"
+    },
+    {
+      "person_id": 133461,
+      "name": "Daniel Columba McGrath",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "South Caister & Bure"
+    },
+    {
+      "person_id": 124269,
+      "name": "Callum Ward-Kendall",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Yarmouth Nelson & Southtown"
+    },
+    {
+      "person_id": 124267,
+      "name": "Jon Wedon",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "great-yarmouth",
+      "council_name": "Great Yarmouth",
+      "ward_name": "Caister South"
+    },
+    {
+      "person_id": 124267,
+      "name": "Jon Wedon",
+      "party_name": "Great Yarmouth First",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Lothingland"
+    }
+  ]
+}

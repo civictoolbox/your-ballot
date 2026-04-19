@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-together-for-bury",
+    "display_name": "Together for Bury",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Together for Bury"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 78599,
+      "name": "Carol Anne Bernstein",
+      "party_name": "Together for Bury",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Bury West"
+    },
+    {
+      "person_id": 78745,
+      "name": "Russell Stewart Bernstein",
+      "party_name": "Together for Bury",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Pilkington Park"
+    },
+    {
+      "person_id": 14651,
+      "name": "Greg Keeley",
+      "party_name": "Together for Bury",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Tottington"
+    }
+  ]
+}

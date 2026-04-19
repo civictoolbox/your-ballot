@@ -1,0 +1,531 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_count": 87,
+    "candidate_count": 25046
+  },
+  "parties": [
+    {
+      "key": "reform",
+      "display_name": "Reform UK",
+      "candidate_count": 4820,
+      "council_count": 156
+    },
+    {
+      "key": "conservative",
+      "display_name": "Conservative Party",
+      "candidate_count": 4770,
+      "council_count": 156
+    },
+    {
+      "key": "green",
+      "display_name": "Green Party",
+      "candidate_count": 4504,
+      "council_count": 156
+    },
+    {
+      "key": "labour",
+      "display_name": "Labour Party",
+      "candidate_count": 4223,
+      "council_count": 152
+    },
+    {
+      "key": "libdem",
+      "display_name": "Liberal Democrats",
+      "candidate_count": 3951,
+      "council_count": 154
+    },
+    {
+      "key": "independent",
+      "display_name": "Independent",
+      "candidate_count": 1209,
+      "council_count": 124
+    },
+    {
+      "key": "labour-coop",
+      "display_name": "Labour and Co-operative Party",
+      "candidate_count": 675,
+      "council_count": 92
+    },
+    {
+      "key": "party-trade-unionist-and-socialist-coalition",
+      "display_name": "Trade Unionist and Socialist Coalition",
+      "candidate_count": 286,
+      "council_count": 63
+    },
+    {
+      "key": "party-workers-party-of-britain",
+      "display_name": "Workers Party of Britain",
+      "candidate_count": 68,
+      "council_count": 16
+    },
+    {
+      "key": "alliance",
+      "display_name": "Alliance Party",
+      "candidate_count": 58,
+      "council_count": 15
+    },
+    {
+      "key": "party-social-democratic-party",
+      "display_name": "Social Democratic Party",
+      "candidate_count": 48,
+      "council_count": 18
+    },
+    {
+      "key": "party-aspire",
+      "display_name": "Aspire",
+      "candidate_count": 45,
+      "council_count": 1
+    },
+    {
+      "key": "party-havering-residents-association",
+      "display_name": "Havering Residents Association",
+      "candidate_count": 35,
+      "council_count": 1
+    },
+    {
+      "key": "party-your-party",
+      "display_name": "Your Party",
+      "candidate_count": 20,
+      "council_count": 12
+    },
+    {
+      "key": "party-heritage-party",
+      "display_name": "Heritage Party",
+      "candidate_count": 18,
+      "council_count": 13
+    },
+    {
+      "key": "party-advance-uk",
+      "display_name": "Advance UK",
+      "candidate_count": 17,
+      "council_count": 7
+    },
+    {
+      "key": "party-confelicity",
+      "display_name": "Confelicity",
+      "candidate_count": 17,
+      "council_count": 1
+    },
+    {
+      "key": "party-rejoin-eu",
+      "display_name": "Rejoin EU",
+      "candidate_count": 15,
+      "council_count": 2
+    },
+    {
+      "key": "party-taking-the-initiative-party",
+      "display_name": "Taking The Initiative Party",
+      "candidate_count": 15,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-official-monster-raving-loony-party",
+      "display_name": "The Official Monster Raving Loony Party",
+      "candidate_count": 14,
+      "council_count": 12
+    },
+    {
+      "key": "party-communist-party-of-britain",
+      "display_name": "Communist Party of Britain",
+      "candidate_count": 13,
+      "council_count": 9
+    },
+    {
+      "key": "party-arise",
+      "display_name": "Arise",
+      "candidate_count": 11,
+      "council_count": 1
+    },
+    {
+      "key": "party-hornchurch-residents-association",
+      "display_name": "Hornchurch Residents Association",
+      "candidate_count": 11,
+      "council_count": 1
+    },
+    {
+      "key": "party-great-yarmouth-first",
+      "display_name": "Great Yarmouth First",
+      "candidate_count": 10,
+      "council_count": 2
+    },
+    {
+      "key": "party-residents-associations-of-epsom-and-ewell",
+      "display_name": "Residents Associations of Epsom and Ewell",
+      "candidate_count": 10,
+      "council_count": 1
+    },
+    {
+      "key": "party-english-democrats",
+      "display_name": "English Democrats",
+      "candidate_count": 9,
+      "council_count": 6
+    },
+    {
+      "key": "party-redbridge-matters",
+      "display_name": "Redbridge Matters",
+      "candidate_count": 9,
+      "council_count": 1
+    },
+    {
+      "key": "party-uk-independence-party-ukip",
+      "display_name": "UK Independence Party (UKIP)",
+      "candidate_count": 9,
+      "council_count": 7
+    },
+    {
+      "key": "party-national-housing-party-united-kingdom",
+      "display_name": "National Housing Party United Kingdom",
+      "candidate_count": 8,
+      "council_count": 4
+    },
+    {
+      "key": "party-our-west-lancashire",
+      "display_name": "Our West Lancashire",
+      "candidate_count": 8,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-oldham-group-party",
+      "display_name": "The Oldham Group Party",
+      "candidate_count": 7,
+      "council_count": 1
+    },
+    {
+      "key": "party-farnham-residents",
+      "display_name": "Farnham Residents",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
+      "key": "party-harold-wood-hill-park-residents-association",
+      "display_name": "Harold Wood Hill Park Residents Association",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
+      "key": "party-libertarian-party",
+      "display_name": "Libertarian Party",
+      "candidate_count": 6,
+      "council_count": 6
+    },
+    {
+      "key": "party-upminster-and-cranham-residents-association",
+      "display_name": "Upminster and Cranham Residents Association",
+      "candidate_count": 6,
+      "council_count": 1
+    },
+    {
+      "key": "party-british-democratic-party",
+      "display_name": "British Democratic Party",
+      "candidate_count": 5,
+      "council_count": 5
+    },
+    {
+      "key": "party-community-campaign-hart",
+      "display_name": "Community Campaign (Hart)",
+      "candidate_count": 5,
+      "council_count": 2
+    },
+    {
+      "key": "party-residents-for-uttlesford",
+      "display_name": "Residents for Uttlesford",
+      "candidate_count": 5,
+      "council_count": 1
+    },
+    {
+      "key": "party-rochford-district-residents",
+      "display_name": "Rochford District Residents",
+      "candidate_count": 5,
+      "council_count": 2
+    },
+    {
+      "key": "party-the-black-country-party",
+      "display_name": "The Black Country Party",
+      "candidate_count": 5,
+      "council_count": 1
+    },
+    {
+      "key": "party-coventry-citizens-party",
+      "display_name": "Coventry Citizens Party",
+      "candidate_count": 4,
+      "council_count": 1
+    },
+    {
+      "key": "party-yorkshire-party",
+      "display_name": "Yorkshire Party",
+      "candidate_count": 4,
+      "council_count": 3
+    },
+    {
+      "key": "party-animal-welfare-party",
+      "display_name": "Animal Welfare Party",
+      "candidate_count": 3,
+      "council_count": 3
+    },
+    {
+      "key": "party-better-bromley",
+      "display_name": "Better Bromley",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-chislehurst-matters",
+      "display_name": "Chislehurst Matters",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-communist-league-election-campaign",
+      "display_name": "Communist League Election Campaign",
+      "candidate_count": 3,
+      "council_count": 3
+    },
+    {
+      "key": "party-farnworth-and-kearsley-first-party",
+      "display_name": "Farnworth and Kearsley First Party",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-party-of-women",
+      "display_name": "Party Of Women",
+      "candidate_count": 3,
+      "council_count": 3
+    },
+    {
+      "key": "party-radcliffe-first",
+      "display_name": "Radcliffe First",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-socialist-party-of-great-britain",
+      "display_name": "The Socialist Party of Great Britain",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-together-for-bury",
+      "display_name": "Together for Bury",
+      "candidate_count": 3,
+      "council_count": 1
+    },
+    {
+      "key": "party-formby-residents-action-group",
+      "display_name": "Formby Residents Action Group",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-hinchley-wood-residents",
+      "display_name": "Hinchley Wood Residents",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-nork-tattenhams-residents-associations",
+      "display_name": "Nork & Tattenhams Residents' Associations",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-peterborough-first",
+      "display_name": "Peterborough First",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "plaid",
+      "display_name": "Plaid Cymru",
+      "candidate_count": 2,
+      "council_count": 2
+    },
+    {
+      "key": "party-residents-for-guildford-and-villages",
+      "display_name": "Residents for Guildford and Villages",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-all-in-party",
+      "display_name": "The All In Party",
+      "candidate_count": 2,
+      "council_count": 2
+    },
+    {
+      "key": "party-the-liberal-party",
+      "display_name": "The Liberal Party",
+      "candidate_count": 2,
+      "council_count": 2
+    },
+    {
+      "key": "party-the-molesey-residents-association",
+      "display_name": "The Molesey Residents Association",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-peace-party-non-violence-justice-environment",
+      "display_name": "The Peace Party - Non-violence, Justice, Environment",
+      "candidate_count": 2,
+      "council_count": 2
+    },
+    {
+      "key": "party-the-revolting-party",
+      "display_name": "The Revolting Party",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-walton-society",
+      "display_name": "The Walton Society",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-vectis-party",
+      "display_name": "Vectis Party",
+      "candidate_count": 2,
+      "council_count": 1
+    },
+    {
+      "key": "party-build",
+      "display_name": "Build",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-climate-party",
+      "display_name": "Climate Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-communities-united-party",
+      "display_name": "Communities United Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-edgeley-community-association",
+      "display_name": "Edgeley Community Association",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-equality-party",
+      "display_name": "Equality Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-forward-party",
+      "display_name": "Forward Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-imagine",
+      "display_name": "Imagine",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-national-rebirth-party",
+      "display_name": "National Rebirth Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-northern-heart",
+      "display_name": "Northern Heart",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-patria",
+      "display_name": "Patria",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-pirate-party-uk",
+      "display_name": "Pirate Party UK",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-redbridge-trade-union-party",
+      "display_name": "Redbridge Trade Union Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-save-us-now",
+      "display_name": "Save Us Now",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-south-woodham-ferrers-residents-party",
+      "display_name": "South Woodham Ferrers Residents Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-thames-ditton-weston-green-residents-association",
+      "display_name": "Thames Ditton / Weston Green Residents' Association",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-moon-and-serpent-party",
+      "display_name": "The Moon And Serpent Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-motoring-party",
+      "display_name": "The Motoring Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-potteries-party",
+      "display_name": "The Potteries Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-wessex-regionalists",
+      "display_name": "Wessex Regionalists",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-whitehill-bordon-community-party",
+      "display_name": "Whitehill & Bordon Community Party",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-workers-party-oldham-group",
+      "display_name": "Workers Party - Oldham Group",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-working-for-sidcup",
+      "display_name": "Working for Sidcup",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-yeshua",
+      "display_name": "Yeshua",
+      "candidate_count": 1,
+      "council_count": 1
+    }
+  ]
+}

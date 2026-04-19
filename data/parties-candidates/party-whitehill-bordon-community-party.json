@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-whitehill-bordon-community-party",
+    "display_name": "Whitehill & Bordon Community Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Whitehill & Bordon Community Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 82390,
+      "name": "Andy Tree",
+      "party_name": "Whitehill & Bordon Community Party",
+      "council_slug": "hampshire",
+      "council_name": "Hampshire",
+      "ward_name": "Whitehill, Bordon & Lindford"
+    }
+  ]
+}

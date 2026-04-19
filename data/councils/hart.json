@@ -1,0 +1,358 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hart",
+    "council_name": "Hart"
+  },
+  "wards": [
+    {
+      "ward_name": "Blackwater and Hawley",
+      "ballot_paper_id": "local.hart.blackwater-and-hawley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127169,
+          "name": "Pam Hardy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127170,
+          "name": "Thyra Hawkes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127171,
+          "name": "Nathan Love",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127172,
+          "name": "Caroline Rasell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127173,
+          "name": "Benjamin Wickins",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crookham East",
+      "ballot_paper_id": "local.hart.crookham-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 44099,
+          "name": "Gill Butler",
+          "party_name": "Community Campaign (Hart)"
+        },
+        {
+          "person_id": 127222,
+          "name": "Andrew Douglas Henderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127223,
+          "name": "David Thomas Lovell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127224,
+          "name": "Andy Parker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127225,
+          "name": "Emma Peacock",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crookham West and Ewshot",
+      "ballot_paper_id": "local.hart.crookham-west-and-ewshot.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90029,
+          "name": "Bruce Bulgin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17362,
+          "name": "Paul Stephen Walter Einchcomb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127306,
+          "name": "Andrew Fallows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17370,
+          "name": "Ruth Stella Hamilton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14054,
+          "name": "Wendy Louise Makepeace-Browne",
+          "party_name": "Community Campaign (Hart)"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fleet Central",
+      "ballot_paper_id": "local.hart.fleet-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127353,
+          "name": "Candice Anderson-Chase",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 422,
+          "name": "Alan Howling 'Laud' Hope",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 127354,
+          "name": "Jennifer Marsden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24101,
+          "name": "Alan John Oliver",
+          "party_name": "Community Campaign (Hart)"
+        },
+        {
+          "person_id": 126293,
+          "name": "George Martin Parnell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78541,
+          "name": "Andrew Neil Perkins",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fleet East",
+      "ballot_paper_id": "local.hart.fleet-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127317,
+          "name": "Ewa Bialkowska",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90010,
+          "name": "Sam Davis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126295,
+          "name": "Joe Farrugia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112420,
+          "name": "Dan Taylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78553,
+          "name": "Valmai Wainhouse",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fleet West",
+      "ballot_paper_id": "local.hart.fleet-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128048,
+          "name": "Robyn Cheong",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44079,
+          "name": "Angela Abigail Delaney",
+          "party_name": "Community Campaign (Hart)"
+        },
+        {
+          "person_id": 78567,
+          "name": "Roy Fang",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128049,
+          "name": "Ed Molyneux",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128050,
+          "name": "Candice Janine Walmsley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hartley Wintney",
+      "ballot_paper_id": "local.hart.hartley-wintney.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127297,
+          "name": "Rob Colfer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127298,
+          "name": "Elaine Fordham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126296,
+          "name": "Oren Kopit",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 56233,
+          "name": "Tony Over",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44116,
+          "name": "Tim Southern",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hook",
+      "ballot_paper_id": "local.hart.hook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17378,
+          "name": "Amanda Jane Affleck-Cruise",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127275,
+          "name": "Ann Christine Baty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123146,
+          "name": "Clive Robert Lawrance",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 30026,
+          "name": "Graham Stacey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 56454,
+          "name": "Mike Thorne",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Odiham",
+      "ballot_paper_id": "local.hart.odiham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128090,
+          "name": "Jim Emery",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 51654,
+          "name": "Jon Hale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44141,
+          "name": "Lars Mosesson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126294,
+          "name": "Gordon Peter Albert Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yateley East",
+      "ballot_paper_id": "local.hart.yateley-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 38204,
+          "name": "Stuart Gerard Bailey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112427,
+          "name": "Andrew Webster Boon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127385,
+          "name": "David McDaid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127386,
+          "name": "Doug Wheeler",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Yateley West",
+      "ballot_paper_id": "local.hart.yateley-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 104397,
+          "name": "Trevor Lloyd-Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128790,
+          "name": "Lisa Pope",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44143,
+          "name": "Richard Quarterman",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

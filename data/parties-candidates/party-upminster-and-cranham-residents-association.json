@@ -1,0 +1,62 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-upminster-and-cranham-residents-association",
+    "display_name": "Upminster and Cranham Residents Association",
+    "candidate_count": 6,
+    "council_count": 1,
+    "raw_party_names": [
+      "Upminster and Cranham Residents Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 137748,
+      "name": "Michael Fisher",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Upminster"
+    },
+    {
+      "person_id": 41916,
+      "name": "Gillian Ford",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Cranham"
+    },
+    {
+      "person_id": 91177,
+      "name": "Oscar Frank Ford",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Upminster"
+    },
+    {
+      "person_id": 91365,
+      "name": "Lesley Rosina Tyler",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Cranham"
+    },
+    {
+      "person_id": 41921,
+      "name": "John Tyler",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Cranham"
+    },
+    {
+      "person_id": 43348,
+      "name": "Christopher Wilkins",
+      "party_name": "Upminster and Cranham Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Upminster"
+    }
+  ]
+}

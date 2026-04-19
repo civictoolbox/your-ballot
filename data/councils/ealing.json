@@ -1,0 +1,2037 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "ealing",
+    "council_name": "Ealing"
+  },
+  "wards": [
+    {
+      "ward_name": "Central Greenford",
+      "ballot_paper_id": "local.ealing.central-greenford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 123456,
+          "name": "Munir Abbasi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128727,
+          "name": "Natalia Cassel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126300,
+          "name": "Ted Chase",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128728,
+          "name": "Benjamin Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128729,
+          "name": "Cathy Frisina",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87363,
+          "name": "Matthew Hirst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128730,
+          "name": "Haitham Idriss",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 84412,
+          "name": "Sanjai Kumar Kohli",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128731,
+          "name": "Bob Little",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38106,
+          "name": "John William Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126298,
+          "name": "Florence Olden-Chandler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126299,
+          "name": "Frank Proud",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87298,
+          "name": "Ian Rex-Hawkes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139109,
+          "name": "Valery Patricia Ryan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128732,
+          "name": "Peter Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128733,
+          "name": "Filomena Strollo",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dormers Wells",
+      "ballot_paper_id": "local.ealing.dormers-wells.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 111342,
+          "name": "Khalil Ahmed",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 84312,
+          "name": "Kanwal Kaur Bains",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128669,
+          "name": "Alex Beniatian",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38073,
+          "name": "Bob Browning",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128670,
+          "name": "David Burvill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128671,
+          "name": "Annette Dean",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38504,
+          "name": "Ranjit Lal Dheer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126301,
+          "name": "Mark Eccleston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117593,
+          "name": "Raj Gill",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128672,
+          "name": "Dolu Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87364,
+          "name": "Pat Mellor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38057,
+          "name": "Oliver Murphy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84210,
+          "name": "Isabel Martha Owen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125051,
+          "name": "Anwar Sabar",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 84489,
+          "name": "Babul Sharker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90537,
+          "name": "Md Main Uddin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128673,
+          "name": "Mohd Mofiz Uddin",
+          "party_name": "Rejoin EU"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ealing Broadway",
+      "ballot_paper_id": "local.ealing.ealing-broadway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 7828,
+          "name": "Francesco Fruzza",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38436,
+          "name": "Julian Gallant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84349,
+          "name": "Sean Hanrahan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128348,
+          "name": "Georgie Louise Hare",
+          "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 128375,
+          "name": "David Hounsell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44640,
+          "name": "Adam Keenan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38460,
+          "name": "Seema Kumar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124367,
+          "name": "Mandy Lurie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128382,
+          "name": "Mahdi Imam Murtaza",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128386,
+          "name": "Alex Norfolk",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84574,
+          "name": "Neil Reynolds",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46118,
+          "name": "Freya Summersgill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126235,
+          "name": "Mark Uddin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84509,
+          "name": "Iram Woolley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ealing Common",
+      "ballot_paper_id": "local.ealing.ealing-common.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 126303,
+          "name": "Alexandru-Andrei Abutoaiei",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123457,
+          "name": "Maxim Bagdasarian",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 3115,
+          "name": "Jon Ball",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123458,
+          "name": "Keith Scott Broomfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38108,
+          "name": "John Cowing",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128693,
+          "name": "Jai Dhawan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94464,
+          "name": "Lewis Garland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128694,
+          "name": "Samuel Gibb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84810,
+          "name": "Connie Hersch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128695,
+          "name": "Simon Ludgate",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49185,
+          "name": "Mohinder Kaur Midha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128696,
+          "name": "Roz Reece",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128697,
+          "name": "Martin Shippey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87292,
+          "name": "Lakhbir Singh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86387,
+          "name": "Alex Vines",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Acton",
+      "ballot_paper_id": "local.ealing.east-acton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 128703,
+          "name": "Amirah Abrahams",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128704,
+          "name": "Abdi Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128705,
+          "name": "Richard Arnold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128706,
+          "name": "Jeremy Bradshaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128707,
+          "name": "Calvin Chan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128708,
+          "name": "Kate Crawford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 63604,
+          "name": "Benedict Cross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36751,
+          "name": "Sam Diamond",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38471,
+          "name": "Stephen Owen Donnelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128709,
+          "name": "Michele Farruggio",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 426,
+          "name": "Suzanne Fernandes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36736,
+          "name": "Marijn van der Geer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128710,
+          "name": "Patrick Kennedy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123460,
+          "name": "Rabia Nasimi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128711,
+          "name": "Djivan Souren",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34415,
+          "name": "Hitesh Tailor",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greenford Broadway",
+      "ballot_paper_id": "local.ealing.greenford-broadway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 123461,
+          "name": "Stephanie Lorraine Ajayi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86436,
+          "name": "Predrag Babic",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128740,
+          "name": "Terri Beniatian",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86388,
+          "name": "Matt Chadburn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38053,
+          "name": "Harbhajan Kaur Dheer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38054,
+          "name": "Peter Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128741,
+          "name": "Dara Kennedy John Fitzgerald",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126304,
+          "name": "Joanna Fleck",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82038,
+          "name": "Sean Keeley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38527,
+          "name": "Anthony John Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128742,
+          "name": "Sanjay Pote",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128743,
+          "name": "Yousef Qandeel",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 38533,
+          "name": "Gillian Rowley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128744,
+          "name": "Anna Salaman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128745,
+          "name": "Jyoti Satam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128746,
+          "name": "Cathy Swift",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128747,
+          "name": "Raj Thanga",
+          "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 128748,
+          "name": "Tal Thomas",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hanger Hill",
+      "ballot_paper_id": "local.ealing.hanger-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 128754,
+          "name": "Edward Bailey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109367,
+          "name": "Stephen Andrew Balogh",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 36744,
+          "name": "Kate Crossland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126306,
+          "name": "Ben Fryer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126305,
+          "name": "Hadi Khorsandi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128755,
+          "name": "David John Lines",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128756,
+          "name": "Michael Minkov",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128757,
+          "name": "Dea Omari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87281,
+          "name": "Jonathan Oxley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128758,
+          "name": "Deshal Raja",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38152,
+          "name": "Mark Sanders",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38549,
+          "name": "Catherine Ann Wallace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34560,
+          "name": "Peter Mark Ward",
+          "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 128759,
+          "name": "Cianan John Whelan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38466,
+          "name": "Anthony Young",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38300,
+          "name": "Athena Zissimos",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hanwell Broadway",
+      "ballot_paper_id": "local.ealing.hanwell-broadway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 128582,
+          "name": "Taslema Akhter",
+          "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 128596,
+          "name": "Reg Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128617,
+          "name": "Jaroslaw Andrysiak",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128634,
+          "name": "Edward Cook",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38517,
+          "name": "Hussein Ali Dima",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123462,
+          "name": "Alexander Ewart Dismore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38505,
+          "name": "Leslie Glancy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38516,
+          "name": "Yoel Gordon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128681,
+          "name": "Edward Iredale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128698,
+          "name": "Salim Izza",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87291,
+          "name": "Polly Knewstub",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86386,
+          "name": "Natalia Kubica",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35712,
+          "name": "Stephen O'Shea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128720,
+          "name": "Richard Reade",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118071,
+          "name": "Andrew Walkley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123301,
+          "name": "Clare Welsby",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lady Margaret",
+      "ballot_paper_id": "local.ealing.lady-margaret.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 128683,
+          "name": "Gulshan Ahluwalia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38571,
+          "name": "Loreta Alac",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38145,
+          "name": "Praveen Kamlesh Anand",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128684,
+          "name": "Robert Balaam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36738,
+          "name": "Nicholas Chapman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87297,
+          "name": "John Gower",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87290,
+          "name": "Monica Hamidi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109938,
+          "name": "Nazrul Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84492,
+          "name": "Rafiq Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126307,
+          "name": "Olivia Law-Zygadlo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38566,
+          "name": "Karam Chand Mohan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128685,
+          "name": "Gurpreet Singh Sahota",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 86441,
+          "name": "Abul Kalam Azad Sarker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128686,
+          "name": "Philip Wells",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Acton",
+      "ballot_paper_id": "local.ealing.north-acton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 88537,
+          "name": "Simon Anthony",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128791,
+          "name": "Bob Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117064,
+          "name": "Sarah Beament",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128792,
+          "name": "Caroline Fanneran",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128793,
+          "name": "Sally Gorman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84410,
+          "name": "Hodan Mohamoud Haili",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84411,
+          "name": "Blerina Hashani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 6630,
+          "name": "David Lawrence Hofman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 86434,
+          "name": "Ann Lazarow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118088,
+          "name": "Guneet Singh Malik",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128794,
+          "name": "Kamlesh Mehta",
+          "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 126308,
+          "name": "Nasim Nur",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 53265,
+          "name": "Maciej Pawlik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128795,
+          "name": "Simon Quince",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38463,
+          "name": "Patrick Salaun",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128796,
+          "name": "Alan Warr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87304,
+          "name": "Alan Whelan",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Greenford",
+      "ballot_paper_id": "local.ealing.north-greenford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 86348,
+          "name": "Ryan Allain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128803,
+          "name": "Jim Doona",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38064,
+          "name": "John Gauss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84304,
+          "name": "Javaid Iqbal",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 38065,
+          "name": "Amarjit Kaur Jammu",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 123813,
+          "name": "Flora MacLoughlin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38068,
+          "name": "Shital Ved Prakash Manro",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 118094,
+          "name": "Kristian Mower",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128804,
+          "name": "Jonathan Notley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84690,
+          "name": "Ajay Roy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87113,
+          "name": "Bex Scott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126309,
+          "name": "Korhan Tunca",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128805,
+          "name": "Monika Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Hanwell",
+      "ballot_paper_id": "local.ealing.north-hanwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 128832,
+          "name": "Kamran Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87371,
+          "name": "Geoffrey Berg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75866,
+          "name": "Louise Brett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128833,
+          "name": "Andrew Evzona",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128834,
+          "name": "Felicity Georghiades",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75867,
+          "name": "Tony Gill",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 38055,
+          "name": "Zoe Horwich",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126214,
+          "name": "Dominic Kirkbride",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126215,
+          "name": "Tegan Millard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38521,
+          "name": "Ian Potts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86382,
+          "name": "John Rolt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86437,
+          "name": "Minoo Sullivan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38560,
+          "name": "Ray Wall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38587,
+          "name": "Lauren Marie Wall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128835,
+          "name": "Martin Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northfield",
+      "ballot_paper_id": "local.ealing.northfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 86443,
+          "name": "Arthur Alexander",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87926,
+          "name": "Mark Andrews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 1372,
+          "name": "Nigel Bakhai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125261,
+          "name": "Mike Barnshaw",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128764,
+          "name": "Nigel Bird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86351,
+          "name": "Nikki Daniel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36737,
+          "name": "Ian Douglas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36009,
+          "name": "Paul William Driscoll",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128765,
+          "name": "Robert Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38519,
+          "name": "Anita Kapoor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36010,
+          "name": "Ian Arthur George Kingston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128766,
+          "name": "Joshue Lemontagnard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128767,
+          "name": "Karen McFall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36014,
+          "name": "Theresa Mullins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128768,
+          "name": "Florence Pinaud",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 124297,
+          "name": "Craig Smith",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 126245,
+          "name": "Ruby Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123463,
+          "name": "Sinead Ann Whelan",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northolt Mandeville",
+      "ballot_paper_id": "local.ealing.northolt-mandeville.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 87362,
+          "name": "Lawrence Aggleton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84403,
+          "name": "Andrew Bailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36748,
+          "name": "Katy Barton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128808,
+          "name": "Donal De Blacam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128807,
+          "name": "James Kevin Bremen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38105,
+          "name": "Leslie Hurst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118095,
+          "name": "Conrad Lewandowski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139122,
+          "name": "Andrew Maddox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11476,
+          "name": "Elliott Malik",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118093,
+          "name": "Marco Manassero",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128809,
+          "name": "Beth McCormack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128810,
+          "name": "Jim McWilliams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118096,
+          "name": "Dominic Moffitt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38577,
+          "name": "Miriam Edna Rice",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northolt West End",
+      "ballot_paper_id": "local.ealing.northolt-west-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 34559,
+          "name": "Fabio Conti",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123464,
+          "name": "Atlyn Forde",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38575,
+          "name": "Lee Horwich",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87300,
+          "name": "Milena Izmirlieva",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126310,
+          "name": "Ryan Jendoubi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1651,
+          "name": "Bassam Mahfouz",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128813,
+          "name": "Lee Marriott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38581,
+          "name": "Dee Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38547,
+          "name": "Tony Miller",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84402,
+          "name": "Diva Nazari",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128814,
+          "name": "Seb Wallace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128815,
+          "name": "Maxine Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128816,
+          "name": "Janet Young",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norwood Green",
+      "ballot_paper_id": "local.ealing.norwood-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 128825,
+          "name": "Rehana Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 87369,
+          "name": "Mark Jason Benjamin",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128826,
+          "name": "David Burgess",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125050,
+          "name": "Happy Singh Dhaliwal",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128827,
+          "name": "Susan Henderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38595,
+          "name": "George Lafford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128828,
+          "name": "John Martin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 84308,
+          "name": "Ghulam Murtaza",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128829,
+          "name": "Olu Ogunsanlu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128830,
+          "name": "Aminur Rahman Ony",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38627,
+          "name": "Michael Pidoux",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125049,
+          "name": "Jahangir Raina",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 84512,
+          "name": "Jags Sanghera",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86384,
+          "name": "Michal Solski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74249,
+          "name": "Clare Marie Tighe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128831,
+          "name": "Gunshibha Kaur Wadwa",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Perivale",
+      "ballot_paper_id": "local.ealing.perivale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 38071,
+          "name": "Munir Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128838,
+          "name": "Debbie Allen",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128839,
+          "name": "Zekél Atherley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38447,
+          "name": "Vlod Barchuk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128840,
+          "name": "Carl Brooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128841,
+          "name": "Clive Davis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128842,
+          "name": "Gabor Horvath",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38077,
+          "name": "Tariq Mahmood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128843,
+          "name": "Marie Marjolin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126311,
+          "name": "Juliana Niederwanger",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38299,
+          "name": "Ian Proud",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128844,
+          "name": "Sarah Seton-Rogers",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38079,
+          "name": "Charan Bala Sharma",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128845,
+          "name": "Jedidiah Sivapalan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pitshanger",
+      "ballot_paper_id": "local.ealing.pitshanger.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 84516,
+          "name": "Rima Baaklini",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128856,
+          "name": "Will Calito",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123814,
+          "name": "Will Copping",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38702,
+          "name": "Francesco Daniele Fruzza",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123815,
+          "name": "Grace Hunter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126312,
+          "name": "Alex James",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123465,
+          "name": "Shaira Karimi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128857,
+          "name": "Chris Lumb",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36750,
+          "name": "Sarah McCartney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128858,
+          "name": "Tina Moonen",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 87375,
+          "name": "Rod Nathan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38298,
+          "name": "Liz Paice",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86349,
+          "name": "Emma Powell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 34146,
+          "name": "Humaira Sanders",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128859,
+          "name": "Kas Ullah",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84518,
+          "name": "Ben Wesson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Acton",
+      "ballot_paper_id": "local.ealing.south-acton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 126314,
+          "name": "Husam Alharahsheh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129250,
+          "name": "Antoni Bialek",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118092,
+          "name": "Katie Lynn Douglas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129252,
+          "name": "Miça Evans",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 129257,
+          "name": "Anna Grayson-Morley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129259,
+          "name": "Luke Hearn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129263,
+          "name": "Stephen Jewell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38451,
+          "name": "Margaret Joachim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38602,
+          "name": "Yvonne Elizabeth Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129273,
+          "name": "Elizabeth Jones",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 129275,
+          "name": "Anura Keppetipola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36742,
+          "name": "Christina Meiklejohn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129277,
+          "name": "Glen Miller",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 86445,
+          "name": "Stephen Peach",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129278,
+          "name": "Nicholas Rees",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129279,
+          "name": "Elyes Rezgui",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129280,
+          "name": "Peter Roche",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36175,
+          "name": "Gareth James Shaw",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southall Broadway",
+      "ballot_paper_id": "local.ealing.southall-broadway.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 38062,
+          "name": "Shahbaz Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126315,
+          "name": "Rowan Beentje",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87860,
+          "name": "Robin Bettridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38614,
+          "name": "Darshan Singh Bhinder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124296,
+          "name": "Angela Fonso",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 124805,
+          "name": "Chaudhry Qamer Iqbal",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128870,
+          "name": "Mo Latif",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128871,
+          "name": "Sheung-yuen Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84406,
+          "name": "Mohd Ibrahim Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38618,
+          "name": "Kamaljit Kaur Nagpal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38455,
+          "name": "David Zerdin",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southall Green",
+      "ballot_paper_id": "local.ealing.southall-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 38619,
+          "name": "Jasbir Kaur Anand",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87909,
+          "name": "Joe Bhangu",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 38564,
+          "name": "Rusi Dalal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38622,
+          "name": "Kamaljit Singh Dhindsa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86642,
+          "name": "Minni Kumari Dogra",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 87886,
+          "name": "Derek Groen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126316,
+          "name": "Liza Halim",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128882,
+          "name": "Robert Harwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128883,
+          "name": "Horatiu Ilie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38510,
+          "name": "Susan Kendrick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38626,
+          "name": "Peter Elijah Jonathan Mason",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87370,
+          "name": "Sabikun Nahar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128885,
+          "name": "Swaran Singh Padda",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 84496,
+          "name": "Khandaker Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125046,
+          "name": "Jatinder Rajput",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128886,
+          "name": "Kamaljit Tambar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128884,
+          "name": "Mohammed Jashim Uddin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southall West",
+      "ballot_paper_id": "local.ealing.southall-west.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 125047,
+          "name": "Dan Cortese",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 87885,
+          "name": "Alison Cross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38063,
+          "name": "Roger Davies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125048,
+          "name": "Sukhi Floria",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128912,
+          "name": "Steve Johnston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84497,
+          "name": "Md Feroz Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126317,
+          "name": "Gurpal Kular",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128913,
+          "name": "Zeljko Leventic",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84633,
+          "name": "Mohammad Tota Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84311,
+          "name": "Faduma Ayan Ahmed Hagi Mohamed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84306,
+          "name": "Kim Kaur Nagpal",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southfield",
+      "ballot_paper_id": "local.ealing.southfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 128901,
+          "name": "Ayomilekan Jonathan Adegunwa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 57012,
+          "name": "Chris Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38432,
+          "name": "Gary Busuttil",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86446,
+          "name": "Darryll Coates",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126318,
+          "name": "Laura Darwish",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39576,
+          "name": "Charlotte Duthie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128902,
+          "name": "Dean Ricky Gilligan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128903,
+          "name": "Elaine Jelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36755,
+          "name": "Mike Landon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38439,
+          "name": "Gary Malcolm",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128904,
+          "name": "Matthew Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128905,
+          "name": "Jeannie Adetokunbo Okikiolu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75844,
+          "name": "Helen Katherine Campbell Pattison",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 38440,
+          "name": "Andrew Steed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128906,
+          "name": "Tom Vanson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walpole",
+      "ballot_paper_id": "local.ealing.walpole.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 128918,
+          "name": "Brian Coe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123467,
+          "name": "Catherine Anne Fitzgibbon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89092,
+          "name": "Will Francis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124500,
+          "name": "Darius Ghazyzadeh",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 128919,
+          "name": "Marian Glynn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5033,
+          "name": "Isobel Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86389,
+          "name": "Barry Greenan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126248,
+          "name": "Robin Gutch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38076,
+          "name": "Anu Khela",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126247,
+          "name": "Tom Matthews",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124258,
+          "name": "Ksenia Maximova",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93208,
+          "name": "Shanuk Mediwaka",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87927,
+          "name": "Matt Mellor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 74355,
+          "name": "Grace Barbara Quansah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36172,
+          "name": "Binda Rai",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124501,
+          "name": "Carl Russell",
+          "party_name": "Ealing Community Independents Party"
+        },
+        {
+          "person_id": 124502,
+          "name": "Richard Tall",
+          "party_name": "Ealing Community Independents Party"
+        }
+      ]
+    }
+  ]
+}

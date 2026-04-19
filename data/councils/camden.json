@@ -1,0 +1,1520 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "camden",
+    "council_name": "Camden"
+  },
+  "wards": [
+    {
+      "ward_name": "Belsize",
+      "ballot_paper_id": "local.camden.belsize.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 138770,
+          "name": "Dan Christopher Bilenga",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138771,
+          "name": "Joycelyn Buffouge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138772,
+          "name": "Stefano Casalotti",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36697,
+          "name": "Judy Dixey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123366,
+          "name": "Alexander Donnelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46178,
+          "name": "Peter Horne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36698,
+          "name": "Matthew Jonathan Kirk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138773,
+          "name": "Coren Daniel Lass",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138774,
+          "name": "Neville Duncan Mckay",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138775,
+          "name": "Tamsin Shan Mitchell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138776,
+          "name": "Jessica Noske-Turner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138777,
+          "name": "Candice Patricia",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138778,
+          "name": "Bobby Raj",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123365,
+          "name": "Shelley Rubinstein",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35670,
+          "name": "Tom Henry Simon",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bloomsbury",
+      "ballot_paper_id": "local.camden.bloomsbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 137642,
+          "name": "Kenneth Dowie Barnett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93194,
+          "name": "Paul Bhangal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137643,
+          "name": "Lilac Carr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137645,
+          "name": "Katie Marie Cooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137644,
+          "name": "Christopher Cooke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42588,
+          "name": "Sabrina Francis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93195,
+          "name": "William Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42590,
+          "name": "Adam Douglas Keir Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137646,
+          "name": "Stuart Leach",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93197,
+          "name": "Jonathan James Geneste Lewin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137647,
+          "name": "Volodymy Lukyanov",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42594,
+          "name": "Rishi Madlani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137648,
+          "name": "Matthew Parsfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137649,
+          "name": "Richard Samuel",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Camden Square",
+      "ballot_paper_id": "local.camden.camden-square.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 84249,
+          "name": "Sagal Abdi-Wali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138851,
+          "name": "Michael Mickey Britton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138852,
+          "name": "Helen Doyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138853,
+          "name": "Roger Freeman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138854,
+          "name": "Adam Haswell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108978,
+          "name": "Tricia Leman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36684,
+          "name": "Benjamin Newman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138855,
+          "name": "Juan Ojeda-Sanchez",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138856,
+          "name": "Oliver Conrad Pearce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138857,
+          "name": "Samel Tomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95122,
+          "name": "Jamie Webb",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Camden Town",
+      "ballot_paper_id": "local.camden.camden-town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 46176,
+          "name": "Pat Callaghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94238,
+          "name": "Matt Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138836,
+          "name": "Peter Goldsmith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138837,
+          "name": "David Haig",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138838,
+          "name": "James Kafton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36715,
+          "name": "Ekaterina Kirk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94898,
+          "name": "Susan Lee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138839,
+          "name": "Philip Nelson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138840,
+          "name": "Rafe Offer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138841,
+          "name": "Vedamsh Vaidya",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fortune Green",
+      "ballot_paper_id": "local.camden.fortune-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138799,
+          "name": "David Brierley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138800,
+          "name": "Erin Carlson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138801,
+          "name": "Katie Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83807,
+          "name": "Ian John Cohen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 19881,
+          "name": "William James Coles",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124577,
+          "name": "Matthew Williams Joseph Houlsby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138802,
+          "name": "Zachary Ilunga",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36726,
+          "name": "Nancy Stembile Jirira",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124578,
+          "name": "Kasia Kramer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138803,
+          "name": "Bruno Leipold",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93198,
+          "name": "Farrell Monk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138804,
+          "name": "Dominic Parker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138805,
+          "name": "Wendy Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138806,
+          "name": "Corne Verster",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Frognal",
+      "ballot_paper_id": "local.camden.frognal.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 42214,
+          "name": "Steve Adams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4527,
+          "name": "Reetendra Nath Banerji",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36695,
+          "name": "Valdir Francisco",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138698,
+          "name": "Juliette Graham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42339,
+          "name": "Charles Hilary Harris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138699,
+          "name": "Catherine Keshishian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138700,
+          "name": "Jack Harold Leader",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138697,
+          "name": "Marx de Morais",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126549,
+          "name": "Willow Iona Lucy Parker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122994,
+          "name": "Thomas Sterling",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gospel Oak",
+      "ballot_paper_id": "local.camden.gospel-oak.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134376,
+          "name": "John Richard Atkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94236,
+          "name": "James Iddon Bowen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 25399,
+          "name": "Marcus James Boyland",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134377,
+          "name": "Alan Drummond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134378,
+          "name": "Sunil Hiranandani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95135,
+          "name": "Margaret Jackson-Roberts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134379,
+          "name": "Raphaël Link-Gurprasad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134380,
+          "name": "Lindsey Mitchell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134381,
+          "name": "Saed Mohamed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134382,
+          "name": "David Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134383,
+          "name": "Andrea Paramananthan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134384,
+          "name": "Bob Reeves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42200,
+          "name": "Larraine Revah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134385,
+          "name": "Peter Straker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124579,
+          "name": "Matthew Richard Sudlow",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampstead Town",
+      "ballot_paper_id": "local.camden.hampstead-town.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 94237,
+          "name": "Anna Burrage",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36388,
+          "name": "Linda Chung",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138702,
+          "name": "Justin Romain Hoffman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138703,
+          "name": "Laura Jane Phillips",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138704,
+          "name": "Laura Rohde",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36685,
+          "name": "Aimery De Malet Roquefort",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138705,
+          "name": "Amanda Sefton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42115,
+          "name": "Stephen Stark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138706,
+          "name": "Michael Jeremy Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haverstock",
+      "ballot_paper_id": "local.camden.haverstock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 94623,
+          "name": "Kemi Atolagbe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138730,
+          "name": "Katharine Alison Burge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94626,
+          "name": "Nasrine Kahina Djemai",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138736,
+          "name": "Aindrias Oh Eineagain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138731,
+          "name": "Mohamed Farah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84418,
+          "name": "Rebecca Claire Filer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138732,
+          "name": "Aziz Hakimi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138733,
+          "name": "Josh Mackenzie-Lawrie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138734,
+          "name": "Andrej Mecava",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138735,
+          "name": "Alidad Moaveni",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138737,
+          "name": "Joseph Lyle Tobin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42203,
+          "name": "John Webber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138738,
+          "name": "Robert Wheater",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138739,
+          "name": "Alex Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highgate",
+      "ballot_paper_id": "local.camden.highgate.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 94580,
+          "name": "Camron Aref-Adib",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94581,
+          "name": "Judith Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138747,
+          "name": "Ben Brook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94624,
+          "name": "Alice Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93024,
+          "name": "John Carr",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138748,
+          "name": "Johnny Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117969,
+          "name": "James Dicker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138749,
+          "name": "Will Finn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138750,
+          "name": "Mark Ian Finney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36703,
+          "name": "Henry William Windle Potts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 94583,
+          "name": "Munro Price",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35679,
+          "name": "Lorna Jane Russell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35727,
+          "name": "Anna Francesca Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holborn & Covent Garden",
+      "ballot_paper_id": "local.camden.holborn-covent-garden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 93284,
+          "name": "Stephen Paul Barabas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138723,
+          "name": "Hamza Chowdhury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138724,
+          "name": "Atlan Ramadan Dervish",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94630,
+          "name": "Tim Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41848,
+          "name": "Alison Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41849,
+          "name": "Julian Fulbrook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138725,
+          "name": "Mark Furnell",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 138726,
+          "name": "Michael Anthony Kane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93286,
+          "name": "Patrick McGinnis",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 138727,
+          "name": "Jim Monahan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138728,
+          "name": "Jack Nott-Bower",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139102,
+          "name": "Charlotte Wattebot O'Brien",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42418,
+          "name": "Richard Olszewski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124635,
+          "name": "Livia Paggi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95120,
+          "name": "Keith Anthony Sedgwick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36705,
+          "name": "Erich Wagner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138729,
+          "name": "James White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kentish Town North",
+      "ballot_paper_id": "local.camden.kentish-town-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 92544,
+          "name": "Brigitte Ascher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41761,
+          "name": "Darryl Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84213,
+          "name": "Sylvia Ann McNamara",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 3794,
+          "name": "Richard Merrin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124099,
+          "name": "Hannah Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138618,
+          "name": "Claire Kim Mortimer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138619,
+          "name": "Roger Pillai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138620,
+          "name": "Colin David James Rennie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138621,
+          "name": "Rex Urban Shackle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42113,
+          "name": "James Samuel Slater",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kentish Town South",
+      "ballot_paper_id": "local.camden.kentish-town-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 41757,
+          "name": "Meric Apak",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117973,
+          "name": "Joseph William Ball",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138676,
+          "name": "Robert Brittain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138677,
+          "name": "Pete Hutchings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138678,
+          "name": "Devin Kohli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138679,
+          "name": "Genieve Laidman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138680,
+          "name": "Joseph Macdonogh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138681,
+          "name": "Kai Michael Nixon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138685,
+          "name": "Stacey Tappis Offer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138682,
+          "name": "Ashoka Phillips",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138683,
+          "name": "Robert Ricketts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138684,
+          "name": "George Spencer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94241,
+          "name": "Hinne Laurens Johannes Temminck Tuinstra",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124636,
+          "name": "Annabelle Tamsin Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kilburn",
+      "ballot_paper_id": "local.camden.kilburn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138716,
+          "name": "Ash Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2599,
+          "name": "Rahoul Bhansali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84258,
+          "name": "Eddie Hanson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138717,
+          "name": "Mac Henry Harwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36712,
+          "name": "Daviyani Rayshmi Kothari",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138718,
+          "name": "Andre Lopez-Turner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138719,
+          "name": "Mukhtar Moalin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46513,
+          "name": "Hamir Patel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138720,
+          "name": "Andrew John Preston",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41430,
+          "name": "Carole Ricketts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36693,
+          "name": "Tracey Elizabeth Shackle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138721,
+          "name": "Ben Storrs",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39355,
+          "name": "Robert George Thompson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94566,
+          "name": "Nanouche Basoukama Umeadi",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "King's Cross",
+      "ballot_paper_id": "local.camden.kings-cross.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 138577,
+          "name": "Joel Anderson",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 94610,
+          "name": "Joan Paula Baktis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84260,
+          "name": "Lotus Melisande Bautista",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138578,
+          "name": "Andre Cowell-Berry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94612,
+          "name": "Cat Frost",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41538,
+          "name": "Robyn Gardner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138579,
+          "name": "Tom Hatton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138580,
+          "name": "Anthony Thomas Hegarty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84259,
+          "name": "Liam Jamal Dominic Martin-Lane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94899,
+          "name": "Derek Mcauley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138581,
+          "name": "Luke McCarthy",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 91801,
+          "name": "Elizabeth Pearson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138582,
+          "name": "Paul Renny",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 138583,
+          "name": "Shezan Renny",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 41547,
+          "name": "Jonathan Andrew Simpson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Primrose Hill",
+      "ballot_paper_id": "local.camden.primrose-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 95127,
+          "name": "Esmeralda Akpoke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138817,
+          "name": "Tom Ash",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123941,
+          "name": "Dan Corby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138818,
+          "name": "Lenka Fekulova",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138819,
+          "name": "David Patrick Flatley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35693,
+          "name": "Catherine Wakefield Hays",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124256,
+          "name": "Lauren Keiles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138820,
+          "name": "Nik Lodenos",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36688,
+          "name": "Lawrence Joseph Nicholson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123883,
+          "name": "Suleiman Mohamoud Osman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42604,
+          "name": "Paul Tavares",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138821,
+          "name": "Nicholas Theodorou",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138822,
+          "name": "Helen Tindale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94242,
+          "name": "Matthew Wrigley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117975,
+          "name": "Shajib Ziffer",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Regent's Park",
+      "ballot_paper_id": "local.camden.regents-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 41425,
+          "name": "Nasim Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138858,
+          "name": "Vladimir Chorniy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138859,
+          "name": "Jose Fafian",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 138860,
+          "name": "Sean Fairbrother",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95096,
+          "name": "Christopher Michael Gayford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138861,
+          "name": "Dean Goldenberg",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138862,
+          "name": "Farhan Islam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138863,
+          "name": "Ruman Jaigirdar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41429,
+          "name": "Heather Margaret Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94240,
+          "name": "Alexandra Marsanu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138864,
+          "name": "Beverley Janet Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128289,
+          "name": "Victoria Mery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138865,
+          "name": "Muhammad Abu Naser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41431,
+          "name": "Nadia Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95100,
+          "name": "Martin Sheppard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138866,
+          "name": "Mary Elizabeth Stainer",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Hampstead",
+      "ballot_paper_id": "local.camden.south-hampstead.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 123367,
+          "name": "Susan Aykroyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87711,
+          "name": "Tara Michelle-Louise Copeland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138765,
+          "name": "Andrea Cornwall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108977,
+          "name": "Wakjira Feyesa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94618,
+          "name": "Pranay Hariharan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138767,
+          "name": "CJ Jessup",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123882,
+          "name": "Arun Kumar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84245,
+          "name": "Izzy Lenga",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123944,
+          "name": "Laurence Edward Dimitri Lodge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123368,
+          "name": "Andy Marsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138766,
+          "name": "Douglas de Morais",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138768,
+          "name": "Valerie Moss",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138769,
+          "name": "John Payne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122966,
+          "name": "Francesca Marie Reynolds",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Pancras & Somers Town",
+      "ballot_paper_id": "local.camden.st-pancras-somers-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 138842,
+          "name": "Sha Abdul Majeed Bakth",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 138843,
+          "name": "William Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91994,
+          "name": "Hannah Billington",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138844,
+          "name": "Angel Daden",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 91800,
+          "name": "David Elkan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91995,
+          "name": "Alex Ellis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138845,
+          "name": "Sarah Friday",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 49269,
+          "name": "Edmund Philip Pawlak Frondigoun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138846,
+          "name": "Solomon Gold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138847,
+          "name": "Raqhib Islam",
+          "party_name": "Camden People's Alliance"
+        },
+        {
+          "person_id": 91996,
+          "name": "Stewart David Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45137,
+          "name": "Samata Khatoon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91998,
+          "name": "Shah Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138849,
+          "name": "David Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138850,
+          "name": "Theodore Roth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138848,
+          "name": "Cosmo Mclaren Webster",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Hampstead",
+      "ballot_paper_id": "local.camden.west-hampstead.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138784,
+          "name": "Ewan Cameron",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124638,
+          "name": "Leo Giles McKernan Gordon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36710,
+          "name": "Janet Clementine Grauberg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84248,
+          "name": "Sharon Hardwick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95079,
+          "name": "Aarti Joshi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41545,
+          "name": "Les Levidow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124637,
+          "name": "Tabby Merrison-Galvin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 20201,
+          "name": "Jason Paul Pritchard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138786,
+          "name": "Eitan Saloniki",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138787,
+          "name": "Julios Samarxhiu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138788,
+          "name": "Jacob Solon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108761,
+          "name": "Patrick Thomas Stillman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123945,
+          "name": "Aarti Dimple Wadhwani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42202,
+          "name": "Jane Walby",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

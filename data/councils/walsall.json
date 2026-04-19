@@ -1,0 +1,1580 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "walsall",
+    "council_name": "Walsall"
+  },
+  "wards": [
+    {
+      "ward_name": "Aldridge Central & South",
+      "ballot_paper_id": "local.walsall.aldridge-central-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 112833,
+          "name": "Mark Ernest Bradley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132451,
+          "name": "Anna Brook",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132452,
+          "name": "Jamie Clarson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132453,
+          "name": "Lucy Rebecca Darby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132454,
+          "name": "Rebecca Elizabeth Owen Fullerton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132455,
+          "name": "Pardeep Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47910,
+          "name": "Shaun Alardice McKenzie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42197,
+          "name": "John Murray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132456,
+          "name": "Francis Patrick Perks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132457,
+          "name": "Jeffrey Grosvenor Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132458,
+          "name": "Nikita Sowan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8201,
+          "name": "Timothy Simon Wilson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Aldridge North & Walsall Wood",
+      "ballot_paper_id": "local.walsall.aldridge-north-walsall-wood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 132481,
+          "name": "Sarmad Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132482,
+          "name": "Kelly Christina Patricia Baker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132483,
+          "name": "Ian Benton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132484,
+          "name": "Christine Joan Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132485,
+          "name": "Tom Glibbery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132486,
+          "name": "Sam Kitchen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132487,
+          "name": "George Kyriacou",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13389,
+          "name": "Patti Lane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99576,
+          "name": "Lesley Ann Lynch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91217,
+          "name": "Connor Brendan McCormack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82763,
+          "name": "Tanya Petrovic",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 8202,
+          "name": "Keith Sears",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132488,
+          "name": "Vera Janice Waters",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beechdale, Leamore & Reedswood",
+      "ballot_paper_id": "local.walsall.beechdale-leamore-reedswood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 135312,
+          "name": "Elizabeth Toluwayemi Adekanye",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135313,
+          "name": "Jenny Bradley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135314,
+          "name": "Rebecca Dolphin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135315,
+          "name": "Matthew James Eason",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135316,
+          "name": "Nadine Hamilton",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135317,
+          "name": "Steven John Hayward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 10625,
+          "name": "Tina Joan Jukes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135318,
+          "name": "Stuart John Lathe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135319,
+          "name": "Liam Andrew Murphy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135320,
+          "name": "Darren James Neville",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82803,
+          "name": "Elliot Pfebve",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135321,
+          "name": "Pam Sheemar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135322,
+          "name": "Scott Anthony Simmons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135323,
+          "name": "Lisa Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bentley & Darlaston North",
+      "ballot_paper_id": "local.walsall.bentley-darlaston-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 135337,
+          "name": "Yasin Abad",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 99557,
+          "name": "Nahid Ahmed",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135338,
+          "name": "Sajakat Ali",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135339,
+          "name": "Michael Edward Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135340,
+          "name": "Hannah Faye Burston",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94331,
+          "name": "Manju Gill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135341,
+          "name": "Louis Gill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135342,
+          "name": "Anthony Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99482,
+          "name": "Abdul Kalam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135343,
+          "name": "Paul Antony Lunn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135344,
+          "name": "Faisal Majeed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135345,
+          "name": "Kaiser Majeed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13417,
+          "name": "Adam Mohammed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112818,
+          "name": "Lucie Jane Nahal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135346,
+          "name": "Ramtirth Singh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135347,
+          "name": "Steven David Turner",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bloxwich East & Blakenall Heath",
+      "ballot_paper_id": "local.walsall.bloxwich-east-blakenall-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135383,
+          "name": "Aiden Richard Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135384,
+          "name": "Jayne-Edgar Dragon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82773,
+          "name": "Gary Flint",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135385,
+          "name": "Thanh Huynh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135386,
+          "name": "Kamran McDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135387,
+          "name": "Ismail Adam Mohammed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135388,
+          "name": "David Marshall Sambrook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52081,
+          "name": "Corin Ann Statham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13386,
+          "name": "Mark Andrew Statham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135389,
+          "name": "Richard James Tapper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135390,
+          "name": "David John Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 82806,
+          "name": "Mike Walters",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bloxwich West",
+      "ballot_paper_id": "local.walsall.bloxwich-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 112823,
+          "name": "Nicky Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135789,
+          "name": "Sean Boyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135790,
+          "name": "Tayo Fadimine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47710,
+          "name": "Louise Ann Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135791,
+          "name": "Tracey Anne Hateley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82792,
+          "name": "Deborah Elizabeth Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135792,
+          "name": "Imogen Margetts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135793,
+          "name": "Paul Nugent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135794,
+          "name": "Manjit Kaur Padda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135795,
+          "name": "William George Raby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135796,
+          "name": "Tony Sadla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135797,
+          "name": "Adam Snape",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brownhills",
+      "ballot_paper_id": "local.walsall.brownhills.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 111971,
+          "name": "Joshua Edward Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52108,
+          "name": "Ken Ferguson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135864,
+          "name": "Richard Harries",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135865,
+          "name": "Stephen Jukes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135867,
+          "name": "Rowan Gentle Lavender",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135868,
+          "name": "Martin Mason-Woodhouse",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 82783,
+          "name": "Kerry Murphy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135870,
+          "name": "Aysha Nizamoglu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135871,
+          "name": "Joanna Maria Phillips",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 135873,
+          "name": "Carolyn Claire Sault",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135874,
+          "name": "Kathryn Anne Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135875,
+          "name": "Pete Sutton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112830,
+          "name": "Bob Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135877,
+          "name": "Jay Wall",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Darlaston South",
+      "ballot_paper_id": "local.walsall.darlaston-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135888,
+          "name": "David John Bailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42128,
+          "name": "Paul Bott",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 13410,
+          "name": "Chris Bott",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 13376,
+          "name": "Peter Raymond Burton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135889,
+          "name": "Melvin John Glasby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135890,
+          "name": "Liam Alexander Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135891,
+          "name": "Sylwia Anna Juranek",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135892,
+          "name": "Parmajit Kaur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135893,
+          "name": "Jenny Nock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135894,
+          "name": "Balvinder Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135896,
+          "name": "Amy Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135895,
+          "name": "Ade Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13384,
+          "name": "Matt Ward",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harden, Goscote & Ryecroft",
+      "ballot_paper_id": "local.walsall.harden-goscote-ryecroft.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 135901,
+          "name": "Tabbi Wilberforce Awotwe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135902,
+          "name": "Yobba Baldeh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135903,
+          "name": "Joseph David Chandler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135904,
+          "name": "Anthony Ronald Dubberley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47739,
+          "name": "Lee David Jeavons",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135905,
+          "name": "Lisa Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135906,
+          "name": "Mushtaq Khan",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135908,
+          "name": "Susan Langford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135907,
+          "name": "Stephen John Langford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99250,
+          "name": "Robert Lipke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82758,
+          "name": "Andrea Maynard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112840,
+          "name": "Robin David Perry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1574,
+          "name": "Pete Smith",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135909,
+          "name": "Ulrike Olivia Wilson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Invention",
+      "ballot_paper_id": "local.walsall.new-invention.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 13390,
+          "name": "Dan Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135912,
+          "name": "Carl Usher Creaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135913,
+          "name": "Stacie Ann Elson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 52090,
+          "name": "Adam Hicken",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135914,
+          "name": "Courtney Dianaleigh Jukes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94349,
+          "name": "Rob Larden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135915,
+          "name": "Gill Mitchell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39555,
+          "name": "Iqbal Singh Padda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135916,
+          "name": "Daniel Adam Rollinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112843,
+          "name": "Tal Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135917,
+          "name": "Martin Peter Washbrook",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Paddock",
+      "ballot_paper_id": "local.walsall.paddock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 35791,
+          "name": "Gaz Ali",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 134238,
+          "name": "Mary Louise Birch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134239,
+          "name": "Brian Anthony Cusack",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134240,
+          "name": "Amrik Singh Dhesy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134241,
+          "name": "Israr Hussain",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 82764,
+          "name": "Amo Hussain",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 99500,
+          "name": "Muhammad Hafeez Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112845,
+          "name": "Klara Margetts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112815,
+          "name": "Dean Margetts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134242,
+          "name": "Helen Louise Neville",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134243,
+          "name": "Mish Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134244,
+          "name": "Khan William Rose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134245,
+          "name": "Karam Singh Sangha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13405,
+          "name": "Sawra Shmim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40112,
+          "name": "Gurmeet Singh Sohal",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Palfrey & The Delves",
+      "ballot_paper_id": "local.walsall.palfrey-the-delves.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 133609,
+          "name": "Wemi Agboaye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133610,
+          "name": "Ashfaq Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133611,
+          "name": "Imran Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 8473,
+          "name": "Hajran Bashir",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 133612,
+          "name": "Marc William Batchford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133613,
+          "name": "Bradley Steven Fisher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133614,
+          "name": "Paul Graham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133615,
+          "name": "Shakir Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 99490,
+          "name": "Sadat Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133616,
+          "name": "Mehvish Khatoon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133617,
+          "name": "Elizabeth Mary Magee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133618,
+          "name": "Dilu Miah",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 133619,
+          "name": "Mohammed Kawsar Musharaf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52140,
+          "name": "Saiqa Nasreen",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 133620,
+          "name": "Joshua Frederick Pope",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133621,
+          "name": "Ananya Sabharwal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133622,
+          "name": "Tony Simmons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47870,
+          "name": "Nirmal Singh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pelsall",
+      "ballot_paper_id": "local.walsall.pelsall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135939,
+          "name": "Ann Elizabeth Ault",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82757,
+          "name": "Matthew George Barker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 82796,
+          "name": "Jade Elizabeth Chapman",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 135940,
+          "name": "Graham Eardley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 16216,
+          "name": "Jonathan Andrew Elliott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135941,
+          "name": "John Edward Foxall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135942,
+          "name": "Zoe Jennifer Anne Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135943,
+          "name": "Faiza Adeeba Hussain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135944,
+          "name": "Kath Jennings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135945,
+          "name": "Jon Maltman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13416,
+          "name": "Rose Ann Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135946,
+          "name": "Lewis Thomas Norgrove",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135947,
+          "name": "Jim Parsons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52121,
+          "name": "Lorna Jean Rattigan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135948,
+          "name": "James Rowley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pheasey Park Farm",
+      "ballot_paper_id": "local.walsall.pheasey-park-farm.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 13400,
+          "name": "Adrian John Austin Andrew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52117,
+          "name": "Mike Bird",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135952,
+          "name": "Tony Cashmore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135953,
+          "name": "Laura Jennifer Foreman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135954,
+          "name": "Karen Marie Griffiths",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135955,
+          "name": "Kieren Guice",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135956,
+          "name": "Christopher James Hickey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135957,
+          "name": "Chris Newey",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135958,
+          "name": "Arranjit Singh Rangi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135959,
+          "name": "Jasvir Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 139127,
+          "name": "Ray Southam",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 135960,
+          "name": "Mark Wellings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135961,
+          "name": "Colin Wilkes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135962,
+          "name": "Sheeban Mohammad Yasin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pleck",
+      "ballot_paper_id": "local.walsall.pleck.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 135918,
+          "name": "Ashraq Ahmad",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 112831,
+          "name": "Zulkifl Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135919,
+          "name": "Yasin Dad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40109,
+          "name": "Peter David Faultless",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135920,
+          "name": "Matthew Harper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135921,
+          "name": "Basharat Hussain",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135922,
+          "name": "Khizar Hussain",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 99205,
+          "name": "Mozamil Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135923,
+          "name": "Khuram Mahmood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135924,
+          "name": "Abdul Malik",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135925,
+          "name": "Kashif Azam Meher",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 94308,
+          "name": "Ram Kishan Mehmi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135926,
+          "name": "Muhammad Khosru Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135927,
+          "name": "Salek Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135928,
+          "name": "Jagadees Nair",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135929,
+          "name": "Melissa Victoria Rooker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135930,
+          "name": "Joshua Anthony Sadla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135931,
+          "name": "Ifrahim Tabassum",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rushall-Shelfield",
+      "ballot_paper_id": "local.walsall.rushall-shelfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135836,
+          "name": "Edward Assamoah-Cobbiah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135837,
+          "name": "Raja Ateeq",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6388,
+          "name": "Joe Belcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135838,
+          "name": "Elliot Adam Benton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52138,
+          "name": "Stuart Raymond Chapman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135839,
+          "name": "Michelle Louise Coles",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135840,
+          "name": "Sam Fletcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135841,
+          "name": "Jason Goher",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112814,
+          "name": "James Albert Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99501,
+          "name": "Irene Henery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135842,
+          "name": "Daniel Robert Kirk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135843,
+          "name": "Barbara Violet McCracken",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44144,
+          "name": "David Morgan",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135844,
+          "name": "Aadam Oates",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135845,
+          "name": "Julie Elizabeth Skellern",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Short Heath",
+      "ballot_paper_id": "local.walsall.short-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 45797,
+          "name": "Liam Craig Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133649,
+          "name": "Rohan Beecha",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133650,
+          "name": "Elouise Francis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 52093,
+          "name": "Amandeep Garcha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94351,
+          "name": "Poonam Chamdal Gill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46403,
+          "name": "Benjamin Aaron Hodges",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133651,
+          "name": "Gerard Joseph Lyng",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133652,
+          "name": "Leah Letisha Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133653,
+          "name": "Simon Frank Rollason",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133654,
+          "name": "Cally Russon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133655,
+          "name": "Bella Simon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 82804,
+          "name": "Joshua Ronald Whitehouse",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82767,
+          "name": "Elaine Ruth Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Matthew's",
+      "ballot_paper_id": "local.walsall.st-matthews.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 135185,
+          "name": "Jamal Ahmed",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112838,
+          "name": "Mushtaq Ahmed",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135186,
+          "name": "Akhter Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135187,
+          "name": "Michael Dimkpa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135188,
+          "name": "Basharat Hussain",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135189,
+          "name": "Khalid Mahmood Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135190,
+          "name": "Scott Kyle Mabbutt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135191,
+          "name": "Sajid Mahmood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135192,
+          "name": "Katharine Rebecca Angharad Morgan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46797,
+          "name": "Aftab Ahmad Nawaz",
+          "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135193,
+          "name": "Gabriel Kehinde Obasa",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135194,
+          "name": "Enoch Adewunmi Oyeduntan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135195,
+          "name": "Adeel Riaz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94348,
+          "name": "Eileen Bridie Russell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135196,
+          "name": "Ewan Ralph Thornton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135197,
+          "name": "Faruk Uddin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135198,
+          "name": "Chris Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Streetly",
+      "ballot_paper_id": "local.walsall.streetly.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135813,
+          "name": "Kara Abbra Babb",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52080,
+          "name": "Shaun Francis Fitzpatrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135814,
+          "name": "Alan John Roland Fleming",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135815,
+          "name": "Nikita Goldsmith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135816,
+          "name": "Adrian Kenneth Hutton",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 135817,
+          "name": "Sarah Anne Jeavons",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135818,
+          "name": "Matt Matloob",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135819,
+          "name": "Mani Panchhi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99577,
+          "name": "Amanda Parkes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135820,
+          "name": "Aaron Singh Pooni",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94343,
+          "name": "Vandana Mukesh Sharma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135821,
+          "name": "Pam Walters",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135822,
+          "name": "Thomas Stanley Hing Seong Yoong",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Willenhall",
+      "ballot_paper_id": "local.walsall.willenhall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 84144,
+          "name": "Simran Kaur Cheema",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99558,
+          "name": "Leandra Lola Gebrakedan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134837,
+          "name": "Barbara Ann Haig",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134838,
+          "name": "Peter Michael Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42382,
+          "name": "Colleen Susan Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134839,
+          "name": "Gail Shirley Jordan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134841,
+          "name": "Shakir Mehmood Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134840,
+          "name": "Aleena Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134842,
+          "name": "Parvesh Kumar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47711,
+          "name": "Natalie Louise Latham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134843,
+          "name": "Harj Nahal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112819,
+          "name": "Toyin Oshaniwa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134844,
+          "name": "Roy Michael Tandy",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1296 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "solihull",
+    "council_name": "Solihull"
+  },
+  "wards": [
+    {
+      "ward_name": "Balsall & Berkswell",
+      "ballot_paper_id": "local.solihull.balsall-berkswell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 133366,
+          "name": "Terry Jack Baker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8741,
+          "name": "Trevor John Barker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59792,
+          "name": "Margaret Elizabeth Brittin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138165,
+          "name": "Bob Carleton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99461,
+          "name": "Heather Delaney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138166,
+          "name": "TJ Desai",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8719,
+          "name": "Tony Dicicco",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138167,
+          "name": "Anna Gretton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138168,
+          "name": "Matthew Squire Stephens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138169,
+          "name": "Garry Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138170,
+          "name": "Steve Thompson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blythe",
+      "ballot_paper_id": "local.solihull.blythe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138172,
+          "name": "Kam Chouhdry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133367,
+          "name": "Simon Gregory Coles",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138173,
+          "name": "Teresa Anne Corr",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138174,
+          "name": "Mark Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138175,
+          "name": "Craig Lewis Fergusson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138176,
+          "name": "John Galpin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81858,
+          "name": "Keith Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46202,
+          "name": "Richard James Holt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138177,
+          "name": "Vijay Kumar Inamdar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138178,
+          "name": "James Anthony Oliver",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138179,
+          "name": "Dermot Patrick Reid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138180,
+          "name": "Jamie Walker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle Bromwich",
+      "ballot_paper_id": "local.solihull.castle-bromwich.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138197,
+          "name": "Kashif Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138198,
+          "name": "Jamie John Campbell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138199,
+          "name": "Lee James Dicken",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133368,
+          "name": "Bernie Donnelly",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138200,
+          "name": "Samuel Michael Eathorne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 25203,
+          "name": "Alan Feeney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8720,
+          "name": "Leslie John Kaye",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8729,
+          "name": "Peter Charles Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59802,
+          "name": "Antony Lowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59794,
+          "name": "Martin McCarthy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138201,
+          "name": "Chris Whelan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chelmsley Wood",
+      "ballot_paper_id": "local.solihull.chelmsley-wood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138026,
+          "name": "Ian Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133369,
+          "name": "Jim Cooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133370,
+          "name": "John Henry Courtenay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138027,
+          "name": "Sally Farrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138029,
+          "name": "April Samantha Halpin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138031,
+          "name": "Michael James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138032,
+          "name": "Andy Miller",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81847,
+          "name": "Shesh Sheshabhatter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 8706,
+          "name": "Glenis Slater",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8701,
+          "name": "Elizabeth Thacker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138035,
+          "name": "Phil Tierney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133371,
+          "name": "Martin Richard Tomlinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99446,
+          "name": "Lydia Ruth Margaret Turner",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dorridge & Hockley Heath",
+      "ballot_paper_id": "local.solihull.dorridge-hockley-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 46236,
+          "name": "David Jon Brittin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138233,
+          "name": "Luke Richard Edwards",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 87777,
+          "name": "David Robert Franklin Godfrey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138234,
+          "name": "Tess Caroline Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138235,
+          "name": "Cameron Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8688,
+          "name": "Alex Insley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91315,
+          "name": "Christopher Leslie Daniel Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138237,
+          "name": "James Peter Leah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59791,
+          "name": "Andy Mackiewicz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138238,
+          "name": "Kirsty Miranda Lucy Mackinlay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138239,
+          "name": "Peter Sylvester",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138240,
+          "name": "James Matthew Tilsley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112898,
+          "name": "Sally Tomlinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138241,
+          "name": "Simon Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133372,
+          "name": "Paul Raymond Whitehouse",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elmdon",
+      "ballot_paper_id": "local.solihull.elmdon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 138325,
+          "name": "Rachel Elizabeth Bradburne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8691,
+          "name": "Ian Clifford English",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138326,
+          "name": "Eleonora Gough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133373,
+          "name": "Sandra Ann Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112910,
+          "name": "Georgina Phoenix Hartland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112919,
+          "name": "Stephen Robert Holt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138327,
+          "name": "Robert Edward Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138328,
+          "name": "Seren Alexandra Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81866,
+          "name": "Kate Judith Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138329,
+          "name": "Paul Anthony Maguire",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138330,
+          "name": "Richard William Marshall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133374,
+          "name": "Pav Matharu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46244,
+          "name": "Laura McCarthy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138331,
+          "name": "Michael Thomas Ward",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138332,
+          "name": "Michael Andrew Welsh",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fordbridge",
+      "ballot_paper_id": "local.solihull.fordbridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 133375,
+          "name": "Jacob Robert Davenport Beardmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138460,
+          "name": "Henry Bodle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 8745,
+          "name": "David Charles Cole",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138461,
+          "name": "Sam Flint",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93184,
+          "name": "Samantha Jayne Gethen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138463,
+          "name": "Paul Goldingay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112934,
+          "name": "Kamren Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112909,
+          "name": "Ken Harrop",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138464,
+          "name": "Tony Ludlow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138465,
+          "name": "Jackie Moore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138466,
+          "name": "Den O'Neil",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138467,
+          "name": "Antony Singh Sangha",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingshurst & Smith's Wood",
+      "ballot_paper_id": "local.solihull.kingshurst-smiths-wood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 87785,
+          "name": "Sarah Alan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138477,
+          "name": "Dee Boyce",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138478,
+          "name": "Collette Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112933,
+          "name": "Mark Alan Caddick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46234,
+          "name": "Hazel Jasmine Ellenor Dawkins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138479,
+          "name": "Katherine Megan Foy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8746,
+          "name": "Jean Hamilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133376,
+          "name": "Georgia Marie Peplow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133377,
+          "name": "Ethan Richard Potter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138480,
+          "name": "Adrian Stefanovici",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138481,
+          "name": "Lisa Rosemarie Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138482,
+          "name": "Mark Frederick Wilson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 99447,
+          "name": "Sarah Young",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Knowle",
+      "ballot_paper_id": "local.solihull.knowle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 81856,
+          "name": "Yvonne Beverley Clements",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138555,
+          "name": "John Eamon Dillon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138556,
+          "name": "Amy Louise Donohoe-Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138557,
+          "name": "Steven Egan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138558,
+          "name": "Roy Steven England",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99473,
+          "name": "Edward Fitter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112915,
+          "name": "Roger Neil Halford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138559,
+          "name": "Janet Elizabeth Hall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99474,
+          "name": "Lionel Arthur King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138560,
+          "name": "James Joseph McLoughlin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138561,
+          "name": "Katy Louise Moxley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 59796,
+          "name": "Dave Pinwell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112911,
+          "name": "Matt Purssell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138562,
+          "name": "Zachary David Richard Stanier",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lyndon",
+      "ballot_paper_id": "local.solihull.lyndon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 5799,
+          "name": "Ade Adeyemo",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138490,
+          "name": "David Simon Appleby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133152,
+          "name": "Mason Scott Beirne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133378,
+          "name": "Kim Dodd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138491,
+          "name": "Thomas Patrick Benjamin Gilmore",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138492,
+          "name": "Marie Hawkeswood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81851,
+          "name": "Paul McCabe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138493,
+          "name": "Susan Elizabeth Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138494,
+          "name": "Nour Norris Obe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138495,
+          "name": "Marius Ovidiu Pui",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133379,
+          "name": "Danyal Rana",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138496,
+          "name": "Sunanda Sharma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138497,
+          "name": "Jackie Staite",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48083,
+          "name": "Kathryn Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133380,
+          "name": "Paula Jayne Yates",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Meriden & Arden",
+      "ballot_paper_id": "local.solihull.meriden-arden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138516,
+          "name": "Paul Geoffrey Day",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138517,
+          "name": "David Paul Hoey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138518,
+          "name": "Jacqueline Sheila Howse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138519,
+          "name": "Zachary Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138520,
+          "name": "Claire Louise Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92101,
+          "name": "Akin Kog",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 99484,
+          "name": "Jane Lamden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138521,
+          "name": "Thomas Desmond McElholm",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138522,
+          "name": "Nosheen Naqvi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133381,
+          "name": "Ciaran William Michael O'Neill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138523,
+          "name": "Matt Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46245,
+          "name": "Catherine Price",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138524,
+          "name": "Bob Ryder",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138525,
+          "name": "Phil Simister",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Olton",
+      "ballot_paper_id": "local.solihull.olton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 138451,
+          "name": "Jonathan David Berg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 79133,
+          "name": "Lachhman Singh Bhambra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138452,
+          "name": "James Bradley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59799,
+          "name": "Michael Alan Carthew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124020,
+          "name": "Karima Chaouch",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138453,
+          "name": "Peter William Dixon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112908,
+          "name": "Richard Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138454,
+          "name": "Simon Michael Anthony Hawker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87778,
+          "name": "Jane Allison Holt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138455,
+          "name": "David Stanley James",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138456,
+          "name": "Ian James Jamieson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112920,
+          "name": "James Callum Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138457,
+          "name": "James Stuart Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138458,
+          "name": "Sarah Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138459,
+          "name": "Easwar Vivekanandan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91885,
+          "name": "Wasim Zaman",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shirley East & Sharmans Cross",
+      "ballot_paper_id": "local.solihull.shirley-east-sharmans-cross.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138415,
+          "name": "Peter Noel Byrne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92100,
+          "name": "Gerard Bernard Michael John Dufficy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138416,
+          "name": "Srini Eaga",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138417,
+          "name": "Roger Harrold Gemmell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8728,
+          "name": "Karen Anne Grinsell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138418,
+          "name": "Anthony Richard Howe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40045,
+          "name": "Annette Mearson MacKenzie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138419,
+          "name": "Kushi Maddikunta",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138420,
+          "name": "Afzal Azam Mirza",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138421,
+          "name": "Jane Maria Paradine",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59803,
+          "name": "Mark Duncan Parker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138422,
+          "name": "Mark Joseph Pearson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35606,
+          "name": "Charles Nicholas Leslie Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138423,
+          "name": "Richard David Whitehouse",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shirley South",
+      "ballot_paper_id": "local.solihull.shirley-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 59777,
+          "name": "Shahin Ulfat Ashraf",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138532,
+          "name": "Stewart Abbott Blunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138533,
+          "name": "Joanne Margaret Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133382,
+          "name": "Simon Burke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138534,
+          "name": "Jane Carthew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133383,
+          "name": "Dipesh Chauhan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138535,
+          "name": "Christopher James Dean",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138536,
+          "name": "Stuart James Hedley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138537,
+          "name": "Jill Nicola Ketley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8733,
+          "name": "Max McLoughlin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133441,
+          "name": "Daniel Jospeh Morris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81872,
+          "name": "Howard Nichols",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8730,
+          "name": "Kevin Peter Raven",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112923,
+          "name": "Alan Phillip Wigley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shirley West",
+      "ballot_paper_id": "local.solihull.shirley-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 138154,
+          "name": "Sheila Mary Brookes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138155,
+          "name": "John Michael Carthew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138156,
+          "name": "Steve Caudwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81385,
+          "name": "Frank Dawson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18977,
+          "name": "Ben Groom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138157,
+          "name": "Ann Elizabeth Littley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138158,
+          "name": "Sharon Teresa O'Connor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112931,
+          "name": "Prish Sharma",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133384,
+          "name": "Manjit Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133385,
+          "name": "Chris Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138160,
+          "name": "Peter Robert Trigg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133386,
+          "name": "Annette Dawn Wilcox",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47481,
+          "name": "Alison Natasha Wilson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138161,
+          "name": "Michael Charles Wright",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Silhill",
+      "ballot_paper_id": "local.solihull.silhill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133387,
+          "name": "Hitesh Bikumalla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138282,
+          "name": "Nicola Lucy Cadet de Fontenay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138283,
+          "name": "Michael Gough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138284,
+          "name": "James Christopher Henry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 8743,
+          "name": "Janet Mary Marsh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138285,
+          "name": "Emma Clare Marshall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40046,
+          "name": "Gayle Elizabeth Monk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 59798,
+          "name": "Josh O'Nyons",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138286,
+          "name": "Bhavan Pemmaiah",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8726,
+          "name": "Wazma Qais",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50337,
+          "name": "Rosemary Ann Sexton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138287,
+          "name": "Nick Stephens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138288,
+          "name": "Patsy Stone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138289,
+          "name": "Paul David Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112899,
+          "name": "Terry Whitehead",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Alphege with Monkspath & Hillfield",
+      "ballot_paper_id": "local.solihull.st-alphege-with-monkspath-hillfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 138301,
+          "name": "Patricia Anne Berry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99445,
+          "name": "Mark Alexander Geary",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112907,
+          "name": "Noel Anthony Grace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 59800,
+          "name": "Bob Grinsell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138302,
+          "name": "Peter Nicholas Harwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 59780,
+          "name": "Ken Hawkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138303,
+          "name": "Brian Ronald Hunter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138304,
+          "name": "Angela Kikugawa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 8689,
+          "name": "Sardul Singh Marwa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 59778,
+          "name": "Angela Mary Sandison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 8752,
+          "name": "Paul Cook Tuxworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87781,
+          "name": "John Christopher Wyatt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

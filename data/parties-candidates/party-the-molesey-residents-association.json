@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-molesey-residents-association",
+    "display_name": "The Molesey Residents Association",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "The Molesey Residents Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 23366,
+      "name": "Ernest Mallett",
+      "party_name": "The Molesey Residents Association",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "West Molesey"
+    },
+    {
+      "person_id": 138261,
+      "name": "Kevin Whincup",
+      "party_name": "The Molesey Residents Association",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Thames Ditton & East Molesey"
+    }
+  ]
+}

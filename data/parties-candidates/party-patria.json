@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-patria",
+    "display_name": "Patria",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "Patria"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 6208,
+      "name": "Andrew Emerson",
+      "party_name": "Patria",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Chichester South"
+    }
+  ]
+}

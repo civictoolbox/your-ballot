@@ -1,0 +1,755 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "oldham",
+    "council_name": "Oldham"
+  },
+  "wards": [
+    {
+      "ward_name": "Alexandra",
+      "ballot_paper_id": "local.oldham.alexandra.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129687,
+          "name": "Susan Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14920,
+          "name": "Martin Alexander Dinoff",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110037,
+          "name": "Carol Hardie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129688,
+          "name": "Shabir Hussain",
+          "party_name": "The Oldham Group Party"
+        },
+        {
+          "person_id": 40768,
+          "name": "Shaid Mushtaq",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 80832,
+          "name": "Anne Taylor",
+          "party_name": "Northern Heart"
+        },
+        {
+          "person_id": 40819,
+          "name": "Andrea Chaverra Valencia",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadderton Central",
+      "ballot_paper_id": "local.oldham.chadderton-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 79987,
+          "name": "Katie Helen Gloster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129682,
+          "name": "Suleman Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129683,
+          "name": "Nazrul Islam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129684,
+          "name": "Iryna Kantorova",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129685,
+          "name": "Alexander David William Lomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129686,
+          "name": "Mohammed Razon",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadderton North",
+      "ballot_paper_id": "local.oldham.chadderton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129689,
+          "name": "Jon Ford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129690,
+          "name": "Darren Lyon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41083,
+          "name": "Colin McLaren",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129691,
+          "name": "Prem Raghvani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129692,
+          "name": "Paul Alexander Singleton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadderton South",
+      "ballot_paper_id": "local.oldham.chadderton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129693,
+          "name": "Stephanie Anne Beverley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129694,
+          "name": "Stephen Davenport",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129695,
+          "name": "Muhammad Irfan",
+          "party_name": "The Oldham Group Party"
+        },
+        {
+          "person_id": 129696,
+          "name": "Rob Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81296,
+          "name": "Kyle Phythian",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129697,
+          "name": "Brian Witt",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coldhurst",
+      "ballot_paper_id": "local.oldham.coldhurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 98388,
+          "name": "Mohammed Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129698,
+          "name": "Abdul Malik",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129699,
+          "name": "Tayba Nazir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14984,
+          "name": "Keith Pendlebury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98383,
+          "name": "Mohammed Mohib Abu Taleb",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129700,
+          "name": "Elaine Whittingham",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crompton",
+      "ballot_paper_id": "local.oldham.crompton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 98371,
+          "name": "Latif Choudhary",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129701,
+          "name": "Shaun Michael Duffy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129702,
+          "name": "Alicia Dunne",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44714,
+          "name": "Hazel Gloster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129703,
+          "name": "Peter Hanlon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129704,
+          "name": "Darren Lord",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129705,
+          "name": "Chris Mills",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Failsworth East",
+      "ballot_paper_id": "local.oldham.failsworth-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 40676,
+          "name": "Barbara Ann Beeley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129480,
+          "name": "Andrew Barry Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129481,
+          "name": "Laurraine Demelchor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129482,
+          "name": "Jane Louise Dronsfield",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129483,
+          "name": "Chris Goodwin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 73204,
+          "name": "Neil Hindle",
+          "party_name": "Failsworth Independent Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Failsworth West",
+      "ballot_paper_id": "local.oldham.failsworth-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129706,
+          "name": "Bernard Akin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87419,
+          "name": "Roger Blackmore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44690,
+          "name": "Peter Davis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129707,
+          "name": "Andrew Kevin Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129708,
+          "name": "Natalie Parren",
+          "party_name": "Failsworth Independent Party"
+        },
+        {
+          "person_id": 129709,
+          "name": "Mark Christopher Ruthven",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hollinwood",
+      "ballot_paper_id": "local.oldham.hollinwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129715,
+          "name": "Saniya Abid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129716,
+          "name": "Elizabeth Adamson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129717,
+          "name": "Robert Barnes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129718,
+          "name": "Callum Holt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87404,
+          "name": "John Lawrence",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 129719,
+          "name": "Abdul Wahid",
+          "party_name": "The Oldham Group Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Medlock Vale",
+      "ballot_paper_id": "local.oldham.medlock-vale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 98452,
+          "name": "Shona Farnworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129472,
+          "name": "Victor Flowers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129473,
+          "name": "Cameron Lee Gates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129474,
+          "name": "Junaid Hussain",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129475,
+          "name": "Sharoon Zaman",
+          "party_name": "The Oldham Group Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royton North",
+      "ballot_paper_id": "local.oldham.royton-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 98463,
+          "name": "Christine Adams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 87405,
+          "name": "Lewis Farnworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 51125,
+          "name": "Clint Phythian",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129720,
+          "name": "Paul Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129721,
+          "name": "Emily Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royton South",
+      "ballot_paper_id": "local.oldham.royton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129724,
+          "name": "Kathryn Jane England",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129725,
+          "name": "William Hingston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4637,
+          "name": "Miranda Meadowcroft",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129726,
+          "name": "Tony Pinder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 51144,
+          "name": "Anthony Prince",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44691,
+          "name": "Lynne Christine Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Saddleworth North",
+      "ballot_paper_id": "local.oldham.saddleworth-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129662,
+          "name": "Luke Bywater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129663,
+          "name": "Chris Fielding",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129664,
+          "name": "Samuel Jacob Hollis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 14647,
+          "name": "Michael Robert Thomas Powell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129665,
+          "name": "loan Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Saddleworth South",
+      "ballot_paper_id": "local.oldham.saddleworth-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129727,
+          "name": "George Simon Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40547,
+          "name": "Helen Louise Bishop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129728,
+          "name": "Archie Ross Duncan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129729,
+          "name": "David Hartington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129730,
+          "name": "Christopher John McManus",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Saddleworth West & Lees",
+      "ballot_paper_id": "local.oldham.saddleworth-west-lees.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129731,
+          "name": "Joe Bardsley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129732,
+          "name": "Dave Barter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129733,
+          "name": "Lisa Hartington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129734,
+          "name": "Peter Klonowski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87413,
+          "name": "Alicia Claire Marland",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shaw",
+      "ballot_paper_id": "local.oldham.shaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129633,
+          "name": "Hamid Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129634,
+          "name": "Steve Eyre",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129635,
+          "name": "Sarah Howarth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129636,
+          "name": "Ben Jack Ingham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129637,
+          "name": "Adi Kohli",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 98373,
+          "name": "Lee Navesey",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 97684,
+          "name": "Tom Penketh",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St James'",
+      "ballot_paper_id": "local.oldham.st-james.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 51195,
+          "name": "Angela Carol Cosgrove",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 98410,
+          "name": "Roger Hindle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129735,
+          "name": "Maqsood Hussain",
+          "party_name": "The Oldham Group Party"
+        },
+        {
+          "person_id": 129736,
+          "name": "Amir Jhandad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129737,
+          "name": "Tom Noble",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129738,
+          "name": "Gary Tarbuck",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.oldham.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129739,
+          "name": "Sonny Shah Arstan",
+          "party_name": "The Oldham Group Party"
+        },
+        {
+          "person_id": 129740,
+          "name": "Ivan Burnley-Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81308,
+          "name": "Joe Gloster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129741,
+          "name": "Aftab Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40939,
+          "name": "Lina Maria Valencia",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waterhead",
+      "ballot_paper_id": "local.oldham.waterhead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 129484,
+          "name": "Mir Ajawat",
+          "party_name": "The Oldham Group Party"
+        },
+        {
+          "person_id": 98364,
+          "name": "Stuart Allsopp",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129485,
+          "name": "Alison Caroline Bishop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110068,
+          "name": "Majid Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44718,
+          "name": "Ali Aqeel Salamat",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129486,
+          "name": "Andrew Peter Sinclair",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129487,
+          "name": "Paul Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Werneth",
+      "ballot_paper_id": "local.oldham.werneth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 129710,
+          "name": "Mohammed Imran Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129711,
+          "name": "Fida Hussain",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129712,
+          "name": "Stuart Illingworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129713,
+          "name": "Rangzib Nazir",
+          "party_name": "Workers Party - Oldham Group"
+        },
+        {
+          "person_id": 40992,
+          "name": "Rachel Pendlebury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129714,
+          "name": "Mycul Trelore",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

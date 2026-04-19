@@ -1,0 +1,731 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "southend-on-sea",
+    "council_name": "Southend on Sea"
+  },
+  "wards": [
+    {
+      "ward_name": "Belfairs",
+      "ballot_paper_id": "local.southend-on-sea.belfairs.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 125052,
+          "name": "Szymon Patryk Blasiak",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76102,
+          "name": "Alan Crystall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8916,
+          "name": "Alan Thomas Dear",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109220,
+          "name": "Lauren Michelle Ekins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109286,
+          "name": "Gareth Peter Evans",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 86928,
+          "name": "Nicky William Gilbert",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133191,
+          "name": "Oscar James Wood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blenheim Park",
+      "ballot_paper_id": "local.southend-on-sea.blenheim-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 124917,
+          "name": "Ian John Berry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42432,
+          "name": "Laurie William Henry Burton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42433,
+          "name": "Keith Ian Evans",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 111011,
+          "name": "Lynn Katherine Smith",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 125424,
+          "name": "Zhanelya Subebayeva",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133200,
+          "name": "Ronish Dineshbhai Sutariya",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 8946,
+          "name": "AJ Sutherland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133201,
+          "name": "Craig Alan Watt",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chalkwell",
+      "ballot_paper_id": "local.southend-on-sea.chalkwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133210,
+          "name": "Ali Jason Taha Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111026,
+          "name": "Robert John Cammidge",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133209,
+          "name": "Julie Kathleen Cushion",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76022,
+          "name": "Chris Hind",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109274,
+          "name": "Kay Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109281,
+          "name": "David Scott",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastwood Park",
+      "ballot_paper_id": "local.southend-on-sea.eastwood-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133212,
+          "name": "Edward Firth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133213,
+          "name": "Timothy Marlowe MacGregor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 74862,
+          "name": "Robert McMullan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95992,
+          "name": "Simon Alec Robert Spooner",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 45345,
+          "name": "James Anthony Thomas Vessey-Miller",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 8922,
+          "name": "Roger Weaver",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kursaal",
+      "ballot_paper_id": "local.southend-on-sea.kursaal.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 46327,
+          "name": "Billy Boulton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 85034,
+          "name": "Lee John Clark",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 7615,
+          "name": "Matt Dent",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133181,
+          "name": "Richard John Felton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124279,
+          "name": "Faye Heffernan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98176,
+          "name": "Lara Michelle Hurley",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 133182,
+          "name": "Liam Mannix",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leigh",
+      "ballot_paper_id": "local.southend-on-sea.leigh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 133216,
+          "name": "Ian Belfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124275,
+          "name": "Liam Christopher Brittle",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 73331,
+          "name": "Anita Maria Forde",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133217,
+          "name": "Enzo Antony Harrison",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 37932,
+          "name": "Carole Ann Mulroney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133218,
+          "name": "Freddie Nicholas Russell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133219,
+          "name": "Paul Stephen Thurgood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milton",
+      "ballot_paper_id": "local.southend-on-sea.milton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 111022,
+          "name": "Sandy Helen Van Deventer",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133230,
+          "name": "Jonathan Hoffman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8941,
+          "name": "Robert Christopher Howes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97740,
+          "name": "Bianca Eleanor Isherwood",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 73628,
+          "name": "Sarah-Ann Jardine",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133231,
+          "name": "Aaron James Lyons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 49985,
+          "name": "Maxine Sadza",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Prittlewell",
+      "ballot_paper_id": "local.southend-on-sea.prittlewell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41577,
+          "name": "Kevin Francis Buck",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125859,
+          "name": "Malla Reddy Gurram",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 70208,
+          "name": "Michael Eric Heaver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50546,
+          "name": "RJ Learmouth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86918,
+          "name": "Elizabeth Alexandra Smith",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 124918,
+          "name": "Jane Travers",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shoeburyness",
+      "ballot_paper_id": "local.southend-on-sea.shoeburyness.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 124919,
+          "name": "Samantha Claire Bax",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84916,
+          "name": "Kayleigh Kathleen Burgess",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133389,
+          "name": "Gabrielle Burt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 50269,
+          "name": "Tricia Cowdrey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133390,
+          "name": "River Jude",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133391,
+          "name": "Alex Moyies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133392,
+          "name": "James Darron Quail",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 41742,
+          "name": "Nick Ward",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southchurch",
+      "ballot_paper_id": "local.southend-on-sea.southchurch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 124278,
+          "name": "Martin Bright",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117140,
+          "name": "Peter Robert Little",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124280,
+          "name": "Eva Katherine Mansfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73353,
+          "name": "James Daniel Miller",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133401,
+          "name": "Nathan James Pickering",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124920,
+          "name": "Michael James Trace",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Laurence",
+      "ballot_paper_id": "local.southend-on-sea.st-laurence.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133405,
+          "name": "Frankie James Bird",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133406,
+          "name": "Judith May Canham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109224,
+          "name": "Gemma Marie Deeney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73344,
+          "name": "Lydia Ann Hyde",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 62639,
+          "name": "Karl James Lansley",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 38024,
+          "name": "Kev Malone",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Luke's",
+      "ballot_paper_id": "local.southend-on-sea.st-lukes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 7632,
+          "name": "Brian Ayling",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124273,
+          "name": "Jamie Franklin Chapman",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 98159,
+          "name": "Kenneth Smith Davidson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73935,
+          "name": "Tilly Hogrebe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109278,
+          "name": "James George Morrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133421,
+          "name": "James Christopher O'Rourke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7633,
+          "name": "Jason Stephen Pilley",
+          "party_name": "The Moon And Serpent Party"
+        },
+        {
+          "person_id": 124922,
+          "name": "Kranthi Sajja",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thorpe",
+      "ballot_paper_id": "local.southend-on-sea.thorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 125575,
+          "name": "Robert Daniel Peter Clemenson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133437,
+          "name": "John Harold Corrigan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124281,
+          "name": "Maria Heffernan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111025,
+          "name": "Adam Norman Isherwood",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 72809,
+          "name": "Katie Kurilecz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124274,
+          "name": "Diane Sossou",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 7808,
+          "name": "Martin William Terry",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124277,
+          "name": "Connor Winter",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Victoria",
+      "ballot_paper_id": "local.southend-on-sea.victoria.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41797,
+          "name": "Margaret Linda Borton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76026,
+          "name": "Phil Edey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98160,
+          "name": "Jolene Anne Hills",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133439,
+          "name": "Malik Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 62566,
+          "name": "Peter Walker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133440,
+          "name": "Carl Whitwell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Leigh",
+      "ballot_paper_id": "local.southend-on-sea.west-leigh.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133457,
+          "name": "Sekky Adams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 96467,
+          "name": "Stephen Joseph Cummins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109223,
+          "name": "Simon Gittus",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133458,
+          "name": "Alexander Samuel James Shaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124405,
+          "name": "Helen Anna-Greta Symmons",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 8930,
+          "name": "Verina Weaver",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Shoebury",
+      "ballot_paper_id": "local.southend-on-sea.west-shoebury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 42162,
+          "name": "John Sidney Batch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133473,
+          "name": "Brian Beggs",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124282,
+          "name": "Joseph Owen Grant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41799,
+          "name": "John Harland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133474,
+          "name": "Steve Harvey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95994,
+          "name": "Simon James Jones",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 133475,
+          "name": "Brian Jones",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Westborough",
+      "ballot_paper_id": "local.southend-on-sea.westborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 8,
+      "candidates": [
+        {
+          "person_id": 133486,
+          "name": "Ben Ike Aldridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84914,
+          "name": "Melissa Aylott",
+          "party_name": "Confelicity"
+        },
+        {
+          "person_id": 76121,
+          "name": "Suzanna Marie Edey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133487,
+          "name": "Amy Louise Heathcote",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133488,
+          "name": "Colin Anthony Hicks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 8979,
+          "name": "Stephen David Jordan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133489,
+          "name": "Gary Mark Antony Kandinsky",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 46328,
+          "name": "Kevin Reubin Robinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "basildon",
+    "council_name": "Basildon"
+  },
+  "wards": [
+    {
+      "ward_name": "Billericay East",
+      "ballot_paper_id": "local.basildon.billericay-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 88293,
+          "name": "Peter Bunyan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75223,
+          "name": "Laura Clark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 71287,
+          "name": "Stewart Goshawk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133575,
+          "name": "Denise Lydia Martin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96652,
+          "name": "Martyn James Mordecai",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Billericay West",
+      "ballot_paper_id": "local.basildon.billericay-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 134011,
+          "name": "Kevin Blackmore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 60735,
+          "name": "Tracey Hilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134012,
+          "name": "Krupa Jeevan Kollabathula",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 60736,
+          "name": "Daniel Lawrence",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88303,
+          "name": "Chris May",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burstead",
+      "ballot_paper_id": "local.basildon.burstead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109733,
+          "name": "Leslie Banks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60738,
+          "name": "Kevin Blake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134032,
+          "name": "Phillip Raymond Bruce",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75750,
+          "name": "Peter Lancaster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109536,
+          "name": "Daniel McGarry",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castledon & Crouch",
+      "ballot_paper_id": "local.basildon.castledon-crouch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 77652,
+          "name": "Christopher David Bateman",
+          "party_name": "British Democratic Party"
+        },
+        {
+          "person_id": 134052,
+          "name": "Stewart Blackett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77689,
+          "name": "Mark Richard Cottrell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134053,
+          "name": "Maximillian Eric Giddens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134054,
+          "name": "Zoe Tamar Hockton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42933,
+          "name": "Stewart Mott",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fryerns",
+      "ballot_paper_id": "local.basildon.fryerns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 9652,
+          "name": "Ann Blake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 26589,
+          "name": "Simon John Breedon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134072,
+          "name": "Eileen Marilyn Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 70117,
+          "name": "Eleanor Mary Donne",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134073,
+          "name": "Chelsea George",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60741,
+          "name": "Vivien Howard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 96411,
+          "name": "Rainbow Serina",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Laindon Park",
+      "ballot_paper_id": "local.basildon.laindon-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 134089,
+          "name": "Darren Gregg Gardner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9670,
+          "name": "Jeff Henry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77654,
+          "name": "Stephen Edward McCarthy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122788,
+          "name": "Wayne Milne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 82040,
+          "name": "Dave Murray",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134090,
+          "name": "Jessica Whitehead",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Langdon Hills",
+      "ballot_paper_id": "local.basildon.langdon-hills.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 36676,
+          "name": "Chris Allen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77663,
+          "name": "Walter Clarence Brown",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 111172,
+          "name": "Brian Button",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134172,
+          "name": "Damion Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134173,
+          "name": "Ian John Murray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 26592,
+          "name": "Steve Nice",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 7222,
+          "name": "None Of The Above X",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lee Chapel North",
+      "ballot_paper_id": "local.basildon.lee-chapel-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 134177,
+          "name": "Emma Elizabeth Blackmore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 63701,
+          "name": "Mike Chandler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134178,
+          "name": "Jose Antony Kattady",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44464,
+          "name": "Elaine McDonald",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 73872,
+          "name": "Deepak Shukla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84074,
+          "name": "Terry Webb",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nethermayne",
+      "ballot_paper_id": "local.basildon.nethermayne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 36679,
+          "name": "Yetunde Adeshile",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134204,
+          "name": "Elsa Benn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134205,
+          "name": "Matthew Hornsby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96213,
+          "name": "Chris Huggins",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134207,
+          "name": "Wayne Lowther",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109886,
+          "name": "Eddie Murphy",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pitsea North West",
+      "ballot_paper_id": "local.basildon.pitsea-north-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 26590,
+          "name": "Martin Howard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134235,
+          "name": "Jeff Noble",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9606,
+          "name": "Pat Reid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134236,
+          "name": "Michelle Savage",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134237,
+          "name": "Sine Surridge",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 73894,
+          "name": "Stuart James Terson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pitsea South East",
+      "ballot_paper_id": "local.basildon.pitsea-south-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 133820,
+          "name": "David Martin Abrahall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109767,
+          "name": "Jack Huggins",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133821,
+          "name": "Ryan McDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36683,
+          "name": "Craig Ronald Rimmer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109808,
+          "name": "Steven Robert Spowart",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109538,
+          "name": "Steven Willis",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Martin's",
+      "ballot_paper_id": "local.basildon.st-martins.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 122846,
+          "name": "Elizabeth Atkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 60739,
+          "name": "Andrew Buxton",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 122847,
+          "name": "Sam John Journet",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109539,
+          "name": "Ellie Matthewman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109893,
+          "name": "Deepak Roy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wickford North",
+      "ballot_paper_id": "local.basildon.wickford-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 88322,
+          "name": "Trevor Terence Hammond",
+          "party_name": "Wickford Independents"
+        },
+        {
+          "person_id": 79150,
+          "name": "Nicola Hoad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134247,
+          "name": "Billy Merrin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134248,
+          "name": "Viviane Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134249,
+          "name": "Steven Mark Swaby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109540,
+          "name": "Penny Anne Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wickford Park",
+      "ballot_paper_id": "local.basildon.wickford-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 32379,
+          "name": "Lewis Aaron Hooper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133772,
+          "name": "Sean Mundy",
+          "party_name": "Wickford Independents"
+        },
+        {
+          "person_id": 133773,
+          "name": "John Alan Peters",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109865,
+          "name": "Dean Sharpe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122771,
+          "name": "Sarah-Jane Shields",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133775,
+          "name": "Sam Twigg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109753,
+          "name": "Mike Woods",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

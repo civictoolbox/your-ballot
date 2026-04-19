@@ -1,0 +1,1364 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "calderdale",
+    "council_name": "Calderdale"
+  },
+  "wards": [
+    {
+      "ward_name": "Brighouse",
+      "ballot_paper_id": "local.calderdale.brighouse.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 66249,
+          "name": "Kim Atkinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134779,
+          "name": "Samuel James Bacon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77753,
+          "name": "Tina Benton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36860,
+          "name": "Howard Granville Blagbrough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134780,
+          "name": "Darren Nigel Commons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134781,
+          "name": "Brown Giwa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134782,
+          "name": "Mark Wayne Kimberlin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77755,
+          "name": "Brenda Monteith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134783,
+          "name": "Stephen Michael Mycroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134784,
+          "name": "Megan Nichols",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134785,
+          "name": "Tea Owens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12920,
+          "name": "Jennie Dawn Rigg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134786,
+          "name": "Derrie Callum Thickett",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Elland",
+      "ballot_paper_id": "local.calderdale.elland.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135371,
+          "name": "Karl Stephen Baines",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134805,
+          "name": "James Andrew Cook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36874,
+          "name": "Barry Edward Crossland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134806,
+          "name": "Joy Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134807,
+          "name": "Nigel Hatfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134808,
+          "name": "Steven Holroyd",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134809,
+          "name": "Peter John Hunt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134810,
+          "name": "Sammie Hurles-Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 101013,
+          "name": "Samuel Jackson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134811,
+          "name": "Simon James Kay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12926,
+          "name": "Mark Richard Mullany",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 661,
+          "name": "Donal Antony O'Hanlon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36606,
+          "name": "David William Veitch",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greetland",
+      "ballot_paper_id": "local.calderdale.greetland.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134845,
+          "name": "JD Anderson-Martin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12922,
+          "name": "Paul Alexander Bellenger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134846,
+          "name": "Glen Nicholas Cockroft",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134847,
+          "name": "Sam Franks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134848,
+          "name": "Thomas Ian Garnett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134849,
+          "name": "Sharron Hardman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 67661,
+          "name": "Sue Holdsworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134850,
+          "name": "Jessica Christel Sophia Martin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134851,
+          "name": "Lauren Katy Mead",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134852,
+          "name": "Jackie Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134853,
+          "name": "Stuart Murray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109734,
+          "name": "Mark Andrew Pitkethly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88329,
+          "name": "Christine June Prashad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134854,
+          "name": "Philip Geoffrey John Pringle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134855,
+          "name": "Ruth Walker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halifax Town",
+      "ballot_paper_id": "local.calderdale.halifax-town.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 109943,
+          "name": "Anne Baines",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134902,
+          "name": "Joseph Gibbons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134903,
+          "name": "Wajid Hussain",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134904,
+          "name": "Keith Ingle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134905,
+          "name": "Alex Rowan McKevitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134906,
+          "name": "Rhys Alexander Owens",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134907,
+          "name": "Rachel Reed Proctor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134908,
+          "name": "Aber Shakar Saghir",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 134909,
+          "name": "Jay Shaban",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134910,
+          "name": "Katherine Elizabeth Spivey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122680,
+          "name": "Roseanne Marie Sweeney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73329,
+          "name": "Joe Thompson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109781,
+          "name": "Kelly Thornham",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hebden Bridge & Todmorden East",
+      "ballot_paper_id": "local.calderdale.hebden-bridge-todmorden-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 134934,
+          "name": "Rebecca Boden",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 118167,
+          "name": "Scott Borrows",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134935,
+          "name": "James Thomas Connolly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36848,
+          "name": "Sarah Courtney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134936,
+          "name": "Paul Anthony Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134937,
+          "name": "Brian Hewson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134938,
+          "name": "Mark Richard Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109752,
+          "name": "Ben Jancovich",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134939,
+          "name": "Richard Stephen Beaumont Knockton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134940,
+          "name": "Hannah Louise Mickleburgh-Benn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134941,
+          "name": "Mikaela Tiffany Mills-Brand",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134943,
+          "name": "Margot Puddepha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134944,
+          "name": "Christine Shaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134945,
+          "name": "David Percy Sugden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118166,
+          "name": "Jonathan Charles Timbers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 34374,
+          "name": "Kieran Luke Turner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134946,
+          "name": "David Christopher Wainwright",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134947,
+          "name": "Chris Wood",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hipperholme & Lightcliffe",
+      "ballot_paper_id": "local.calderdale.hipperholme-lightcliffe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 135000,
+          "name": "Aisling Catherine Grace Blythe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135001,
+          "name": "Connor Dent",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135002,
+          "name": "Isabella Greenwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89106,
+          "name": "Vishal Gupta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135003,
+          "name": "Timothy James Holden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12933,
+          "name": "Steven Leigh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135004,
+          "name": "Nicola Jane Lovelady",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135005,
+          "name": "Valerie Joan Mycroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135006,
+          "name": "Frederick George Philp",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135007,
+          "name": "Mark Stuart Pullen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135008,
+          "name": "Steven George Sewell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135009,
+          "name": "Mick Shannon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135010,
+          "name": "James Ross Souper",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135011,
+          "name": "James Turner",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Illingworth & Mixenden",
+      "ballot_paper_id": "local.calderdale.illingworth-mixenden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135044,
+          "name": "Peter Robert Hillman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135045,
+          "name": "Rachel Anna Hollingworth",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135046,
+          "name": "Nikki Kelly",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12934,
+          "name": "Seán Loftus",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 109955,
+          "name": "Robert William Orange",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109651,
+          "name": "Nick Proctor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135047,
+          "name": "Joseph Simon Scanlon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135048,
+          "name": "Jane Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135049,
+          "name": "Dan Sutherland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135050,
+          "name": "Danny Sweeney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135051,
+          "name": "Andrew James Tagg",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109652,
+          "name": "Shane David Taylor",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Luddendenfoot",
+      "ballot_paper_id": "local.calderdale.luddendenfoot.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135029,
+          "name": "Jerrad Lee Dann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135030,
+          "name": "Jules Cian Devlin-Dickenson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135031,
+          "name": "Matthew Geraghty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100854,
+          "name": "Katie Jane Kimber",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135032,
+          "name": "Kate MacDonald",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135033,
+          "name": "Joseph Paul Stephen Matthews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135034,
+          "name": "Matthew Joel Isaac Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135035,
+          "name": "Scott Anthony Patient",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109942,
+          "name": "Mark Thomas Stanley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135036,
+          "name": "Emma Clare Sweaney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12963,
+          "name": "Rosemary Tatchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135037,
+          "name": "Christopher Thomas Wade",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135038,
+          "name": "Paul James Worth",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northowram & Shelf",
+      "ballot_paper_id": "local.calderdale.northowram-shelf.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135077,
+          "name": "David Banks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135078,
+          "name": "James Edward Brezinski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135079,
+          "name": "Alison Dunn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12925,
+          "name": "James Stephen Hepplestone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36875,
+          "name": "Martin Hey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135080,
+          "name": "Chris Ioanna",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 66725,
+          "name": "Naveed Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135081,
+          "name": "Richard Mark Pierson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135082,
+          "name": "Kathleen Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135083,
+          "name": "Diana Thorpe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 100859,
+          "name": "Dan Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ovenden",
+      "ballot_paper_id": "local.calderdale.ovenden.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 36850,
+          "name": "Mike Barnes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12941,
+          "name": "Peter Caffrey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135088,
+          "name": "Stuart John Cairney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135089,
+          "name": "Paul Dale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72793,
+          "name": "Danielle Afton Durrans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 89053,
+          "name": "Catherine Louise Graham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135090,
+          "name": "Stephen Paul Hodgson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36878,
+          "name": "Finn Mygind Jensen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135091,
+          "name": "Luna Ophelia Moon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135092,
+          "name": "Gordon Thorpe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135093,
+          "name": "Steve Whitaker",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park",
+      "ballot_paper_id": "local.calderdale.park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 109751,
+          "name": "Sohail Ashfaq",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 135113,
+          "name": "Fintan Michael Daly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135114,
+          "name": "Michael Darby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83872,
+          "name": "Mohammed Shazad Fazal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12951,
+          "name": "Charles Gate",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135115,
+          "name": "Sandeep Goyal",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135116,
+          "name": "Nagheena Haroon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135117,
+          "name": "Ruth Jane Heslop",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135118,
+          "name": "Osman Khalil",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135119,
+          "name": "Diccon Edward Lowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 55492,
+          "name": "Mark Stephen Pittaway",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89040,
+          "name": "Abdul Rehman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135120,
+          "name": "Toby Montgomery Rogan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36873,
+          "name": "Shakir Saghir",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 135121,
+          "name": "Megan Lynne Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135122,
+          "name": "Stephen Townend",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rastrick",
+      "ballot_paper_id": "local.calderdale.rastrick.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 109729,
+          "name": "Andrew Bramley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135166,
+          "name": "Simon Briggs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 36869,
+          "name": "Regan Gerhard Dickenson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 100987,
+          "name": "Mark Richard Holmes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135167,
+          "name": "Margareta Holmstedt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 12956,
+          "name": "Peter Judge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135168,
+          "name": "Andrew Campbell Menzies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135169,
+          "name": "Teddy Morgan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 66685,
+          "name": "Chris Pillai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135170,
+          "name": "Tony Rimmer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135171,
+          "name": "Katy Shannon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135172,
+          "name": "David Small",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135173,
+          "name": "Vic Tordoff",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135174,
+          "name": "Jackie Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryburn",
+      "ballot_paper_id": "local.calderdale.ryburn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 135206,
+          "name": "Anne Benton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 67650,
+          "name": "Keith John Butterick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135208,
+          "name": "Julia Fidelia Cockroft",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135210,
+          "name": "Peter Ehrhardt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135211,
+          "name": "Sian Nicola Fisher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 51155,
+          "name": "Christopher John Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135213,
+          "name": "Alex Greenwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 89078,
+          "name": "Michael Holdsworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135215,
+          "name": "Steven Jowett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135216,
+          "name": "Linda Noreen Levick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135217,
+          "name": "David Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135218,
+          "name": "Tabitha Peacock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109717,
+          "name": "Cordelia Prescott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 66601,
+          "name": "Robert Ernest Thornber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135219,
+          "name": "Leah Elizabeth Webster",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135220,
+          "name": "Marie Elizabeth Wright",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Salterhebble, Southowram & Skircoat Green",
+      "ballot_paper_id": "local.calderdale.salterhebble-southowram-skircoat-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 135249,
+          "name": "Don Bishop",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135251,
+          "name": "Tommy Fielden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135252,
+          "name": "Catherine Frost",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122685,
+          "name": "Paul Hawkaluk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135255,
+          "name": "Joanne O'Hanlon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135256,
+          "name": "Stephen Padgett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135258,
+          "name": "Mederic Robert George Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135259,
+          "name": "Gary Michael Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135261,
+          "name": "Phil Shire",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135262,
+          "name": "Yolande Shire",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135263,
+          "name": "Judith Mary Sugden",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sowerby Bridge",
+      "ballot_paper_id": "local.calderdale.sowerby-bridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 100984,
+          "name": "Simon Craig Ashton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 66195,
+          "name": "David Booth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135271,
+          "name": "Brigid Mary Featherstone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36856,
+          "name": "Dot Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124776,
+          "name": "Captain Loogie",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 135272,
+          "name": "Nigel Paul Marklew",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135273,
+          "name": "Daniel James Murgatroyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135274,
+          "name": "Mike Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135275,
+          "name": "Michelle Amanda Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135276,
+          "name": "Andrew Grant Varley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109665,
+          "name": "John Vaughan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7553,
+          "name": "Adam David Wilkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135277,
+          "name": "Simon Zonenblick",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Todmorden West",
+      "ballot_paper_id": "local.calderdale.todmorden-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 135292,
+          "name": "Alan Philip Benton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135293,
+          "name": "Peter John Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 56994,
+          "name": "Silvia Clare Dacre",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135294,
+          "name": "Jamie Furlong",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135295,
+          "name": "Deborah Michelle Garnett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135296,
+          "name": "Sarah Louise Goodfellow",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135297,
+          "name": "Tyler George Hanley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135298,
+          "name": "John Pendlebury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135299,
+          "name": "Stephen Ross",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126233,
+          "name": "Oscar Seville-Leach",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77751,
+          "name": "Nikki Stocks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72792,
+          "name": "Diana Helen Tremayne",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135300,
+          "name": "Julie Elizabeth Wood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wainhouse",
+      "ballot_paper_id": "local.calderdale.wainhouse.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 135324,
+          "name": "Ben Andrews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126461,
+          "name": "Sireesha Betha",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 122686,
+          "name": "Dave Mendes da Costa",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135325,
+          "name": "Cathy Featherstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135326,
+          "name": "Jeff Featherstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12966,
+          "name": "Stephen Gow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135327,
+          "name": "Katie Jackson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 73208,
+          "name": "Ann Kingstone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135328,
+          "name": "Gillian Elizabeth Manojlovic",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135329,
+          "name": "Ian Edward Pepper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135330,
+          "name": "Rachele Victoria Lilian Pipe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126443,
+          "name": "Gary Rae",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Warley",
+      "ballot_paper_id": "local.calderdale.warley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 36866,
+          "name": "Stephen Baines",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135349,
+          "name": "Irena Corkish",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135348,
+          "name": "Christian Corkish",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135350,
+          "name": "Mark Justin Durrans",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12982,
+          "name": "Ashley Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135351,
+          "name": "Asha Hinterland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135352,
+          "name": "Samuel Theodore Rowan Lionheart",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135353,
+          "name": "Sam Myatt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135354,
+          "name": "Anne Pitcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135355,
+          "name": "Jane Margaret Pugh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135356,
+          "name": "Esain Saddique",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 135357,
+          "name": "Gill Tolley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 100988,
+          "name": "Chris Wadsworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36880,
+          "name": "Katie Witham",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-confelicity",
+    "display_name": "Confelicity",
+    "candidate_count": 17,
+    "council_count": 1,
+    "raw_party_names": [
+      "Confelicity"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 84914,
+      "name": "Melissa Aylott",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Westborough"
+    },
+    {
+      "person_id": 124275,
+      "name": "Liam Christopher Brittle",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Leigh"
+    },
+    {
+      "person_id": 84916,
+      "name": "Kayleigh Kathleen Burgess",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Shoeburyness"
+    },
+    {
+      "person_id": 111026,
+      "name": "Robert John Cammidge",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Chalkwell"
+    },
+    {
+      "person_id": 124273,
+      "name": "Jamie Franklin Chapman",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "St Luke's"
+    },
+    {
+      "person_id": 85034,
+      "name": "Lee John Clark",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Kursaal"
+    },
+    {
+      "person_id": 111022,
+      "name": "Sandy Helen Van Deventer",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Milton"
+    },
+    {
+      "person_id": 86928,
+      "name": "Nicky William Gilbert",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Belfairs"
+    },
+    {
+      "person_id": 98160,
+      "name": "Jolene Anne Hills",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Victoria"
+    },
+    {
+      "person_id": 95994,
+      "name": "Simon James Jones",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "West Shoebury"
+    },
+    {
+      "person_id": 62639,
+      "name": "Karl James Lansley",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "St Laurence"
+    },
+    {
+      "person_id": 73353,
+      "name": "James Daniel Miller",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Southchurch"
+    },
+    {
+      "person_id": 86918,
+      "name": "Elizabeth Alexandra Smith",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Prittlewell"
+    },
+    {
+      "person_id": 124274,
+      "name": "Diane Sossou",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Thorpe"
+    },
+    {
+      "person_id": 95992,
+      "name": "Simon Alec Robert Spooner",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Eastwood Park"
+    },
+    {
+      "person_id": 133200,
+      "name": "Ronish Dineshbhai Sutariya",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Blenheim Park"
+    },
+    {
+      "person_id": 124405,
+      "name": "Helen Anna-Greta Symmons",
+      "party_name": "Confelicity",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "West Leigh"
+    }
+  ]
+}

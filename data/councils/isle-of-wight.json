@@ -1,0 +1,1142 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "isle-of-wight",
+    "council_name": "Isle of Wight"
+  },
+  "wards": [
+    {
+      "ward_name": "Bembridge",
+      "ballot_paper_id": "local.isle-of-wight.bembridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 132047,
+          "name": "Rowena Katharine Crichton-Stuart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80933,
+          "name": "Warren Adam Drew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44582,
+          "name": "Mark Rochell",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Binstead & Fishbourne",
+      "ballot_paper_id": "local.isle-of-wight.binstead-fishbourne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132048,
+          "name": "Ramesh Babu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80877,
+          "name": "Ian William Dore",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132049,
+          "name": "Alice Walker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132050,
+          "name": "Terence Wing",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brading & St Helens",
+      "ballot_paper_id": "local.isle-of-wight.brading-st-helens.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 31433,
+          "name": "Jonathan Francis Bacon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80879,
+          "name": "Alexander Buggie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132063,
+          "name": "Tara Hill",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brighstone, Calbourne & Shalfleet",
+      "ballot_paper_id": "local.isle-of-wight.brighstone-calbourne-shalfleet.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132068,
+          "name": "Kim Frances Jeffreys",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132069,
+          "name": "Vincent Hamilton Speed",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31423,
+          "name": "Nick Stuart",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 102207,
+          "name": "Ed Surridge",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carisbrooke & Gunville",
+      "ballot_paper_id": "local.isle-of-wight.carisbrooke-gunville.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 132070,
+          "name": "James Robert Downard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4912,
+          "name": "Vix Lowthion",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132071,
+          "name": "Mark Ian Reen",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central Rural",
+      "ballot_paper_id": "local.isle-of-wight.central-rural.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132075,
+          "name": "Caroline Anne Gladwin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 73044,
+          "name": "Julia Ann Laursen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118904,
+          "name": "Simon James Richards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132076,
+          "name": "James Whelan",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chale, Niton & Shorwell",
+      "ballot_paper_id": "local.isle-of-wight.chale-niton-shorwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 132080,
+          "name": "Anne Bishop",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24696,
+          "name": "Claire Leah Critchison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132081,
+          "name": "Mark Nigh",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowes Medina",
+      "ballot_paper_id": "local.isle-of-wight.cowes-medina.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 80884,
+          "name": "Oscar Bicket",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132085,
+          "name": "Joe Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132086,
+          "name": "Dan Jeffries-Revert",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24703,
+          "name": "Lora Jane Peacey-Wilcox",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132087,
+          "name": "Rachel Shereen Thacker",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowes North",
+      "ballot_paper_id": "local.isle-of-wight.cowes-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132091,
+          "name": "Ian Arnold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132092,
+          "name": "Siobhan Michelle Barney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132093,
+          "name": "Richard Edmunds Hollis",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132094,
+          "name": "Jock Rafferty",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowes South & Northwood",
+      "ballot_paper_id": "local.isle-of-wight.cowes-south-northwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132096,
+          "name": "Gordon Adam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132097,
+          "name": "Wayne Doidge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132098,
+          "name": "Monique Louise Gallop",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 24707,
+          "name": "John Ulysses Anthony Nicholson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24688,
+          "name": "Bob Packham",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cowes West & Gurnard",
+      "ballot_paper_id": "local.isle-of-wight.cowes-west-gurnard.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 24682,
+          "name": "Paul Andrew Fuller",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132100,
+          "name": "Phil Sanders",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132101,
+          "name": "Sue Whitewood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Cowes",
+      "ballot_paper_id": "local.isle-of-wight.east-cowes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132102,
+          "name": "Peter Ronald Ball",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24687,
+          "name": "Karl Love",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132103,
+          "name": "Mark Andrew Stone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1050,
+          "name": "Christopher Byron Warleigh-Lack",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fairlee & Whippingham",
+      "ballot_paper_id": "local.isle-of-wight.fairlee-whippingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132104,
+          "name": "Sophus Magill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 31365,
+          "name": "Patricia Margaret Packham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 31399,
+          "name": "Matt Price",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132105,
+          "name": "John Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freshwater North & Yarmouth",
+      "ballot_paper_id": "local.isle-of-wight.freshwater-north-yarmouth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 41432,
+          "name": "Simon Bevis Ayre",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132116,
+          "name": "Debbie Conlin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80891,
+          "name": "Timothy John Jeffreys",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132117,
+          "name": "Florence Sarlat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132118,
+          "name": "David John Whistance",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Freshwater South",
+      "ballot_paper_id": "local.isle-of-wight.freshwater-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 120595,
+          "name": "Becca Cameron",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 43232,
+          "name": "Greta Farian",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 114893,
+          "name": "Ian Pickering",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132123,
+          "name": "Peta Adrienne Stevenson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Haylands & Swanmore",
+      "ballot_paper_id": "local.isle-of-wight.haylands-swanmore.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 15457,
+          "name": "Peter Banks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 31408,
+          "name": "Vanessa Claire Churchman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 31387,
+          "name": "Simon Peter Haytack",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132131,
+          "name": "Les Kirkby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31411,
+          "name": "Malcolm Ross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 31412,
+          "name": "Sandy Stephens",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lake North",
+      "ballot_paper_id": "local.isle-of-wight.lake-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 24649,
+          "name": "Bob Blezzard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132140,
+          "name": "Jenny Hicks",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120597,
+          "name": "Bill Nigh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24660,
+          "name": "Adrian Charles Whittaker",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lake South",
+      "ballot_paper_id": "local.isle-of-wight.lake-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 24657,
+          "name": "Paul James Brading",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135446,
+          "name": "Finton Anthony Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135447,
+          "name": "Harry Eccles",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135448,
+          "name": "Ros Freeman",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mountjoy & Shide",
+      "ballot_paper_id": "local.isle-of-wight.mountjoy-shide.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109008,
+          "name": "Ray Harrington-Vail",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77776,
+          "name": "Alan Hunter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77777,
+          "name": "Martin Peter Oliver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133323,
+          "name": "Richard Quinn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74916,
+          "name": "Stephen James Rushbrook",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Nettlestone & Seaview",
+      "ballot_paper_id": "local.isle-of-wight.nettlestone-seaview.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136027,
+          "name": "Mouli Akundi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136028,
+          "name": "Jules Hayward",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136029,
+          "name": "Jennifer Holmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136030,
+          "name": "Janet Mace",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newchurch, Havenstreet & Ashey",
+      "ballot_paper_id": "local.isle-of-wight.newchurch-havenstreet-ashey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136033,
+          "name": "Tony Barry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78852,
+          "name": "Anna Maria Beach",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136034,
+          "name": "Jude Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136035,
+          "name": "Raj Patel",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newport Central",
+      "ballot_paper_id": "local.isle-of-wight.newport-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136039,
+          "name": "Norman Arnold",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136040,
+          "name": "Stephen Bird",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24644,
+          "name": "Julie Marie Jones-Evans",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136041,
+          "name": "Emerson Maguire",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newport West",
+      "ballot_paper_id": "local.isle-of-wight.newport-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 133467,
+          "name": "Frank Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133468,
+          "name": "Chris Mace",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80904,
+          "name": "Raymond Redrup",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Osborne",
+      "ballot_paper_id": "local.isle-of-wight.osborne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 70598,
+          "name": "Julie Burridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 70599,
+          "name": "Stephen Colin Hendry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 70600,
+          "name": "Michael Paler",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136042,
+          "name": "Tracy Cathleen Reardon",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136043,
+          "name": "Paul Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pan & Barton",
+      "ballot_paper_id": "local.isle-of-wight.pan-barton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 136045,
+          "name": "Martin John Bower",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136046,
+          "name": "Stephen John Reading",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 31439,
+          "name": "Brian George Tyndall",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Parkhurst & Hunnyhill",
+      "ballot_paper_id": "local.isle-of-wight.parkhurst-hunnyhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 2,
+      "candidates": [
+        {
+          "person_id": 31386,
+          "name": "Andrew Charles William Garratt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136049,
+          "name": "Alan Stay",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryde Appley & Elmfield",
+      "ballot_paper_id": "local.isle-of-wight.ryde-appley-elmfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 136050,
+          "name": "Ross Caruana",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 31384,
+          "name": "Michael Lilley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136051,
+          "name": "Abdul Mateen",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryde Monktonmead",
+      "ballot_paper_id": "local.isle-of-wight.ryde-monktonmead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136054,
+          "name": "Chris Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 24417,
+          "name": "Karen Theresa Lucioni",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 136055,
+          "name": "Sue Maddison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136056,
+          "name": "Matt Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryde North West",
+      "ballot_paper_id": "local.isle-of-wight.ryde-north-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136061,
+          "name": "Peter Burke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 24613,
+          "name": "Phil Jordan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136062,
+          "name": "Reuben Burns Loake",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 80944,
+          "name": "Lou Temel",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryde South East",
+      "ballot_paper_id": "local.isle-of-wight.ryde-south-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136067,
+          "name": "Andy Clayton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136068,
+          "name": "Richard Eric Collins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136069,
+          "name": "Stephen Alexander Neil Double",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 80934,
+          "name": "Jessica Higgins",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 136070,
+          "name": "Jen Hughes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136071,
+          "name": "Chris Way",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryde West",
+      "ballot_paper_id": "local.isle-of-wight.ryde-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136074,
+          "name": "Carol Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136075,
+          "name": "Ethan Luke Mackay Cass",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136076,
+          "name": "Owen Potter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 5766,
+          "name": "Ian Rodney Stephens",
+          "party_name": "Independent Network"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sandown North",
+      "ballot_paper_id": "local.isle-of-wight.sandown-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 31379,
+          "name": "Debbie Andre",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80948,
+          "name": "Clive James Cheetham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136087,
+          "name": "Alex Lightfoot",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136088,
+          "name": "Robert Sean Newton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136089,
+          "name": "Cinnamon Noakes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136090,
+          "name": "Joan Solomon",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sandown South",
+      "ballot_paper_id": "local.isle-of-wight.sandown-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136091,
+          "name": "Frank Baldry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4447,
+          "name": "Emily Brothers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136092,
+          "name": "Christie Louise Greenaway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136093,
+          "name": "Paddy Lightfoot",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 24628,
+          "name": "Ian David Ward",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shanklin Central",
+      "ballot_paper_id": "local.isle-of-wight.shanklin-central.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 24666,
+          "name": "Michael Thomas Frank Beston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119360,
+          "name": "Robert May",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 116327,
+          "name": "Sarah Jane Morris",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136106,
+          "name": "Stephen Charles Reynolds",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shanklin South",
+      "ballot_paper_id": "local.isle-of-wight.shanklin-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136115,
+          "name": "Wendy Cooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136116,
+          "name": "Billy James Richard Hill",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136117,
+          "name": "David John Llewellyn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136118,
+          "name": "Christopher Thomas Lloyd",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 24675,
+          "name": "Chris Quirk",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Totland & Colwell",
+      "ballot_paper_id": "local.isle-of-wight.totland-colwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136169,
+          "name": "Michelle Abbott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136170,
+          "name": "Tom Bignell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136171,
+          "name": "Eric James Gray",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136172,
+          "name": "John Hoath",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80961,
+          "name": "Chris Jarman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136173,
+          "name": "Paul Geraint Pugh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ventnor & St Lawrence",
+      "ballot_paper_id": "local.isle-of-wight.ventnor-st-lawrence.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 109006,
+          "name": "Ed Blake",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136180,
+          "name": "Craig Dabbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136181,
+          "name": "Robin Frederick Jarvis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136182,
+          "name": "Linda Jefferies",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 31377,
+          "name": "Graham James Mark Perks",
+          "party_name": "Vectis Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wootton Bridge",
+      "ballot_paper_id": "local.isle-of-wight.wootton-bridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136201,
+          "name": "Sue Betts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18157,
+          "name": "Ed Hopper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 31453,
+          "name": "Linda Pauline Pitcher",
+          "party_name": "Vectis Party"
+        },
+        {
+          "person_id": 136202,
+          "name": "Tony Raffe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136203,
+          "name": "Elisa Williams",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 120598,
+          "name": "Tony Zeid",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wroxall, Lowtherville & Bonchurch",
+      "ballot_paper_id": "local.isle-of-wight.wroxall-lowtherville-bonchurch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 117691,
+          "name": "David Groocock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136205,
+          "name": "Jonathan Howard Idle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81603,
+          "name": "Mark Jefferies",
+          "party_name": "Independent Network"
+        },
+        {
+          "person_id": 136206,
+          "name": "Ruby Monteath",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

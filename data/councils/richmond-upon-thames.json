@@ -1,0 +1,1474 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "richmond-upon-thames",
+    "council_name": "Richmond upon Thames"
+  },
+  "wards": [
+    {
+      "ward_name": "Barnes",
+      "ballot_paper_id": "local.richmond-upon-thames.barnes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 135995,
+          "name": "Ivan Avanessov",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91747,
+          "name": "Sam Cullen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35980,
+          "name": "Helen Edward",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135996,
+          "name": "Mark David Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124012,
+          "name": "Carlos Garofolin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91690,
+          "name": "Andy Hale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135997,
+          "name": "Miranda Katharine Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135998,
+          "name": "Christopher MacNee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135999,
+          "name": "Kim Marshall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91692,
+          "name": "Sujata Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136000,
+          "name": "Duncan Rasor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136001,
+          "name": "Guy Simon Rose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136002,
+          "name": "Stephen Michael Russell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91693,
+          "name": "Fiona Sacks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136003,
+          "name": "Kieran John Sheedy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124011,
+          "name": "Sandy Urquhart",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Sheen",
+      "ballot_paper_id": "local.richmond-upon-thames.east-sheen.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 4487,
+          "name": "Julia Cambridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134469,
+          "name": "Danielle Coleman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89593,
+          "name": "Margaret Dane",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43692,
+          "name": "Mike Freedman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48200,
+          "name": "Deborah Genders",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134470,
+          "name": "David Hopwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134471,
+          "name": "Mohsin Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134472,
+          "name": "Nick King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134473,
+          "name": "Tracey Mullins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134474,
+          "name": "Claudia Nascimento",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134475,
+          "name": "Philip Nuthall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134476,
+          "name": "Luke Richard Parker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134477,
+          "name": "Juliet Lisa Rawlings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134478,
+          "name": "Jill Winser",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fulwell & Hampton Hill",
+      "ballot_paper_id": "local.richmond-upon-thames.fulwell-hampton-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134253,
+          "name": "Jo Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48013,
+          "name": "Jonathan Cardy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91718,
+          "name": "John Walter Edmonds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134254,
+          "name": "Nansi Eggleton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134255,
+          "name": "Magnus Forster-Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134256,
+          "name": "John Goodwin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134257,
+          "name": "Tim Highmoor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48014,
+          "name": "Matthew Hull",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91725,
+          "name": "James Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134259,
+          "name": "Julian James Joseph Marsh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134260,
+          "name": "Gavin Nichols",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134261,
+          "name": "David Trigg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47905,
+          "name": "Eva Tutchell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134262,
+          "name": "Matthew Wherry",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ham, Petersham & Richmond Riverside",
+      "ballot_paper_id": "local.richmond-upon-thames.ham-petersham-richmond-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134208,
+          "name": "Georgina Susan Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48015,
+          "name": "Penny Frost",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134209,
+          "name": "Seamus Joyce",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134210,
+          "name": "Dermot Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134211,
+          "name": "Oliver Sami Lafci",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134212,
+          "name": "Helen Fleur Montgomery",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134213,
+          "name": "Helen Caroline Nance",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134214,
+          "name": "Jaydan Okunola",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134215,
+          "name": "John Farley Rose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134216,
+          "name": "Lauren Stansfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134217,
+          "name": "Andrew Jeremy Swarbrick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134218,
+          "name": "John Traversi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134219,
+          "name": "Robert Holt Tudway",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134220,
+          "name": "Mohammad Sharif Walid",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75804,
+          "name": "Chas Warlow",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampton",
+      "ballot_paper_id": "local.richmond-upon-thames.hampton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134103,
+          "name": "Veronica Mary Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134104,
+          "name": "Valentina Sophia Butenko",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91729,
+          "name": "Sam Dalton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46206,
+          "name": "Christopher Stephen Fawcett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134105,
+          "name": "Derek Jones",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134106,
+          "name": "Nick Kennerley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47903,
+          "name": "Caroline Anne Loewenstein",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134107,
+          "name": "Rody Mager",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134108,
+          "name": "Debbie Montague",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134109,
+          "name": "James Oliva-Hauxwell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134110,
+          "name": "Meera Rajendran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46209,
+          "name": "Gareth David Roberts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134112,
+          "name": "Lewis William Sturdy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134113,
+          "name": "Stuart Adam Wright",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampton North",
+      "ballot_paper_id": "local.richmond-upon-thames.hampton-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134964,
+          "name": "Lucy Jane Abercrombie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109025,
+          "name": "Carey Bishop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45034,
+          "name": "Alan Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91723,
+          "name": "Jeremy Davis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134966,
+          "name": "Martin Ashley Fraiel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91724,
+          "name": "Elizabeth Gant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134967,
+          "name": "Stephen Richard Hancock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134968,
+          "name": "Max Hoskinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134969,
+          "name": "Cathy Howe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91742,
+          "name": "Christopher Richard Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91726,
+          "name": "Nupur Majumdar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48196,
+          "name": "Philip Joseph Moshi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134970,
+          "name": "Poppy Robbins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134971,
+          "name": "Ayesha Sadiq",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134972,
+          "name": "John Yianni",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hampton Wick & South Teddington",
+      "ballot_paper_id": "local.richmond-upon-thames.hampton-wick-south-teddington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134533,
+          "name": "Helen June Baxter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48209,
+          "name": "Joe Broughton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45300,
+          "name": "Neil Roland Browning",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134534,
+          "name": "Richard Siu-Ming Cheung",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134535,
+          "name": "Mircea Chisacof",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134536,
+          "name": "Edward Ronald George Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134537,
+          "name": "Tony Fiddes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134538,
+          "name": "Wendy Hatto",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134539,
+          "name": "Michael James MacKie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47904,
+          "name": "Jim Millard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134540,
+          "name": "Magan Singodia",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134541,
+          "name": "Liz Tidhar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47906,
+          "name": "Gerard Elliott Ward",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134542,
+          "name": "Mike Young",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heathfield",
+      "ballot_paper_id": "local.richmond-upon-thames.heathfield.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135223,
+          "name": "Alastair Armstrong",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135224,
+          "name": "Fiona Maria Theresa Barry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45035,
+          "name": "John Coombs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135225,
+          "name": "Lizzie Curtis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45037,
+          "name": "George Edward Dryja",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135226,
+          "name": "Anne Feeney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135227,
+          "name": "Keith John Goodenough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91711,
+          "name": "Jonathan Charles Lebosquet",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91737,
+          "name": "Liz MacKenzie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135229,
+          "name": "Michael John McCarthy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45039,
+          "name": "Lesley Pollesche",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135230,
+          "name": "Alex Starling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135231,
+          "name": "Robert Stephen Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135232,
+          "name": "Rae Vermeulen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135233,
+          "name": "Michael Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kew",
+      "ballot_paper_id": "local.richmond-upon-thames.kew.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 134055,
+          "name": "Anousheh Alavi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134056,
+          "name": "Anthony Blanco",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134057,
+          "name": "Margaret Buter-Morris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134058,
+          "name": "Kelvin Cheatle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134059,
+          "name": "Ray Ferris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134060,
+          "name": "Maureen Goldthorpe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47307,
+          "name": "Barnaby Marder",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134061,
+          "name": "Geoffrey O'Connell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134062,
+          "name": "Xandi Steele",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134063,
+          "name": "Alex Stylianou",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91699,
+          "name": "Clare Vollum",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134064,
+          "name": "Glyn Douglas Wallis-Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134065,
+          "name": "Andrew Webster",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mortlake & Barnes Common",
+      "ballot_paper_id": "local.richmond-upon-thames.mortlake-barnes-common.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135453,
+          "name": "Paisley Arnold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135454,
+          "name": "Seth Ashby-Hawkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91679,
+          "name": "Francine Loudon Bates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135457,
+          "name": "Geri Cox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135458,
+          "name": "Ciaran Edward Cusack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135460,
+          "name": "Clare Delmar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48022,
+          "name": "Michael Dingemans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135462,
+          "name": "John Kirwan Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91682,
+          "name": "Anton McNulty-Howard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135463,
+          "name": "Nadia Miriam Mirza",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126283,
+          "name": "Lucas Spencer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135465,
+          "name": "Rhys Irvine James Thomas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135467,
+          "name": "Peter Vider",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135468,
+          "name": "David Charles White",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91686,
+          "name": "Matthew David Woolston",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Richmond",
+      "ballot_paper_id": "local.richmond-upon-thames.north-richmond.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135526,
+          "name": "Tom Absolon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47186,
+          "name": "Nancy Baldwin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135527,
+          "name": "Amen Bayat",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135528,
+          "name": "Alan Charnley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135529,
+          "name": "Jonathan Alexander Dredge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135530,
+          "name": "Jane Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135531,
+          "name": "Jenna Kruger",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47187,
+          "name": "Fiona Mary O'Farrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 5650,
+          "name": "Thomas O'Malley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135532,
+          "name": "David Palairet",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47188,
+          "name": "Richard Pyne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135534,
+          "name": "William George Spencer Richens",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135533,
+          "name": "Maggie Richens",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135535,
+          "name": "Diane Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47190,
+          "name": "Richard Warren",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Richmond",
+      "ballot_paper_id": "local.richmond-upon-thames.south-richmond.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135632,
+          "name": "Massimo Chiesa",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135633,
+          "name": "Christine Cullis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135634,
+          "name": "Max Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135635,
+          "name": "Susan Gamble",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135636,
+          "name": "Paddy Griffith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135637,
+          "name": "Alexi Hatto",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135638,
+          "name": "David McAlpine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135639,
+          "name": "Charlie Protheroe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135640,
+          "name": "Candice Schneider",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46295,
+          "name": "Sheba Sogol",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35981,
+          "name": "Phillip Brian Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91751,
+          "name": "Chris Varley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43698,
+          "name": "Paulina Vassileva",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135641,
+          "name": "Marion White",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135642,
+          "name": "Tanya Williams",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Twickenham",
+      "ballot_paper_id": "local.richmond-upon-thames.south-twickenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133445,
+          "name": "Michael Charles Anstey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48480,
+          "name": "Richard Bennett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46289,
+          "name": "Jane Boulton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48023,
+          "name": "Michael Butlin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133447,
+          "name": "Daniel Michael Freeman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133448,
+          "name": "David Goldberg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91663,
+          "name": "Christina Joy Rose Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133449,
+          "name": "Gareth Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133446,
+          "name": "Jack Clothier Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91744,
+          "name": "Rhi Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133450,
+          "name": "Robert MacIntyre",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48486,
+          "name": "David Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133451,
+          "name": "Ross Monaghan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133452,
+          "name": "Ian Nieuwstadt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48490,
+          "name": "David Richard Porter",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Margarets & North Twickenham",
+      "ballot_paper_id": "local.richmond-upon-thames.st-margarets-north-twickenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 135798,
+          "name": "Sean Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135799,
+          "name": "Pearse Patrick Benjamin Bates",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135800,
+          "name": "Milo Clarke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135801,
+          "name": "Richard Clemence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135802,
+          "name": "Peter Jonathan Crooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47793,
+          "name": "Alexander Ehmann",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135803,
+          "name": "Christopher David Andrew George",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135804,
+          "name": "Paul Grindrod",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135805,
+          "name": "Elizabeth Mary Georgia Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35979,
+          "name": "Nathaniel Ikeazor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91736,
+          "name": "Brian William Jarvis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48024,
+          "name": "Katie Mansfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135806,
+          "name": "Maria Margiotta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135807,
+          "name": "Howard Digby Roberts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135808,
+          "name": "Sandra Jane Roberts",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Teddington",
+      "ballot_paper_id": "local.richmond-upon-thames.teddington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134298,
+          "name": "Julian David Allbut",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45298,
+          "name": "Richard Baker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134299,
+          "name": "Phulmaya Bhusal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134300,
+          "name": "Kay Marilyn Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134301,
+          "name": "Ken Denaro",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134302,
+          "name": "Elizabeth Dolan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134303,
+          "name": "Charlie Engel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91735,
+          "name": "Phil Giesler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91741,
+          "name": "Jon Hollis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134304,
+          "name": "James Lloyd-Thomas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48484,
+          "name": "Sampson Edward Low",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40143,
+          "name": "James Dylan Thomson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134305,
+          "name": "Eddie Thorne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134306,
+          "name": "Patricia Margaret Tivendale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134307,
+          "name": "Mark Vellacott",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Twickenham Riverside",
+      "ballot_paper_id": "local.richmond-upon-thames.twickenham-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134411,
+          "name": "Maria Barry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134412,
+          "name": "Martin Vincent Bergin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134413,
+          "name": "Maggie Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44589,
+          "name": "James Henry Chard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134414,
+          "name": "Andrew Duncan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134415,
+          "name": "Sabrina Susan Fuller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134416,
+          "name": "Liam David Humble",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134417,
+          "name": "Adrian Johnston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44590,
+          "name": "Julia Neden-Watts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134418,
+          "name": "Oliver Patrick Stafford Needs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134419,
+          "name": "Steve Roest",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134420,
+          "name": "Merhala Selvarajah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134421,
+          "name": "Edward Sherwood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46296,
+          "name": "David Sparrow",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Twickenham",
+      "ballot_paper_id": "local.richmond-upon-thames.west-twickenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 46288,
+          "name": "Piers Allen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135866,
+          "name": "Fiona Maureen Brannon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135869,
+          "name": "Rosalie Callway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135872,
+          "name": "Surya Cooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135876,
+          "name": "Oliver Timothy Freeman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48211,
+          "name": "Adam Steuart Gladstone",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135878,
+          "name": "Stephen Guichard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135879,
+          "name": "Paul Healey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46291,
+          "name": "Alan Juriansz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135880,
+          "name": "Zahra Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135881,
+          "name": "Gabrielle Teresa Maria Koukis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135882,
+          "name": "Richard George Lailey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135883,
+          "name": "George Anthony McQueen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135884,
+          "name": "Rachel Robertson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135885,
+          "name": "Neil Wynn-Jones",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitton",
+      "ballot_paper_id": "local.richmond-upon-thames.whitton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134337,
+          "name": "Syed Junaid Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134338,
+          "name": "Max Balfour",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134339,
+          "name": "David Ian Bradshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134340,
+          "name": "Keith Buckman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134341,
+          "name": "Peter Stuart Denver Dombi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134342,
+          "name": "David Alan Eckert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134343,
+          "name": "Niall George Fahey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45304,
+          "name": "Elizabeth Foster",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41972,
+          "name": "Jo Humphreys",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134344,
+          "name": "Nathanael MacDonald",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134345,
+          "name": "Pam Marum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134346,
+          "name": "Stephen Jacklin Pulfrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134347,
+          "name": "Kuldev Sehra",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134348,
+          "name": "Qudsia Shah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134349,
+          "name": "Nicolas Silkov-Yianni",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

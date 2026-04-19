@@ -1,0 +1,622 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "tameside",
+    "council_name": "Tameside"
+  },
+  "wards": [
+    {
+      "ward_name": "Ashton Hurst",
+      "ballot_paper_id": "local.tameside.ashton-hurst.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136102,
+          "name": "Samantha Elisha Aspin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126075,
+          "name": "Paige Iborra",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136103,
+          "name": "Keiron Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136104,
+          "name": "Noreen Shahzad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136105,
+          "name": "Rachel Elizabeth Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ashton St Michael's",
+      "ballot_paper_id": "local.tameside.ashton-st-michaels.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126012,
+          "name": "Danny Carr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41871,
+          "name": "Bill Fairfoull",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136085,
+          "name": "Hasnain Mehmood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126076,
+          "name": "Morgan Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136086,
+          "name": "David Andrew Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ashton Waterloo",
+      "ballot_paper_id": "local.tameside.ashton-waterloo.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 126351,
+          "name": "Raymond Dunning",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41884,
+          "name": "Lee Alan Huntbach",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136119,
+          "name": "Emma Jones",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136120,
+          "name": "Muhammad Tahir",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Audenshaw",
+      "ballot_paper_id": "local.tameside.audenshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 89744,
+          "name": "Nick Axford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42058,
+          "name": "Thomas Anthony Dunne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112274,
+          "name": "Glenn Curtis Piper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136121,
+          "name": "Kim Roberts",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Denton North East",
+      "ballot_paper_id": "local.tameside.denton-north-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136047,
+          "name": "Veronica Dawson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126077,
+          "name": "Jane Elizabeth Martin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15677,
+          "name": "Denise Ann Ward",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126013,
+          "name": "Aron Webb",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Denton South",
+      "ballot_paper_id": "local.tameside.denton-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136025,
+          "name": "Peter James Cotton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136026,
+          "name": "Alexander Culbert",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126014,
+          "name": "Audra Murray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126078,
+          "name": "Jackie Olden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126541,
+          "name": "Lord Febrezeo Quinnoa-Stakebake",
+          "party_name": "The Official Monster Raving Loony Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Denton West",
+      "ballot_paper_id": "local.tameside.denton-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 136021,
+          "name": "Shoaib Akhtar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126015,
+          "name": "Dan Bennett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126079,
+          "name": "Tony Tibbenham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132714,
+          "name": "Brenda Warrington",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Droylsden East",
+      "ballot_paper_id": "local.tameside.droylsden-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136217,
+          "name": "Caroline England",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136218,
+          "name": "James Alexander Lloyd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42068,
+          "name": "Susan Quinn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 71826,
+          "name": "Tony Wilson",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 126080,
+          "name": "Archie Young",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Droylsden West",
+      "ballot_paper_id": "local.tameside.droylsden-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136228,
+          "name": "Sharon Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136229,
+          "name": "Rebecca Callaghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136230,
+          "name": "Ann Holland",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136231,
+          "name": "Joe Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50530,
+          "name": "Paul Molloy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126081,
+          "name": "Laura Catherine Rose",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dukinfield",
+      "ballot_paper_id": "local.tameside.dukinfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 126082,
+          "name": "Michael Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136237,
+          "name": "James Anthony Rhodes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52882,
+          "name": "John Charles Taylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136238,
+          "name": "Adam Paul Wolstenholme",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dukinfield Stalybridge",
+      "ballot_paper_id": "local.tameside.dukinfield-stalybridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126083,
+          "name": "Matt Alloway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126352,
+          "name": "Jake Frater",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136251,
+          "name": "Linda Mary Freeman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 102199,
+          "name": "Malcolm Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52916,
+          "name": "Dave Sweeton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hyde Godley",
+      "ballot_paper_id": "local.tameside.hyde-godley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 52931,
+          "name": "Betty Affleck",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126349,
+          "name": "Mark Beese",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83643,
+          "name": "John Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 116931,
+          "name": "Faisal Kabir Nixon",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 112293,
+          "name": "Callum Percival",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hyde Newton",
+      "ballot_paper_id": "local.tameside.hyde-newton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 42266,
+          "name": "Peter Stanley Ball-Foster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112290,
+          "name": "Philip Martin Fitzpatrick",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126016,
+          "name": "Sam Mooney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112283,
+          "name": "Andrew Moss",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14372,
+          "name": "Peter Robinson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126084,
+          "name": "Hannah Yates",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hyde Werneth",
+      "ballot_paper_id": "local.tameside.hyde-werneth.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 52959,
+          "name": "Shibley Alam",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136145,
+          "name": "Andy Furnival",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136146,
+          "name": "Abdullah Imran",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 100145,
+          "name": "Chris Parr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126017,
+          "name": "Christopher Stones",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longdendale",
+      "ballot_paper_id": "local.tameside.longdendale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 103335,
+          "name": "Francesca Jo Coates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135586,
+          "name": "Greg McNally",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111907,
+          "name": "Roy Thomas Miller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135587,
+          "name": "Lucas North",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 62864,
+          "name": "Luke Nicholas Robinson",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mossley",
+      "ballot_paper_id": "local.tameside.mossley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 126085,
+          "name": "Simon David Irving",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 52969,
+          "name": "Daniel Percival",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126018,
+          "name": "Gary Roylance",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19087,
+          "name": "Taf Sharif",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peter's",
+      "ballot_paper_id": "local.tameside.st-peters.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135603,
+          "name": "Muhammad Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135604,
+          "name": "Marie Fairhurst",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135605,
+          "name": "Gaynor Francis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123618,
+          "name": "Ahmed Mehmood",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135606,
+          "name": "Atta Ul-Rasool",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stalybridge North",
+      "ballot_paper_id": "local.tameside.stalybridge-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 126019,
+          "name": "Liam Duff",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 64780,
+          "name": "Adrian James Pearce",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134051,
+          "name": "Jim Watson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 106316,
+          "name": "Philip Wilson-Marks",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stalybridge South",
+      "ballot_paper_id": "local.tameside.stalybridge-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 126350,
+          "name": "Jenny Ardron-Adams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14301,
+          "name": "Liam Billington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42488,
+          "name": "Amanda Jane Hickling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89736,
+          "name": "David Alexander McAllister",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136036,
+          "name": "Mike Molloy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136037,
+          "name": "Ian David Sharkett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136038,
+          "name": "Jane Valentine",
+          "party_name": "Independent"
+        }
+      ]
+    }
+  ]
+}

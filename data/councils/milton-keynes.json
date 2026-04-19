@@ -1,0 +1,1728 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "milton-keynes",
+    "council_name": "Milton Keynes"
+  },
+  "wards": [
+    {
+      "ward_name": "Bletchley Park & Fenny Stratford",
+      "ballot_paper_id": "local.milton-keynes.bletchley-park-fenny-stratford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 128925,
+          "name": "Waqas Ahmad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128928,
+          "name": "Christy Amalu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128976,
+          "name": "Ray Stagg Blackman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128932,
+          "name": "Hena Chowdhury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128939,
+          "name": "Brad Connors",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128940,
+          "name": "Matt Drewett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128953,
+          "name": "Oliver James Dudden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128954,
+          "name": "Mo Imran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128965,
+          "name": "Tariq Abdul Karim",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128966,
+          "name": "Ayesha Khanom",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128967,
+          "name": "Nigel Matthew Long",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128968,
+          "name": "Nabeel Nazir",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128969,
+          "name": "Ammar Noorwali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128970,
+          "name": "Caroline Picking",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128971,
+          "name": "Pete Darren Lucky Leigh Pitfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128975,
+          "name": "Adam James Rolfe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128977,
+          "name": "Sarah Jane Tomlin",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bletchley South",
+      "ballot_paper_id": "local.milton-keynes.bletchley-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129320,
+          "name": "Mohammed Irfan Bhatti",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129321,
+          "name": "Jordan Lee Cattell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129322,
+          "name": "Graham William Cuthbert",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129323,
+          "name": "Julie Ann Embury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129324,
+          "name": "Ed Hume",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129325,
+          "name": "Taz Imran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129326,
+          "name": "Mohammed Delwar Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129327,
+          "name": "Dhirendra Mehta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129328,
+          "name": "Dami Oluyemi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129329,
+          "name": "Melody Stephen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129330,
+          "name": "Steve Swain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129331,
+          "name": "Alfred Dominic Vella",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129332,
+          "name": "Carol Vella",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129333,
+          "name": "Harry Watson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129334,
+          "name": "Anthony Stephen Wheeler",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bletchley West",
+      "ballot_paper_id": "local.milton-keynes.bletchley-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 67898,
+          "name": "Ray Brady",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129574,
+          "name": "Margaret Cullum",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 50221,
+          "name": "Shery Delfani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99947,
+          "name": "Ben Edwards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42648,
+          "name": "Joe French",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129575,
+          "name": "Finlay Clifford Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129576,
+          "name": "Mick Legg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111540,
+          "name": "Mandy Legg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129577,
+          "name": "Oliver Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78366,
+          "name": "Sean McCabe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129578,
+          "name": "Melvyn Rook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129579,
+          "name": "Millie Rook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129580,
+          "name": "Sameer Sayed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129581,
+          "name": "Lacey Michele Skinner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2180,
+          "name": "Iain Aitken Stewart",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129582,
+          "name": "Tanjeela Sufi",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bradwell",
+      "ballot_paper_id": "local.milton-keynes.bradwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 12997,
+          "name": "Marie Bradburn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13002,
+          "name": "Kerrie Bradburn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129970,
+          "name": "Frank Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129971,
+          "name": "Urmi Chakraborty",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129972,
+          "name": "Andrew Michael Chester",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41753,
+          "name": "Rex Exon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129973,
+          "name": "Dave Bruce Grattan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129974,
+          "name": "Victoria Charlotte Howlett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129975,
+          "name": "Gowri Shanker Koyada",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13016,
+          "name": "Zoe Nolan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41755,
+          "name": "Krishna Murthy Panthula",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129976,
+          "name": "Amitabh Roy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129977,
+          "name": "Richie Rivers Sunasky",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89959,
+          "name": "Carol Ann Wood",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129978,
+          "name": "John Young",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Broughton & Moulsoe",
+      "ballot_paper_id": "local.milton-keynes.broughton-moulsoe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 42705,
+          "name": "Sam Crooks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 68540,
+          "name": "James Richard Hadfield",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129595,
+          "name": "Derek Kilcoyne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129648,
+          "name": "Alan Lovell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129649,
+          "name": "Richard John Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13018,
+          "name": "Victoria McLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129650,
+          "name": "Steve Murray",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129651,
+          "name": "Madelaine Kate O'Brien",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73602,
+          "name": "Nana Ofori-Atta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129652,
+          "name": "Michael Robinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129653,
+          "name": "Shaun Keith Rose",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99949,
+          "name": "Alfred Saint-Clair",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 129603,
+          "name": "Daniel Simpson-Leek",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 108880,
+          "name": "Saskia Soden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123836,
+          "name": "Wing Tsang",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129654,
+          "name": "Thomas Welch",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Campbell Park & Willen",
+      "ballot_paper_id": "local.milton-keynes.campbell-park-willen.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129961,
+          "name": "Lois Adura",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129962,
+          "name": "Soraya Billimoria",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129963,
+          "name": "Natalie Camacho",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129964,
+          "name": "Faye Carlisle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118223,
+          "name": "Chrissy Dingsdale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111529,
+          "name": "Graham Eaton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129965,
+          "name": "Paul Christopher Galvin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123838,
+          "name": "Emily Ho",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111547,
+          "name": "Mike Kasibo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90506,
+          "name": "Yusrah Kayani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129966,
+          "name": "David Metanis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129967,
+          "name": "Daniel Edward Bryan Nelson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 68302,
+          "name": "Paul Trendall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129968,
+          "name": "Roy Christopher Westwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129969,
+          "name": "Ian Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central Milton Keynes",
+      "ballot_paper_id": "local.milton-keynes.central-milton-keynes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129443,
+          "name": "Elina Apse",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129444,
+          "name": "Chris Bertram-Gregory",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129445,
+          "name": "Evie Chance",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129446,
+          "name": "Martin Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129447,
+          "name": "Jordan Coventry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129448,
+          "name": "Brian Greenwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111530,
+          "name": "Brian Hingley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13008,
+          "name": "Darron James Kendrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129449,
+          "name": "Richard Stuart McCafferty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129450,
+          "name": "Anthea Nelmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129451,
+          "name": "John Peter Nelmes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129452,
+          "name": "James Douglas Page",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129453,
+          "name": "Ripal Parmar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129454,
+          "name": "Paul Joseph Williams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129455,
+          "name": "Toni Zapata-Webborn",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Danesborough",
+      "ballot_paper_id": "local.milton-keynes.danesborough.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 99924,
+          "name": "Tracey Bailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129987,
+          "name": "Jasmine Von Ballmoos",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129979,
+          "name": "Glen Dersley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129980,
+          "name": "Adrian Dnes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129981,
+          "name": "Tony Fabrizio",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129982,
+          "name": "Dale Andrew Fiddy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99786,
+          "name": "Simon Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13013,
+          "name": "Victoria Hopkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41963,
+          "name": "David George Hopkins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129983,
+          "name": "Peter Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129984,
+          "name": "Keith Kirby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 71469,
+          "name": "Johnny Luk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129985,
+          "name": "Gary John Singleton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129986,
+          "name": "Ian Stewart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129988,
+          "name": "Dylan Ward",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Furzton",
+      "ballot_paper_id": "local.milton-keynes.furzton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129542,
+          "name": "Rajini Arthur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123839,
+          "name": "Shawna Barnes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90421,
+          "name": "Veronica Belcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129543,
+          "name": "Keith Paul Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13292,
+          "name": "Peter Cannon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129544,
+          "name": "Peter Joseph Charles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129545,
+          "name": "Udeh Christian-Iwuagwu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129546,
+          "name": "Annabelle Alexandra Grattan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129547,
+          "name": "Leonora Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111546,
+          "name": "Ketan Kadakia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89983,
+          "name": "James Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 67900,
+          "name": "Saleena Raja",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129548,
+          "name": "Thavapalan Vamathevan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129549,
+          "name": "Thomas Walker-Werth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129550,
+          "name": "Iris Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Linford",
+      "ballot_paper_id": "local.milton-keynes.great-linford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 49073,
+          "name": "Sophie Bell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 4837,
+          "name": "Peter Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129989,
+          "name": "Matthew Fensome",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129990,
+          "name": "Deepa Ganapathula",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129991,
+          "name": "Sean Ganley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129992,
+          "name": "Frankie Geary",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129993,
+          "name": "Rebecca Amy Holden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129994,
+          "name": "Gillian Holloway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129996,
+          "name": "Andrew John Humphries",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78449,
+          "name": "Naseem Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42317,
+          "name": "Alan Mallyon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 123840,
+          "name": "Perry Morgan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129997,
+          "name": "Geetha Morla",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13303,
+          "name": "Martin Ronald Petchey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111549,
+          "name": "Sean Porter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129995,
+          "name": "George Humphrey Thomas",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hanslope",
+      "ballot_paper_id": "local.milton-keynes.hanslope.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 99914,
+          "name": "Ali Andrew",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129865,
+          "name": "Jennifer Anne Carter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42577,
+          "name": "Rebecca Cave",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129866,
+          "name": "Rachel James",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129867,
+          "name": "Ian McDonald",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Bradwell",
+      "ballot_paper_id": "local.milton-keynes.new-bradwell.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 129998,
+          "name": "Stephen Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129999,
+          "name": "Julian Vernon Camies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130000,
+          "name": "Pavankumar Divve",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3355,
+          "name": "Alan Francis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130001,
+          "name": "Tim Gomm",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130002,
+          "name": "Stephen Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78345,
+          "name": "Gary Nicholas Lloyd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78420,
+          "name": "Shanika Caitlin Mahendran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130003,
+          "name": "Andrew Graham Naylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90572,
+          "name": "Babs Wright",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newport Pagnell",
+      "ballot_paper_id": "local.milton-keynes.newport-pagnell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 68543,
+          "name": "Andy Carr",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13315,
+          "name": "Jane Carr",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129423,
+          "name": "Kenny Choong",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99927,
+          "name": "Lynn Cocksedge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129424,
+          "name": "Glen Alan Fry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129425,
+          "name": "Sue Garner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129426,
+          "name": "Laurence Philip Haig",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129427,
+          "name": "Tiffany Lorrayne Joosten",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129428,
+          "name": "Norman Miles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 13290,
+          "name": "Tony Oyakhire",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129429,
+          "name": "Angela Preece",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129430,
+          "name": "Colin Scott Rodden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129431,
+          "name": "Jazz Tehara",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12993,
+          "name": "Elaine Wales",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129432,
+          "name": "Adrian Mark Miller Yardley",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Olney & Rural",
+      "ballot_paper_id": "local.milton-keynes.olney-rural.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130005,
+          "name": "Robert Philip Blakemore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13314,
+          "name": "Anthony Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130006,
+          "name": "Duncan Stewart Carter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130007,
+          "name": "Malcolm Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42195,
+          "name": "Peter James Geary",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99915,
+          "name": "Scott Humphries",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130008,
+          "name": "Tara Jefferies",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130009,
+          "name": "Tracey Ann Knox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13289,
+          "name": "Keith McLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130010,
+          "name": "Amy Mustard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42273,
+          "name": "Andy Reilly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 68545,
+          "name": "Dan Rowland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130011,
+          "name": "Martin Rudd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130012,
+          "name": "David Andrew John Tyler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130013,
+          "name": "Pamela Wilson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ouzel Valley",
+      "ballot_paper_id": "local.milton-keynes.ouzel-valley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130014,
+          "name": "Harry Bancroft",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78394,
+          "name": "Uroy Clarke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130015,
+          "name": "Chris Curtis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130016,
+          "name": "Darren Dorrington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41860,
+          "name": "Jenni Ferrans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78400,
+          "name": "Charlotte Amanda Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123841,
+          "name": "Macsene Isles-Ahite",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130017,
+          "name": "Mark Brian Lewis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130018,
+          "name": "Nicholas John Richard Lynch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130019,
+          "name": "Enesha Mahbubani",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130020,
+          "name": "Brian McGee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130021,
+          "name": "Alex Mensah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130022,
+          "name": "Florence Montague",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130023,
+          "name": "Pascal Schumachers",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130024,
+          "name": "Helene Sovig",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stony Stratford",
+      "ballot_paper_id": "local.milton-keynes.stony-stratford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 78407,
+          "name": "Liam Andrews",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130027,
+          "name": "Tabitha Brown",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130028,
+          "name": "Paul Nicholas Bush",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130029,
+          "name": "Richard Greenwood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78344,
+          "name": "Joe Hearnshaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 67899,
+          "name": "Derek William Heath",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13014,
+          "name": "Russell Houchin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130030,
+          "name": "Mark Hughes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130031,
+          "name": "Denise Latner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78473,
+          "name": "David Anthony Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130032,
+          "name": "Vincent James Peddle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130033,
+          "name": "David William Priest",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130034,
+          "name": "Nicholas James Senogles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 68536,
+          "name": "Chris Wardle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5223,
+          "name": "Jennifer Wilson-Marklew",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tattenhoe",
+      "ballot_paper_id": "local.milton-keynes.tattenhoe.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130044,
+          "name": "Lubaaba Amatullah Al-Azami",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40208,
+          "name": "Christian Durugo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130045,
+          "name": "David James Edmonds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130046,
+          "name": "Justin Ko",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130047,
+          "name": "James Lancaster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130048,
+          "name": "Mike McMahon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130049,
+          "name": "David Minty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73608,
+          "name": "Shazna Muzammil",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13327,
+          "name": "Hannah Frances O'Neill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130050,
+          "name": "Lomas Ashok Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130051,
+          "name": "Krish Pillai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130053,
+          "name": "Humna Raja",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130052,
+          "name": "Asad Raja",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130054,
+          "name": "Kyle Douglas Riley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78483,
+          "name": "Manish Verma",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Walton",
+      "ballot_paper_id": "local.milton-keynes.walton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 78406,
+          "name": "Ade Adeliyi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 78376,
+          "name": "Ben Adewale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 99785,
+          "name": "Duncan Banks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130069,
+          "name": "Adrian David Burton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130070,
+          "name": "Gabriel Ferreira Costa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90332,
+          "name": "Monica Dowling",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130071,
+          "name": "Rhian Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130072,
+          "name": "Tom Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130073,
+          "name": "Christopher John Lock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130074,
+          "name": "Hazel McGee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130075,
+          "name": "Jasmine Afua Messent",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130076,
+          "name": "Glen Michael Moran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130077,
+          "name": "Sandip Suresh Sali",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111527,
+          "name": "Rishi Sharda",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91196,
+          "name": "Clare Hannah Tevlin",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Watling",
+      "ballot_paper_id": "local.milton-keynes.watling.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 129520,
+          "name": "Sandra Claire Blackledge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129521,
+          "name": "Rachel Davidge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129522,
+          "name": "Tolu Fasanya",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78427,
+          "name": "Garrath Jonathan Green",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129523,
+          "name": "Donald William Hoyle",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126271,
+          "name": "Tina Latifah Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129524,
+          "name": "Ash Joosten",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 67772,
+          "name": "Amanda Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 13026,
+          "name": "Leo James Montague",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129525,
+          "name": "Mary Theresa Moore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 78346,
+          "name": "Akash Nayee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129526,
+          "name": "Steve Porritt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129527,
+          "name": "Timothy John Prentice",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129528,
+          "name": "Kunal Puri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129529,
+          "name": "Elaine Styles",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wolverton",
+      "ballot_paper_id": "local.milton-keynes.wolverton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 130055,
+          "name": "David Matthew Allott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111548,
+          "name": "Victoria Bamisile",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111539,
+          "name": "Edis Bevan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130056,
+          "name": "Tom Bulman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130057,
+          "name": "Matt Hinton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130058,
+          "name": "Joseph Jon Howard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78501,
+          "name": "Ansar Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130059,
+          "name": "Nicky Kenny",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130060,
+          "name": "Jack Lang",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130061,
+          "name": "Catherine Mary Leigh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130062,
+          "name": "Elizabeth Marlow",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130063,
+          "name": "Catriona Carol McMahon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130064,
+          "name": "Jeremy Penwarden",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130065,
+          "name": "Gillian Perris",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130066,
+          "name": "Charlie Toes",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 50223,
+          "name": "Lauren Townsend",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130067,
+          "name": "Iulian Ungureanu",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woughton & Fishermead",
+      "ballot_paper_id": "local.milton-keynes.woughton-fishermead.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 126267,
+          "name": "Peter Bakare",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 99920,
+          "name": "Edith Bald",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130089,
+          "name": "Jeannie Bartrick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130088,
+          "name": "James Bartrick",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130090,
+          "name": "Tony Coughlan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130093,
+          "name": "Jonathan La Crette",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 78510,
+          "name": "Donna Fuller",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130091,
+          "name": "Phil Haslam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13015,
+          "name": "John Stewart Howe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130092,
+          "name": "Simon Jackson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 68541,
+          "name": "Amber Teagan McQuillan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130094,
+          "name": "Mark David Morris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130095,
+          "name": "Trudy Munyongani",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130096,
+          "name": "Aparna Patllola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130097,
+          "name": "Catherine Rachael Payne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130098,
+          "name": "Leigh-Anne Perryman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130099,
+          "name": "Gary Stephen Toms",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130100,
+          "name": "Jane Whild",
+          "party_name": "Independent"
+        }
+      ]
+    }
+  ]
+}

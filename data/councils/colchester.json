@@ -1,0 +1,576 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "colchester",
+    "council_name": "Colchester"
+  },
+  "wards": [
+    {
+      "ward_name": "Berechurch",
+      "ballot_paper_id": "local.colchester.berechurch.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132403,
+          "name": "Max Maxwell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118466,
+          "name": "Patrick Guy Merienne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 60468,
+          "name": "Chris Piggott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132404,
+          "name": "Crystelle Rollo-Hislop",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15347,
+          "name": "Martyn Warnes",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castle",
+      "ballot_paper_id": "local.colchester.castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 81092,
+          "name": "Martin Gillingham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132667,
+          "name": "Susan Mary Jennings",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86875,
+          "name": "Amy Kirkby-Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132668,
+          "name": "Richard Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132669,
+          "name": "Laura Philpin",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Greenstead",
+      "ballot_paper_id": "local.colchester.greenstead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110890,
+          "name": "Ronnie Achille",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110891,
+          "name": "Elizabeth Alake-Akinyemi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86880,
+          "name": "Lisa Jane Cross",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132673,
+          "name": "Daniel Ribton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132170,
+          "name": "Daryl Swain",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highwoods",
+      "ballot_paper_id": "local.colchester.highwoods.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 123184,
+          "name": "Angus Allan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132676,
+          "name": "Alison Dyvig",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132677,
+          "name": "Sue Ettritch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132434,
+          "name": "Mark Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132678,
+          "name": "Jocelyn Emma Law",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lexden & Braiswick",
+      "ballot_paper_id": "local.colchester.lexden-braiswick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132382,
+          "name": "Keith Charles Coomber",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127226,
+          "name": "James Robert David Jefferies",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132267,
+          "name": "Jacqui Morley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 95303,
+          "name": "Sara Jane Naylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132685,
+          "name": "Paul Ojo",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marks Tey & Layer",
+      "ballot_paper_id": "local.colchester.marks-tey-layer.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132204,
+          "name": "Andrew Patrick Harding",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45658,
+          "name": "Mark John Hull",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 109547,
+          "name": "Berthold Lausen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15443,
+          "name": "Jackie MacLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132690,
+          "name": "Wayne Tearle",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mersea & Pyefleet",
+      "ballot_paper_id": "local.colchester.mersea-pyefleet.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132265,
+          "name": "Heidi Cornish",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15461,
+          "name": "Robert Alec Davidson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86895,
+          "name": "Natalie Eldred",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100633,
+          "name": "John Micheal Knight",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132268,
+          "name": "Christopher Paul Perera",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mile End",
+      "ballot_paper_id": "local.colchester.mile-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132712,
+          "name": "Marianne Andersen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48691,
+          "name": "Pauline Bacon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45659,
+          "name": "David King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15363,
+          "name": "Amanda Jane Kirke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132713,
+          "name": "Flavia Popescu-Richardson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Town & Christ Church",
+      "ballot_paper_id": "local.colchester.new-town-christ-church.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 14099,
+          "name": "Andrew Canessa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132716,
+          "name": "Andrew Eddy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15496,
+          "name": "Annesley Hardy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110993,
+          "name": "Alan Mathias",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 100523,
+          "name": "Ian Partridge",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 86925,
+          "name": "Kayleigh Rippingale",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Heath & The Hythe",
+      "ballot_paper_id": "local.colchester.old-heath-the-hythe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132437,
+          "name": "Alyssa Katherine Carrington",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15387,
+          "name": "Andrew John Higginson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132730,
+          "name": "Simon Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14108,
+          "name": "Lee Paul Scordis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 60505,
+          "name": "Jenny Stevens",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Prettygate",
+      "ballot_paper_id": "local.colchester.prettygate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110872,
+          "name": "Chris Coates",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132715,
+          "name": "Stella Eldon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 80576,
+          "name": "David Linghorn-Baker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 60558,
+          "name": "John Loxley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 100634,
+          "name": "Sophie Almina Preston-Hall",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rural North",
+      "ballot_paper_id": "local.colchester.rural-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 15401,
+          "name": "Gary David Braddy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 100639,
+          "name": "Karen Dawn Maxwell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132674,
+          "name": "Alex Elizabeth McCormick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126402,
+          "name": "William D'Urban Sunnucks",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132675,
+          "name": "Graham Wilson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shrub End",
+      "ballot_paper_id": "local.colchester.shrub-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 15491,
+          "name": "Robert Charles Brannan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132662,
+          "name": "James Child",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132663,
+          "name": "Cameron Hope",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132664,
+          "name": "Mick Spindler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132665,
+          "name": "Bevan Waghorn",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Anne's & St John's",
+      "ballot_paper_id": "local.colchester.st-annes-st-johns.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 132368,
+          "name": "Christine Dale",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132369,
+          "name": "Dean Dasley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96404,
+          "name": "Sebastian Dwyer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15563,
+          "name": "Paul Smith",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stanway",
+      "ballot_paper_id": "local.colchester.stanway.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 106219,
+          "name": "Amir Anbouche",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132637,
+          "name": "Lizzie Bolton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132638,
+          "name": "Cody Jon Butler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132639,
+          "name": "Mike Saunders",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81147,
+          "name": "Clare Smee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132206,
+          "name": "John Spademan",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tiptree",
+      "ballot_paper_id": "local.colchester.tiptree.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132604,
+          "name": "Lewis David Burn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15361,
+          "name": "Barry Gilheany",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118370,
+          "name": "Aimee Louise Keteca",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130474,
+          "name": "Rhys Kenneth Smithson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15438,
+          "name": "Sue Waite",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wivenhoe",
+      "ballot_paper_id": "local.colchester.wivenhoe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132587,
+          "name": "Zac Heskins",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132588,
+          "name": "Leighton Lee James Sealeaf",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132589,
+          "name": "Cecily Hope Spelling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132171,
+          "name": "Christopher Leslie Frank Thompson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 15613,
+          "name": "Andrea Luxford Vaughan",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

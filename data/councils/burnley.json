@@ -1,0 +1,445 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "burnley",
+    "council_name": "Burnley"
+  },
+  "wards": [
+    {
+      "ward_name": "Bank Hall",
+      "ballot_paper_id": "local.burnley.bank-hall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 129377,
+          "name": "Mohammed Alkas Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129378,
+          "name": "Afrasiab Anwar",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129379,
+          "name": "Trevor Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Briercliffe",
+      "ballot_paper_id": "local.burnley.briercliffe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 97763,
+          "name": "Pete Coles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43841,
+          "name": "Pippa Lishman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43837,
+          "name": "Susan Margaret Nutter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121038,
+          "name": "Mark Poulton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brunshaw",
+      "ballot_paper_id": "local.burnley.brunshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129387,
+          "name": "Josh Graham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 87845,
+          "name": "Jack Launer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74977,
+          "name": "Maison McGowan-Doe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123205,
+          "name": "Millie Towers",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cliviger with Worsthorne",
+      "ballot_paper_id": "local.burnley.cliviger-with-worsthorne.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 43812,
+          "name": "Gail Barton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97874,
+          "name": "Frank Bartram",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110908,
+          "name": "Simon John Bonney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123223,
+          "name": "Affan Khan Burki",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 121024,
+          "name": "Gavin Theaker",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Coal Clough with Deerplay",
+      "ballot_paper_id": "local.burnley.coal-clough-with-deerplay.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 1534,
+          "name": "Gordon Birtwistle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110905,
+          "name": "Abbey Hartley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121184,
+          "name": "Tom Pickup",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91473,
+          "name": "Jeffrey Slee",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Daneshouse with Stoneyholme",
+      "ballot_paper_id": "local.burnley.daneshouse-with-stoneyholme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110881,
+          "name": "James David Harrison",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43874,
+          "name": "Shah Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 121050,
+          "name": "Eddie Kutavicius",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129400,
+          "name": "Muhammad Shahid Mahmood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gannow",
+      "ballot_paper_id": "local.burnley.gannow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 121183,
+          "name": "Daniel Sam Armitage",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43873,
+          "name": "Alex Hall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 28431,
+          "name": "Neil Mottershead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129411,
+          "name": "Angela Radcliffe",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gawthorpe",
+      "ballot_paper_id": "local.burnley.gawthorpe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 43956,
+          "name": "Alun Lewis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129401,
+          "name": "Edward Lee Swift",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129402,
+          "name": "Victoria Taylor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110887,
+          "name": "Rhys Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hapton with Park",
+      "ballot_paper_id": "local.burnley.hapton-with-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110889,
+          "name": "Elaine Julie Cotterell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129392,
+          "name": "Steve Keogh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15082,
+          "name": "Jamie McGowan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129393,
+          "name": "Sue Price",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lanehead",
+      "ballot_paper_id": "local.burnley.lanehead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129403,
+          "name": "Raf Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 43833,
+          "name": "Sue Graham",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129404,
+          "name": "James Halstead",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13876,
+          "name": "Andrew Robert Newhouse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129405,
+          "name": "Asif Raja",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Queensgate",
+      "ballot_paper_id": "local.burnley.queensgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129380,
+          "name": "Zulkernehn Hayat",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 80661,
+          "name": "Carol Lukey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 121023,
+          "name": "Javad Mokhammad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129382,
+          "name": "Felix Nowell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rosegrove with Lowerhouse",
+      "ballot_paper_id": "local.burnley.rosegrove-with-lowerhouse.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110903,
+          "name": "Christopher Paul Bridges",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6022,
+          "name": "Arthur Gordon Lishman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129384,
+          "name": "Kate Mottershead",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129385,
+          "name": "Liam Thomson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 121051,
+          "name": "Daniel Thomas Andrew Tierney",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rosehill with Burnley Wood",
+      "ballot_paper_id": "local.burnley.rosehill-with-burnley-wood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129412,
+          "name": "Laura Coles",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 32038,
+          "name": "Dale Joseph Ferrier",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 19086,
+          "name": "Kathryn Haworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129413,
+          "name": "Fin Hewitt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129414,
+          "name": "Jeff Sumner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Trinity",
+      "ballot_paper_id": "local.burnley.trinity.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 80653,
+          "name": "Julie Ann Hurt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 121027,
+          "name": "Dylan Edward Rea",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129388,
+          "name": "Kev Shackell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whittlefield with Ightenhill",
+      "ballot_paper_id": "local.burnley.whittlefield-with-ightenhill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 43926,
+          "name": "Janet Hall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129415,
+          "name": "Helen Frances Heap",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 129416,
+          "name": "Charlie Allen Hindle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 74969,
+          "name": "Mike John Steel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129417,
+          "name": "Chris Weekes",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

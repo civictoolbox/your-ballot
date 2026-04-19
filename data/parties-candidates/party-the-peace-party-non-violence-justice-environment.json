@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-peace-party-non-violence-justice-environment",
+    "display_name": "The Peace Party - Non-violence, Justice, Environment",
+    "candidate_count": 2,
+    "council_count": 2,
+    "raw_party_names": [
+      "The Peace Party - Non-violence, Justice, Environment"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 1891,
+      "name": "Jim Duggan",
+      "party_name": "The Peace Party - Non-violence, Justice, Environment",
+      "council_slug": "west-sussex",
+      "council_name": "West Sussex",
+      "ward_name": "Horsham Riverside"
+    },
+    {
+      "person_id": 28127,
+      "name": "John Hugh Morris",
+      "party_name": "The Peace Party - Non-violence, Justice, Environment",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Guildford West"
+    }
+  ]
+}

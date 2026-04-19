@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-the-liberal-party",
+    "display_name": "The Liberal Party",
+    "candidate_count": 2,
+    "council_count": 2,
+    "raw_party_names": [
+      "The Liberal Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 119313,
+      "name": "Tinashe Chipawe",
+      "party_name": "The Liberal Party",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Carholme"
+    },
+    {
+      "person_id": 8859,
+      "name": "Stephen Anthony Graham",
+      "party_name": "The Liberal Party",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Norcot"
+    }
+  ]
+}

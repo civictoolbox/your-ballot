@@ -1,0 +1,462 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "adur",
+    "council_name": "Adur"
+  },
+  "wards": [
+    {
+      "ward_name": "Buckingham",
+      "ballot_paper_id": "local.adur.buckingham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9372,
+          "name": "Kevin Boram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135369,
+          "name": "David Stephen Cotton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77009,
+          "name": "Gabrielle Crisp",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135370,
+          "name": "David Joseph Devoy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111974,
+          "name": "William Harpley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Churchill",
+      "ballot_paper_id": "local.adur.churchill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135391,
+          "name": "Vikki Fryer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77007,
+          "name": "Mike Mendoza",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76724,
+          "name": "Steve Neocleous",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 9500,
+          "name": "Tony Nicklen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135393,
+          "name": "Stuart Ian Richardson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65455,
+          "name": "Ashley Ridley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cokeham",
+      "ballot_paper_id": "local.adur.cokeham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135414,
+          "name": "Adam Alexander Baxter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87423,
+          "name": "Tony Bellasis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135415,
+          "name": "Jim Doubtfire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9496,
+          "name": "Alun Wynne Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111968,
+          "name": "David Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastbrook",
+      "ballot_paper_id": "local.adur.eastbrook.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135481,
+          "name": "Jacqueline Bartram",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135482,
+          "name": "Kelvin Howard Fry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9484,
+          "name": "Patrick George Ginnelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135483,
+          "name": "David John Lovelidge",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135484,
+          "name": "Joby Pannell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillside",
+      "ballot_paper_id": "local.adur.hillside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 135074,
+          "name": "Declan Decke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135075,
+          "name": "Rhys Bradley Grinstead",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135076,
+          "name": "Pat McGrath",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76990,
+          "name": "Leila Yasmin Powell Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor",
+      "ballot_paper_id": "local.adur.manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 38270,
+          "name": "Carol Albury",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135067,
+          "name": "Mark Grahame Burton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111954,
+          "name": "Cheikh Amed Tidiane Gueye",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86418,
+          "name": "Jude Harvey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135068,
+          "name": "Effy Walsh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Marine",
+      "ballot_paper_id": "local.adur.marine.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76742,
+          "name": "Pat Alden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135514,
+          "name": "Paul Garrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76858,
+          "name": "Neville James Pressley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111938,
+          "name": "Troy Wade",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87560,
+          "name": "Julia Watts",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mash Barn",
+      "ballot_paper_id": "local.adur.mash-barn.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9519,
+          "name": "Lee Cowen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135546,
+          "name": "Victoria Charlotte Fairman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135547,
+          "name": "Susan Fry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135548,
+          "name": "Katie Piatt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135549,
+          "name": "Carolyn White",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peverel",
+      "ballot_paper_id": "local.adur.peverel.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135558,
+          "name": "Henry Herbert Allinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111936,
+          "name": "Matt Fry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9480,
+          "name": "Paul Mansfield",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135560,
+          "name": "Stuart Parsons",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135561,
+          "name": "Saffi Price",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southlands",
+      "ballot_paper_id": "local.adur.southlands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 135581,
+          "name": "Peter Ashley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135582,
+          "name": "Nigel David Hepworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9380,
+          "name": "Keith Humphrey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38273,
+          "name": "Maggie Rumble",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southwick Green",
+      "ballot_paper_id": "local.adur.southwick-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 135597,
+          "name": "Stuart Bower",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76729,
+          "name": "Dan Flower",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9381,
+          "name": "Helen Mears",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135598,
+          "name": "Julie Anne Searle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135599,
+          "name": "Anthony Charles Stuart",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.adur.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112001,
+          "name": "Angie Buhl-Nielsen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77006,
+          "name": "Jeremy Gardner",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135617,
+          "name": "Kate Michaela",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135619,
+          "name": "Dawn Rowatt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135621,
+          "name": "Maryam Shapouri",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Nicolas",
+      "ballot_paper_id": "local.adur.st-nicolas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76726,
+          "name": "Ian Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135664,
+          "name": "Jennifer Sarah Mendoza",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135665,
+          "name": "Liam John Brook Tidy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87609,
+          "name": "Bob Towner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135666,
+          "name": "Kathryn Elizabeth Upton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Widewater",
+      "ballot_paper_id": "local.adur.widewater.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 135085,
+          "name": "Samantha Eaton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86419,
+          "name": "Joseph James O'Halloran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38278,
+          "name": "Joe Pannell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135087,
+          "name": "Connor James Ranahan",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

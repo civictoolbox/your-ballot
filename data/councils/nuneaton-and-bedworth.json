@@ -1,0 +1,587 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "nuneaton-and-bedworth",
+    "council_name": "Nuneaton and Bedworth"
+  },
+  "wards": [
+    {
+      "ward_name": "Arbury",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.arbury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128914,
+          "name": "Nita Bagga",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128915,
+          "name": "Paul Hadley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128916,
+          "name": "Fred Harper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111344,
+          "name": "Eve Alexandra Miller",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 16784,
+          "name": "Maggie Morrissey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86786,
+          "name": "Pauly Palamattom",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Attleborough",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.attleborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 122668,
+          "name": "Mike Bannister",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16796,
+          "name": "Tess Brookes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16921,
+          "name": "Steve Hey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128917,
+          "name": "Vijay Rughoo",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bede",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.bede.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128997,
+          "name": "Steven Coleman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118679,
+          "name": "George Finch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128998,
+          "name": "Ivy Winters Wanjiru",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bulkington",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.bulkington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 125763,
+          "name": "Richard Cope",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129035,
+          "name": "Jack Markham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111337,
+          "name": "Campbell Erskine McKee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129037,
+          "name": "Paul Andrew Smith",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Camp Hill",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.camp-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 73946,
+          "name": "Eric Amaechi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86599,
+          "name": "Colin Cape",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129051,
+          "name": "Christopher Ryan Gamble",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 129053,
+          "name": "Emma Shiers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111336,
+          "name": "Romaine Francoise Tabet",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chilvers Coton",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.chilvers-coton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 85084,
+          "name": "Susan Anne Dalziel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128811,
+          "name": "Jamal Lydon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81906,
+          "name": "Max McGee",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128812,
+          "name": "Carolyn Louise Russell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111334,
+          "name": "Tony Venson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastboro",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.eastboro.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 111332,
+          "name": "Sunday Wesley Ajayi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129065,
+          "name": "Richard John Brill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129066,
+          "name": "James Hunter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129068,
+          "name": "Hari Khela",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Exhall",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.exhall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 11808,
+          "name": "Merle Gering",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129102,
+          "name": "Pete Gilbert",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5347,
+          "name": "Eileen Hunter",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126344,
+          "name": "Chris Morris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129107,
+          "name": "Sinead Mulholland",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Galley Common",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.galley-common.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128972,
+          "name": "James Alan Bartlett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81824,
+          "name": "Richard Baxter-Payne",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128973,
+          "name": "Theo Osemele",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128974,
+          "name": "Gemma Perry",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heath",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126345,
+          "name": "Ali Brassington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129110,
+          "name": "Richard Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 7673,
+          "name": "Julie Anne Jackson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129111,
+          "name": "Rob Roze",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111331,
+          "name": "Sandra Walsh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milby",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.milby.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129131,
+          "name": "Paul Timothy Biggs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111304,
+          "name": "Michael Fowler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129134,
+          "name": "Harvey William Gill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 5198,
+          "name": "Keith Kondakor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Poplar",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.poplar.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 124566,
+          "name": "Adam Bourne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122661,
+          "name": "Stan Carvell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86615,
+          "name": "Krissi Cope",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128982,
+          "name": "Jas Singh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Slough",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.slough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 111319,
+          "name": "Mark Burdett",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126346,
+          "name": "Bobbie Greenwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111322,
+          "name": "Paul Waldron",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128847,
+          "name": "Dan Walker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74245,
+          "name": "Martin John Walsh",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.st-marys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129178,
+          "name": "Jon-Paul William Clift",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129179,
+          "name": "Steven Gee",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 47225,
+          "name": "Scott George Moreton Harbison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129180,
+          "name": "Richard Heathcock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111313,
+          "name": "Nicky King",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Nicolas",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.st-nicolas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129172,
+          "name": "Miranda Bishop-Timings",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129173,
+          "name": "Mustafa Dogal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129174,
+          "name": "Jake Derrick Groves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84080,
+          "name": "Jamie Marek Hartshorn",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockingford East",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.stockingford-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129182,
+          "name": "Stuart Finch",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16887,
+          "name": "Sebastian Leo Gran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 111315,
+          "name": "Matthew Carl Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47227,
+          "name": "Spring Vernon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111316,
+          "name": "Daniel Webb",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockingford West",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.stockingford-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129168,
+          "name": "Shane Roger Coates-Jarman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129169,
+          "name": "David Fletcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129170,
+          "name": "Abi Olaifa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 73423,
+          "name": "Kath Price",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Weddington",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.weddington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129156,
+          "name": "Kani Firat Dogal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129157,
+          "name": "John Michael New",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111307,
+          "name": "Lilian Pilkington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 82867,
+          "name": "Joy Salaja",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 27523,
+          "name": "Mike Wright",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitestone",
+      "ballot_paper_id": "local.nuneaton-and-bedworth.whitestone.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 129143,
+          "name": "Daljit Singh Boughan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16886,
+          "name": "Dianne Jean Fowler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86597,
+          "name": "Michael James Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129151,
+          "name": "Mick Ludford",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

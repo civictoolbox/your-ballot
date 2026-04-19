@@ -1,0 +1,2002 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "newham",
+    "council_name": "Newham"
+  },
+  "wards": [
+    {
+      "ward_name": "Beckton",
+      "ballot_paper_id": "local.newham.beckton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 117878,
+          "name": "Shahzad Mumtaz Abbasi",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138468,
+          "name": "Afusatu Olajumoke Adedapo",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138470,
+          "name": "Syed Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138469,
+          "name": "Mohammed Mashud Ahmed",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93869,
+          "name": "Deyan Atanasov",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6169,
+          "name": "Lois Austin",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 138471,
+          "name": "Tony Challinor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138472,
+          "name": "Ramona-Lavinia Elvin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138473,
+          "name": "Heather Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74780,
+          "name": "Angharad Hillier",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 138474,
+          "name": "Aditya Krishnanand Kadle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138475,
+          "name": "Mohammed Abdul Karim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138476,
+          "name": "Sidy Ali Kounta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123081,
+          "name": "Lazar Monu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47241,
+          "name": "June Taylor",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 47242,
+          "name": "Tonii Wilson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117936,
+          "name": "Blossom Young",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Boleyn",
+      "ballot_paper_id": "local.newham.boleyn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 137581,
+          "name": "Muhammad Tarek Aziz",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137582,
+          "name": "Md Halim Bepari",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137583,
+          "name": "Mark David John Bromley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137584,
+          "name": "Kerena Fussell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137585,
+          "name": "Simon Gibson",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137586,
+          "name": "Rabbir Hassain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 49174,
+          "name": "Moniba Khan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 44679,
+          "name": "Helen Lynch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137587,
+          "name": "Karl McWilton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44734,
+          "name": "Charles Richard Patrick Gaitskell Meaby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44724,
+          "name": "Sheree Miller",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86718,
+          "name": "Mehmood Mirza",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137588,
+          "name": "Md Ariful Haque Molla",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137589,
+          "name": "Sheila Carol Poleon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93875,
+          "name": "Silvia Troanta",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137590,
+          "name": "Venkat Vabanagiri",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137591,
+          "name": "Leela Vitnam",
+          "party_name": "Christian Peoples Alliance"
+        }
+      ]
+    },
+    {
+      "ward_name": "Canning Town North",
+      "ballot_paper_id": "local.newham.canning-town-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 124160,
+          "name": "Zulfiqar Ahmed",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137003,
+          "name": "Imogen Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137004,
+          "name": "Robert Claeson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137005,
+          "name": "Bryan Houston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123947,
+          "name": "Aleya Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124162,
+          "name": "Mohammed Delwar Hussain",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 124161,
+          "name": "Ibrahim Hussein",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137006,
+          "name": "Aminul Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44705,
+          "name": "Shaban Mohammed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137007,
+          "name": "Nicolas Motte",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137008,
+          "name": "Goodness Nkire",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137009,
+          "name": "Precious Nkire",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137010,
+          "name": "Gowry Paraneeharan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137011,
+          "name": "Samir Raheem",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137012,
+          "name": "Redawanur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93582,
+          "name": "Larisa Zilickaja",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Canning Town South",
+      "ballot_paper_id": "local.newham.canning-town-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 135287,
+          "name": "Syed Uzaib Alam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135288,
+          "name": "Amir Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 123946,
+          "name": "Aderonke Florence Benson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125241,
+          "name": "Luke Robert Black",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126796,
+          "name": "Alex Cline",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 34283,
+          "name": "Rohit Kumar Dasgupta",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 135289,
+          "name": "Ahrash Dianat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44701,
+          "name": "Ahmed Omar Sheikh Faqai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35950,
+          "name": "Belgica Guana",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 124159,
+          "name": "Syed Rafiz Hayder",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93768,
+          "name": "Linda Ann Jordan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 116743,
+          "name": "Maria Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135290,
+          "name": "Myrtle Verona Laing",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 93699,
+          "name": "John James Morris",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 47745,
+          "name": "Prossy Namwanje",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 124157,
+          "name": "MD Abdur Rahim",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 135291,
+          "name": "James Reilly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126880,
+          "name": "Abdul Aziz Saud",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124158,
+          "name": "Feven Yohannes",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Custom House",
+      "ballot_paper_id": "local.newham.custom-house.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 138543,
+          "name": "Wazed Ali",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 125244,
+          "name": "Rustam Sikander Buck",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124156,
+          "name": "Zafer Felek",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138544,
+          "name": "Suze Gurmeseva",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 138545,
+          "name": "Badrul Islam",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138546,
+          "name": "Heather Lafferty",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 91347,
+          "name": "Idiat Lawal",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 138547,
+          "name": "Tony Mehegan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47859,
+          "name": "Rois Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138548,
+          "name": "Ben Moss",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138549,
+          "name": "James Matthew Mudd",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138550,
+          "name": "Mushtaq Hussain Mughal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 91348,
+          "name": "Thelma Odoi",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 46254,
+          "name": "Tim Roll-Pickering",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138551,
+          "name": "Simon Rush",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138552,
+          "name": "Raphael Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138553,
+          "name": "Ben Tiley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47014,
+          "name": "Alexander Tuppen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138554,
+          "name": "Chandrika Wijesinghe",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Ham",
+      "ballot_paper_id": "local.newham.east-ham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 137943,
+          "name": "Maria Aktar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137944,
+          "name": "Andrew Diver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137945,
+          "name": "Abdul Halim",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137946,
+          "name": "Wasim Hussain",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 137947,
+          "name": "Nuruzzaman Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137948,
+          "name": "Hiren Nakum",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137949,
+          "name": "Syed Taqi Jawad Naqvi",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137950,
+          "name": "Mukesh Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 108793,
+          "name": "Sofia Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137951,
+          "name": "Begum Sahera",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137952,
+          "name": "Nina Schlautmann",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137953,
+          "name": "Ahamed Shabber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137954,
+          "name": "Aisha Siddiqah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137955,
+          "name": "Jahangir Alam Sikder",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Ham South",
+      "ballot_paper_id": "local.newham.east-ham-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 137687,
+          "name": "Abdul Faizal Abdulbari",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137688,
+          "name": "Royal Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137689,
+          "name": "Mohammad Arifur Rahman Bhuyan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137690,
+          "name": "Danny Collingwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137691,
+          "name": "Kamal Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137692,
+          "name": "Sanawar Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137693,
+          "name": "Tasnim Humayra Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42411,
+          "name": "Susan Masters",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137694,
+          "name": "Noel Bernard McMahon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137695,
+          "name": "Charan Namaia",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137696,
+          "name": "Paula Reily",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137697,
+          "name": "Suhel Rob",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 42414,
+          "name": "Lakmini Shah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137698,
+          "name": "Asad Ali Shan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137699,
+          "name": "James David Shears",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137700,
+          "name": "Udeshwar Kumar Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137701,
+          "name": "Abdus Sabur Talukder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137702,
+          "name": "Nigel Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest Gate North",
+      "ballot_paper_id": "local.newham.forest-gate-north.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 138343,
+          "name": "Matthew Carlile",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138344,
+          "name": "Jenny Chang",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138345,
+          "name": "Matthew Brendan Cresswell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 139105,
+          "name": "Liz Cronin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138346,
+          "name": "Rachel Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138347,
+          "name": "Lesley Margaret MacDonald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93685,
+          "name": "Malcolm Bernard Madden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138348,
+          "name": "Shofa Miah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124166,
+          "name": "Walid Rahman",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 48399,
+          "name": "Rachel Elizabeth Tripp",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138349,
+          "name": "Roy Charles Wenborne",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest Gate South",
+      "ballot_paper_id": "local.newham.forest-gate-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 108967,
+          "name": "Aktharul Alam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138181,
+          "name": "Muhammad Asim",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138182,
+          "name": "Ketema Worku Ayano",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138183,
+          "name": "Arshan Bakaran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117877,
+          "name": "Zakaria Esoof Bhariwala",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138184,
+          "name": "Robert Dale Carter-Lennox",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138185,
+          "name": "Sabrin Ara Hoque",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 90149,
+          "name": "Ellis Joseph Bartholomew Hudson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138186,
+          "name": "Sohail Jamal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 138187,
+          "name": "Mohammad Khalid Khan",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 108969,
+          "name": "Zahra Kheyre",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138188,
+          "name": "Chabane Abdelmadjid Mahrane",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138189,
+          "name": "Helen Valentina Page",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138190,
+          "name": "Mavin Patel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138191,
+          "name": "Jack Pickard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138192,
+          "name": "Kashif Raja",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93797,
+          "name": "David Graham Terrar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138193,
+          "name": "Jazmine Whomes",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Green Street East",
+      "ballot_paper_id": "local.newham.green-street-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 138424,
+          "name": "Steven Braines",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138425,
+          "name": "Sunny Chowdhury",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138426,
+          "name": "MD Zakir Hossain",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138427,
+          "name": "Hilary Hudson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138428,
+          "name": "Md Anowarul Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138430,
+          "name": "Haroon Mohammed Khatun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138429,
+          "name": "Ankita Kita",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93579,
+          "name": "Miraj Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48050,
+          "name": "Kirankumar Ramanbhai Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93841,
+          "name": "Rohima Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138431,
+          "name": "Hafiz Abdul Rasool",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138432,
+          "name": "Parvez Akhter Sheikh",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138433,
+          "name": "Awais Sikandar",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Green Street West",
+      "ballot_paper_id": "local.newham.green-street-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 48600,
+          "name": "Hanif Abdulmuhit",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138388,
+          "name": "Slav Donev",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93823,
+          "name": "Mohammed Osman Gani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138389,
+          "name": "Nirali M Gor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138390,
+          "name": "Rachel Humphrey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138391,
+          "name": "Joerd Hysa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138392,
+          "name": "Idris Ibrahim",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138393,
+          "name": "Dick Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138394,
+          "name": "Rumana Salim Bhuiyan Liza",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 44655,
+          "name": "Ravindra Reddy Nandivelugu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138395,
+          "name": "Huzayfa Patel",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138396,
+          "name": "Sangeeta Slawson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138397,
+          "name": "Ada Stone",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138398,
+          "name": "Peter Williams Ujiagbe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138399,
+          "name": "Qasim Yaseen",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Little Ilford",
+      "ballot_paper_id": "local.newham.little-ilford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 93856,
+          "name": "Musawwar Alam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137913,
+          "name": "Mahbu Bullah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137914,
+          "name": "Sharon Chawda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137915,
+          "name": "Freya Coakley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137916,
+          "name": "Andy Dumitriuc",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137917,
+          "name": "Janet Hill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137918,
+          "name": "Francis Ho",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137919,
+          "name": "Samuel Kazibwe",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 93755,
+          "name": "Saverimuthu Joseph Mariadas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137920,
+          "name": "Ian McClelland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93724,
+          "name": "Tahir Mirza",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93725,
+          "name": "Peter Murengera",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137921,
+          "name": "Showkat Osman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137922,
+          "name": "Sinan Ozdemir",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137923,
+          "name": "Oli Rahman",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137924,
+          "name": "Pauline Rose",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137925,
+          "name": "Nasreen Shamima",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93721,
+          "name": "Abul Bashar Syed",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor Park",
+      "ballot_paper_id": "local.newham.manor-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 138505,
+          "name": "Ashraf Uddin Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47990,
+          "name": "Sabir Banglawala",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138506,
+          "name": "Sarah Burton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138507,
+          "name": "Marie Fenech",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93849,
+          "name": "Imam Haque",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138508,
+          "name": "Lesley Ann Hopkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45835,
+          "name": "Derek Jackson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138509,
+          "name": "Salema Khatun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138510,
+          "name": "Rajeev Kumar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138511,
+          "name": "Dean Munroe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138512,
+          "name": "Vasuki Muruhathas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45837,
+          "name": "Salim Patel",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138513,
+          "name": "Badol Rahman",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138514,
+          "name": "Mujeebur Rehman",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138515,
+          "name": "George Salomon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93874,
+          "name": "Md Somrat Saymon",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maryland",
+      "ballot_paper_id": "local.newham.maryland.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 137704,
+          "name": "Neil Docking",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137705,
+          "name": "Kelly Drake",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137706,
+          "name": "Tai Durojaiye",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137707,
+          "name": "Titus Kofi Essel",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137708,
+          "name": "Mohammad Akbar Hossain",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137709,
+          "name": "James Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137710,
+          "name": "Betsie Lee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137711,
+          "name": "John Michael Lovatt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137712,
+          "name": "Reece McMahon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117919,
+          "name": "Melanie Onovo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137713,
+          "name": "Ren Tilbury",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plaistow North",
+      "ballot_paper_id": "local.newham.plaistow-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 138368,
+          "name": "George Acquaah",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138369,
+          "name": "Zeshan Adil",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138370,
+          "name": "Faysel Alam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138371,
+          "name": "Nizam Ali",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 45605,
+          "name": "Zulfiqar Ali",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123822,
+          "name": "Terri Bloore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138376,
+          "name": "Graham Taylor Burge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93743,
+          "name": "Murad Chowdhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45608,
+          "name": "Paul Martin Jobson",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 45609,
+          "name": "Joy Laguda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138372,
+          "name": "Ella Monu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 108970,
+          "name": "Sophia Naqvi",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138373,
+          "name": "Mohmed Iqbal Pathan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 123959,
+          "name": "Pervez Qureshi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138374,
+          "name": "Ahmad Saeed",
+          "party_name": "Communities United Party"
+        },
+        {
+          "person_id": 138375,
+          "name": "Amanjit Singh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138377,
+          "name": "Gulsun Zekai",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plaistow South",
+      "ballot_paper_id": "local.newham.plaistow-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 135147,
+          "name": "Shazia Anjum",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 135146,
+          "name": "Mohammed Alam Begum",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135148,
+          "name": "Rubi Begum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135149,
+          "name": "Gabriel Constantin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135150,
+          "name": "Frederik Kai Grunta",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93792,
+          "name": "Akmol Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47855,
+          "name": "MD Nazrul Islam",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 135151,
+          "name": "Ivaylo Kanev",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135153,
+          "name": "Tamzied Hossain Khan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 135152,
+          "name": "Obaid Khan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 133431,
+          "name": "Pippa King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135154,
+          "name": "Herbert Leonelli",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47857,
+          "name": "Jane Lofthouse",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135155,
+          "name": "Alin Petcu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135156,
+          "name": "Md. Atiqur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123064,
+          "name": "Asheem Singh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135157,
+          "name": "Kocotchy Tchesse",
+          "party_name": "Christian Peoples Alliance"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plaistow West & Canning Town East",
+      "ballot_paper_id": "local.newham.plaistow-west-canning-town-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 93791,
+          "name": "Ben Beeler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124163,
+          "name": "Abdul Hakeem Chaudhari",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93848,
+          "name": "Shantu Ferdous",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138358,
+          "name": "Karen Flanagan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138359,
+          "name": "Robert Gordon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124165,
+          "name": "MD Saiful Islam",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138360,
+          "name": "Constantin Ladan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93838,
+          "name": "Benedetto Litteri",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93873,
+          "name": "Rajan Miah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93795,
+          "name": "Madeleine Sarley Pontin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138361,
+          "name": "Susha Sooral",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124164,
+          "name": "Syeda Fozia Tariq",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138362,
+          "name": "Misrak Tefra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125928,
+          "name": "Shayne Wiskin",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Plashet",
+      "ballot_paper_id": "local.newham.plashet.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 38156,
+          "name": "Jennifer Marie Bailey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138486,
+          "name": "Kate Bettell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138487,
+          "name": "Katy Clarke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47952,
+          "name": "Zuber Gulamussen",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 36571,
+          "name": "Tim Kiely",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44680,
+          "name": "Khatija Suleman Badat Meaby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47009,
+          "name": "Christian Moon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138488,
+          "name": "Zakir Hussain Rahim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138489,
+          "name": "Ram Saravanan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47955,
+          "name": "Ilyas Sharif",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royal Albert",
+      "ballot_paper_id": "local.newham.royal-albert.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 44728,
+          "name": "James Alan-Rumsby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44700,
+          "name": "Ann Rosemarie Easter",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138099,
+          "name": "Poojitha Konkati",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44733,
+          "name": "Anthony McAlmont",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 6863,
+          "name": "Daniel Oxley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138100,
+          "name": "Ziyan Pathan",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138101,
+          "name": "Faruque Sikder",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138102,
+          "name": "Nadia Sukander",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138103,
+          "name": "Kia Summers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138104,
+          "name": "Palmira Taran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138105,
+          "name": "Jason Wilkinson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Royal Victoria",
+      "ballot_paper_id": "local.newham.royal-victoria.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 44732,
+          "name": "Steve Brayshaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84768,
+          "name": "Rob Callender",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136884,
+          "name": "Richard East",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93200,
+          "name": "Bradley James Fage",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136885,
+          "name": "Ehsan Mughal",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 136886,
+          "name": "Kevin Okparaeke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136887,
+          "name": "Caroline Oladapo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136888,
+          "name": "Shabd Pyari",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136889,
+          "name": "George Joseph Benjamin Wright",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136890,
+          "name": "Tomek Zygarowski",
+          "party_name": "Newham Independents Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stratford",
+      "ballot_paper_id": "local.newham.stratford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137349,
+          "name": "Shohel Alam",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137350,
+          "name": "Miral Amin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35574,
+          "name": "James Beckles",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137351,
+          "name": "Jahangir Bhuiyan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93779,
+          "name": "Samie Dorgham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93847,
+          "name": "Femi Falola",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 137352,
+          "name": "MD Maksudul Haque",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137353,
+          "name": "Chae Ho Hwang",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137354,
+          "name": "Naimul Islam",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93782,
+          "name": "Sabia Kamali",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 47743,
+          "name": "Danny Keeling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137355,
+          "name": "Alfie Mosely",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137356,
+          "name": "Sonia Quintero",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137357,
+          "name": "Lucrece Sainclair",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137358,
+          "name": "Nitin John Thomas",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stratford Olympic Park",
+      "ballot_paper_id": "local.newham.stratford-olympic-park.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 136873,
+          "name": "Dilshad Ali",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 136874,
+          "name": "Jonathon Baxter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93696,
+          "name": "Robert John Briggs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136875,
+          "name": "Vijaya Dave",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 34433,
+          "name": "Nate Higgins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93578,
+          "name": "Joe Hudson-Small",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136876,
+          "name": "Darren Mason",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44706,
+          "name": "Rachel Nabudde",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136877,
+          "name": "Rachael Osei-Temeng",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136878,
+          "name": "Rabindranauth Ramday",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139113,
+          "name": "Vaishali Shah",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 124662,
+          "name": "Laura Claire Willoughby",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wall End",
+      "ballot_paper_id": "local.newham.wall-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 137682,
+          "name": "Noman MD Abu",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 137676,
+          "name": "Jose Alexander",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137677,
+          "name": "Kumar Anand",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 44707,
+          "name": "Victoria Bapu",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137678,
+          "name": "Jayanthi Dadi",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 137679,
+          "name": "Rowan Fletcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137680,
+          "name": "Paul Howell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38154,
+          "name": "Lester Thompson Hudson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47953,
+          "name": "Durai Kannan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137681,
+          "name": "Muhammad Majeed",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93846,
+          "name": "Faheem Mohamadu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137683,
+          "name": "Amanda Mole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137684,
+          "name": "Ki Nathan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137685,
+          "name": "Vijay Parthiban",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 49175,
+          "name": "Arunasalam Pirapaharan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137686,
+          "name": "Carole Angela Shaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93890,
+          "name": "Bharath Swamy",
+          "party_name": "Christian Peoples Alliance"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Ham",
+      "ballot_paper_id": "local.newham.west-ham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 45603,
+          "name": "Fokoruddin Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138434,
+          "name": "Ibrahim Alom",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138435,
+          "name": "Attia Bano",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138436,
+          "name": "Robert Constantin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138437,
+          "name": "Mayra Crean",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 48247,
+          "name": "John Gray",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138438,
+          "name": "Andy Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93683,
+          "name": "Armyn Hennessy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93861,
+          "name": "Manir Uzzaman Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138439,
+          "name": "Adjoa Kwarteng",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138440,
+          "name": "Sam Michael Mannion",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138441,
+          "name": "Karib Mostafa",
+          "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 93627,
+          "name": "Karina Celis Rangel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93740,
+          "name": "Deb Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138442,
+          "name": "Kawsar Mohammed Shirazul",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

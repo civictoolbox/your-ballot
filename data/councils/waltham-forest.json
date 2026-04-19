@@ -1,0 +1,1646 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "waltham-forest",
+    "council_name": "Waltham Forest"
+  },
+  "wards": [
+    {
+      "ward_name": "Cann Hall",
+      "ballot_paper_id": "local.waltham-forest.cann-hall.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 44814,
+          "name": "Sally Burnell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86513,
+          "name": "Kischa Green",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129551,
+          "name": "Attila Gurbuz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124800,
+          "name": "Tom Hainge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129552,
+          "name": "Philip Denis Hawker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129553,
+          "name": "Chris Hill-Davies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129554,
+          "name": "Mike Lang",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45995,
+          "name": "Sally Littlejohn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129555,
+          "name": "Terry Leonard Noon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45997,
+          "name": "Keith Rayner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 86516,
+          "name": "Peter Richardson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129556,
+          "name": "Ian Slater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124799,
+          "name": "Eva Aasma Tabbasam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86694,
+          "name": "Robin Kenneth Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cathall",
+      "ballot_paper_id": "local.waltham-forest.cathall.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 123499,
+          "name": "Aisha Abubakar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129656,
+          "name": "Shaukat Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44495,
+          "name": "Naheed Asghar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126138,
+          "name": "Rachel Susan Barrat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126652,
+          "name": "Susan Catten",
+          "party_name": "Waltham Forest Independent Socialists"
+        },
+        {
+          "person_id": 86552,
+          "name": "Robert Graham Cocking",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129658,
+          "name": "Vincent John",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126139,
+          "name": "Thomas Hugh MacInnes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129659,
+          "name": "Nicola McGregor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129660,
+          "name": "Rita Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126655,
+          "name": "Connor Rosoman",
+          "party_name": "Waltham Forest Independent Socialists"
+        },
+        {
+          "person_id": 129657,
+          "name": "Carol Vickery",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chapel End",
+      "ballot_paper_id": "local.waltham-forest.chapel-end.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 129640,
+          "name": "Zainab Akram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129641,
+          "name": "Marcello Boljevic",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86569,
+          "name": "Mike Cleverley",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 46015,
+          "name": "Paul Douglas",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126140,
+          "name": "Luke Antony Glazzard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129642,
+          "name": "Joe Lloyd Higgs",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129643,
+          "name": "Muhammad Amjad Inam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86697,
+          "name": "Samina Maqsoom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46019,
+          "name": "Louise Mitchell",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86628,
+          "name": "Ipek Naciye Ozerim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126141,
+          "name": "Layla Louise Rosa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45029,
+          "name": "Dino Schreuder",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 2219,
+          "name": "Steve Terry",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 46023,
+          "name": "Sue Wheat",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chingford Green",
+      "ballot_paper_id": "local.waltham-forest.chingford-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 46228,
+          "name": "Rehana Begum Ali-Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126143,
+          "name": "Mo Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 6808,
+          "name": "Henry Arthur Boyle",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130382,
+          "name": "Francis Joseph Bray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130383,
+          "name": "Andrew Hugh Chipperfield",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130384,
+          "name": "Matt Davis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38813,
+          "name": "Mitchell Goldie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130386,
+          "name": "Kay Isa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126144,
+          "name": "Kris Jack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130387,
+          "name": "Stephen Francis Greig James",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126142,
+          "name": "Kathryn Judd",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130388,
+          "name": "Stephen Roberts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130389,
+          "name": "Jimmy Sergi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130390,
+          "name": "Kelly Summers",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130391,
+          "name": "Kimberley Tonner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Endlebury",
+      "ballot_paper_id": "local.waltham-forest.endlebury.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 38811,
+          "name": "Roy Berg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38812,
+          "name": "Emma Best",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130398,
+          "name": "Alison Dinah Cox",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130399,
+          "name": "Lana Davis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130400,
+          "name": "Mark Lawrence Ebden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46232,
+          "name": "Nigel Charles Spencer Lea",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130401,
+          "name": "Loiza Sitton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126145,
+          "name": "Jake Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126146,
+          "name": "Monica Hannah Sobiecki",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest",
+      "ballot_paper_id": "local.waltham-forest.forest.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 130362,
+          "name": "Muhammad Abadat Ali",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91879,
+          "name": "Marsela Berberi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45958,
+          "name": "Kastriot Berberi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126148,
+          "name": "Yuksel Gonul",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130364,
+          "name": "Fred Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130363,
+          "name": "Robert Andrew Harvey",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 6633,
+          "name": "Len Hockey",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130365,
+          "name": "Judy Karas Hounsun",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130366,
+          "name": "Asad Ishtiaq",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130367,
+          "name": "Mamad Jalloh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130368,
+          "name": "Colin Mace",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86655,
+          "name": "Zafran Malik",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126147,
+          "name": "Simone McNichols-Thomas",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124801,
+          "name": "Paul Perkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130369,
+          "name": "Jonathan Luke Jerningham Schutz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130370,
+          "name": "Lauren Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86676,
+          "name": "Maria Talaia",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130371,
+          "name": "Saif Ullah",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grove Green",
+      "ballot_paper_id": "local.waltham-forest.grove-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 45875,
+          "name": "Arran Paul Angus",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126149,
+          "name": "Sarah Bentley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86713,
+          "name": "Iona Shouna Berg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130403,
+          "name": "Frank Boateng",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130404,
+          "name": "David Boulter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 123500,
+          "name": "Minnie Hope Cullen Close",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130405,
+          "name": "Fiona Hamilton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86674,
+          "name": "Charlotte Lafferty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45880,
+          "name": "Khevyn Limbajee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45883,
+          "name": "Naomi McCarthy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 83722,
+          "name": "Uzma Rasool",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130406,
+          "name": "Malcolm Shykles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130407,
+          "name": "Mike Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94443,
+          "name": "Robert Ivan Thomas",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126150,
+          "name": "Paul Treacy",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hale End & Highams Park South",
+      "ballot_paper_id": "local.waltham-forest.hale-end-highams-park-south.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 130348,
+          "name": "Ricardo William James Allured",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46068,
+          "name": "Tony Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126151,
+          "name": "Brian Russell Capaloff",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86739,
+          "name": "Louise Helen Cuffaro",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 46070,
+          "name": "Rosalind Anne Doré",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130350,
+          "name": "Mary-Jane Florentin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130349,
+          "name": "Jeremy Peter Simpson Gee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130351,
+          "name": "Dan Medlock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130352,
+          "name": "Hulya Ozturk",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 126152,
+          "name": "Lukas Simma",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130353,
+          "name": "Ruairidh Villar",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hatch Lane & Highams Park North",
+      "ballot_paper_id": "local.waltham-forest.hatch-lane-highams-park-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130415,
+          "name": "Shenise Adam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130416,
+          "name": "Umar Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130417,
+          "name": "Daniel Brett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 75939,
+          "name": "Catherine Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126179,
+          "name": "Rory Matthew Fitzgerald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130418,
+          "name": "Marion Fitzgerald",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126154,
+          "name": "Heather Gardiner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130419,
+          "name": "Tim James",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126153,
+          "name": "Andrew McMullen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130420,
+          "name": "Catherine Mears",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47572,
+          "name": "Sadia Iftikhar Mirza",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 36266,
+          "name": "Linda Susan Taaffe",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130421,
+          "name": "Ollie Welch",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130422,
+          "name": "Siobhan Wing",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "High Street",
+      "ballot_paper_id": "local.waltham-forest.high-street.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130354,
+          "name": "Idris Akram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130355,
+          "name": "Amena Akter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130356,
+          "name": "Farah Anwar",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124619,
+          "name": "Lisa Teresa Bryan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123502,
+          "name": "Jeremy Cohen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124620,
+          "name": "John Patrick Donegan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124618,
+          "name": "Marcelo Hart-Camus",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130357,
+          "name": "Nathan William Christian Hollow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130358,
+          "name": "David Hook",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130359,
+          "name": "Samuel George Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123503,
+          "name": "Osaro Otobo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130360,
+          "name": "Graem Peters",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46075,
+          "name": "Zia Rehman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 1599,
+          "name": "Nancy Taaffe",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130361,
+          "name": "Anish Harish Vithlani",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Higham Hill",
+      "ballot_paper_id": "local.waltham-forest.higham-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 130460,
+          "name": "Noreen Akram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46229,
+          "name": "Shumon Ali-Rahman",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 39199,
+          "name": "Louise Ashcroft",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39202,
+          "name": "Karen Bellamy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130461,
+          "name": "Cyril Thomas Cusack",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126155,
+          "name": "Em Dean",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130462,
+          "name": "Amber Ellmore-Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 18713,
+          "name": "Mary Rosamund Finch",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126156,
+          "name": "Marco Hacon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130463,
+          "name": "Atjaz Ul Hussan Humayun",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130464,
+          "name": "Alan Edward Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130465,
+          "name": "Yousaff Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84604,
+          "name": "Kira Millana Lewis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86679,
+          "name": "Alex Marshall-Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130466,
+          "name": "Kath Pollard",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hoe Street",
+      "ballot_paper_id": "local.waltham-forest.hoe-street.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 131956,
+          "name": "Raihaan Akhtar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131957,
+          "name": "Anup Banik",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86577,
+          "name": "Andrew James Dixon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131958,
+          "name": "Jean-Francois Marie Alfred Dor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131959,
+          "name": "Jon Goddard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86665,
+          "name": "Ricardo Joseph",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126159,
+          "name": "Ijaz Miles Kato",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131960,
+          "name": "Md Shoeb Khan",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 48514,
+          "name": "Ahsan Khan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131961,
+          "name": "Andrew Killin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131962,
+          "name": "Hanaan Malik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73115,
+          "name": "Miriam Rose Mirwitch",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131963,
+          "name": "Adnin Mourin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126158,
+          "name": "Laura Anne Pearce",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44820,
+          "name": "Ciara Mary Simmons",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Larkswood",
+      "ballot_paper_id": "local.waltham-forest.larkswood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 126262,
+          "name": "Sarah Chaney",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130408,
+          "name": "Alex Fodor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130409,
+          "name": "Dan Green",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86626,
+          "name": "Eric Heinze",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130410,
+          "name": "Deborah Hollingsworth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130411,
+          "name": "Peter Hollingsworth",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130412,
+          "name": "Jennifer Larbie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 46233,
+          "name": "John Moss",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86540,
+          "name": "Sam O'Connell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46366,
+          "name": "Catherine Saumarez",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86542,
+          "name": "Beatrice Eve Stern",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130413,
+          "name": "Frank Sweeney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130414,
+          "name": "Naveen Walgamage",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lea Bridge",
+      "ballot_paper_id": "local.waltham-forest.lea-bridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 131804,
+          "name": "Harpreet Bhal",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124802,
+          "name": "Liz Biggs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45959,
+          "name": "Shabana Dhedhi",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131805,
+          "name": "Michael Alexander Dickens",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86585,
+          "name": "Solène Fabios",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131806,
+          "name": "Hussain Ahmed Foysal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47571,
+          "name": "Humayun Ikram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123504,
+          "name": "George Minnah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 114008,
+          "name": "Rosie Rowlands",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86571,
+          "name": "Ariba Sheikh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83727,
+          "name": "Jennifer Whilby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131807,
+          "name": "Jim Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leyton",
+      "ballot_paper_id": "local.waltham-forest.leyton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 86714,
+          "name": "Luke Berg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45991,
+          "name": "Kathy Berg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 123505,
+          "name": "Kyalo Burt-Fulcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131965,
+          "name": "Ed Clarke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86715,
+          "name": "Joe Dyer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86529,
+          "name": "Rob Gardner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131966,
+          "name": "Imran Hussain",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 40422,
+          "name": "Whitney Ihenachor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131967,
+          "name": "Muhsin Manir",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126160,
+          "name": "Daisy Richards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131968,
+          "name": "Lorenzo Salemi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131969,
+          "name": "Asim Shahzad",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86532,
+          "name": "Trevor Robert Stone",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44505,
+          "name": "Terry Wheeler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126161,
+          "name": "Demetrius Williams",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leytonstone",
+      "ballot_paper_id": "local.waltham-forest.leytonstone.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 126162,
+          "name": "Denise Alder",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132025,
+          "name": "Elizabeth Usu Binitie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86528,
+          "name": "Rhiannon Eglin",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132027,
+          "name": "Nick Goldie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132026,
+          "name": "Beverley Goldie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46356,
+          "name": "Jenny Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132028,
+          "name": "Oliver William John Gregory",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132029,
+          "name": "Rylan Phi-Long Allen Holey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132030,
+          "name": "Helen Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 1939,
+          "name": "Clyde Loakes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46361,
+          "name": "Marie Pye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132031,
+          "name": "Stephen George Routledge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132032,
+          "name": "Jaison Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6939,
+          "name": "RoseMary Warrington",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Markhouse",
+      "ballot_paper_id": "local.waltham-forest.markhouse.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 131857,
+          "name": "Adeel Aurangzeb",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 35669,
+          "name": "Ed Bird",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131858,
+          "name": "James Ellingham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46357,
+          "name": "Roger William Hemsted",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126164,
+          "name": "Chanté Syreena Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 2347,
+          "name": "Johar Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131859,
+          "name": "Faraz Rehman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 43643,
+          "name": "Sharon Waldron",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126163,
+          "name": "Richard Wild",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St James",
+      "ballot_paper_id": "local.waltham-forest.st-james.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 130445,
+          "name": "Amna Asim",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124803,
+          "name": "David Berrie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 66201,
+          "name": "Nathan Neil Burns",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86731,
+          "name": "Catherine Diana Deakin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 71738,
+          "name": "Martin Edobor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130446,
+          "name": "Jo Hulstrom",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124804,
+          "name": "Anna Rose Kerr",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 86735,
+          "name": "Nick Martlew",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130447,
+          "name": "Guiseppe Mauro",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130448,
+          "name": "Shaikh Asim Mumtaz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36258,
+          "name": "Martin Stuart Reynolds",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 123507,
+          "name": "Caz Scott",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86640,
+          "name": "Anmol Seher",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upper Walthamstow",
+      "ballot_paper_id": "local.waltham-forest.upper-walthamstow.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 126166,
+          "name": "Lyssa Barber",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47568,
+          "name": "Md Abul Moufazzal Bhuiyan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130436,
+          "name": "Samuel Clark",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36265,
+          "name": "Lee Hawksbee",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130437,
+          "name": "James Henry Alexander Howe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126165,
+          "name": "Rbeeza Mobeen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46072,
+          "name": "Jane Elizabeth Morgan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 86612,
+          "name": "Yusuf Patel",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 86614,
+          "name": "Caramel Quin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130438,
+          "name": "Michaela Steele",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Valley",
+      "ballot_paper_id": "local.waltham-forest.valley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 6862,
+          "name": "Afzal Akram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130376,
+          "name": "Bob Auger",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 71945,
+          "name": "David Axe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47211,
+          "name": "Elizabeth Baptiste",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123508,
+          "name": "Bella Callow-Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130377,
+          "name": "Sorin Theodor Cioricu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130378,
+          "name": "Simon Deville",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 45994,
+          "name": "Faiz Faiz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130379,
+          "name": "Toby Garrett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47213,
+          "name": "Jemma Hemsted",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125523,
+          "name": "Saqeeb Howlader",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 45961,
+          "name": "Gerry Lyons",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125551,
+          "name": "Matt Romo",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "William Morris",
+      "ballot_paper_id": "local.waltham-forest.william-morris.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 130433,
+          "name": "Joseph Adegbola Alaba",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 86638,
+          "name": "Hamza Ali",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126169,
+          "name": "Ben Aaron Copsey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84614,
+          "name": "Kizzy Jane Gardiner",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 48512,
+          "name": "James Nicholas Goodman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43636,
+          "name": "Gillian Joy Hemsted",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126168,
+          "name": "Peter Ibrahim Kanyike",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126167,
+          "name": "Robyn Page",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36253,
+          "name": "Kevin Graham Parslow",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 84615,
+          "name": "Jack Phipps",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130434,
+          "name": "Geraldine Charla Selmour",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39206,
+          "name": "Patrick Charles Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45030,
+          "name": "Grace Williams",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130435,
+          "name": "Dean Remy Martin Wing",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wood Street",
+      "ballot_paper_id": "local.waltham-forest.wood-street.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 130425,
+          "name": "Lorenc Hoxha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 86586,
+          "name": "Maqsoom Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130426,
+          "name": "Gwilym Johnston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126170,
+          "name": "Charlie Andrew Loveday",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130427,
+          "name": "Alex Muhumuza",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 36269,
+          "name": "Ellen Kenyon Peers",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126171,
+          "name": "Samir Richards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47575,
+          "name": "Richard Charles Sweden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123510,
+          "name": "Stephanie Lynne Talbut",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130428,
+          "name": "Douglas George Walker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130429,
+          "name": "Adrienne Wallace",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 130430,
+          "name": "Stewart Robert Ware",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

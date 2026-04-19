@@ -1,0 +1,410 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "knowsley",
+    "council_name": "Knowsley"
+  },
+  "wards": [
+    {
+      "ward_name": "Cherryfield",
+      "ballot_paper_id": "local.knowsley.cherryfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128502,
+          "name": "Josie Annesley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38395,
+          "name": "Louise Harbour",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128503,
+          "name": "Ebony Higham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128504,
+          "name": "David Hitchmough",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halewood North",
+      "ballot_paper_id": "local.knowsley.halewood-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128497,
+          "name": "Brian Beddows",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128498,
+          "name": "David Hooton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128499,
+          "name": "Kian Houltram",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17918,
+          "name": "Terry Powell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128500,
+          "name": "Mark Salmon",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Halewood South",
+      "ballot_paper_id": "local.knowsley.halewood-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128505,
+          "name": "Peter Bradley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 76589,
+          "name": "Joanne Harvey",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128506,
+          "name": "Paula Johnson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northwood",
+      "ballot_paper_id": "local.knowsley.northwood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 17967,
+          "name": "Neill Dunne",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 117804,
+          "name": "Alexander Hitchmough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91915,
+          "name": "Matthew David Kirwan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128533,
+          "name": "Marie Roughley",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Page Moss",
+      "ballot_paper_id": "local.knowsley.page-moss.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 91916,
+          "name": "Robert Austin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 128539,
+          "name": "Jacob Maguire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128540,
+          "name": "Ria Rembadi",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Prescot North",
+      "ballot_paper_id": "local.knowsley.prescot-north.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128646,
+          "name": "Tony Cummins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91917,
+          "name": "Tommy Grierson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106082,
+          "name": "Peter Stanley Leadbeater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45016,
+          "name": "Frances Wynn",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Prescot South",
+      "ballot_paper_id": "local.knowsley.prescot-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128560,
+          "name": "Martins Otaniyen Iserhienrhien",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128561,
+          "name": "Mark John Phillips",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 106091,
+          "name": "Diane Sedman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36621,
+          "name": "Kai Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roby",
+      "ballot_paper_id": "local.knowsley.roby.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 38386,
+          "name": "Kevin Bannon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128583,
+          "name": "Sue Cockerill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128584,
+          "name": "Alan McKenzie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128585,
+          "name": "Ste Murray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128586,
+          "name": "Gary Robertson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128587,
+          "name": "Gary See",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shevington",
+      "ballot_paper_id": "local.knowsley.shevington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128564,
+          "name": "Lee Verdun Clark",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91929,
+          "name": "Steve Guy",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128566,
+          "name": "Claire Louise Morton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38389,
+          "name": "Tommy Rowe",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Gabriels",
+      "ballot_paper_id": "local.knowsley.st-gabriels.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128477,
+          "name": "Vanessa Boateng",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128478,
+          "name": "Alan James Cockerill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 77484,
+          "name": "Cath Golding",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Michaels",
+      "ballot_paper_id": "local.knowsley.st-michaels.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128523,
+          "name": "Matt Costello",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 58072,
+          "name": "Crispin Evans",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128524,
+          "name": "Cameron McClymont",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stockbridge",
+      "ballot_paper_id": "local.knowsley.stockbridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110640,
+          "name": "Olusoji Obayemi Arosanyin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 17982,
+          "name": "Dennis Baum",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128521,
+          "name": "Lauren Buckley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128522,
+          "name": "Josh Culley",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Swanside",
+      "ballot_paper_id": "local.knowsley.swanside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128552,
+          "name": "Ant Canavan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17987,
+          "name": "Colin Dever",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128553,
+          "name": "Stephen Dunne",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whiston & Cronton",
+      "ballot_paper_id": "local.knowsley.whiston-cronton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 17950,
+          "name": "Denise Allen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 77497,
+          "name": "Sandra Gaffney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128501,
+          "name": "David Gilbertson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whitefield",
+      "ballot_paper_id": "local.knowsley.whitefield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 128516,
+          "name": "Claude Chonzi",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17878,
+          "name": "Brian Johns",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 106085,
+          "name": "Robert Owens",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

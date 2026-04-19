@@ -1,0 +1,489 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "rochford",
+    "council_name": "Rochford"
+  },
+  "wards": [
+    {
+      "ward_name": "Downhall & Rawreth",
+      "ballot_paper_id": "local.rochford.downhall-rawreth.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 127100,
+          "name": "Stuart Belton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77247,
+          "name": "David Dennis Bodimeade",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127101,
+          "name": "Rob Ince",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127102,
+          "name": "Liam Lonergan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127103,
+          "name": "Ian Gordon Lucas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127104,
+          "name": "Reece Nelson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9794,
+          "name": "Chris Stanley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127105,
+          "name": "Rowland Swain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127106,
+          "name": "Christopher John Thorne",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Foulness & The Wakerings",
+      "ballot_paper_id": "local.rochford.foulness-the-wakerings.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127158,
+          "name": "James Philip Cottis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110509,
+          "name": "Rosalind Efde",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127159,
+          "name": "Philip Terence Hannan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127160,
+          "name": "Jo McPherson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 9844,
+          "name": "Stephen Tellis",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hawkwell East",
+      "ballot_paper_id": "local.rochford.hawkwell-east.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 110512,
+          "name": "Bella-Elena Armstrong",
+          "party_name": "Heritage Party"
+        },
+        {
+          "person_id": 110520,
+          "name": "Denise Maureen Crosbie",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 64986,
+          "name": "Eileen Gadsdon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 65016,
+          "name": "Roger Gardner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 77215,
+          "name": "Jim Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127174,
+          "name": "Eleanor May Harrin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127175,
+          "name": "Sam Martyn",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127176,
+          "name": "Katherine Elizabeth Reid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127177,
+          "name": "Robert Reid",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127178,
+          "name": "Aj Silver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90201,
+          "name": "Deborah Patricia Squires-Coleman",
+          "party_name": "Rochford District Residents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hawkwell West",
+      "ballot_paper_id": "local.rochford.hawkwell-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118342,
+          "name": "Keith McDonald Buchanan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127236,
+          "name": "Shona Flack",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127237,
+          "name": "Stephen William James Mace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90206,
+          "name": "Teddy Andrew George Ryan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127238,
+          "name": "Tony Warwick",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hockley",
+      "ballot_paper_id": "local.rochford.hockley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 47520,
+          "name": "Toni Carter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127228,
+          "name": "Katie De-Veuve",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47521,
+          "name": "Nicola O'Riordan-Finley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9825,
+          "name": "Ian James Rooke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127229,
+          "name": "Sue Taylor",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 127230,
+          "name": "Gary John Wheeler",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hockley & Ashingdon",
+      "ballot_paper_id": "local.rochford.hockley-ashingdon.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 70715,
+          "name": "Danielle Louise Belton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 99104,
+          "name": "Patricia Norrington",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127090,
+          "name": "Richard Pryor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127091,
+          "name": "Carl Christian Turner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96389,
+          "name": "John Barry Waldron",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hullbridge",
+      "ballot_paper_id": "local.rochford.hullbridge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127094,
+          "name": "Tina Hughes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110524,
+          "name": "Chinu Kishore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 9803,
+          "name": "David James Michael Lench",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110181,
+          "name": "Chris Taylor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lodge",
+      "ballot_paper_id": "local.rochford.lodge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127189,
+          "name": "Andrew Argyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127190,
+          "name": "Ian Robert Jordan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9879,
+          "name": "Jack Leslie Lawmon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127191,
+          "name": "Angela Sutton",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roche North & Rural",
+      "ballot_paper_id": "local.rochford.roche-north-rural.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127196,
+          "name": "Mark Louis Elmes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 77257,
+          "name": "James Richard Hedges",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127197,
+          "name": "Neil John Hookway",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 9852,
+          "name": "Laureen Shaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76139,
+          "name": "Deborah Katherine Taylor",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roche South",
+      "ballot_paper_id": "local.rochford.roche-south.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127198,
+          "name": "Richard Beasley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 64967,
+          "name": "Derek Henry Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 3492,
+          "name": "Tino Callaghan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99079,
+          "name": "Shona Hyde-Williams",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 9860,
+          "name": "Mike Steptoe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sweyne Park & Grange",
+      "ballot_paper_id": "local.rochford.sweyne-park-grange.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127210,
+          "name": "Dawn Balding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90236,
+          "name": "Scott James Peters",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127211,
+          "name": "Stuart John Prior",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84332,
+          "name": "Lorraine Ridley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127212,
+          "name": "Stephen Shrubsole",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90258,
+          "name": "Vilma Anita Wilson",
+          "party_name": "Rochford District Residents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Trinity",
+      "ballot_paper_id": "local.rochford.trinity.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 9869,
+          "name": "Stephen James Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127218,
+          "name": "Sanjoy Kumar Ghosh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127219,
+          "name": "Charles Joynson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127220,
+          "name": "Sam Reed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 9873,
+          "name": "David John Sperring",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wheatley",
+      "ballot_paper_id": "local.rochford.wheatley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90274,
+          "name": "Andy Cross",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127213,
+          "name": "Max Oliver Ellul",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127214,
+          "name": "Adi Malviya",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127215,
+          "name": "Roy Williams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9862,
+          "name": "Victoria Mary Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

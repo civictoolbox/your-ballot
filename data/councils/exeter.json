@@ -1,0 +1,474 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "exeter",
+    "council_name": "Exeter"
+  },
+  "wards": [
+    {
+      "ward_name": "Alphington",
+      "ballot_paper_id": "local.exeter.alphington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118508,
+          "name": "Lucy Jane Findlay",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 55489,
+          "name": "Kayleigh Michelle Suzanne Luscombe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132717,
+          "name": "Jayden Simon Palmer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132718,
+          "name": "JJ Pickin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 121596,
+          "name": "Greg Wotton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Duryard & St James",
+      "ballot_paper_id": "local.exeter.duryard-st-james.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132939,
+          "name": "Jonathan Michael Hawke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132940,
+          "name": "David John Hodge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132941,
+          "name": "Mithat Ishakoglu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132942,
+          "name": "Kevin John Mitchell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132943,
+          "name": "Sebastian Stanwell-Wise",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Exwick",
+      "ballot_paper_id": "local.exeter.exwick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 132954,
+          "name": "Lee Matthew Gillett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99580,
+          "name": "Jamie Liam Horner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132955,
+          "name": "Paul Graeme Knott",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132956,
+          "name": "Kalkidan Legesse",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 99675,
+          "name": "David Luscombe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heavitree",
+      "ballot_paper_id": "local.exeter.heavitree.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 118787,
+          "name": "Tina Rose Beer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11414,
+          "name": "Philip John Brock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111894,
+          "name": "Dave Mutton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38810,
+          "name": "Katherine Helen Judy New",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132986,
+          "name": "Jordan Newbery",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132987,
+          "name": "Lisa Jane Norris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132988,
+          "name": "Stella Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 9592,
+          "name": "Rachel Helen Sutton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132989,
+          "name": "Helen Terry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 100881,
+          "name": "Colin John Trudgeon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 80781,
+          "name": "Nigel David Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mincinglake & Whipton",
+      "ballot_paper_id": "local.exeter.mincinglake-whipton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120541,
+          "name": "Martin Ayres",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133124,
+          "name": "Steve Casemore",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133125,
+          "name": "Anthony John Payne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11175,
+          "name": "Michael Geoffrey Payne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11130,
+          "name": "David John Thompson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Newtown & St Leonard's",
+      "ballot_paper_id": "local.exeter.newtown-st-leonards.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120530,
+          "name": "Bernadette Chelvanayagam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133183,
+          "name": "Jonny Pye",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11177,
+          "name": "Ruth Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35482,
+          "name": "Matthew James Vizard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118792,
+          "name": "Jo Westlake",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pennsylvania",
+      "ballot_paper_id": "local.exeter.pennsylvania.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 80788,
+          "name": "Will Aczel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11005,
+          "name": "Gill Baker",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133180,
+          "name": "Michael Stephen Battershill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118506,
+          "name": "Paula Joan Black",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 11473,
+          "name": "Rob Hannaford",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 119248,
+          "name": "Myles Jefferson Hatcher",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pinhoe",
+      "ballot_paper_id": "local.exeter.pinhoe.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133150,
+          "name": "Mark Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 120542,
+          "name": "Ian Anthony Baldwin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45730,
+          "name": "Christine Anne Campion",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133151,
+          "name": "Ashton Michael Messer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11179,
+          "name": "Duncan Wood",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Priory",
+      "ballot_paper_id": "local.exeter.priory.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 27594,
+          "name": "Marina Yvette Asvachin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11487,
+          "name": "Rob Newby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89823,
+          "name": "Philip Alexander Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90020,
+          "name": "Jack David Vickers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133086,
+          "name": "Nicholas Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "St David's",
+      "ballot_paper_id": "local.exeter.st-davids.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133134,
+          "name": "Yasmine Al-Saket",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133135,
+          "name": "Susan Clow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111888,
+          "name": "Charles Anthony Curnock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118507,
+          "name": "Rose Alexandra Lelliott",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133136,
+          "name": "Brian Rappert",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Loyes",
+      "ballot_paper_id": "local.exeter.st-loyes.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 111893,
+          "name": "Joan Marilyn Collacott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133099,
+          "name": "Laila Jhaveri",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133100,
+          "name": "Christopher John Lambert Owen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 120540,
+          "name": "Paul Stephen Richards",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133101,
+          "name": "Chloe Whipple",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Thomas",
+      "ballot_paper_id": "local.exeter.st-thomas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 133067,
+          "name": "Robert-James Stuart Cockburn",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11477,
+          "name": "Vanessa Newcombe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133068,
+          "name": "Jack Reed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133069,
+          "name": "Caroline Elizabeth Stone",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133070,
+          "name": "Laura Charis Adelaide Wright",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Topsham",
+      "ballot_paper_id": "local.exeter.topsham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 120563,
+          "name": "James Elie Cookson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 120639,
+          "name": "Sue Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133052,
+          "name": "Tim Gainsford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89917,
+          "name": "Ann Barbara Keen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11178,
+          "name": "Cynthia Thompson",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

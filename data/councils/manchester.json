@@ -1,0 +1,1146 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "manchester",
+    "council_name": "Manchester"
+  },
+  "wards": [
+    {
+      "ward_name": "Ancoats & Beswick",
+      "ballot_paper_id": "local.manchester.ancoats-beswick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136233,
+          "name": "Saadmun Abdullah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75086,
+          "name": "Luke Allan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136234,
+          "name": "Elizabeth Grace Drinkwater",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 84787,
+          "name": "Irene Cecilia Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130521,
+          "name": "Hussayn Salem",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ardwick",
+      "ballot_paper_id": "local.manchester.ardwick.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 136248,
+          "name": "Saqib Athar",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 139104,
+          "name": "Alex Francis-Palmer",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 136249,
+          "name": "Tina Hewitson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125425,
+          "name": "Alex-Salik Imran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 43096,
+          "name": "Joe Lynch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106472,
+          "name": "Princetta Monica Nicol",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136250,
+          "name": "Charlie Stott",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Baguley",
+      "ballot_paper_id": "local.manchester.baguley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 45810,
+          "name": "Paul Gerrard Andrews",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136274,
+          "name": "Sian Astley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42135,
+          "name": "Luke Berry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 55220,
+          "name": "Grace Buczkowska",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14800,
+          "name": "Bernie Ryan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 24,
+          "name": "Lynn Worthington",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brooklands",
+      "ballot_paper_id": "local.manchester.brooklands.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130515,
+          "name": "Amy Bower",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14579,
+          "name": "Stephen Paul Carlton-Woods",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46135,
+          "name": "Sue Cooley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136307,
+          "name": "Steven John Hodgkiss",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14807,
+          "name": "Martha O'Donoghue",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Burnage",
+      "ballot_paper_id": "local.manchester.burnage.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 112809,
+          "name": "Asma Alam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84243,
+          "name": "Murtaza Ranjha Iqbal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112783,
+          "name": "Bhupinder Kumar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136315,
+          "name": "Heather McDonagh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136317,
+          "name": "Tenisha Nantume",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133393,
+          "name": "Michael Paul Nash-Whitmore",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112811,
+          "name": "Muhammad Nadeem Tahir",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Charlestown",
+      "ballot_paper_id": "local.manchester.charlestown.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 99913,
+          "name": "Dylan Anthony Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46185,
+          "name": "Veronica Kirkpatrick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14700,
+          "name": "Charles William Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130509,
+          "name": "Ali Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cheetham",
+      "ballot_paper_id": "local.manchester.cheetham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135600,
+          "name": "Mohammed Dawud Ali",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 1562,
+          "name": "Brian Arthur Candeland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45954,
+          "name": "Naeem Hassan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135601,
+          "name": "Samuel Augusten Jacob",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117842,
+          "name": "Sabeena Khan",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 104715,
+          "name": "Roderick George Donald Morrison",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorlton",
+      "ballot_paper_id": "local.manchester.chorlton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 14503,
+          "name": "Rhona Brown",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136348,
+          "name": "Jorge Garcia de Bustos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136347,
+          "name": "Ian Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42141,
+          "name": "John Hacking",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136349,
+          "name": "Chantal Lyn Kerr-Sheppard",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorlton Park",
+      "ballot_paper_id": "local.manchester.chorlton-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 136606,
+          "name": "Hamed Aden",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 136608,
+          "name": "Fassah Bibi",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 136604,
+          "name": "Lee Adam Dawson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136610,
+          "name": "Peter Joseph Gough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136607,
+          "name": "Jack Holliss",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14488,
+          "name": "Joanna Rachel Midgley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130501,
+          "name": "Grace Worrall",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clayton & Openshaw",
+      "ballot_paper_id": "local.manchester.clayton-openshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136685,
+          "name": "Jacob Wilfred Barlow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136686,
+          "name": "Zinette Bates",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130499,
+          "name": "Sean Charles Duggan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81247,
+          "name": "Thomas Frederick Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81248,
+          "name": "Ramzi Swaray-Kella",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crumpsall",
+      "ballot_paper_id": "local.manchester.crumpsall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 81238,
+          "name": "Iftikhar Butt Ahmed",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136702,
+          "name": "Jawad Amin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 27268,
+          "name": "Amaan Hashmi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136703,
+          "name": "Mini Majid",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 130497,
+          "name": "Robert Nicolson Pollitt",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deansgate",
+      "ballot_paper_id": "local.manchester.deansgate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 52326,
+          "name": "Daniel James Bell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14401,
+          "name": "John Richard Bridges",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136709,
+          "name": "David Anthony Bryan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14402,
+          "name": "Joan Elizabeth Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136710,
+          "name": "Connor Sanders",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 129303,
+          "name": "Sarah Elizabeth Wakefield",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Didsbury East",
+      "ballot_paper_id": "local.manchester.didsbury-east.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130496,
+          "name": "Laurence Blackwell-Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44620,
+          "name": "Bryn Coombe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136568,
+          "name": "Nigel Hedley Greenhalgh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136569,
+          "name": "Parveen Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44623,
+          "name": "Andrew Simcock",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Didsbury West",
+      "ballot_paper_id": "local.manchester.didsbury-west.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136722,
+          "name": "Barakat Elkhalifa",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 1554,
+          "name": "John Leech",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130495,
+          "name": "Adam Snape",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136723,
+          "name": "Martin William Sykes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126631,
+          "name": "Ben Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fallowfield",
+      "ballot_paper_id": "local.manchester.fallowfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136012,
+          "name": "Luke David Barker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136013,
+          "name": "Racheal Burns",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133308,
+          "name": "John Patrick Bryans Commons",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45844,
+          "name": "Ali Raza Ilyas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130493,
+          "name": "Sufyaan Jasat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136014,
+          "name": "Raluca Khajeh",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gorton & Abbey Hey",
+      "ballot_paper_id": "local.manchester.gorton-abbey-hey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 45864,
+          "name": "John Hughes",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 136644,
+          "name": "Paul Lajszczak",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44611,
+          "name": "Chris Ogden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 5092,
+          "name": "Jackie Pearcey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136645,
+          "name": "Shahab Raz",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Harpurhey",
+      "ballot_paper_id": "local.manchester.harpurhey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 49291,
+          "name": "Gareth Joseph Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136746,
+          "name": "John Okelly David",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136747,
+          "name": "David Godfrey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 14575,
+          "name": "Maria Theresa Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126011,
+          "name": "Finn White",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Higher Blackley",
+      "ballot_paper_id": "local.manchester.higher-blackley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 112724,
+          "name": "Dean Luke Booth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 130492,
+          "name": "Brad Bowes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14748,
+          "name": "Peter George Matthews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90925,
+          "name": "Olusegun Adelaja Ogunbambo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 5975,
+          "name": "Martin Power",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hulme",
+      "ballot_paper_id": "local.manchester.hulme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 44015,
+          "name": "Bernard Joseph Ekbery",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45843,
+          "name": "Robin Francis Grayson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43729,
+          "name": "Lee-Ann Mary Igbon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126740,
+          "name": "Nigel Arthur Slack",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Levenshulme",
+      "ballot_paper_id": "local.manchester.levenshulme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 14208,
+          "name": "Liaqat Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81203,
+          "name": "Jeremy Edward Hoad",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 112800,
+          "name": "Muhammad Iqbal",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 43545,
+          "name": "Dzidra Noor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110082,
+          "name": "Fesl Reza-Khan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136721,
+          "name": "Christian Sky",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136720,
+          "name": "Emma Woods",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longsight",
+      "ballot_paper_id": "local.manchester.longsight.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 50484,
+          "name": "Kobe Ryan Bibbon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136291,
+          "name": "Michael Madade Chahwanda",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44014,
+          "name": "Abid Chohan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112726,
+          "name": "Tanvir Marth",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 130491,
+          "name": "Asif Iqbal Ranjha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136292,
+          "name": "Faran Sikandar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42445,
+          "name": "Hugo Wils",
+          "party_name": "Communist League Election Campaign"
+        }
+      ]
+    },
+    {
+      "ward_name": "Miles Platting & Newton Heath",
+      "ballot_paper_id": "local.manchester.miles-platting-newton-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136573,
+          "name": "Adeyemi Joseph Ajayi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126230,
+          "name": "Pascal Dylan Checkley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14755,
+          "name": "Carmine Geatano Grimshaw",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136574,
+          "name": "Tom Alexander Grendon Lane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136575,
+          "name": "Andrew Stephen Weston",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moss Side",
+      "ballot_paper_id": "local.manchester.moss-side.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 106414,
+          "name": "Thirza Amina Asanga-Rae",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 84216,
+          "name": "Erinma Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136639,
+          "name": "Nadia Dara",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 112448,
+          "name": "Jake Christopher David Fountain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136640,
+          "name": "Martin McKinnon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45354,
+          "name": "Lynne Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moston",
+      "ballot_paper_id": "local.manchester.moston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 45982,
+          "name": "Paula Elizabeth Appleby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136782,
+          "name": "Blake Steven Fisher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81194,
+          "name": "Diane Lilian Kosandiak",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14487,
+          "name": "Norman Lewis",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northenden",
+      "ballot_paper_id": "local.manchester.northenden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130490,
+          "name": "Tolú Ajayi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 395,
+          "name": "Mark Clayton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 13748,
+          "name": "Stephen James McHugh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84229,
+          "name": "Angela Jane Moran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136802,
+          "name": "Chris Soobhug",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Moat",
+      "ballot_paper_id": "local.manchester.old-moat.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 81177,
+          "name": "Sam Easterby-Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136674,
+          "name": "Sarah Haynes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136675,
+          "name": "Kierin McCorkell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 114288,
+          "name": "Sebastian Moore",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 136676,
+          "name": "Tracey Pook",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 43603,
+          "name": "Suzannah Mary Reeves",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Piccadilly",
+      "ballot_paper_id": "local.manchester.piccadilly.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 25226,
+          "name": "Kaleem Antony Aksar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136677,
+          "name": "Peter Thomas Beckett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136678,
+          "name": "Paraic Thomas Delahunt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125456,
+          "name": "Fiona Moinuddin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130488,
+          "name": "Ross Steven",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rusholme",
+      "ballot_paper_id": "local.manchester.rusholme.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 41652,
+          "name": "Rabnawaz Akbar",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117836,
+          "name": "Mohhamed Bilal",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 136664,
+          "name": "Norman Alexxander Hesketh-Hart",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90919,
+          "name": "Jason Peter McLeod",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76091,
+          "name": "Greg Sammons",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130487,
+          "name": "Shams Syed",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sharston",
+      "ballot_paper_id": "local.manchester.sharston.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136841,
+          "name": "Richard Caulfield",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136842,
+          "name": "Gary Curran",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46136,
+          "name": "Paul Anthony Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136843,
+          "name": "David Maurice McCullough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130485,
+          "name": "Peter Searby",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whalley Range",
+      "ballot_paper_id": "local.manchester.whalley-range.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 117158,
+          "name": "Sameera Ashraf",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 27355,
+          "name": "Seb Bate",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136328,
+          "name": "Andrew Runnacles Chadwick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72120,
+          "name": "Lee Montague-Trenchard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 45941,
+          "name": "Aftab Razaq",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130484,
+          "name": "Ati Zafar",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Withington",
+      "ballot_paper_id": "local.manchester.withington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 117815,
+          "name": "Sarah Garcia de Bustos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90876,
+          "name": "Angela Gartside",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126211,
+          "name": "Beth Hartness",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14784,
+          "name": "April Preston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136225,
+          "name": "Charlie Southwood",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodhouse Park",
+      "ballot_paper_id": "local.manchester.woodhouse-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 123101,
+          "name": "Roger Beattie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126586,
+          "name": "Emily Elzbieta Chomicz",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136849,
+          "name": "Anna Coombe",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14806,
+          "name": "Eric Houghton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14697,
+          "name": "Astrid Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 14808,
+          "name": "Brian Darral O'Neil",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

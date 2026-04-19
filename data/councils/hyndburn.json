@@ -1,0 +1,308 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hyndburn",
+    "council_name": "Hyndburn"
+  },
+  "wards": [
+    {
+      "ward_name": "Clayton-le-Moors",
+      "ballot_paper_id": "local.hyndburn.clayton-le-moors.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 118363,
+          "name": "Richard John Downie",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131898,
+          "name": "Jayde Holmes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131903,
+          "name": "Sara Michaels",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 29002,
+          "name": "Miles Parkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Huncoat",
+      "ballot_paper_id": "local.hyndburn.huncoat.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 131919,
+          "name": "Jodie Green",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131920,
+          "name": "Nick King",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131929,
+          "name": "Andrew Libberton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125628,
+          "name": "Anthony David Mitchell",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Immanuel",
+      "ballot_paper_id": "local.hyndburn.immanuel.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 125258,
+          "name": "Josh Blayne Allen",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 76774,
+          "name": "Steven Smithson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125631,
+          "name": "Anna Stanislawska",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milnshaw",
+      "ballot_paper_id": "local.hyndburn.milnshaw.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 44330,
+          "name": "Andy Clegg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131931,
+          "name": "Hannah Mae Fisher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 109511,
+          "name": "Foyzun Nur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121039,
+          "name": "Joel Michael Tetlow",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Netherton",
+      "ballot_paper_id": "local.hyndburn.netherton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 73234,
+          "name": "Jodi Clements",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125632,
+          "name": "Colleen Rose Dickinson-Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 74708,
+          "name": "Wayne Fitzharris",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131942,
+          "name": "Barry Walker",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Overton",
+      "ballot_paper_id": "local.hyndburn.overton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 90599,
+          "name": "Scott John Brerton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 99347,
+          "name": "Jordan John Fox",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110386,
+          "name": "Judith McKelvey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131952,
+          "name": "Zoe April Thomas",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Peel",
+      "ballot_paper_id": "local.hyndburn.peel.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 118364,
+          "name": "Ashley Joynes",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99472,
+          "name": "Lex Kristan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44349,
+          "name": "Joyce Plummer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 25028,
+          "name": "Malcolm Eric Pritchard",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rishton",
+      "ballot_paper_id": "local.hyndburn.rishton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 26935,
+          "name": "Bernard Dawson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 74715,
+          "name": "Carole Haythornthwaite",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131995,
+          "name": "Lee MacNeall",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118884,
+          "name": "Lance Miles Lee Parkinson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Spring Hill",
+      "ballot_paper_id": "local.hyndburn.spring-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 109514,
+          "name": "Sohail Asghar",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125629,
+          "name": "Jan Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 1913,
+          "name": "Graham Peter Jones",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 109517,
+          "name": "Saeed Ullah",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Andrew's",
+      "ballot_paper_id": "local.hyndburn.st-andrews.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 26938,
+          "name": "Peter Britcliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121180,
+          "name": "Gaynor Louise Hargreaves",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76818,
+          "name": "Julie Carole Stubbins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132024,
+          "name": "Jade Leighanne Wellings",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Oswald's",
+      "ballot_paper_id": "local.hyndburn.st-oswalds.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 3,
+      "candidates": [
+        {
+          "person_id": 44363,
+          "name": "Paul Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132038,
+          "name": "Vinette Davitt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 121181,
+          "name": "Caitlin Pritchard",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

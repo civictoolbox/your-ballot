@@ -1,0 +1,22 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-national-rebirth-party",
+    "display_name": "National Rebirth Party",
+    "candidate_count": 1,
+    "council_count": 1,
+    "raw_party_names": [
+      "National Rebirth Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 60414,
+      "name": "Barry McGrath",
+      "party_name": "National Rebirth Party",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "St Andrew's & Docklands"
+    }
+  ]
+}

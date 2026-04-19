@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-residents-for-guildford-and-villages",
+    "display_name": "Residents for Guildford and Villages",
+    "candidate_count": 2,
+    "council_count": 1,
+    "raw_party_names": [
+      "Residents for Guildford and Villages"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 56492,
+      "name": "Dennis George William Booth",
+      "party_name": "Residents for Guildford and Villages",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Horsleys"
+    },
+    {
+      "person_id": 56757,
+      "name": "Catherine Young",
+      "party_name": "Residents for Guildford and Villages",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Horsleys"
+    }
+  ]
+}

@@ -1,0 +1,1461 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "islington",
+    "council_name": "Islington"
+  },
+  "wards": [
+    {
+      "ward_name": "Arsenal",
+      "ballot_paper_id": "local.islington.arsenal.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 20137,
+          "name": "Nicholas Bennett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137322,
+          "name": "Patrick David Brighty",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137323,
+          "name": "Nafisah Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36066,
+          "name": "Jean-Philippe Chenot",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90795,
+          "name": "Fin Craig",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125205,
+          "name": "Thomas Doherty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117891,
+          "name": "Jo Dowbor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137324,
+          "name": "John Dunton-Downer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137325,
+          "name": "Mark William Edwards",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47654,
+          "name": "Rachael Anne Henry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76040,
+          "name": "Bashir Ibrahim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137326,
+          "name": "Carol Margaret Louvet",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137327,
+          "name": "Ian MacKee",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90977,
+          "name": "Paul Jeremy Massey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46522,
+          "name": "Philip David Middleton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137328,
+          "name": "Harry Ripp",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Barnsbury",
+      "ballot_paper_id": "local.islington.barnsbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137637,
+          "name": "Lucas Waelbroeck Boix",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137632,
+          "name": "Amelia Rose Bottomley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45162,
+          "name": "Rowena Elizabeth Champion",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90822,
+          "name": "Michael Benedict Champness",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45164,
+          "name": "Jilani Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125206,
+          "name": "Kane Emerson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90823,
+          "name": "Jeremy Arthur Hargreaves",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90826,
+          "name": "Erwann Patrick Michel Le Lannou",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137633,
+          "name": "Christopher Conor McCann",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137634,
+          "name": "Sara Mulatu",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137635,
+          "name": "Francis O'Brien",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137636,
+          "name": "Oliver Teller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45219,
+          "name": "Zak Vora",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bunhill",
+      "ballot_paper_id": "local.islington.bunhill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137620,
+          "name": "Sara Abey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40478,
+          "name": "George Edwin Allan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137621,
+          "name": "Susan Beveridge",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 74237,
+          "name": "Valerie Bossman-Quarshie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137622,
+          "name": "Paul James Carr",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47831,
+          "name": "Troy Martin Gallagher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47832,
+          "name": "Phil Graham",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 137623,
+          "name": "Alan Clark Gutierrez",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90848,
+          "name": "John Kenny",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137624,
+          "name": "Ava Lie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47834,
+          "name": "Jake Anthony Painter",
+          "party_name": "Social Democratic Party"
+        },
+        {
+          "person_id": 125207,
+          "name": "Kiran Prasad",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137625,
+          "name": "David Shovel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90852,
+          "name": "David Small",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137627,
+          "name": "David John Wade",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137628,
+          "name": "Andrew Watson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Caledonian",
+      "ballot_paper_id": "local.islington.caledonian.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136963,
+          "name": "Sadia Ahmed-Nur Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136964,
+          "name": "Pete Backhouse",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136965,
+          "name": "Euan Moir Cameron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136966,
+          "name": "Bryony Carney",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136967,
+          "name": "Alex John Challoner",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35539,
+          "name": "Paul Edmond Convery",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136968,
+          "name": "Paul Lovell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136969,
+          "name": "Clara Luz",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90864,
+          "name": "Walera Martynchyk",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136970,
+          "name": "Edward Mitford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 46687,
+          "name": "Una Mary O'Halloran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136971,
+          "name": "Chris Pitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125208,
+          "name": "Md Oliur Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136972,
+          "name": "Liz Snaith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136973,
+          "name": "Harrison Woodin-Lygo",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Canonbury",
+      "ballot_paper_id": "local.islington.canonbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 137597,
+          "name": "Belinda Ackermann",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 90880,
+          "name": "James Robert Bacchus",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137598,
+          "name": "Hayden Banks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137604,
+          "name": "Manuel Martinez Benito",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137599,
+          "name": "Michael Philip Chissick",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137600,
+          "name": "Jason Corke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137601,
+          "name": "Laurence Glazier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38715,
+          "name": "Clare Jeapes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137602,
+          "name": "Jorge Richard Latter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90883,
+          "name": "Haiwei Li",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137603,
+          "name": "Julliet Makhapila",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 37122,
+          "name": "Henry Francis McMorrow",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90885,
+          "name": "Chris Radway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137605,
+          "name": "Tessa Rawcliffe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38717,
+          "name": "Barbara Grace Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38719,
+          "name": "Nicholas Wayne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38720,
+          "name": "John Jacob Woolf",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Clerkenwell",
+      "ballot_paper_id": "local.islington.clerkenwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137554,
+          "name": "Alessandro Bonetti",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137555,
+          "name": "Kevin Chun",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125209,
+          "name": "Andrew William Clark",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137556,
+          "name": "Bill Cove",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 90777,
+          "name": "Mark Eldridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91057,
+          "name": "Jara Falkenburg",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137557,
+          "name": "Giulio Ferrini",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90922,
+          "name": "Ruth Hayes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117072,
+          "name": "Karen Cooksley Hutchinson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137558,
+          "name": "Alexander Bruce Lusty",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48167,
+          "name": "Ben Ian MacKmurdie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137559,
+          "name": "Martin Murray",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137560,
+          "name": "Martine Paulmier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137561,
+          "name": "Grant Shimmen",
+          "party_name": "National Housing Party United Kingdom"
+        },
+        {
+          "person_id": 90924,
+          "name": "Jason Phillip Vickers",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Finsbury Park",
+      "ballot_paper_id": "local.islington.finsbury-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 2988,
+          "name": "Caroline Jane Allen",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138137,
+          "name": "Amu Gib",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 138138,
+          "name": "Syreen Hassan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90950,
+          "name": "Natalie Jane Koffman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138139,
+          "name": "Jonathan Lang",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88742,
+          "name": "Pauline Lewis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138140,
+          "name": "Sharon Matthew",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 47656,
+          "name": "Stephen Mark McMinnies",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138141,
+          "name": "Amelia Sarah Mitford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125210,
+          "name": "Portia Mtwakazi Msimang",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138142,
+          "name": "Angela Nicolaou",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47657,
+          "name": "Mick O'Sullivan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 72658,
+          "name": "Gulcin Ozdemir",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138143,
+          "name": "Edwin David Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138144,
+          "name": "Daniel Kristen Thomas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 40494,
+          "name": "Chris Williams",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138145,
+          "name": "Sadiq Yusuf",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Highbury",
+      "ballot_paper_id": "local.islington.highbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 125212,
+          "name": "Michael Comba",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125211,
+          "name": "Tahreen Dewan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137537,
+          "name": "Eileen Gallagher",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7778,
+          "name": "Benali Hamdache",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125213,
+          "name": "Alastair Harper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38713,
+          "name": "Talia Hussain",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137538,
+          "name": "Rowan Gabriel George James",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137539,
+          "name": "Philip Geoffrey Kelvin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45825,
+          "name": "Jon Robert Nott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137540,
+          "name": "Carlien Sai",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137541,
+          "name": "Andrew Somerset",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 90782,
+          "name": "Paul William Symes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137542,
+          "name": "Julia Williams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137543,
+          "name": "Joseph Robert Wisepart",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hillrise",
+      "ballot_paper_id": "local.islington.hillrise.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 19,
+      "candidates": [
+        {
+          "person_id": 136648,
+          "name": "Daniel Jude Cohen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136649,
+          "name": "Jason Devaney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136650,
+          "name": "Robert Drummond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136651,
+          "name": "Greg Foxsmith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136652,
+          "name": "Philip Anthony Hayden",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90947,
+          "name": "William Fitzalan Howard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136653,
+          "name": "Mimi Virginia Rose Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136654,
+          "name": "Liam Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136655,
+          "name": "Vicky Laker",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 136656,
+          "name": "David Patrick Lewis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136657,
+          "name": "Jan Manderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136658,
+          "name": "Nancy Momoh",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 117950,
+          "name": "Shreya Nanda",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45214,
+          "name": "Michelline Safi-Ngongo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45217,
+          "name": "Marian Spall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 117952,
+          "name": "Alison May Stoecker",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 45170,
+          "name": "Imogen Margaret Wall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136659,
+          "name": "Callum Laurence Waterhouse",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 136660,
+          "name": "Rupert Wilkinson",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Holloway",
+      "ballot_paper_id": "local.islington.holloway.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 2512,
+          "name": "Bridget Caroline Fox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75809,
+          "name": "Jason Jackson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136122,
+          "name": "Ahmed Jaffer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90999,
+          "name": "Tim Johnson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136123,
+          "name": "Nathaniel Jacob Meyrick Jones",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 36319,
+          "name": "David John Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136124,
+          "name": "Claudine Merica Knight",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47203,
+          "name": "Andrew Richard Myer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136125,
+          "name": "Christopher Nicholas-Cavendish",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136126,
+          "name": "George Achilles Papadopoullos",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125214,
+          "name": "Joe Peck",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 45826,
+          "name": "Claire Poyner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136127,
+          "name": "Michael Scott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46746,
+          "name": "Nigel William Roland Watts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91001,
+          "name": "Claire Louise Zammit",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136128,
+          "name": "Anahita Zardoshti",
+          "party_name": "Islington Community Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Junction",
+      "ballot_paper_id": "local.islington.junction.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 18,
+      "candidates": [
+        {
+          "person_id": 136772,
+          "name": "Oliver Bandosz",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84533,
+          "name": "Nicholas Todd Brainsby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46027,
+          "name": "Sheila Marion Chapman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136773,
+          "name": "John Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136774,
+          "name": "Leon Graham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125215,
+          "name": "Benjamin Gregg",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91036,
+          "name": "Ufi Ibrahim",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136775,
+          "name": "Jaro Kubiak",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136776,
+          "name": "Ruth O'Dowd",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 136777,
+          "name": "Shaun O'Kane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136778,
+          "name": "Faith Ruth Obiaka-Hayward",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 37611,
+          "name": "Florence Pollock",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118280,
+          "name": "James Christopher Potts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136779,
+          "name": "Pat Prendergast",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 72659,
+          "name": "Helen Redesdale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136780,
+          "name": "Georgia Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136781,
+          "name": "Sacha Varma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91113,
+          "name": "Caspar James Tudor Woolley",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Laycock",
+      "ballot_paper_id": "local.islington.laycock.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 137096,
+          "name": "Sakina Saba Chenot",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91055,
+          "name": "Ilkay Cinko-Oner",
+          "party_name": "Islington Community Independents"
+        },
+        {
+          "person_id": 137097,
+          "name": "Matthew Charles Grenville Dendy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137098,
+          "name": "John Fergus Doherty",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125216,
+          "name": "Maia Caitlin Hamilton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 90998,
+          "name": "Andrew Harrison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91095,
+          "name": "Joy Patricia Hinson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 48421,
+          "name": "Margaret Joseph",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137099,
+          "name": "Rasan Naji",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117479,
+          "name": "Andrew Parry",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 137100,
+          "name": "Patricia Muriel Peel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137101,
+          "name": "Cheryl Rands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91059,
+          "name": "Heather Nicola Staff",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137102,
+          "name": "Simon Philip Toms",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46745,
+          "name": "Nurullah Turan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137103,
+          "name": "Joseph Walker",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mildmay",
+      "ballot_paper_id": "local.islington.mildmay.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 138322,
+          "name": "Ray Alcock",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 47539,
+          "name": "Santiago Bell-Bradford",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138324,
+          "name": "Sophia Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118279,
+          "name": "Jackson Caines",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91077,
+          "name": "John Cotton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 91079,
+          "name": "Thomas Hamilton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47543,
+          "name": "Jenny Kay",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46527,
+          "name": "Nadine Claire Mellor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138338,
+          "name": "Paul Piacenti",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138306,
+          "name": "Alyson Prince",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138339,
+          "name": "Emma Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 138333,
+          "name": "Carlos Valero",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138320,
+          "name": "Percy De Vries",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 76070,
+          "name": "Angelo Ricardo Weekes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 46035,
+          "name": "John Wilkin",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Mary's & St James'",
+      "ballot_paper_id": "local.islington.st-marys-st-james.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 91099,
+          "name": "Christopher Allen-Procter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91094,
+          "name": "Joseph Andrew Croft",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47542,
+          "name": "Alexandra Catherine Eldridge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137575,
+          "name": "Solveig Herzum",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137576,
+          "name": "Jonathan Horsman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90861,
+          "name": "Simon William Johnson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 94996,
+          "name": "Rebecca Jones",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137577,
+          "name": "Jackie Kay",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 117682,
+          "name": "Michael John King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91097,
+          "name": "Hannah Victoria McHugh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91098,
+          "name": "Saiqa Pandor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 43451,
+          "name": "Kate Elizabeth Pothalingam",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 118271,
+          "name": "Brian Steve Potter",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 4505,
+          "name": "Terry Stacy",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Peter's & Canalside",
+      "ballot_paper_id": "local.islington.st-peters-canalside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 83763,
+          "name": "Vanessa Margaret Carson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91109,
+          "name": "Jack Gilmore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 46686,
+          "name": "Alexander Gardner Gordon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136794,
+          "name": "Simon Miller Groom",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136795,
+          "name": "Thomas Michael Hartley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136796,
+          "name": "Edward Congreve Jenkyns",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90923,
+          "name": "Bronwen Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47787,
+          "name": "Martin Geoffrey Klute",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136797,
+          "name": "Martin Kristofer Lunnon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 23037,
+          "name": "James Robert Christopher Mathieson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76056,
+          "name": "Toby Alexander North",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91111,
+          "name": "Rosaline Ifechukwude Ogunro",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136798,
+          "name": "John Anthony Sloboda",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tollington",
+      "ballot_paper_id": "local.islington.tollington.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 136502,
+          "name": "Elmedina Baptista-Mendes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136503,
+          "name": "Andrew Sean Brett Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136504,
+          "name": "Sasha Cuthbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91122,
+          "name": "Lidia Iwona Erlichman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136505,
+          "name": "Abbas Hama Fatah",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 83764,
+          "name": "Mick Gilgunn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136506,
+          "name": "Kevin Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40483,
+          "name": "Anjna Khurana",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 41335,
+          "name": "Alex Nettle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13845,
+          "name": "Kevin Gerard O'Neill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91037,
+          "name": "Nigel Timothy Seay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 90954,
+          "name": "Keith Richard Sharp",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90955,
+          "name": "Paul Martin Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 83765,
+          "name": "Jonathan Ward",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 40496,
+          "name": "Flora Suzanne Williamson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tufnell Park",
+      "ballot_paper_id": "local.islington.tufnell-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 137432,
+          "name": "Sophia Andersson-Gylden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137433,
+          "name": "Susan Mary Atkinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137434,
+          "name": "Margaret Emily Currie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48419,
+          "name": "Satnam Gill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116701,
+          "name": "Sheridan Virginia Kates",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137435,
+          "name": "Regan Blanton King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 91141,
+          "name": "Axel Michael Koelsch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137436,
+          "name": "Stephen Andrew Kreppel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89439,
+          "name": "Devon Osborne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137437,
+          "name": "Dominic Rayner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91143,
+          "name": "Rupert Bertram Redesdale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125217,
+          "name": "Buffy Sharpe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137438,
+          "name": "Paul Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125218,
+          "name": "Jenevieve Marie Treadwell",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

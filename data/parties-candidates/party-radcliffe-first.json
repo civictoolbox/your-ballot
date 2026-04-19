@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-radcliffe-first",
+    "display_name": "Radcliffe First",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Radcliffe First"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 44305,
+      "name": "Donald Berry",
+      "party_name": "Radcliffe First",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Radcliffe North & Ainsworth"
+    },
+    {
+      "person_id": 68262,
+      "name": "Carol Ann Birchmore",
+      "party_name": "Radcliffe First",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Radcliffe East"
+    },
+    {
+      "person_id": 128714,
+      "name": "Judi Sheppard",
+      "party_name": "Radcliffe First",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Radcliffe West"
+    }
+  ]
+}

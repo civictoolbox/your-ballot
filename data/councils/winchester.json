@@ -1,0 +1,510 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "winchester",
+    "council_name": "Winchester"
+  },
+  "wards": [
+    {
+      "ward_name": "Alresford & Itchen Valley",
+      "ballot_paper_id": "local.winchester.alresford-itchen-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 15021,
+          "name": "Lisa Suzanne Griffiths",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129860,
+          "name": "Nicholas Brian Fortescue Hubbard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 15025,
+          "name": "Margot Julia Power",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129861,
+          "name": "Tom Street",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17688,
+          "name": "Tessa Susan Valentine",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Badger Farm & Oliver's Battery",
+      "ballot_paper_id": "local.winchester.badger-farm-olivers-battery.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 108170,
+          "name": "Alison Phyllis Cochrane",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130326,
+          "name": "Ed Kennedy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 14968,
+          "name": "Brian Leslie Laming",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 30274,
+          "name": "Max Priesemann",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 107555,
+          "name": "Lincoln Redding",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bishop's Waltham",
+      "ballot_paper_id": "local.winchester.bishops-waltham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127192,
+          "name": "Simone Fleuren",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15010,
+          "name": "Steve Haines",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129593,
+          "name": "Peter James Jordan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 41996,
+          "name": "Steve Miller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129594,
+          "name": "Doug Stinton",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central Meon Valley",
+      "ballot_paper_id": "local.winchester.central-meon-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129887,
+          "name": "Frances Baxter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17815,
+          "name": "Roger John Bentote",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6148,
+          "name": "Martyn Kevin Davis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42402,
+          "name": "David Newberry",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72025,
+          "name": "Malcolm Wallace",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Colden Common & Twyford",
+      "ballot_paper_id": "local.winchester.colden-common-twyford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130132,
+          "name": "Sue Cook",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 17682,
+          "name": "Adrian John Paul Field",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 130133,
+          "name": "Hugo Mabbott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130134,
+          "name": "Kevin Patrick James Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127193,
+          "name": "Sophia Grace Williams",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Denmead",
+      "ballot_paper_id": "local.winchester.denmead.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129533,
+          "name": "Amanda Aldridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 17640,
+          "name": "Caroline Lorraine Brook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127194,
+          "name": "Martin Clay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110273,
+          "name": "Andrew Thomas Kirby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129534,
+          "name": "Laura O'Connor",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southwick & Wickham",
+      "ballot_paper_id": "local.winchester.southwick-wickham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 17660,
+          "name": "Neil Cutler",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129774,
+          "name": "Richard Harris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129775,
+          "name": "Alexander Hodgkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110415,
+          "name": "Denise Searle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129776,
+          "name": "Ben Thomas",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Barnabas",
+      "ballot_paper_id": "local.winchester.st-barnabas.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130154,
+          "name": "Mark Lawrence Gordon Adams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73915,
+          "name": "James Edward Batho",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 84315,
+          "name": "David Killeen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130155,
+          "name": "Jessica Redway",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94904,
+          "name": "Lucy Sims",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Bartholomew",
+      "ballot_paper_id": "local.winchester.st-bartholomew.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 42618,
+          "name": "Kathleen Mary Becker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129897,
+          "name": "Roseanna Leigh Curley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 2269,
+          "name": "Patrick Davies",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 107851,
+          "name": "Lorraine Estelle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17746,
+          "name": "Fiona Mather",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Michael",
+      "ballot_paper_id": "local.winchester.st-michael.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129805,
+          "name": "David Ernest Simons Delmonte",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129806,
+          "name": "Archie William Ledger",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 72503,
+          "name": "Kate Needham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 94753,
+          "name": "Mark Paul Reach",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 17749,
+          "name": "Ian Donald Tait",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Paul",
+      "ballot_paper_id": "local.winchester.st-paul.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130188,
+          "name": "Joe Hill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130189,
+          "name": "Paul Jonathan O'Nions",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 14970,
+          "name": "Peter Rees",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 17768,
+          "name": "Lucille Thompson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130190,
+          "name": "Simon Warde",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "The Worthys",
+      "ballot_paper_id": "local.winchester.the-worthys.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 130193,
+          "name": "Luke Ainscough",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 68363,
+          "name": "Signe Biddle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130194,
+          "name": "Liam David Horton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 4542,
+          "name": "Jackie Porter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130195,
+          "name": "Jamie Trodden",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Upper Meon Valley",
+      "ballot_paper_id": "local.winchester.upper-meon-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127195,
+          "name": "David Ablitt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130313,
+          "name": "Nicholas Bennett-Britton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94988,
+          "name": "Neil Bolton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 130314,
+          "name": "Amanda Mary Griffith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130315,
+          "name": "Charlotte Lee Northbrook",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whiteley & Shedfield",
+      "ballot_paper_id": "local.winchester.whiteley-shedfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 17783,
+          "name": "Richard Carthew",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110546,
+          "name": "Marcus Garth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129922,
+          "name": "Julie Frances Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124838,
+          "name": "Ben Russell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 95034,
+          "name": "Anne Small",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110548,
+          "name": "Sean Gerrard Whelan",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wonston & Micheldever",
+      "ballot_paper_id": "local.winchester.wonston-micheldever.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 5273,
+          "name": "Andrew Timothy Adams",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129622,
+          "name": "Nick Constable",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42926,
+          "name": "Patrick Brian Cunningham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129623,
+          "name": "Cameron Hardie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 17837,
+          "name": "Antony Francis De Peyer",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}

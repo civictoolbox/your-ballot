@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-chislehurst-matters",
+    "display_name": "Chislehurst Matters",
+    "candidate_count": 3,
+    "council_count": 1,
+    "raw_party_names": [
+      "Chislehurst Matters"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 93566,
+      "name": "Mike Jack",
+      "party_name": "Chislehurst Matters",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Chislehurst"
+    },
+    {
+      "person_id": 93568,
+      "name": "Mark Jeffrey Smith",
+      "party_name": "Chislehurst Matters",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Chislehurst"
+    },
+    {
+      "person_id": 93569,
+      "name": "Alison Margaret Stammers",
+      "party_name": "Chislehurst Matters",
+      "council_slug": "bromley",
+      "council_name": "Bromley",
+      "ward_name": "Chislehurst"
+    }
+  ]
+}

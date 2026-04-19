@@ -1,0 +1,2045 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "sunderland",
+    "council_name": "Sunderland"
+  },
+  "wards": [
+    {
+      "ward_name": "Barnes & Thornhill",
+      "ballot_paper_id": "local.sunderland.barnes-thornhill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133719,
+          "name": "Syed Mahfuz Ahmed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133720,
+          "name": "Caroline Comer",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133721,
+          "name": "Kai Lamont Crawford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110592,
+          "name": "Benjamin William Davies-Scott",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37682,
+          "name": "Tim Ellis-Dale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133722,
+          "name": "Ehthesham Haque",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 75282,
+          "name": "Alyson Kordbarlag",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88979,
+          "name": "Kevin Leonard",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133723,
+          "name": "Victor John Skinner",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110598,
+          "name": "Robert Snowdon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133724,
+          "name": "Jake Taylor",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109498,
+          "name": "Fiona Katharine Tobin",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 97419,
+          "name": "Mark Dominic Tyers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133725,
+          "name": "Nathan Williamson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133726,
+          "name": "Lynn Wynn",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deptford & Hendon",
+      "ballot_paper_id": "local.sunderland.deptford-hendon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 110582,
+          "name": "Lynda Joyce Andrews",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125116,
+          "name": "David Barker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133777,
+          "name": "Syeda Shilpe Chowdhury",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133778,
+          "name": "James Ebere",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 109458,
+          "name": "Stephen Lewis Elms",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133779,
+          "name": "Gideon Oseremen Eriaye",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133780,
+          "name": "Francesca Hodson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11576,
+          "name": "Helmut Izaks",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125115,
+          "name": "Marie Isabella McCarty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 75235,
+          "name": "Raymond John Moore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133781,
+          "name": "Myles Alfie Mordey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 34185,
+          "name": "Ciaran Joseph Morrissey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133782,
+          "name": "Liam Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133783,
+          "name": "Steven Porter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75436,
+          "name": "Colin Andrew Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Doxford Park",
+      "ballot_paper_id": "local.sunderland.doxford-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 110578,
+          "name": "Adam Aiston",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97489,
+          "name": "Lynda Alexander",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133837,
+          "name": "Jean Barley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133838,
+          "name": "Keith Leslie Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75269,
+          "name": "Allen David Curtis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133839,
+          "name": "Lily Daniels",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133840,
+          "name": "Alan Emery",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11599,
+          "name": "Heather Fagan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75318,
+          "name": "Paul Gibson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133841,
+          "name": "Haley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133842,
+          "name": "Helen Caroline Maddison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 33881,
+          "name": "Michael Peacock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133843,
+          "name": "Bryn David Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133844,
+          "name": "Ehis Uwaifo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133845,
+          "name": "Duncan Wood",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Farringdon & Silksworth",
+      "ballot_paper_id": "local.sunderland.farringdon-silksworth.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133988,
+          "name": "Joseph Austin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 53969,
+          "name": "Scott Andrew Burrows",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125132,
+          "name": "Ian Henri Dury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50988,
+          "name": "Helen Greener",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37706,
+          "name": "Billy Scott Howells",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125131,
+          "name": "Robert Hutchinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133990,
+          "name": "Jessica Jenkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 51918,
+          "name": "Joanne Laverick",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 123277,
+          "name": "Lauren May Laws",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133991,
+          "name": "Deborah Mullen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133989,
+          "name": "Kevin De Roche",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133992,
+          "name": "Martin Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133993,
+          "name": "Heidi Tolson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37780,
+          "name": "Phil Tye",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37705,
+          "name": "Linda Mary Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fulwell",
+      "ballot_paper_id": "local.sunderland.fulwell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 125186,
+          "name": "Nichola Austin-Ratcliffe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134018,
+          "name": "Peter Sidney Barley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37689,
+          "name": "Malcolm Bond",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72845,
+          "name": "Michael Peter Hartnack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134020,
+          "name": "Genevieve Lilian Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134021,
+          "name": "Malcolm Richard Kilner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134022,
+          "name": "Naomi Jane Mather",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125118,
+          "name": "David Barrie Owen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134023,
+          "name": "Steve Pickering",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134024,
+          "name": "Brian Plemper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134019,
+          "name": "Sebastian Richard Graca da Silva",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134025,
+          "name": "Bill Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125117,
+          "name": "Philip Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134026,
+          "name": "Janet Lynn Tyson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134027,
+          "name": "Peter Walton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grangetown",
+      "ballot_paper_id": "local.sunderland.grangetown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 97438,
+          "name": "Hardip Barad",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125119,
+          "name": "Daniel Joseph Cowie",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37804,
+          "name": "Michael Dixon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134066,
+          "name": "Layla-Jayne Laidler",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134067,
+          "name": "Marjorie Ledger",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125189,
+          "name": "Alison Mason",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134068,
+          "name": "Ray Matthews",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11578,
+          "name": "Michael Mordey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134069,
+          "name": "Vincent Morrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134070,
+          "name": "Serena Elizabeth Rush",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 51005,
+          "name": "Lynda Rontree Scanlan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110244,
+          "name": "Audrey Catherine Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134071,
+          "name": "Grace Isabel Weir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125121,
+          "name": "Colin Wright",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125120,
+          "name": "Mark Peter Wynn",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grindon & Thorney Close",
+      "ballot_paper_id": "local.sunderland.grindon-thorney-close.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 110577,
+          "name": "Dennis Carroll",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11629,
+          "name": "Margaret Crosby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11618,
+          "name": "Paul Edgeworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133414,
+          "name": "Michael David Gutowski",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 96680,
+          "name": "Keith Lakeman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133415,
+          "name": "Steven Mustard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11624,
+          "name": "Stephen O'Brien",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133416,
+          "name": "Paula Reed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133417,
+          "name": "Alex Sinclair",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133418,
+          "name": "Mark Thomas Henry Starling",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 50996,
+          "name": "John Wiper",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133419,
+          "name": "Ellie Lee Young",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Herrington & Newbottle",
+      "ballot_paper_id": "local.sunderland.herrington-newbottle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 125135,
+          "name": "Bruce Allcroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37797,
+          "name": "Bill Blackett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133598,
+          "name": "Donna Elizabeth Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75425,
+          "name": "Chris Burnicle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133599,
+          "name": "Hayley Elizabeth Campbell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133600,
+          "name": "Michelle Louise Hardie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133601,
+          "name": "Paul Jorgenson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133602,
+          "name": "Joella Hannah Lynch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11632,
+          "name": "Dominic McDonough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89088,
+          "name": "Martin Old",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 4121,
+          "name": "Robert Oliver",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133603,
+          "name": "Christopher Marshall Potts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133604,
+          "name": "Maureen Richardson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125134,
+          "name": "Jeffrey Shaw",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133605,
+          "name": "Malcolm Harry Waine",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hetton",
+      "ballot_paper_id": "local.sunderland.hetton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 11579,
+          "name": "James Blackburn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134081,
+          "name": "George Callaghan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134082,
+          "name": "Trevor Colgin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11617,
+          "name": "Alan Davies",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134083,
+          "name": "Christopher James Donaldson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75390,
+          "name": "Ian David Ellis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125162,
+          "name": "Kath Gaffney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134084,
+          "name": "Elizabeth Gaffney",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134085,
+          "name": "Gwynneth Gibson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125136,
+          "name": "Jason Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37697,
+          "name": "Rachel Louise Lowe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134086,
+          "name": "Henry Ndubuisi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125137,
+          "name": "Steven Neil Paterson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134087,
+          "name": "Christopher James Tobin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134088,
+          "name": "Ynez Ynez-Tulsen",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Houghton North",
+      "ballot_paper_id": "local.sunderland.houghton-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134115,
+          "name": "Felicity Louise Brand",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134116,
+          "name": "Claire Danielle Bryant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 84891,
+          "name": "Mark Burrell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134117,
+          "name": "Stewart Hardie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125139,
+          "name": "Sandra Louisa Hobson-Tate",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134118,
+          "name": "Steph Langford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125138,
+          "name": "Joseph Francomb Parkin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134119,
+          "name": "Michaela Rhiannon Peacock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75392,
+          "name": "John Price",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134120,
+          "name": "Steven Render",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134121,
+          "name": "Mark John Reynoldson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134122,
+          "name": "Pauline Robson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134123,
+          "name": "Christel Rose",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75393,
+          "name": "Donna Sarah Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134124,
+          "name": "Kirsty Elizabeth Younger",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Houghton South & Hetton Downs",
+      "ballot_paper_id": "local.sunderland.houghton-south-hetton-downs.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134157,
+          "name": "Emma Jane Baker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97613,
+          "name": "Mia Coupland",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75381,
+          "name": "Tracy Dodds",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125141,
+          "name": "Jonathon Robert Emerson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125142,
+          "name": "Heather Finlay",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134158,
+          "name": "Jan Foster",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134159,
+          "name": "Harrison Hopps",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11563,
+          "name": "Kevin Johnston",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134160,
+          "name": "Mickey Mikhimade Olowoko",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125140,
+          "name": "Michael Quigley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88855,
+          "name": "Andrew Robertson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134161,
+          "name": "Harry Levi Jordan Brandon Shovlin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97573,
+          "name": "Connor Sinclair",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50992,
+          "name": "Melanie Thornton",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hylton Castle",
+      "ballot_paper_id": "local.sunderland.hylton-castle.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 88801,
+          "name": "Allison Chisnall",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134179,
+          "name": "William Douglas",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134180,
+          "name": "Les Dunn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 50989,
+          "name": "Stephen Paul Foster",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134181,
+          "name": "Glenn Gibbins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134182,
+          "name": "Dorothy Anne Hartnack",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97565,
+          "name": "Ian Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125099,
+          "name": "David Laing",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134183,
+          "name": "Angela Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134184,
+          "name": "Miriam Townsend",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11560,
+          "name": "Denny Wilson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134185,
+          "name": "Denise Anne Worthy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pallion & Ford",
+      "ballot_paper_id": "local.sunderland.pallion-ford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 134226,
+          "name": "Kennedy Nomamidobo Amadasun",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134227,
+          "name": "Phil Avery",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134228,
+          "name": "Naomi Elizabeth Browne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75342,
+          "name": "Steve Donkin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134229,
+          "name": "Bob Francis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134230,
+          "name": "Rebecca Grant",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 35521,
+          "name": "Martin Haswell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97601,
+          "name": "Raymond Lathan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134231,
+          "name": "Jamie Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125122,
+          "name": "Emma Victoria Margetson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37793,
+          "name": "Karen Patricia Noble",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125123,
+          "name": "David Mark Parr",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37806,
+          "name": "Julia Potts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134232,
+          "name": "Angela Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134233,
+          "name": "George Thomas Smith",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134234,
+          "name": "Joy Tennant",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Pennywell & South Hylton",
+      "ballot_paper_id": "local.sunderland.pennywell-south-hylton.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134250,
+          "name": "Sunshine Babalola",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11597,
+          "name": "Shaun Cudworth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110243,
+          "name": "Lynne Susan Dagg",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134251,
+          "name": "Laura Jayne Dunning",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125167,
+          "name": "Godwin Ejeh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125143,
+          "name": "Carol Giles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125145,
+          "name": "Russell Arthur Giles",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97596,
+          "name": "Simon Andrew Hughes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97597,
+          "name": "Catherine Louise Hunter",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125144,
+          "name": "Julia Ann Irwing",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 73415,
+          "name": "Greg Peacock",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11605,
+          "name": "Anthony John Usher",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125190,
+          "name": "Jake Walker",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11627,
+          "name": "Sue Watson",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penshaw & Shiney Row",
+      "ballot_paper_id": "local.sunderland.penshaw-shiney-row.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 125147,
+          "name": "Carole Allcroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134271,
+          "name": "Judy Durrant",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134272,
+          "name": "Katherine Mary Elizabeth Mason-Gage",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134273,
+          "name": "Sam McBride",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134274,
+          "name": "Carl Anthony O'Halloran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134275,
+          "name": "David Oleka",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134276,
+          "name": "Irene Onyia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125148,
+          "name": "Abbey Purcell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110591,
+          "name": "Christopher John Rose",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134277,
+          "name": "David Snowdon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37778,
+          "name": "Mel Speding",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134278,
+          "name": "Dorinda Olive Stokes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134279,
+          "name": "Ringo Taylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125146,
+          "name": "Axel Tye",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Redhouse",
+      "ballot_paper_id": "local.sunderland.redhouse.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134293,
+          "name": "Louise Ann Avery",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 96678,
+          "name": "Martha Rachel Maitland Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125102,
+          "name": "Shaun Conley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97584,
+          "name": "Steven John Dale",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97637,
+          "name": "Janice Susan Ellis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88950,
+          "name": "Christopher Luke Eynon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134294,
+          "name": "Bob Forster",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75103,
+          "name": "Ciera Hudspith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134295,
+          "name": "Paul Humble",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 84330,
+          "name": "Sue Leishman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134296,
+          "name": "John Gareth Scratcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 53933,
+          "name": "Alison Smith",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134297,
+          "name": "Margaret Ann Stephenson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37747,
+          "name": "Paul Stewart",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 84331,
+          "name": "John Joseph Usher",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roker",
+      "ballot_paper_id": "local.sunderland.roker.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 104796,
+          "name": "Kirsty Ann Alder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134332,
+          "name": "Sean Patrick Chapman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125185,
+          "name": "Beverly Grainger",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134333,
+          "name": "Matthew Jackson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134334,
+          "name": "Craig King",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11639,
+          "name": "John Lennox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37066,
+          "name": "Justine Merton-Scott",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87528,
+          "name": "Tom Newton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134335,
+          "name": "David Ogundipe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125191,
+          "name": "Emma Porter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125124,
+          "name": "Andrew Ramsey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134336,
+          "name": "Helen Jean Schell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 109442,
+          "name": "Miguel Smith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125125,
+          "name": "Thomas Montgomery Steele",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ryhope",
+      "ballot_paper_id": "local.sunderland.ryhope.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134355,
+          "name": "David Banks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75411,
+          "name": "Sharon Boddy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134356,
+          "name": "Spencer Rose Cash-Archer",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37684,
+          "name": "James Clark Doyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134357,
+          "name": "Helen Louise Glancy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134358,
+          "name": "Martyn Preston Herron",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134359,
+          "name": "Lewis Patrick Robert Hunter",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125127,
+          "name": "James Edward Jackson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134360,
+          "name": "Barry Jacques",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134361,
+          "name": "Nicola Jacques",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134362,
+          "name": "Pamela Jameson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97639,
+          "name": "Lindsey Mair Leonard",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134363,
+          "name": "Carol Ann Robson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125126,
+          "name": "Sharon Surtees",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125128,
+          "name": "Pamela Margaret Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Southwick",
+      "ballot_paper_id": "local.sunderland.southwick.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 11633,
+          "name": "John Leonard Appleton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 53814,
+          "name": "Michael John Butler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134395,
+          "name": "Zoe Chandler",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11622,
+          "name": "Kelly Chequer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134396,
+          "name": "Rosalind Copeland",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134397,
+          "name": "Craig Doughty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134398,
+          "name": "Ben Hardie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134399,
+          "name": "Paul Jacques",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 37763,
+          "name": "Michael Henderson Leadbitter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37746,
+          "name": "Rafal Kazimierz Marzec",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125130,
+          "name": "Jannine Catherine Morrow",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134400,
+          "name": "Jon Reed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125129,
+          "name": "Jamie Bolam Scott",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134401,
+          "name": "Sheila Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11636,
+          "name": "Andrew Wood",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134402,
+          "name": "Kath Worthy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Tunstall & Humbledon",
+      "ballot_paper_id": "local.sunderland.tunstall-humbledon.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134426,
+          "name": "Lennon William Airey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134427,
+          "name": "Charlie Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11628,
+          "name": "Richard Peter Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134428,
+          "name": "Simon James Dawes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134429,
+          "name": "Dale Colin Gillett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97505,
+          "name": "Adele Graham-King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134430,
+          "name": "Glenda Patricia Hall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134431,
+          "name": "Zareen Haque",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37683,
+          "name": "Antony Mullen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134432,
+          "name": "Robbie Potts",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72851,
+          "name": "Lyall Jonathan Reed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134433,
+          "name": "Dan Sullivan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134434,
+          "name": "Richard Steven Vardy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134435,
+          "name": "Taff Wales",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134436,
+          "name": "Janet Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Washington Central",
+      "ballot_paper_id": "local.sunderland.washington-central.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134451,
+          "name": "Rebecca Anne Armstrong",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134452,
+          "name": "Mishka Alexey Belik",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125104,
+          "name": "Janis Berzemnieks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134453,
+          "name": "Michael Colling",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134454,
+          "name": "Joshua William Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134455,
+          "name": "Kelsey Catherine Hall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 97452,
+          "name": "Audrey Jaitay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125103,
+          "name": "Saleem Mohammed Memon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134456,
+          "name": "Valerie Carol Moore",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134457,
+          "name": "Mary Ogundipe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125105,
+          "name": "Joseph William Phillips",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134458,
+          "name": "Ashley Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134459,
+          "name": "Dianne Elizabeth Snowdon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 55007,
+          "name": "Harry Trueman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37814,
+          "name": "Linda Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Washington East",
+      "ballot_paper_id": "local.sunderland.washington-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134489,
+          "name": "Helen Attey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37775,
+          "name": "Nana Boddy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134490,
+          "name": "Gary John Bridge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 11637,
+          "name": "Michal Chantkowski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134491,
+          "name": "Ian Francombe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134492,
+          "name": "Finlee Gibbons",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125106,
+          "name": "Ian Gordon Hembrough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97453,
+          "name": "Beth Veronica Jones",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134493,
+          "name": "Lauren Ann Laws",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125107,
+          "name": "Emily Lopez",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37828,
+          "name": "Graeme Ferguson Miller",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134494,
+          "name": "Victor Oluwagbemi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134495,
+          "name": "Jennifer Obianuju Orji",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 55000,
+          "name": "Anthony Ormond",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134496,
+          "name": "Anna Snell",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Washington North",
+      "ballot_paper_id": "local.sunderland.washington-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133518,
+          "name": "Ayobami Seyi Adeoye",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97469,
+          "name": "Elizabeth Anne Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133519,
+          "name": "Ross Dargan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73418,
+          "name": "Paul Donaghy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37820,
+          "name": "Jill Elaine Fletcher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 11562,
+          "name": "Patricia Ann Francis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133520,
+          "name": "Richard Colin Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125108,
+          "name": "Jason Patrick King",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133521,
+          "name": "Karen Ann Laws",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133522,
+          "name": "Callum Marc McPake",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133523,
+          "name": "Janette Ann Nightingale",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133524,
+          "name": "Steven James Tolson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75446,
+          "name": "Michael Lee Walker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 37822,
+          "name": "Carlton Lee West",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133525,
+          "name": "Kieran Wood",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Washington South",
+      "ballot_paper_id": "local.sunderland.washington-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134560,
+          "name": "Peter Edward L. Deegan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134559,
+          "name": "Jack Docherty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125192,
+          "name": "Gabriel Green",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88951,
+          "name": "Logan Guy",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 55003,
+          "name": "Sean Robert Laws",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 54996,
+          "name": "Fiona Margaret Ann Mackenzie Miller",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134562,
+          "name": "Brandon Oakland",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125111,
+          "name": "Robert Pattison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125109,
+          "name": "Elouise Jade Redmayne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134563,
+          "name": "Theo Max Rose",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97553,
+          "name": "Andrew John Rowntree",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 51933,
+          "name": "Thomas Such",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 11615,
+          "name": "Sean Terry",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125110,
+          "name": "John Arthur Watson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134564,
+          "name": "Amy Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Washington West",
+      "ballot_paper_id": "local.sunderland.washington-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 97485,
+          "name": "Joanne Chapman",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 89429,
+          "name": "Sam Cosgrove",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75343,
+          "name": "Brandon Mark Feeley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 134583,
+          "name": "Chloe Melisha Harvey",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134584,
+          "name": "Samson Ibijola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134585,
+          "name": "Neil King",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134586,
+          "name": "Viv Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 37831,
+          "name": "Paul Andrew Leonard",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125113,
+          "name": "Norman Neil Moffitt",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134587,
+          "name": "Kairo Pearson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134588,
+          "name": "Ernie Peel",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125114,
+          "name": "Adrian Robert Pickering",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134589,
+          "name": "Patricia Jane Raynor",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125112,
+          "name": "Lee Redmayne",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134590,
+          "name": "Josh Thurlow",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

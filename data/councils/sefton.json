@@ -1,0 +1,1736 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "sefton",
+    "council_name": "Sefton"
+  },
+  "wards": [
+    {
+      "ward_name": "Ainsdale",
+      "ballot_paper_id": "local.sefton.ainsdale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133163,
+          "name": "Victor Graham Annells",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42781,
+          "name": "Tony Brough",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16129,
+          "name": "Alwynne Ann Cartmell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133164,
+          "name": "Joseph John Connolly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16251,
+          "name": "Lesley Delves",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 81571,
+          "name": "Rowenna Gibson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133165,
+          "name": "Norman Leslie Gwyther",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16140,
+          "name": "Frank Hanley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16159,
+          "name": "Janet Harrison-Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133166,
+          "name": "Mark Hughes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133167,
+          "name": "Mal Malbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133168,
+          "name": "Alan Salter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81558,
+          "name": "Michael James Shaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133169,
+          "name": "Alasdair Martyn Smith",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16091,
+          "name": "Lynne Thompson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Aintree & Maghull South",
+      "ballot_paper_id": "local.sefton.aintree-maghull-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 53697,
+          "name": "Marion Atkinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134507,
+          "name": "Louise Barber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 42740,
+          "name": "Danny Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134508,
+          "name": "Philip Benjamin Chadwick",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134509,
+          "name": "Richard Hackford",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112762,
+          "name": "Sam Hinde",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134510,
+          "name": "Marianne Martina Kavanagh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134511,
+          "name": "Dennis Leong",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134512,
+          "name": "Karen Elizabeth Moore",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134513,
+          "name": "Mark Brian Pennock",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134514,
+          "name": "Debbie Richards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134515,
+          "name": "Angela Robinson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134516,
+          "name": "Daniel Snape",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134517,
+          "name": "Patricia Spencer",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Birkdale",
+      "ballot_paper_id": "local.sefton.birkdale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134595,
+          "name": "Michael John Binns",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 42739,
+          "name": "Iain Brodie Browne",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 64034,
+          "name": "Carla Curtis-Tansley",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134597,
+          "name": "Roger William Halliwell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134596,
+          "name": "Angela Mary Halliwell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134598,
+          "name": "Marie Hansson-Hesketh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81561,
+          "name": "Sonya Ann Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134599,
+          "name": "Lynne Lloyd-Stafford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134600,
+          "name": "Simon Peter Maxwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16254,
+          "name": "David Andrew McIntosh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112619,
+          "name": "Callum Luke Naylor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134601,
+          "name": "Mark Ormsby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134602,
+          "name": "Dominic Pillai",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134603,
+          "name": "Mike Ryder",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52949,
+          "name": "Simon John Shaw",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blundellsands",
+      "ballot_paper_id": "local.sefton.blundellsands.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 51181,
+          "name": "Katie Maria Burgess",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39338,
+          "name": "Keith Cawdron",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136844,
+          "name": "Jenny Meriel Cooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112760,
+          "name": "Lyndsey Marie Doolin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 41998,
+          "name": "Sean Dorgan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 39334,
+          "name": "Brian Dunning",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 19844,
+          "name": "Rebecca Hanson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 49522,
+          "name": "Christine Howard",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124772,
+          "name": "Wing Commander Lucky Luke Jackson",
+          "party_name": "The Official Monster Raving Loony Party"
+        },
+        {
+          "person_id": 136845,
+          "name": "Gerard Maher",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136846,
+          "name": "Les Richards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16104,
+          "name": "Diane Roscoe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 122763,
+          "name": "David Roscoe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125203,
+          "name": "Sunny Sawhney",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136847,
+          "name": "Sophie Victoria Whitley-Forshaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136848,
+          "name": "Mark Wilcock",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bootle East",
+      "ballot_paper_id": "local.sefton.bootle-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 134673,
+          "name": "Phil Baker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97725,
+          "name": "Graeme Thomas Cooper",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134674,
+          "name": "John Darbyshire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134675,
+          "name": "Patrick Darke",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16248,
+          "name": "Roy Greason",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134676,
+          "name": "Frances Henderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134678,
+          "name": "Morgan Lynch",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134679,
+          "name": "Jeremy Nelson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16167,
+          "name": "Brenda O'Brien",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113201,
+          "name": "Maria Porter",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134680,
+          "name": "Mark Rowlands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134681,
+          "name": "Raymond Woods",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106695,
+          "name": "Dean Young",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bootle West",
+      "ballot_paper_id": "local.sefton.bootle-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 16144,
+          "name": "Lynne Margaret Bold",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3095,
+          "name": "Jim Conalty",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134738,
+          "name": "Jay Leslie Cooper",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134739,
+          "name": "Jordan Raymond Cox",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16088,
+          "name": "Mhairi Doyle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134740,
+          "name": "Kristina Elizabeth Dwyer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134741,
+          "name": "Lorelei Dyson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89524,
+          "name": "Dan McKee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134742,
+          "name": "Andrew Thompson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134743,
+          "name": "Charlotte Elizabeth Weaver",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134744,
+          "name": "Liam Williams",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 134745,
+          "name": "Lucy Woods",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Cambridge",
+      "ballot_paper_id": "local.sefton.cambridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 134768,
+          "name": "Helen Avis",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134769,
+          "name": "John Boye",
+          "party_name": "Southport Community Independents"
+        },
+        {
+          "person_id": 134770,
+          "name": "Sam Constantine",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134771,
+          "name": "Sinclair D'Albuquerque",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 99594,
+          "name": "Gary Haran Doyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4918,
+          "name": "Leo Francis Evans",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16274,
+          "name": "Carla Fox",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112751,
+          "name": "Stephen William Hesketh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134772,
+          "name": "Kev Hookham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16115,
+          "name": "Pat Keith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16278,
+          "name": "Nina Samantha Killen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134773,
+          "name": "Caroline Michelle Longdon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134774,
+          "name": "Mike Morris",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134775,
+          "name": "Caroline Prendergast",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134776,
+          "name": "Lily Ritchie",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 53405,
+          "name": "Mike Sammon",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Duke's",
+      "ballot_paper_id": "local.sefton.dukes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 134826,
+          "name": "Michael Paul Braham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134827,
+          "name": "Alexander Constantine",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134828,
+          "name": "Kim Doyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134829,
+          "name": "Danny Howard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134830,
+          "name": "Charlotte Megan Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 2242,
+          "name": "David Ian Newman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81407,
+          "name": "Laura Nuttall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134831,
+          "name": "Ganesh Chandra Paul",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112634,
+          "name": "Owen James Phillips",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81569,
+          "name": "Mike Prendergast",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2232,
+          "name": "John David Pugh",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134833,
+          "name": "Patrick Sharman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134834,
+          "name": "Lorinda Swift",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134835,
+          "name": "Benjamin Younis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134836,
+          "name": "Sarah Zhang",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ford",
+      "ballot_paper_id": "local.sefton.ford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 41620,
+          "name": "Jack Colbert",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134888,
+          "name": "Ed Conley",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 42333,
+          "name": "Liz Dowd",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134889,
+          "name": "David Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16146,
+          "name": "Paulette Lappin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134890,
+          "name": "Alex McIvor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134891,
+          "name": "Neil Lawrence Miney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42334,
+          "name": "Ian George Moncur",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134892,
+          "name": "Paul Rogers",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 134893,
+          "name": "Craig Owen Sweeney",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Formby East",
+      "ballot_paper_id": "local.sefton.formby-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 112766,
+          "name": "Colin Appleton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 41236,
+          "name": "Maria Bennett",
+          "party_name": "Formby Residents Action Group"
+        },
+        {
+          "person_id": 137172,
+          "name": "Carol Ann Bradley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125202,
+          "name": "David Dutton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16186,
+          "name": "Alison Moira Gibbon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137173,
+          "name": "Andrew Greenan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112609,
+          "name": "Erin Harvey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137174,
+          "name": "Anthony Howe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137175,
+          "name": "Nick Marley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 55196,
+          "name": "Catie Page",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106718,
+          "name": "Chris Page",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 106719,
+          "name": "Angelica Sadrieva",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137176,
+          "name": "David Walker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137177,
+          "name": "Gary Wallis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16105,
+          "name": "Mike Walsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137178,
+          "name": "Andy Wright",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Formby West",
+      "ballot_paper_id": "local.sefton.formby-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 19092,
+          "name": "Martyn Paul Barber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112752,
+          "name": "Amanda Brown",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 112765,
+          "name": "Karen Cavanagh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136937,
+          "name": "Peter George Cherry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112767,
+          "name": "Roy Connell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136938,
+          "name": "Maria Patrica Cusick",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42208,
+          "name": "Denise Dutton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 53235,
+          "name": "Annie Gorski",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 102423,
+          "name": "Peter Harvey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136939,
+          "name": "Chris Hornby",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136940,
+          "name": "Dave Irving",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136941,
+          "name": "Simon Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35851,
+          "name": "Carol Richards",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136942,
+          "name": "Paul Graham Wiencke",
+          "party_name": "Formby Residents Action Group"
+        },
+        {
+          "person_id": 136943,
+          "name": "Felix Zajitschek",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136944,
+          "name": "Susanne Zajitschek",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Great Crosby",
+      "ballot_paper_id": "local.sefton.great-crosby.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 134993,
+          "name": "Carla Burns",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 52831,
+          "name": "Les Byrom",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 73431,
+          "name": "Jen Corcoran",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134994,
+          "name": "Sean Doherty",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125201,
+          "name": "Oliver John Doyle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134995,
+          "name": "Victor Hudson Foulds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 13843,
+          "name": "Hannah Jane Gee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41030,
+          "name": "Janet Grace",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134996,
+          "name": "Carol Ann Hill",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134997,
+          "name": "Stephen Gavin Mulcahy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 53492,
+          "name": "James David O'Keeffe",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134998,
+          "name": "Steve Ray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134999,
+          "name": "Ben Sambrook",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kew",
+      "ballot_paper_id": "local.sefton.kew.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 134954,
+          "name": "Xabi Anthony Michael Arthur",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134955,
+          "name": "Dawn Aspinall",
+          "party_name": "Southport Community Independents"
+        },
+        {
+          "person_id": 134956,
+          "name": "Michael Burt",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134957,
+          "name": "Jason Michael Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 52785,
+          "name": "Anne Corbishley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134958,
+          "name": "Leigh Christian Duffy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134959,
+          "name": "Stuart Iain Fleming",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134960,
+          "name": "Melanie Horne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134961,
+          "name": "Mike Kirby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134962,
+          "name": "Nicholas Guy Robinson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 53648,
+          "name": "Yaso Sathiy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134963,
+          "name": "Alix Shaw",
+          "party_name": "Southport Community Independents"
+        },
+        {
+          "person_id": 92089,
+          "name": "Trevor James Vaughan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93576,
+          "name": "Morgan Walton",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Litherland",
+      "ballot_paper_id": "local.sefton.litherland.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133105,
+          "name": "Paul Andrew Dunbar",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118231,
+          "name": "Julia Garner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133106,
+          "name": "Shaun Gilroy",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133107,
+          "name": "Robert Percival Greenwood",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133108,
+          "name": "Jennifer Stephanie Grice",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133109,
+          "name": "Sarah Harding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133111,
+          "name": "Matthew William Johnson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16188,
+          "name": "John Kelly",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133112,
+          "name": "Mark David McParlan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133110,
+          "name": "Manuel Antonio Hernandez Perez",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133113,
+          "name": "Marian Pope",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133114,
+          "name": "Joanne Rooney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95429,
+          "name": "Ian Smith",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 42517,
+          "name": "Daren Veidman",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lydiate & Maghull West",
+      "ballot_paper_id": "local.sefton.lydiate-maghull-west.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 37975,
+          "name": "Mark Bisbey",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135301,
+          "name": "Marijke Chamberlain",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42516,
+          "name": "Anne Clegg",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135303,
+          "name": "Sonia Crompton",
+          "party_name": "Lydiate and Maghull Community Independents"
+        },
+        {
+          "person_id": 106709,
+          "name": "Mike Desmond",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135304,
+          "name": "Michalina Maria Dettlaff-Zinonos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135305,
+          "name": "Alex Fry",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16173,
+          "name": "Jessamine Miles Hounslea",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135306,
+          "name": "Kenneth Michael Hughes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135307,
+          "name": "Richard Marston",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112763,
+          "name": "David Mellalieu",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135302,
+          "name": "Chindam Ng",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135308,
+          "name": "Barry Nixon",
+          "party_name": "Lydiate and Maghull Community Independents"
+        },
+        {
+          "person_id": 111814,
+          "name": "Chloe Parker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135309,
+          "name": "Liam Stoddart",
+          "party_name": "Lydiate and Maghull Community Independents"
+        }
+      ]
+    },
+    {
+      "ward_name": "Maghull East",
+      "ballot_paper_id": "local.sefton.maghull-east.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 16205,
+          "name": "Marcus Julian Romaine Bleasdale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 35852,
+          "name": "June Burns",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136629,
+          "name": "Gary Anthony Carter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 53015,
+          "name": "James Joseph Hansen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136631,
+          "name": "Phil Hart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136632,
+          "name": "David Leatherbarrow",
+          "party_name": "Lydiate and Maghull Community Independents"
+        },
+        {
+          "person_id": 136634,
+          "name": "Raymond Lee",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 2621,
+          "name": "Adam Marsden",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 101751,
+          "name": "Joanne Elizabeth McCall",
+          "party_name": "Lydiate and Maghull Community Independents"
+        },
+        {
+          "person_id": 93575,
+          "name": "Paul Francis McCord",
+          "party_name": "Lydiate and Maghull Community Independents"
+        },
+        {
+          "person_id": 136635,
+          "name": "Pauline McGregor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136636,
+          "name": "Jane Elizabeth Nelson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136637,
+          "name": "Greg Roberts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111815,
+          "name": "Craig Peter Titherington",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136638,
+          "name": "Emlyn Williams",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Meols",
+      "ballot_paper_id": "local.sefton.meols.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 104350,
+          "name": "Graham Bentley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136262,
+          "name": "Frances Davies",
+          "party_name": "Southport Community Independents"
+        },
+        {
+          "person_id": 16194,
+          "name": "John Dodd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136263,
+          "name": "Peyton Megan Edwards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136264,
+          "name": "Joseph Thomas Hart",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93535,
+          "name": "Pauline Ann Hesketh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118248,
+          "name": "Darcy Iveson-Berkeley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 6545,
+          "name": "Lauren Keith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 15838,
+          "name": "Adam Charles Edward Kennaugh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4541,
+          "name": "Daniel George Lewis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136266,
+          "name": "Daniel Max Longdon",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136267,
+          "name": "Ros Mason",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136268,
+          "name": "Jack Finlay Rogan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136269,
+          "name": "Catherine Mary Stephenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136270,
+          "name": "Larry Sweeney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 72900,
+          "name": "Bob Teesdale",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Netherton North",
+      "ballot_paper_id": "local.sefton.netherton-north.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 136665,
+          "name": "David Peter Thomas Ashcroft",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136666,
+          "name": "Gina Campbell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136667,
+          "name": "Benjamin James Crawford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 112618,
+          "name": "Helen Duerden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112754,
+          "name": "Joe Johnson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136668,
+          "name": "Mary Kenny",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 106720,
+          "name": "Conor Anthony O'Neill",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 136669,
+          "name": "Emily Penman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136670,
+          "name": "Anthony Robertson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 16272,
+          "name": "Carla Thomas",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136671,
+          "name": "Ian David Wales",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136672,
+          "name": "Joseph Irvine Walsh",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 136673,
+          "name": "David Watson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Netherton South & Orrell",
+      "ballot_paper_id": "local.sefton.netherton-south-orrell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 137119,
+          "name": "John Griffith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137120,
+          "name": "Chris Hannaway",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16276,
+          "name": "Bruce Hubbard",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137121,
+          "name": "Casey Margaret Kenny",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137122,
+          "name": "Rhys Morgan Lewis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137123,
+          "name": "Conor Stephen McDonald",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137124,
+          "name": "Andy Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 52788,
+          "name": "Jennifer Robertson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137125,
+          "name": "Derek Norman Salisbury",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81570,
+          "name": "Tom Spring",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137126,
+          "name": "Ian Stephen Stanton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137127,
+          "name": "Roderick Anthony Rockingham Stringer",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 112764,
+          "name": "Joanne Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norwood",
+      "ballot_paper_id": "local.sefton.norwood.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 137060,
+          "name": "Kelly Ann Barton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 4767,
+          "name": "Jo Barton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39342,
+          "name": "Peter Blake",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137061,
+          "name": "John Costello",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98506,
+          "name": "Lara Louise Cron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137063,
+          "name": "Charles Robert Denton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137064,
+          "name": "Peter Latham",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 53367,
+          "name": "Margaret Eileen Middleton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7085,
+          "name": "Laurence George Rankin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137065,
+          "name": "Andy Spencer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137066,
+          "name": "Thomas Swaney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 42335,
+          "name": "Pamela Teesdale",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137067,
+          "name": "Marianne Welsh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 16099,
+          "name": "Ged Wright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137068,
+          "name": "Roland Zollner",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thornton & Hightown",
+      "ballot_paper_id": "local.sefton.thornton-hightown.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 16185,
+          "name": "Paul Martyn Barber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 97537,
+          "name": "Simon Baron",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137311,
+          "name": "Rosa Battle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 53491,
+          "name": "Clare Carragher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 81584,
+          "name": "Michael Paul Crichton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137312,
+          "name": "Robbie Dale",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 3978,
+          "name": "John Gibson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137313,
+          "name": "Joseph Padraig Kelly",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 39337,
+          "name": "Adarsh Makdani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 112756,
+          "name": "Dominic James McNabb",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 97675,
+          "name": "Amber-Page Marilyn Moss",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137314,
+          "name": "Ian Francis James Nilsson-Forrest",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137315,
+          "name": "Steven Charles Williams",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125204,
+          "name": "Cos Zinonos",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Waterloo",
+      "ballot_paper_id": "local.sefton.waterloo.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 134444,
+          "name": "Nigel Stuart Barber",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 134445,
+          "name": "Andy Bray",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 53233,
+          "name": "Samantha Lauren Cook",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 74178,
+          "name": "Kieran Dams",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 81585,
+          "name": "Neil Anthony Doolin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 134446,
+          "name": "Mike Dormer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134447,
+          "name": "Alan Gibney",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 134448,
+          "name": "Steven McArdle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134449,
+          "name": "Jane Skinner",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 134450,
+          "name": "Joseph Stanton",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

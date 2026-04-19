@@ -1,0 +1,503 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "fareham",
+    "council_name": "Fareham"
+  },
+  "wards": [
+    {
+      "ward_name": "Avenue",
+      "ballot_paper_id": "local.fareham.avenue.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 10991,
+          "name": "Maryam Brady",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128598,
+          "name": "Kat Bull",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128599,
+          "name": "Robert William Ellis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128600,
+          "name": "Paul Kimber",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 10996,
+          "name": "Jamie Webb",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fareham Park",
+      "ballot_paper_id": "local.fareham.fareham-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127660,
+          "name": "Samuel Ford Gething",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 87839,
+          "name": "Manny Martins",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 16976,
+          "name": "Andy Mooney",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91106,
+          "name": "Kerry Stubbs",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fareham Town",
+      "ballot_paper_id": "local.fareham.fareham-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 129234,
+          "name": "Sandy Ellis",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129235,
+          "name": "Edward Peter George Maunder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 75482,
+          "name": "John Vivian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91006,
+          "name": "Kirsten Wiltshire",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110809,
+          "name": "Lee Woods",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Fort Fareham",
+      "ballot_paper_id": "local.fareham.fort-fareham.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 74869,
+          "name": "Stephen Paul Ingram",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37282,
+          "name": "Nick Lyle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 91067,
+          "name": "Dominic Stuart Martin",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127642,
+          "name": "Peter Watson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hill Head",
+      "ballot_paper_id": "local.fareham.hill-head.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 37286,
+          "name": "Steve Dugan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128620,
+          "name": "Stuart Hayton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128621,
+          "name": "George Light",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 91049,
+          "name": "Lynne Murray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128622,
+          "name": "Connor James Field Stephens",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hook-with-Warsash",
+      "ballot_paper_id": "local.fareham.hook-with-warsash.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 91004,
+          "name": "Frair Louise Burgess",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110819,
+          "name": "David Anthony Rodgers",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110824,
+          "name": "Jon Sacker",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129195,
+          "name": "Steve Wallace",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129196,
+          "name": "Jake Ian Waterfall",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Locks Heath",
+      "ballot_paper_id": "local.fareham.locks-heath.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 128612,
+          "name": "Max Barron",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128613,
+          "name": "Phil Clark",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 75491,
+          "name": "Malcolm Roy Daniells",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128614,
+          "name": "Carole Lesley Fogg",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Park Gate",
+      "ballot_paper_id": "local.fareham.park-gate.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 75494,
+          "name": "Graham Stanley Everdell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127666,
+          "name": "Sharon Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 16960,
+          "name": "Simon David Martin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127667,
+          "name": "Andy Stroud",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Portchester Castle",
+      "ballot_paper_id": "local.fareham.portchester-castle.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 127620,
+          "name": "Ashley Dean Grant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127621,
+          "name": "Sarah Lisa Horton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127622,
+          "name": "David Silvester Palk",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 16947,
+          "name": "Richard Edward Ryan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 91068,
+          "name": "Dave Wiltshire",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Portchester Wicor",
+      "ballot_paper_id": "local.fareham.portchester-wicor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 110763,
+          "name": "David Barton Harrison",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 338,
+          "name": "Steven Andrew Richards",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128635,
+          "name": "Rob Turner",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 80797,
+          "name": "Paul William Whittle",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sarisbury & Whiteley",
+      "ballot_paper_id": "local.fareham.sarisbury-whiteley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 127863,
+          "name": "Ruth Alexandra Hall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127864,
+          "name": "Gail Robertson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127865,
+          "name": "Polly Sanderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110830,
+          "name": "Gayathri Sathyanath",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Stubbington",
+      "ballot_paper_id": "local.fareham.stubbington.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110852,
+          "name": "Joseph Andrejs Adamson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127682,
+          "name": "Fiona Cooke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127683,
+          "name": "Kasi Munns",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90992,
+          "name": "Jacquie Needham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127684,
+          "name": "Toni Steed",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Titchfield",
+      "ballot_paper_id": "local.fareham.titchfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 110790,
+          "name": "Lisa Margaret Birkett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129192,
+          "name": "Richard Blythin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 129193,
+          "name": "Lorraine Drinkwater",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 110777,
+          "name": "Baz Marie",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129194,
+          "name": "Josh Read",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Titchfield Common",
+      "ballot_paper_id": "local.fareham.titchfield-common.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 75492,
+          "name": "John Michael Boyle",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127753,
+          "name": "Gary Fisk",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127754,
+          "name": "Naomi Gittens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110826,
+          "name": "Sue Hardie",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110863,
+          "name": "Andrew Michael John Murphy",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Uplands & Funtley",
+      "ballot_paper_id": "local.fareham.uplands-funtley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 15145,
+          "name": "Louise Elizabeth Clubley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128420,
+          "name": "John Alexander Rose",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 75469,
+          "name": "Ciaran Michael Urry-Tuttiett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128421,
+          "name": "Sandi Watson",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wallington & Downend",
+      "ballot_paper_id": "local.fareham.wallington-downend.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 128369,
+          "name": "Peter Andrew Maunder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 24719,
+          "name": "Leslie Charles Ricketts",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 111135,
+          "name": "Dawn Rowlatt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128370,
+          "name": "Nicky Watkins",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111136,
+          "name": "Alison West",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

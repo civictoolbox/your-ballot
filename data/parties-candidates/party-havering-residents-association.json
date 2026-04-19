@@ -1,0 +1,294 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-havering-residents-association",
+    "display_name": "Havering Residents Association",
+    "candidate_count": 35,
+    "council_count": 1,
+    "raw_party_names": [
+      "Havering Residents Association"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 137786,
+      "name": "Tamim Ahmed",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Alban's"
+    },
+    {
+      "person_id": 133791,
+      "name": "Rob Baker",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Beam Park"
+    },
+    {
+      "person_id": 91090,
+      "name": "Carol Denise Baker",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Beam Park"
+    },
+    {
+      "person_id": 91452,
+      "name": "Kevin Patrick Barrett",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Havering-atte-Bower"
+    },
+    {
+      "person_id": 126582,
+      "name": "Daniel Mark Beal",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rainham & Wennington"
+    },
+    {
+      "person_id": 137774,
+      "name": "Jordan Lee Beal",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Squirrels Heath"
+    },
+    {
+      "person_id": 91474,
+      "name": "Gemma Ann Bevan",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Mawneys"
+    },
+    {
+      "person_id": 137666,
+      "name": "Stuart Chapell",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Emerson Park"
+    },
+    {
+      "person_id": 137738,
+      "name": "Karen Ann Chesney",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Havering-atte-Bower"
+    },
+    {
+      "person_id": 91453,
+      "name": "Rob Chesney",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Marshalls & Rise Park"
+    },
+    {
+      "person_id": 137826,
+      "name": "Ozlem Colak",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 42584,
+      "name": "John Edward Crowder",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Havering-atte-Bower"
+    },
+    {
+      "person_id": 42975,
+      "name": "Philippa Crowder",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Marshalls & Rise Park"
+    },
+    {
+      "person_id": 137653,
+      "name": "Rose Dawson",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 126580,
+      "name": "Nikki Digby",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rainham & Wennington"
+    },
+    {
+      "person_id": 42902,
+      "name": "Jody Ganly",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Edward's"
+    },
+    {
+      "person_id": 137667,
+      "name": "Paul Harrison",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Emerson Park"
+    },
+    {
+      "person_id": 137776,
+      "name": "Paul Highman",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Squirrels Heath"
+    },
+    {
+      "person_id": 137863,
+      "name": "Nuno Leonel Da Silva Justo",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Edward's"
+    },
+    {
+      "person_id": 91364,
+      "name": "Bill Lavender",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Mawneys"
+    },
+    {
+      "person_id": 4356,
+      "name": "Paul Stephen McGeary",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 137787,
+      "name": "Nicolas Kee Mew",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Alban's"
+    },
+    {
+      "person_id": 42978,
+      "name": "Robby Misir",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Marshalls & Rise Park"
+    },
+    {
+      "person_id": 137830,
+      "name": "Louise Newton",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Gooshays"
+    },
+    {
+      "person_id": 91476,
+      "name": "Tracey Niemierko",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rush Green & Crowlands"
+    },
+    {
+      "person_id": 137724,
+      "name": "Robert Francis O'Dea",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rush Green & Crowlands"
+    },
+    {
+      "person_id": 41726,
+      "name": "Sue Ospreay",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rainham & Wennington"
+    },
+    {
+      "person_id": 42826,
+      "name": "Garry Lee Pain",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Rush Green & Crowlands"
+    },
+    {
+      "person_id": 42148,
+      "name": "Robert John Perry",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Squirrels Heath"
+    },
+    {
+      "person_id": 137658,
+      "name": "Nicky Saunter",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 43119,
+      "name": "Natasha Anne Summers",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "South Hornchurch"
+    },
+    {
+      "person_id": 137865,
+      "name": "Dianne Christine Thomson",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "St Edward's"
+    },
+    {
+      "person_id": 137659,
+      "name": "Alex Vella",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Heaton"
+    },
+    {
+      "person_id": 137805,
+      "name": "Rebecca Wilkes",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "Mawneys"
+    },
+    {
+      "person_id": 43122,
+      "name": "Graham Keith Williamson",
+      "party_name": "Havering Residents Association",
+      "council_slug": "havering",
+      "council_name": "Havering",
+      "ward_name": "South Hornchurch"
+    }
+  ]
+}

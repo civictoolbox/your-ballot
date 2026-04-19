@@ -1,0 +1,1487 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "lewisham",
+    "council_name": "Lewisham"
+  },
+  "wards": [
+    {
+      "ward_name": "Bellingham",
+      "ballot_paper_id": "local.lewisham.bellingham.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 92153,
+          "name": "Mario Bucolo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132848,
+          "name": "James Evans",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 132849,
+          "name": "Belinda Giddings",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7290,
+          "name": "Jane Lawrence",
+          "party_name": "The Motoring Party"
+        },
+        {
+          "person_id": 124699,
+          "name": "Gavin Frederick Moore",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132850,
+          "name": "Fabio Moro",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44525,
+          "name": "Sarah Frances Morris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124787,
+          "name": "Nadja Penfold",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132851,
+          "name": "John Frederick Pinfold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124705,
+          "name": "George Mathew Ryan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124788,
+          "name": "Stuart Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Blackheath",
+      "ballot_paper_id": "local.lewisham.blackheath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 34694,
+          "name": "Caroline Attfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 111462,
+          "name": "Jean Branch",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132949,
+          "name": "Charlotte Brooks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117879,
+          "name": "Pauline Dall",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132950,
+          "name": "Iain Gordon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132951,
+          "name": "Christopher John Harding",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124785,
+          "name": "Rebecca Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36984,
+          "name": "Chris Maines",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124786,
+          "name": "Tracey Martin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124698,
+          "name": "Chris Membu",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 44562,
+          "name": "Peter Ramrayka",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124784,
+          "name": "Ben Rand",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132952,
+          "name": "Richard Miles Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 89059,
+          "name": "Luke Warner",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 47281,
+          "name": "Neil Cameron Weatherall",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Brockley",
+      "ballot_paper_id": "local.lewisham.brockley.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124781,
+          "name": "Ade Adewunmi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132805,
+          "name": "Felicity Margaret Mary Benson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92143,
+          "name": "Sian Eiles",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124782,
+          "name": "El Fry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124701,
+          "name": "Edward Parker Humphreys",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132806,
+          "name": "Michael Mawby",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72092,
+          "name": "Jay Morton",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92151,
+          "name": "Karen Pratt",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132809,
+          "name": "Caitlin Pugh",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132810,
+          "name": "Alfred Sesay",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124783,
+          "name": "Rotimi Skyers",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132814,
+          "name": "lona Frances Stewart-Richardson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132815,
+          "name": "Ben Walton",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Catford South",
+      "ballot_paper_id": "local.lewisham.catford-south.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 92152,
+          "name": "Thomas Dante Edward Adkin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44534,
+          "name": "Diana Cashin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133012,
+          "name": "Jonathan Peter Bell Crozier",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133013,
+          "name": "Jessica Daniels-Roberts",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125054,
+          "name": "Briony Edwards",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133014,
+          "name": "Rashid Irshad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92288,
+          "name": "Miki Kathleen Jablkowska",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124697,
+          "name": "Oliver Joseph Matejka",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 70658,
+          "name": "Josh Matthews",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133015,
+          "name": "Adam Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92159,
+          "name": "Kate Richardson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133016,
+          "name": "James Jebachandran Samuel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44541,
+          "name": "Eva Alina Stamirowski",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 47278,
+          "name": "Ian Michael Stell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133017,
+          "name": "Robert Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Crofton Park",
+      "ballot_paper_id": "local.lewisham.crofton-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124684,
+          "name": "Harcourt Alleyne",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 89048,
+          "name": "Craig Barrett",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 40158,
+          "name": "Cheryl Baum",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124333,
+          "name": "Alex Brooks",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132742,
+          "name": "Robert Bywater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132743,
+          "name": "Ralph Cockram",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92144,
+          "name": "Richard Elliott",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124691,
+          "name": "Anita Gibbons",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92163,
+          "name": "Stephen Locke",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132745,
+          "name": "Christian Purefoy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124789,
+          "name": "Aaron Regisford",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92209,
+          "name": "Liam Shrivastava",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124790,
+          "name": "Natalie Thomas",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Deptford",
+      "ballot_paper_id": "local.lewisham.deptford.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 108953,
+          "name": "Dawn Atkinson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133081,
+          "name": "Abraham Peter Crabb",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133082,
+          "name": "James Oliver Dowling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124793,
+          "name": "Heather Farnworth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133083,
+          "name": "Stephen Hayes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124791,
+          "name": "Daniel Jenkins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 98948,
+          "name": "Chloe Rae Leslie",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133084,
+          "name": "Edwin John Marsden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133085,
+          "name": "Maria Martinez",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45235,
+          "name": "Mark Christopher Morris",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92174,
+          "name": "Rosie Parry",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 116723,
+          "name": "Oliver Snelling",
+          "party_name": "Communist Party of Britain"
+        },
+        {
+          "person_id": 92219,
+          "name": "Hau-Yu Tam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 111464,
+          "name": "David Walker",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Downham",
+      "ballot_paper_id": "local.lewisham.downham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 92192,
+          "name": "Kwame Asabere",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133126,
+          "name": "Teresa Mary Bentinck",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44543,
+          "name": "Andre Bourne",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44545,
+          "name": "David Davis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47270,
+          "name": "Heidi Degen",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124695,
+          "name": "Gloria Lambert-Morris",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133127,
+          "name": "Daniele Lucia",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133128,
+          "name": "Vanessa MacNaughton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125044,
+          "name": "Dan May",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 89049,
+          "name": "Ryan David McMichael",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133129,
+          "name": "Paul Francis Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92195,
+          "name": "Oana Olaru-Holmes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133130,
+          "name": "Peggy Lilian Roberts",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133131,
+          "name": "Jocelyn Stockbridge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 130616,
+          "name": "Olly Tyler",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Evelyn",
+      "ballot_paper_id": "local.lewisham.evelyn.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 133171,
+          "name": "Kim Allenby",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133172,
+          "name": "Malcolm Cadman",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 133173,
+          "name": "Leni Candan",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133174,
+          "name": "Pat Codd",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 91786,
+          "name": "Henry Compson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92212,
+          "name": "Will Cooper",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133175,
+          "name": "Dylan Cooper-Stubbs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124690,
+          "name": "Samantha Dias",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45231,
+          "name": "Janet Rosemary Hurst",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92215,
+          "name": "Yan Jiang",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133176,
+          "name": "George John Nixon",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133177,
+          "name": "Russ Robertson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 36272,
+          "name": "Steven Paul Rumney",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 92218,
+          "name": "Rudi Schmidt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133178,
+          "name": "Nobin Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133179,
+          "name": "Robert Wills",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Forest Hill",
+      "ballot_paper_id": "local.lewisham.forest-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 44276,
+          "name": "Peter Bernards",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92169,
+          "name": "Flora Coleman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133195,
+          "name": "Wayne Paul Dickenson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133196,
+          "name": "Chris Hogben",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 34807,
+          "name": "Katherine Susan Hortense",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 125251,
+          "name": "Fergus Navaratnam-Blair",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 73834,
+          "name": "Favour Obi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44526,
+          "name": "Jacq Paschoud",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133197,
+          "name": "Viji Ravindra",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126500,
+          "name": "Annabelle Roberts",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 34187,
+          "name": "John Russell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133199,
+          "name": "Brian Scanlon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124707,
+          "name": "Fergal Sharpe",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133198,
+          "name": "Savith Sadanandan Vijayam",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Grove Park",
+      "ballot_paper_id": "local.lewisham.grove-park.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 133239,
+          "name": "Raymond Allenby",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 44556,
+          "name": "Suzannah Clarke",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124243,
+          "name": "Oliver Cliff",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133240,
+          "name": "Christopher James Friar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133241,
+          "name": "Samantha Gower",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133242,
+          "name": "Cormac Hollingsworth",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92247,
+          "name": "Mark David Jackson",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133243,
+          "name": "Eric Kentley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44550,
+          "name": "Joan Mary Labrom",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92249,
+          "name": "Sergiy Lesyk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44561,
+          "name": "Hilary Clare Moore",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132661,
+          "name": "Peter Phillipe Newman",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133244,
+          "name": "David Plumb",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44542,
+          "name": "Sylbourne Sydial",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133245,
+          "name": "Rory Young",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hither Green",
+      "ballot_paper_id": "local.lewisham.hither-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 17,
+      "candidates": [
+        {
+          "person_id": 132883,
+          "name": "Eleonora Aiello",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92262,
+          "name": "Yemisi Anifowose",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132884,
+          "name": "Charles Christopher Bass",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132885,
+          "name": "Dejean Broderick",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44537,
+          "name": "Julian Alexander Hawkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132886,
+          "name": "Arron Hovingham",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45232,
+          "name": "Mark Ingleby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132887,
+          "name": "Elizabeth Mackenzie Marsden",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132888,
+          "name": "Fern Shannon McLurg",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 72344,
+          "name": "Roger Mighton",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 117661,
+          "name": "Karen Miller",
+          "party_name": "Climate Party"
+        },
+        {
+          "person_id": 132889,
+          "name": "Terry Millett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132890,
+          "name": "Andrew Lawrence Milton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 56088,
+          "name": "Kim Amanda Powell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132891,
+          "name": "Andy Stevens",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132892,
+          "name": "Keene Sydial",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132893,
+          "name": "Nadia Weir",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Ladywell",
+      "ballot_paper_id": "local.lewisham.ladywell.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 124796,
+          "name": "Shireen Asaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124692,
+          "name": "Collet Hunter",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124693,
+          "name": "Nick Kelly",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92147,
+          "name": "Ayesha Lahai-Taylor",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 44574,
+          "name": "Tony Lloyd",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 117622,
+          "name": "Ben Mascall",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124795,
+          "name": "Robin McGhee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 47275,
+          "name": "Andrew McIlwraith",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133276,
+          "name": "Noel Pellicano",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133277,
+          "name": "Wendy Statham",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124794,
+          "name": "Ed Sutton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 45334,
+          "name": "Bunmi Wajero",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133278,
+          "name": "Gregory Paul Williams",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lee Green",
+      "ballot_paper_id": "local.lewisham.lee-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 133346,
+          "name": "Michael Boscic",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124688,
+          "name": "David John Cornelius",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92284,
+          "name": "Ese Erheriene",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92285,
+          "name": "James David Foulkes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92286,
+          "name": "Lizzie Fox",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133347,
+          "name": "Felix Ganser",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133348,
+          "name": "Samuel Goggins",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133349,
+          "name": "Jack Laffan",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 98533,
+          "name": "Josh Lucas Mitte",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44581,
+          "name": "James Alexander Rathbone",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 89796,
+          "name": "Laura Sessions",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133350,
+          "name": "Ronnie Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 7547,
+          "name": "Adam Michael Thomas",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44584,
+          "name": "Sam Thurgood",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Lewisham Central",
+      "ballot_paper_id": "local.lewisham.lewisham-central.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 133359,
+          "name": "Hibaaq Aden",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133360,
+          "name": "Daniel Liam Robert Ansell",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 133361,
+          "name": "Ethan Bradshaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133362,
+          "name": "Tim Burnell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133363,
+          "name": "Abigail Elizabeth Gollicker",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92294,
+          "name": "Edison Huynh",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133364,
+          "name": "Mark Kowalski",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92193,
+          "name": "Junior Anthony Leachman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133365,
+          "name": "Davis St Marthe",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 39707,
+          "name": "Martin Passande",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92296,
+          "name": "Aliya Sheikh",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "New Cross Gate",
+      "ballot_paper_id": "local.lewisham.new-cross-gate.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 133342,
+          "name": "Gary Kevin Caramedon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92204,
+          "name": "Jay Delaney Coward",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 47269,
+          "name": "George Crozier",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124689,
+          "name": "Rosie Dempsey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124798,
+          "name": "Wellington Gil",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133343,
+          "name": "Adam Lewitt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124696,
+          "name": "Jamie Luke",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133344,
+          "name": "Jo Perkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124797,
+          "name": "Ruth Persian",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133345,
+          "name": "Caroline Peters",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Perry Vale",
+      "ballot_paper_id": "local.lewisham.perry-vale.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 16,
+      "candidates": [
+        {
+          "person_id": 133353,
+          "name": "Penelope Jane Bower",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 133354,
+          "name": "Alan Barri Bristow",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 133355,
+          "name": "Robin Campbell-Burt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124806,
+          "name": "Justin Calcutt Cheadle",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 1881,
+          "name": "Alex Feakes",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 44520,
+          "name": "Peter George",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133356,
+          "name": "John Edward Gill",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124807,
+          "name": "Maria McKenna",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 46517,
+          "name": "Alan Shan Muhammed",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 35555,
+          "name": "John Paschoud",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133357,
+          "name": "Jonai Lopes Pinfold",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124808,
+          "name": "Mike Podmore",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 44249,
+          "name": "Sakina Sheikh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 92315,
+          "name": "Bettina Skeen",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133358,
+          "name": "Alexandra Squires",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44251,
+          "name": "Susan Wise",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rushey Green",
+      "ballot_paper_id": "local.lewisham.rushey-green.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 124686,
+          "name": "Judith Mary Barrett",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133408,
+          "name": "Callum Paton Carter",
+          "party_name": "Your Party"
+        },
+        {
+          "person_id": 124810,
+          "name": "Daniel Dream",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124811,
+          "name": "Samantha Gardiner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 96963,
+          "name": "Joseph Benjamin Harmer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133409,
+          "name": "Clare Hartnell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44558,
+          "name": "Linda Frances Hawkins",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133410,
+          "name": "Kevin David Lilley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133411,
+          "name": "David Philip Marshall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47277,
+          "name": "John Michael Muldoon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133412,
+          "name": "Craig Newell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 92176,
+          "name": "Huw Leslie Shooter",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 47280,
+          "name": "James-J Walsh",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 124809,
+          "name": "Claire Wills",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Sydenham",
+      "ballot_paper_id": "local.lewisham.sydenham.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 129058,
+          "name": "Corin Ashwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92123,
+          "name": "Michael Bachmann",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45181,
+          "name": "Chris Best",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132915,
+          "name": "Quaid Combstock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 45182,
+          "name": "Liam Curran",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129082,
+          "name": "Tanya Dunne",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 92224,
+          "name": "Aimee Camilla Henderson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76894,
+          "name": "Jack Lavery",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 129101,
+          "name": "Markus Michelucci",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132916,
+          "name": "Armando Manuel Pardo",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132917,
+          "name": "Dela Quist",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132918,
+          "name": "Timothy Edward Michael Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 45187,
+          "name": "Raymond Squires",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 44286,
+          "name": "Margot Wilson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Telegraph Hill",
+      "ballot_paper_id": "local.lewisham.telegraph-hill.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 15,
+      "candidates": [
+        {
+          "person_id": 92140,
+          "name": "Ulric Almqvist",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 92277,
+          "name": "Brendan Almqvist",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124854,
+          "name": "Kate Anderson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 36270,
+          "name": "Andy Beadle",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 40159,
+          "name": "Paul Bell",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 44275,
+          "name": "Mark Bennett",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89423,
+          "name": "Nichola Martin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 92281,
+          "name": "Isaac Sackey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124853,
+          "name": "Becky Sanders",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124706,
+          "name": "Laura Seabright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 40166,
+          "name": "Luke Sorba",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133395,
+          "name": "Kevin Anthony Stearns",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124855,
+          "name": "Nick Torry",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 133396,
+          "name": "Richard Turley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133394,
+          "name": "Jonathan William Wren",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

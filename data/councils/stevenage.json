@@ -1,0 +1,499 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "stevenage",
+    "council_name": "Stevenage"
+  },
+  "wards": [
+    {
+      "ward_name": "Almond Hill",
+      "ballot_paper_id": "local.stevenage.almond-hill.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 92850,
+          "name": "Catherine Ann Bibby",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127766,
+          "name": "Jody Hanafin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 63249,
+          "name": "Charles Littleton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 98521,
+          "name": "Jeannette Thomas",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 113136,
+          "name": "Becca Watts",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bandley Hill & Poplars",
+      "ballot_paper_id": "local.stevenage.bandley-hill-poplars.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 13875,
+          "name": "Andrew Anderson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113174,
+          "name": "Kamal Choudhury",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 125546,
+          "name": "Shaun Rockwood",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119338,
+          "name": "Wendy Rouse",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127782,
+          "name": "Martin Barry Slade",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127783,
+          "name": "David Stubbs",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bedwell",
+      "ballot_paper_id": "local.stevenage.bedwell.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 137992,
+          "name": "Dan Ashton",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137993,
+          "name": "Emma Ewart",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18773,
+          "name": "Adam Joseph Stephen Mitchell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18757,
+          "name": "Mark Pickersgill",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 125806,
+          "name": "Harrison Pinner",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 105733,
+          "name": "Ellie Plater",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chells",
+      "ballot_paper_id": "local.stevenage.chells.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126087,
+          "name": "Dave Ingarfill",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119337,
+          "name": "Jaysica Marvell",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138008,
+          "name": "Yvonne Pendlebury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138009,
+          "name": "Gary Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19075,
+          "name": "Matthew Paul Wyatt",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longmeadow",
+      "ballot_paper_id": "local.stevenage.longmeadow.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 126088,
+          "name": "Wendy Attwell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127794,
+          "name": "Jan Bainbridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 26606,
+          "name": "Stephen Booth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113170,
+          "name": "Akin Elekolusi",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 18792,
+          "name": "Bret Ray Facey",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 18772,
+          "name": "Helen Dorothy Kerr",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Manor",
+      "ballot_paper_id": "local.stevenage.manor.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 113177,
+          "name": "Marcel Nicolaas Hermanus Houps",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127817,
+          "name": "Julia Lawrence",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7906,
+          "name": "Maureen McKay",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 105386,
+          "name": "Stephani Mok",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 113175,
+          "name": "Peter Wilkins",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Martins Wood",
+      "ballot_paper_id": "local.stevenage.martins-wood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 127866,
+          "name": "John Blackwood",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47927,
+          "name": "Jill Brinkworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 18756,
+          "name": "Alex Farquharson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126089,
+          "name": "Maria Fekete",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 13917,
+          "name": "Mark Gentleman",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 113180,
+          "name": "Thea Pendlebury",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Old Town",
+      "ballot_paper_id": "local.stevenage.old-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 48072,
+          "name": "Neil Brinkworth",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48071,
+          "name": "Mason Humberstone",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93844,
+          "name": "Mark Shaun Kerr",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 127880,
+          "name": "Richard Desmond Liversidge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127881,
+          "name": "Graham Spencer",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 112702,
+          "name": "Andy Whitmore",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Roebuck",
+      "ballot_paper_id": "local.stevenage.roebuck.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 47736,
+          "name": "Nigel Bye",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113186,
+          "name": "Pawel Gora",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81696,
+          "name": "Alistair Gordon",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 127920,
+          "name": "Liam Morrell Phillips",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126091,
+          "name": "Sara Warden",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Shephall",
+      "ballot_paper_id": "local.stevenage.shephall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 18798,
+          "name": "Barbara Jane Clare",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 126092,
+          "name": "Dan Cornwell-Groves",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 127934,
+          "name": "Nicholas John Leech",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 81669,
+          "name": "Riad Mannan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127935,
+          "name": "Ricki Rands",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 7908,
+          "name": "Simon Speller",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "St Nicholas",
+      "ballot_paper_id": "local.stevenage.st-nicholas.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 126093,
+          "name": "Jenn Arndt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 15699,
+          "name": "David Barks",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127986,
+          "name": "Jeremy Beadle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 26326,
+          "name": "Matthew Hurst",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81692,
+          "name": "Jack Stephan George William Ingarfill",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 127987,
+          "name": "Ian Marshall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126094,
+          "name": "Philip Notley",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 50162,
+          "name": "Claire Parris",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 81686,
+          "name": "Richard Reece",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 127988,
+          "name": "Carolina Cristina Veres",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Symonds Green",
+      "ballot_paper_id": "local.stevenage.symonds-green.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 128008,
+          "name": "Jeff Bullock",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126095,
+          "name": "Jack Downie-Webb",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 18813,
+          "name": "Clive Hearmon",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 6187,
+          "name": "Trevor Michael Palmer",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        },
+        {
+          "person_id": 128009,
+          "name": "Jamie Pendlebury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 112701,
+          "name": "Maria Jacqueline Wheeler",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Woodfield",
+      "ballot_paper_id": "local.stevenage.woodfield.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 48161,
+          "name": "Doug Bainbridge",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128029,
+          "name": "Emma Fielding",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 14087,
+          "name": "Margaret Penelope Notley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 113135,
+          "name": "Ceara Roopchand",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 18816,
+          "name": "Richard Warr",
+          "party_name": "Green Party"
+        }
+      ]
+    }
+  ]
+}

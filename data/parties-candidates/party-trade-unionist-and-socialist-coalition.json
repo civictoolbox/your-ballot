@@ -1,0 +1,2302 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-trade-unionist-and-socialist-coalition",
+    "display_name": "Trade Unionist and Socialist Coalition",
+    "candidate_count": 286,
+    "council_count": 63,
+    "raw_party_names": [
+      "Trade Unionist and Socialist Coalition"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 128703,
+      "name": "Amirah Abrahams",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "East Acton"
+    },
+    {
+      "person_id": 17599,
+      "name": "Ryan John Aldred",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "St Peter and the Waterfront"
+    },
+    {
+      "person_id": 138499,
+      "name": "Kathryn Jane Allman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wokingham",
+      "council_name": "Wokingham",
+      "ward_name": "Spencers Wood & Swallowfield"
+    },
+    {
+      "person_id": 132162,
+      "name": "Keri Ann Andrews",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "rushmoor",
+      "council_name": "Rushmoor",
+      "ward_name": "Manor Park"
+    },
+    {
+      "person_id": 138082,
+      "name": "Stephen Robert Archer",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Wyken"
+    },
+    {
+      "person_id": 90241,
+      "name": "Josh Asker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Cheshunt North"
+    },
+    {
+      "person_id": 93520,
+      "name": "Bea Gardner Asker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Cheshunt South and Theobalds"
+    },
+    {
+      "person_id": 93520,
+      "name": "Bea Gardner Asker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Bullsmoor"
+    },
+    {
+      "person_id": 90241,
+      "name": "Josh Asker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Enfield Lock"
+    },
+    {
+      "person_id": 6635,
+      "name": "Sue Atkins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Woolston"
+    },
+    {
+      "person_id": 131857,
+      "name": "Adeel Aurangzeb",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Markhouse"
+    },
+    {
+      "person_id": 6169,
+      "name": "Lois Austin",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Beckton"
+    },
+    {
+      "person_id": 36249,
+      "name": "Nicholas Robert Auvache",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Stroud Green"
+    },
+    {
+      "person_id": 135689,
+      "name": "Ellie Axe",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Fulwood"
+    },
+    {
+      "person_id": 138049,
+      "name": "Richard Owen Baker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Whoberley"
+    },
+    {
+      "person_id": 36270,
+      "name": "Andy Beadle",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Telegraph Hill"
+    },
+    {
+      "person_id": 126534,
+      "name": "Jordan John Beeney",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Bexhill East"
+    },
+    {
+      "person_id": 18897,
+      "name": "Julian Darren Best",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Croft Baker"
+    },
+    {
+      "person_id": 105748,
+      "name": "Anthony Richard Bligh",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Southway"
+    },
+    {
+      "person_id": 107264,
+      "name": "Anthony Joseph Bracuti",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "St. Anthony's"
+    },
+    {
+      "person_id": 133354,
+      "name": "Alan Barri Bristow",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Perry Vale"
+    },
+    {
+      "person_id": 127055,
+      "name": "Fintan Liam Broderick",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Swaythling"
+    },
+    {
+      "person_id": 17691,
+      "name": "Nik Brookson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Efford and Lipson"
+    },
+    {
+      "person_id": 90255,
+      "name": "Alexander James Brown",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Beighton"
+    },
+    {
+      "person_id": 96498,
+      "name": "Luke Jonathan Elliott Brownbill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Firth Park"
+    },
+    {
+      "person_id": 2231,
+      "name": "Elaine Brunskill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gateshead",
+      "council_name": "Gateshead",
+      "ward_name": "High Fell"
+    },
+    {
+      "person_id": 93216,
+      "name": "Jason Buck",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Wood End"
+    },
+    {
+      "person_id": 112348,
+      "name": "Hollie Charlotte Buisson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Richmond"
+    },
+    {
+      "person_id": 96490,
+      "name": "John Bunn",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Broomhill & Sharrow Vale"
+    },
+    {
+      "person_id": 111319,
+      "name": "Mark Burdett",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Slough"
+    },
+    {
+      "person_id": 87755,
+      "name": "Robin Burnham",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Bewbush & North Broadfield"
+    },
+    {
+      "person_id": 133202,
+      "name": "Aysha Burton",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "St Katharine's & Wapping"
+    },
+    {
+      "person_id": 60739,
+      "name": "Andrew Buxton",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "St Martin's"
+    },
+    {
+      "person_id": 60739,
+      "name": "Andrew Buxton",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Vange"
+    },
+    {
+      "person_id": 74778,
+      "name": "Naomi Byron",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bow East"
+    },
+    {
+      "person_id": 13813,
+      "name": "Rebecca Anne Carter",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "newcastle-under-lyme",
+      "council_name": "Newcastle Under Lyme",
+      "ward_name": "Kidsgrove & Ravenscliffe"
+    },
+    {
+      "person_id": 86754,
+      "name": "Steve Cawley",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Central"
+    },
+    {
+      "person_id": 6636,
+      "name": "Nick Chaffey",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Bitterne Park"
+    },
+    {
+      "person_id": 73722,
+      "name": "Richard Chaves-Sanderson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Burmantofts & Richmond Hill"
+    },
+    {
+      "person_id": 104819,
+      "name": "Alan Norman Howard Checklin",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Radford"
+    },
+    {
+      "person_id": 18798,
+      "name": "Barbara Jane Clare",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Shephall"
+    },
+    {
+      "person_id": 73749,
+      "name": "Catherine Clarke",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Freemantle"
+    },
+    {
+      "person_id": 86569,
+      "name": "Mike Cleverley",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Chapel End"
+    },
+    {
+      "person_id": 136433,
+      "name": "Amnon Jonathan Baron Cohen",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Hermitage & Gardens"
+    },
+    {
+      "person_id": 135574,
+      "name": "Alasdair Hadrian Cook",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Crookes & Crosspool"
+    },
+    {
+      "person_id": 16431,
+      "name": "Ros Cooper",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gateshead",
+      "council_name": "Gateshead",
+      "ward_name": "Ryton, Crookhill & Stella"
+    },
+    {
+      "person_id": 81738,
+      "name": "Helen Elizabeth Couchman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Sunbury Common & Ashford Common"
+    },
+    {
+      "person_id": 2235,
+      "name": "Paul Dennis Couchman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Sunbury Common & Ashford Common"
+    },
+    {
+      "person_id": 75946,
+      "name": "Lee Coulbeck",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "East Marsh"
+    },
+    {
+      "person_id": 128663,
+      "name": "Frankie Coultas",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "eastleigh",
+      "council_name": "Eastleigh",
+      "ward_name": "Bursledon & Hound North"
+    },
+    {
+      "person_id": 92204,
+      "name": "Jay Delaney Coward",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "New Cross Gate"
+    },
+    {
+      "person_id": 15190,
+      "name": "Samuel Jacob Coxson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "cheltenham",
+      "council_name": "Cheltenham",
+      "ward_name": "Hesters Way"
+    },
+    {
+      "person_id": 129158,
+      "name": "Fin Cozens-Stott",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "bolton",
+      "council_name": "Bolton",
+      "ward_name": "Little Lever & Darcy Lever"
+    },
+    {
+      "person_id": 91041,
+      "name": "Bobbie Jay Cranney",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Gipsy Hill"
+    },
+    {
+      "person_id": 96500,
+      "name": "Joshua Andrew Crapper",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Woodhouse"
+    },
+    {
+      "person_id": 86739,
+      "name": "Louise Helen Cuffaro",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hale End & Highams Park South"
+    },
+    {
+      "person_id": 3537,
+      "name": "Tim Cutter",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Thornhill"
+    },
+    {
+      "person_id": 8163,
+      "name": "Iain Alaistair Dalton",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Gipton & Harehills"
+    },
+    {
+      "person_id": 110285,
+      "name": "Steve Dangerfield",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Old Town"
+    },
+    {
+      "person_id": 132703,
+      "name": "Robbie Davidson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green East"
+    },
+    {
+      "person_id": 127011,
+      "name": "Nick Davies",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "haringey",
+      "council_name": "Haringey",
+      "ward_name": "Harringay"
+    },
+    {
+      "person_id": 127011,
+      "name": "Nick Davies",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Bassett"
+    },
+    {
+      "person_id": 97784,
+      "name": "Heather Davis",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Park"
+    },
+    {
+      "person_id": 119241,
+      "name": "Penelope Dawber",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "preston",
+      "council_name": "Preston",
+      "ward_name": "Plungington"
+    },
+    {
+      "person_id": 6788,
+      "name": "Brian Debus",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hackney Central"
+    },
+    {
+      "person_id": 87610,
+      "name": "Donna Dee",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Bargate"
+    },
+    {
+      "person_id": 107608,
+      "name": "Melanie Dent",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Redlands"
+    },
+    {
+      "person_id": 132969,
+      "name": "Pete Dickenson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Lansbury"
+    },
+    {
+      "person_id": 109989,
+      "name": "Nadia Noreen Ditta",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Bevois"
+    },
+    {
+      "person_id": 79062,
+      "name": "John Dolan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Carterhatch"
+    },
+    {
+      "person_id": 70117,
+      "name": "Eleanor Mary Donne",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Fryerns"
+    },
+    {
+      "person_id": 70117,
+      "name": "Eleanor Mary Donne",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Gloucester Park"
+    },
+    {
+      "person_id": 11846,
+      "name": "Jim Donnelly",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Longford"
+    },
+    {
+      "person_id": 111273,
+      "name": "Anthony Gavin Downes",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Wainbody"
+    },
+    {
+      "person_id": 17595,
+      "name": "Lesley Faith Duncan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Devonport"
+    },
+    {
+      "person_id": 17967,
+      "name": "Neill Dunne",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "knowsley",
+      "council_name": "Knowsley",
+      "ward_name": "Northwood"
+    },
+    {
+      "person_id": 131389,
+      "name": "Lewis Earthrowl-Gould",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Langley Green & Tushmore"
+    },
+    {
+      "person_id": 89639,
+      "name": "Noah Thomas Eden",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Ecclesall"
+    },
+    {
+      "person_id": 137850,
+      "name": "Marie Bernadette Egan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Cheylesmore"
+    },
+    {
+      "person_id": 135730,
+      "name": "David Pascoe Ellis",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Graves Park"
+    },
+    {
+      "person_id": 131644,
+      "name": "Peter John Evans",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Kennington"
+    },
+    {
+      "person_id": 110985,
+      "name": "Edward Jack Evans",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Drake"
+    },
+    {
+      "person_id": 119242,
+      "name": "Geoff Fielden",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "chorley",
+      "council_name": "Chorley",
+      "ward_name": "Clayton East, Brindle & Hoghton"
+    },
+    {
+      "person_id": 18713,
+      "name": "Mary Rosamund Finch",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Higham Hill"
+    },
+    {
+      "person_id": 128741,
+      "name": "Dara Kennedy John Fitzgerald",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Greenford Broadway"
+    },
+    {
+      "person_id": 6157,
+      "name": "Eamonn Kevin Flynn",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Acocks Green"
+    },
+    {
+      "person_id": 9914,
+      "name": "Joe Foster",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Perry Barr"
+    },
+    {
+      "person_id": 17275,
+      "name": "Derek Roy Foster",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "watford",
+      "council_name": "Watford",
+      "ward_name": "Leggatts"
+    },
+    {
+      "person_id": 90284,
+      "name": "Isabelle Amy France",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Walkley"
+    },
+    {
+      "person_id": 13210,
+      "name": "Nick Fray",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Kenton"
+    },
+    {
+      "person_id": 110884,
+      "name": "Laura Maddie Fretwell",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Eccleshill"
+    },
+    {
+      "person_id": 55567,
+      "name": "Maggie Fricker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Coxford"
+    },
+    {
+      "person_id": 90247,
+      "name": "Rebecca Fryer",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Shiregreen & Brightside"
+    },
+    {
+      "person_id": 129051,
+      "name": "Christopher Ryan Gamble",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Camp Hill"
+    },
+    {
+      "person_id": 130802,
+      "name": "Pat Gedge",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Northgate & West Green"
+    },
+    {
+      "person_id": 37626,
+      "name": "Mark Patrick Gee",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Sidney Sussex"
+    },
+    {
+      "person_id": 129179,
+      "name": "Steven Gee",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "St Mary's"
+    },
+    {
+      "person_id": 13917,
+      "name": "Mark Gentleman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Martins Wood"
+    },
+    {
+      "person_id": 105311,
+      "name": "Tom Ernest Gibson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Shipley"
+    },
+    {
+      "person_id": 75867,
+      "name": "Tony Gill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Hanwell"
+    },
+    {
+      "person_id": 17199,
+      "name": "John Gill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Pontefract South"
+    },
+    {
+      "person_id": 112532,
+      "name": "Adam Gillman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Island Gardens"
+    },
+    {
+      "person_id": 112524,
+      "name": "Sara Elizabeth Gillman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wokingham",
+      "council_name": "Wokingham",
+      "ward_name": "Norreys"
+    },
+    {
+      "person_id": 81921,
+      "name": "Richard Gingell",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sandwell",
+      "council_name": "Sandwell",
+      "ward_name": "Bearwood"
+    },
+    {
+      "person_id": 86602,
+      "name": "Ben Goldstone",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "South Norwood"
+    },
+    {
+      "person_id": 133327,
+      "name": "Isaac Joseph Harry Graves",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Dore & Totley"
+    },
+    {
+      "person_id": 129292,
+      "name": "Khamisi Greene",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Broad Green"
+    },
+    {
+      "person_id": 1438,
+      "name": "Judy Griffiths",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "St Michael's"
+    },
+    {
+      "person_id": 14815,
+      "name": "Sally Griffiths",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "salford",
+      "council_name": "Salford",
+      "ward_name": "Eccles"
+    },
+    {
+      "person_id": 6189,
+      "name": "Mick Griffiths",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Wakefield East"
+    },
+    {
+      "person_id": 101555,
+      "name": "Tom Cullen Griffiths",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Wakefield North"
+    },
+    {
+      "person_id": 6177,
+      "name": "Norman Hall",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gateshead",
+      "council_name": "Gateshead",
+      "ward_name": "Deckham"
+    },
+    {
+      "person_id": 132687,
+      "name": "Andrew James Hammond",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Harlow South West"
+    },
+    {
+      "person_id": 132687,
+      "name": "Andrew James Hammond",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "harlow",
+      "council_name": "Harlow",
+      "ward_name": "Sumners & Kingsmoor"
+    },
+    {
+      "person_id": 6188,
+      "name": "Gary Lee Harbord",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Uxbridge"
+    },
+    {
+      "person_id": 82722,
+      "name": "Adam Joachim Harmsworth",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Lower Stoke"
+    },
+    {
+      "person_id": 130363,
+      "name": "Robert Andrew Harvey",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Forest"
+    },
+    {
+      "person_id": 119248,
+      "name": "Myles Jefferson Hatcher",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "exeter",
+      "council_name": "Exeter",
+      "ward_name": "Pennsylvania"
+    },
+    {
+      "person_id": 36265,
+      "name": "Lee Hawksbee",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Upper Walthamstow"
+    },
+    {
+      "person_id": 132722,
+      "name": "Clive Adrian Heemskerk",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bethnal Green West"
+    },
+    {
+      "person_id": 92178,
+      "name": "Kim Hendry",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Tooting Broadway"
+    },
+    {
+      "person_id": 93544,
+      "name": "Tim Henry",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Eastcote"
+    },
+    {
+      "person_id": 14453,
+      "name": "Graham Michael Henry",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Harefield"
+    },
+    {
+      "person_id": 11827,
+      "name": "Jim Hensman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Holbrooks"
+    },
+    {
+      "person_id": 82059,
+      "name": "Joseph Lewis Hibbert",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Hillsborough"
+    },
+    {
+      "person_id": 74780,
+      "name": "Angharad Hillier",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "newham",
+      "council_name": "Newham",
+      "ward_name": "Beckton"
+    },
+    {
+      "person_id": 73724,
+      "name": "Michael Steven Hirst",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "Drypool"
+    },
+    {
+      "person_id": 6633,
+      "name": "Len Hockey",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Forest"
+    },
+    {
+      "person_id": 6630,
+      "name": "David Lawrence Hofman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "North Acton"
+    },
+    {
+      "person_id": 9555,
+      "name": "Tracey-Ann Holland",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Kingstone"
+    },
+    {
+      "person_id": 110545,
+      "name": "Tim Holt",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Three Bridges"
+    },
+    {
+      "person_id": 14333,
+      "name": "Andrew David Howe",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Millbrook"
+    },
+    {
+      "person_id": 133594,
+      "name": "Michael John Hudgell",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Mosborough"
+    },
+    {
+      "person_id": 96213,
+      "name": "Chris Huggins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Nethermayne"
+    },
+    {
+      "person_id": 109767,
+      "name": "Jack Huggins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Pitsea South East"
+    },
+    {
+      "person_id": 109767,
+      "name": "Jack Huggins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Pitsea"
+    },
+    {
+      "person_id": 96213,
+      "name": "Chris Huggins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Westley Heights"
+    },
+    {
+      "person_id": 5347,
+      "name": "Eileen Hunter",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Exhall"
+    },
+    {
+      "person_id": 90373,
+      "name": "Scott Hunter",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Covingham & Nythe"
+    },
+    {
+      "person_id": 130534,
+      "name": "Asim Hussain",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Ifield"
+    },
+    {
+      "person_id": 131966,
+      "name": "Imran Hussain",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Leyton"
+    },
+    {
+      "person_id": 75863,
+      "name": "Florian Oscar Alice Hynam",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Armley"
+    },
+    {
+      "person_id": 36276,
+      "name": "James Ivens",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Lea Bridge"
+    },
+    {
+      "person_id": 127042,
+      "name": "Huw William James",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Farnham North"
+    },
+    {
+      "person_id": 129138,
+      "name": "Neal Stephen Jeffery",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hounslow",
+      "council_name": "Hounslow",
+      "ward_name": "Hounslow South"
+    },
+    {
+      "person_id": 74774,
+      "name": "Jack Jeffery",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Park & Arbourthorne"
+    },
+    {
+      "person_id": 90154,
+      "name": "Simon John Jenkins",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Gleadless Valley"
+    },
+    {
+      "person_id": 109890,
+      "name": "Michael James Johnson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wakefield",
+      "council_name": "Wakefield",
+      "ward_name": "Hemsworth"
+    },
+    {
+      "person_id": 119251,
+      "name": "Billy Jones",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "cheltenham",
+      "council_name": "Cheltenham",
+      "ward_name": "St Peter's"
+    },
+    {
+      "person_id": 5379,
+      "name": "Scott Jones",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "epping-forest",
+      "council_name": "Epping Forest",
+      "ward_name": "Loughton Forest"
+    },
+    {
+      "person_id": 5379,
+      "name": "Scott Jones",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Loughton South & Buckhurst Hill West"
+    },
+    {
+      "person_id": 119251,
+      "name": "Billy Jones",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gloucestershire",
+      "council_name": "Gloucestershire",
+      "ward_name": "St Mark's & St Peter's"
+    },
+    {
+      "person_id": 86665,
+      "name": "Ricardo Joseph",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hoe Street"
+    },
+    {
+      "person_id": 91148,
+      "name": "Berkay Kartav",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Stockwell East"
+    },
+    {
+      "person_id": 18772,
+      "name": "Helen Dorothy Kerr",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Longmeadow"
+    },
+    {
+      "person_id": 93844,
+      "name": "Mark Shaun Kerr",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Old Town"
+    },
+    {
+      "person_id": 74783,
+      "name": "Paul John Kershaw",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Southbury"
+    },
+    {
+      "person_id": 131256,
+      "name": "Vianney Kimbugwe",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "bexley",
+      "council_name": "Bexley",
+      "ward_name": "Crook Log"
+    },
+    {
+      "person_id": 81040,
+      "name": "Gareth Knox",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "cannock-chase",
+      "council_name": "Cannock Chase",
+      "ward_name": "Cannock Longford & Bridgtown"
+    },
+    {
+      "person_id": 74384,
+      "name": "Agnieszka Kowalska",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Headington Hill & Northway"
+    },
+    {
+      "person_id": 112747,
+      "name": "Robert Landon",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Wormley and Turnford"
+    },
+    {
+      "person_id": 134713,
+      "name": "Ben Lees",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Bournbrook & Selly Park"
+    },
+    {
+      "person_id": 78637,
+      "name": "Paul Lenihan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Old Harlow"
+    },
+    {
+      "person_id": 78637,
+      "name": "Paul Lenihan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "harlow",
+      "council_name": "Harlow",
+      "ward_name": "Old Harlow"
+    },
+    {
+      "person_id": 128426,
+      "name": "Julia Ann Leonard",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Hillingdon East"
+    },
+    {
+      "person_id": 98948,
+      "name": "Chloe Rae Leslie",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Deptford"
+    },
+    {
+      "person_id": 19268,
+      "name": "Jon Lloyd",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "peterborough",
+      "council_name": "Peterborough",
+      "ward_name": "Fletton & Stanground"
+    },
+    {
+      "person_id": 96487,
+      "name": "Harry John Lomas",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Southey"
+    },
+    {
+      "person_id": 131343,
+      "name": "Christopher Michael Mahon",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Rodbourne Cheney"
+    },
+    {
+      "person_id": 131967,
+      "name": "Muhsin Manir",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Leyton"
+    },
+    {
+      "person_id": 96484,
+      "name": "Ali Mansfield",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Cross Gates & Whinmoor"
+    },
+    {
+      "person_id": 127653,
+      "name": "Derek John Marsdon",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Yiewsley"
+    },
+    {
+      "person_id": 14398,
+      "name": "Mike Marx",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Peartree"
+    },
+    {
+      "person_id": 104884,
+      "name": "Mila Matharu",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Foleshill"
+    },
+    {
+      "person_id": 44464,
+      "name": "Elaine McDonald",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Lee Chapel North"
+    },
+    {
+      "person_id": 44464,
+      "name": "Elaine McDonald",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Burstead"
+    },
+    {
+      "person_id": 81906,
+      "name": "Max McGee",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Chilvers Coton"
+    },
+    {
+      "person_id": 5529,
+      "name": "Pete McLaren",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Rye & Eastern Rother"
+    },
+    {
+      "person_id": 137531,
+      "name": "Riann Mehta",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "barnet",
+      "council_name": "Barnet",
+      "ward_name": "Underhill"
+    },
+    {
+      "person_id": 137852,
+      "name": "Fa Madzi Miah",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Cheylesmore"
+    },
+    {
+      "person_id": 137884,
+      "name": "Doris Ionela Militarschi",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Earlsdon"
+    },
+    {
+      "person_id": 111344,
+      "name": "Eve Alexandra Miller",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Arbury"
+    },
+    {
+      "person_id": 36264,
+      "name": "Paula Jane Mitchell",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Bush Hill Park"
+    },
+    {
+      "person_id": 7784,
+      "name": "David Mitchell",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Immingham"
+    },
+    {
+      "person_id": 105745,
+      "name": "Alex Moore",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Stoke"
+    },
+    {
+      "person_id": 6184,
+      "name": "James Morbin",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "oxford",
+      "council_name": "Oxford",
+      "ward_name": "Blackbird Leys"
+    },
+    {
+      "person_id": 110789,
+      "name": "Sam Morden",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gateshead",
+      "council_name": "Gateshead",
+      "ward_name": "Chowdene"
+    },
+    {
+      "person_id": 138979,
+      "name": "Simon James Morden",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "gateshead",
+      "council_name": "Gateshead",
+      "ward_name": "Low Fell"
+    },
+    {
+      "person_id": 131429,
+      "name": "James William Morgan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "reading",
+      "council_name": "Reading",
+      "ward_name": "Abbey"
+    },
+    {
+      "person_id": 111816,
+      "name": "Thomas Mortimer",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "rushmoor",
+      "council_name": "Rushmoor",
+      "ward_name": "Aldershot Park"
+    },
+    {
+      "person_id": 128309,
+      "name": "TJ Diniz Mota",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Little London & Woodhouse"
+    },
+    {
+      "person_id": 82040,
+      "name": "Dave Murray",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Laindon Park"
+    },
+    {
+      "person_id": 82040,
+      "name": "Dave Murray",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "essex",
+      "council_name": "Essex",
+      "ward_name": "Laindon Town"
+    },
+    {
+      "person_id": 131630,
+      "name": "Steven Paul Nally",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Oval"
+    },
+    {
+      "person_id": 72803,
+      "name": "Jane Elizabeth Nellist",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Sherbourne"
+    },
+    {
+      "person_id": 851,
+      "name": "Dave Nellist",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "St Michael's"
+    },
+    {
+      "person_id": 36248,
+      "name": "Chris Newby",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hoxton East & Shoreditch"
+    },
+    {
+      "person_id": 6775,
+      "name": "Mark Stephen O'Connor",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "watford",
+      "council_name": "Watford",
+      "ward_name": "Holywell"
+    },
+    {
+      "person_id": 112692,
+      "name": "James Francis O'Connor",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "watford",
+      "council_name": "Watford",
+      "ward_name": "Vicarage"
+    },
+    {
+      "person_id": 135136,
+      "name": "Conor O'Donovan",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Nechells"
+    },
+    {
+      "person_id": 136194,
+      "name": "Michael James O'Dowd",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "newcastle-upon-tyne",
+      "council_name": "Newcastle upon Tyne",
+      "ward_name": "Blakelaw & Cowgate"
+    },
+    {
+      "person_id": 106720,
+      "name": "Conor Anthony O'Neill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Netherton North"
+    },
+    {
+      "person_id": 82740,
+      "name": "Aidan Spencer O'Toole",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Henley"
+    },
+    {
+      "person_id": 137931,
+      "name": "Portia Tasmin O'Toole",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Holbrooks"
+    },
+    {
+      "person_id": 128930,
+      "name": "Kara Odinsdottir",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Ham"
+    },
+    {
+      "person_id": 74770,
+      "name": "Deji Olayinka",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "bexley",
+      "council_name": "Bexley",
+      "ward_name": "Belvedere"
+    },
+    {
+      "person_id": 6187,
+      "name": "Trevor Michael Palmer",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Symonds Green"
+    },
+    {
+      "person_id": 14065,
+      "name": "Nick Parker",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "city-of-lincoln",
+      "council_name": "City of Lincoln",
+      "ward_name": "Carholme"
+    },
+    {
+      "person_id": 134501,
+      "name": "Oscar Parry",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Palmers Green"
+    },
+    {
+      "person_id": 36253,
+      "name": "Kevin Graham Parslow",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "William Morris"
+    },
+    {
+      "person_id": 75844,
+      "name": "Helen Katherine Campbell Pattison",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "ealing",
+      "council_name": "Ealing",
+      "ward_name": "Southfield"
+    },
+    {
+      "person_id": 82117,
+      "name": "Ian David Campbell Pattison",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Ponders End"
+    },
+    {
+      "person_id": 36269,
+      "name": "Ellen Kenyon Peers",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Wood Street"
+    },
+    {
+      "person_id": 133861,
+      "name": "Joselene Peres",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "New Southgate"
+    },
+    {
+      "person_id": 90397,
+      "name": "Rob Pettefar",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Lydiard, Freshbrook & Toothill"
+    },
+    {
+      "person_id": 128216,
+      "name": "George Phillips",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "leeds",
+      "council_name": "Leeds",
+      "ward_name": "Kirkstall"
+    },
+    {
+      "person_id": 18757,
+      "name": "Mark Pickersgill",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Bedwell"
+    },
+    {
+      "person_id": 6777,
+      "name": "Hugo Pierre",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Whitechapel"
+    },
+    {
+      "person_id": 74383,
+      "name": "Adam Karl Powell-Davies",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Trinity"
+    },
+    {
+      "person_id": 109917,
+      "name": "Mary Quate",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Queen's Park"
+    },
+    {
+      "person_id": 129241,
+      "name": "Athena Alexandra Chidera Reid",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "croydon",
+      "council_name": "Croydon",
+      "ward_name": "Addiscombe West"
+    },
+    {
+      "person_id": 133633,
+      "name": "Tilde Resare",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Nether Edge & Sharrow"
+    },
+    {
+      "person_id": 112502,
+      "name": "David Reynolds",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "dudley",
+      "council_name": "Dudley",
+      "ward_name": "St. James's"
+    },
+    {
+      "person_id": 131648,
+      "name": "Johnny Reynolds",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Kennington"
+    },
+    {
+      "person_id": 36258,
+      "name": "Martin Stuart Reynolds",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "St James"
+    },
+    {
+      "person_id": 132869,
+      "name": "Lauren Riley",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "tower-hamlets",
+      "council_name": "Tower Hamlets",
+      "ward_name": "Bromley North"
+    },
+    {
+      "person_id": 134425,
+      "name": "Jae Robinson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Acocks Green"
+    },
+    {
+      "person_id": 94604,
+      "name": "Candido Della Rocca",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Streatham Common & Vale"
+    },
+    {
+      "person_id": 134017,
+      "name": "George Arthur Rollason",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Stannington"
+    },
+    {
+      "person_id": 112388,
+      "name": "Madeline Claire Rooney",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "City"
+    },
+    {
+      "person_id": 11749,
+      "name": "Terri Rosser",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Upper Stoke"
+    },
+    {
+      "person_id": 36272,
+      "name": "Steven Paul Rumney",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lewisham",
+      "council_name": "Lewisham",
+      "ward_name": "Evelyn"
+    },
+    {
+      "person_id": 36254,
+      "name": "Sarah Sachs-Eldridge",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Brimsdown"
+    },
+    {
+      "person_id": 104960,
+      "name": "Alexandra Sampson",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Sutton and Mount Gould"
+    },
+    {
+      "person_id": 119239,
+      "name": "Carole Ann Sasaki",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "chorley",
+      "council_name": "Chorley",
+      "ward_name": "Chorley East"
+    },
+    {
+      "person_id": 136910,
+      "name": "Adil Shaikh",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Brinnington & Stockport Central"
+    },
+    {
+      "person_id": 137933,
+      "name": "Lenny Shail",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Holbrooks"
+    },
+    {
+      "person_id": 10080,
+      "name": "Theo Sharieff",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Brixton North"
+    },
+    {
+      "person_id": 110310,
+      "name": "Bret Shattock",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "crawley",
+      "council_name": "Crawley",
+      "ward_name": "Southgate"
+    },
+    {
+      "person_id": 6776,
+      "name": "Richard Shattock",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "three-rivers",
+      "council_name": "Three Rivers",
+      "ward_name": "Leavesden"
+    },
+    {
+      "person_id": 132649,
+      "name": "Sofia Pandolfi da Silveira",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Tooting Bec"
+    },
+    {
+      "person_id": 126554,
+      "name": "Jay Singh",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sandwell",
+      "council_name": "Sandwell",
+      "ward_name": "St Pauls"
+    },
+    {
+      "person_id": 127782,
+      "name": "Martin Barry Slade",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stevenage",
+      "council_name": "Stevenage",
+      "ward_name": "Bandley Hill & Poplars"
+    },
+    {
+      "person_id": 111276,
+      "name": "Rob Slater",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Binley & Willenhall"
+    },
+    {
+      "person_id": 104036,
+      "name": "Aaron Smith",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Flamstead End"
+    },
+    {
+      "person_id": 11867,
+      "name": "Sarah Stephanie Smith",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "Woodlands"
+    },
+    {
+      "person_id": 96491,
+      "name": "Daniel Lucas Smith",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Beauchief & Greenhill"
+    },
+    {
+      "person_id": 6638,
+      "name": "Paul Spooner",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "St Andrew's & Docklands"
+    },
+    {
+      "person_id": 129177,
+      "name": "Alison Stallard",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Peverell"
+    },
+    {
+      "person_id": 97777,
+      "name": "John Stephen Stiff",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Heneage"
+    },
+    {
+      "person_id": 131230,
+      "name": "Dezzy Stott",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "swindon",
+      "council_name": "Swindon",
+      "ward_name": "Upper Stratton"
+    },
+    {
+      "person_id": 112744,
+      "name": "Pauline Sulman",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Hoddesdon Town and Rye Park"
+    },
+    {
+      "person_id": 134237,
+      "name": "Sine Surridge",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "basildon",
+      "council_name": "Basildon",
+      "ward_name": "Pitsea North West"
+    },
+    {
+      "person_id": 36266,
+      "name": "Linda Susan Taaffe",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Hatch Lane & Highams Park North"
+    },
+    {
+      "person_id": 1599,
+      "name": "Nancy Taaffe",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "High Street"
+    },
+    {
+      "person_id": 86676,
+      "name": "Maria Talaia",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Forest"
+    },
+    {
+      "person_id": 132827,
+      "name": "Kat Taylor-Huzzard",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "wandsworth",
+      "council_name": "Wandsworth",
+      "ward_name": "Furzedown"
+    },
+    {
+      "person_id": 119341,
+      "name": "Marco Tesei",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Myatt's Fields"
+    },
+    {
+      "person_id": 93801,
+      "name": "Christine Thomas",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "broxbourne",
+      "council_name": "Broxbourne",
+      "ward_name": "Waltham Cross"
+    },
+    {
+      "person_id": 94443,
+      "name": "Robert Ivan Thomas",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Grove Green"
+    },
+    {
+      "person_id": 12407,
+      "name": "Alistair Tice",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Manor Castle"
+    },
+    {
+      "person_id": 94471,
+      "name": "Margaret Trotter",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hackney",
+      "council_name": "Hackney",
+      "ward_name": "Hackney Central"
+    },
+    {
+      "person_id": 73747,
+      "name": "Tony Twine",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Portswood"
+    },
+    {
+      "person_id": 137976,
+      "name": "Adam Amir Tyas",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "coventry",
+      "council_name": "Coventry",
+      "ward_name": "St Michael's"
+    },
+    {
+      "person_id": 112383,
+      "name": "Andrea Ugolini",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Birley"
+    },
+    {
+      "person_id": 90472,
+      "name": "Karl Vidol",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "enfield",
+      "council_name": "Enfield",
+      "ward_name": "Bowes"
+    },
+    {
+      "person_id": 36250,
+      "name": "John Nelson Viner",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "hounslow",
+      "council_name": "Hounslow",
+      "ward_name": "Isleworth"
+    },
+    {
+      "person_id": 130429,
+      "name": "Adrienne Wallace",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "waltham-forest",
+      "council_name": "Waltham Forest",
+      "ward_name": "Wood Street"
+    },
+    {
+      "person_id": 73737,
+      "name": "Angela Ruth Waller",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "barnsley",
+      "council_name": "Barnsley",
+      "ward_name": "Hoyland Milton"
+    },
+    {
+      "person_id": 84928,
+      "name": "Corinthia Ward",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Erdington"
+    },
+    {
+      "person_id": 86525,
+      "name": "William Ward",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "South"
+    },
+    {
+      "person_id": 111316,
+      "name": "Daniel Webb",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "nuneaton-and-bedworth",
+      "council_name": "Nuneaton and Bedworth",
+      "ward_name": "Stockingford East"
+    },
+    {
+      "person_id": 135937,
+      "name": "Solomon David Wells-Ashmore",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "West Ecclesfield"
+    },
+    {
+      "person_id": 109072,
+      "name": "Michael John Whale",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "kingston-upon-hull",
+      "council_name": "Kingston upon Hull",
+      "ward_name": "Avenue"
+    },
+    {
+      "person_id": 17580,
+      "name": "Andy White",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "plymouth",
+      "council_name": "Plymouth",
+      "ward_name": "Moor View"
+    },
+    {
+      "person_id": 134744,
+      "name": "Liam Williams",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Bootle West"
+    },
+    {
+      "person_id": 137217,
+      "name": "Libby Williams",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "stockport",
+      "council_name": "Stockport",
+      "ward_name": "Heatons South"
+    },
+    {
+      "person_id": 112643,
+      "name": "Paul Andrew Wood",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "north-east-lincolnshire",
+      "council_name": "North East Lincolnshire",
+      "ward_name": "Haverstoe"
+    },
+    {
+      "person_id": 5442,
+      "name": "Ted Woodley",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "birmingham",
+      "council_name": "Birmingham",
+      "ward_name": "Stockland Green"
+    },
+    {
+      "person_id": 136720,
+      "name": "Emma Woods",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Levenshulme"
+    },
+    {
+      "person_id": 24,
+      "name": "Lynn Worthington",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "manchester",
+      "council_name": "Manchester",
+      "ward_name": "Baguley"
+    },
+    {
+      "person_id": 112409,
+      "name": "Claire Suzanne Wraith",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "Stocksbridge & Upper Don"
+    },
+    {
+      "person_id": 134825,
+      "name": "Colin Michael Wray",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sheffield",
+      "council_name": "Sheffield",
+      "ward_name": "East Ecclesfield"
+    },
+    {
+      "person_id": 13991,
+      "name": "Pete Wyatt",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "southampton",
+      "council_name": "Southampton",
+      "ward_name": "Redbridge"
+    },
+    {
+      "person_id": 131584,
+      "name": "Nadia El Yacoubi",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "lambeth",
+      "council_name": "Lambeth",
+      "ward_name": "Stockwell West & Larkhall"
+    },
+    {
+      "person_id": 106695,
+      "name": "Dean Young",
+      "party_name": "Trade Unionist and Socialist Coalition",
+      "council_slug": "sefton",
+      "council_name": "Sefton",
+      "ward_name": "Bootle East"
+    }
+  ]
+}

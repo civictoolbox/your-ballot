@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "generated_at": "2026-04-19T02:28:14+00:00",
+    "party_key": "party-heritage-party",
+    "display_name": "Heritage Party",
+    "candidate_count": 18,
+    "council_count": 13,
+    "raw_party_names": [
+      "Heritage Party"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 110512,
+      "name": "Bella-Elena Armstrong",
+      "party_name": "Heritage Party",
+      "council_slug": "rochford",
+      "council_name": "Rochford",
+      "ward_name": "Hawkwell East"
+    },
+    {
+      "person_id": 132389,
+      "name": "Michael Cockayne",
+      "party_name": "Heritage Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Thornton & Allerton"
+    },
+    {
+      "person_id": 96979,
+      "name": "Gary Conway",
+      "party_name": "Heritage Party",
+      "council_slug": "norfolk",
+      "council_name": "Norfolk",
+      "ward_name": "Feltwell"
+    },
+    {
+      "person_id": 13336,
+      "name": "Chris Dean",
+      "party_name": "Heritage Party",
+      "council_slug": "east-surrey",
+      "council_name": "East Surrey",
+      "ward_name": "Oxted"
+    },
+    {
+      "person_id": 135583,
+      "name": "Martine Horvath",
+      "party_name": "Heritage Party",
+      "council_slug": "east-sussex",
+      "council_name": "East Sussex",
+      "ward_name": "Old Town"
+    },
+    {
+      "person_id": 98176,
+      "name": "Lara Michelle Hurley",
+      "party_name": "Heritage Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Kursaal"
+    },
+    {
+      "person_id": 97740,
+      "name": "Bianca Eleanor Isherwood",
+      "party_name": "Heritage Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Milton"
+    },
+    {
+      "person_id": 111025,
+      "name": "Adam Norman Isherwood",
+      "party_name": "Heritage Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Thorpe"
+    },
+    {
+      "person_id": 78586,
+      "name": "Sarah Jane Knott",
+      "party_name": "Heritage Party",
+      "council_slug": "watford",
+      "council_name": "Watford",
+      "ward_name": "Leggatts"
+    },
+    {
+      "person_id": 82115,
+      "name": "Mia Molinaro",
+      "party_name": "Heritage Party",
+      "council_slug": "welwyn-hatfield",
+      "council_name": "Welwyn Hatfield",
+      "ward_name": "Brookmans Park & Little Heath"
+    },
+    {
+      "person_id": 131102,
+      "name": "Cliff Parsons",
+      "party_name": "Heritage Party",
+      "council_slug": "portsmouth",
+      "council_name": "Portsmouth",
+      "ward_name": "Eastney and Craneswater"
+    },
+    {
+      "person_id": 13625,
+      "name": "Tim Read",
+      "party_name": "Heritage Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Woking South West"
+    },
+    {
+      "person_id": 126984,
+      "name": "Stephen Paul Reid",
+      "party_name": "Heritage Party",
+      "council_slug": "cheltenham",
+      "council_name": "Cheltenham",
+      "ward_name": "College"
+    },
+    {
+      "person_id": 99949,
+      "name": "Alfred Saint-Clair",
+      "party_name": "Heritage Party",
+      "council_slug": "milton-keynes",
+      "council_name": "Milton Keynes",
+      "ward_name": "Broughton & Moulsoe"
+    },
+    {
+      "person_id": 111011,
+      "name": "Lynn Katherine Smith",
+      "party_name": "Heritage Party",
+      "council_slug": "southend-on-sea",
+      "council_name": "Southend on Sea",
+      "ward_name": "Blenheim Park"
+    },
+    {
+      "person_id": 13453,
+      "name": "Judith Diana Squire",
+      "party_name": "Heritage Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Woking North"
+    },
+    {
+      "person_id": 13495,
+      "name": "Richard Peter Farr Squire",
+      "party_name": "Heritage Party",
+      "council_slug": "west-surrey",
+      "council_name": "West Surrey",
+      "ward_name": "Woking South"
+    },
+    {
+      "person_id": 109377,
+      "name": "Michael Gerard Watson",
+      "party_name": "Heritage Party",
+      "council_slug": "kingston-upon-thames",
+      "council_name": "Kingston upon Thames",
+      "ward_name": "Old Malden"
+    }
+  ]
+}

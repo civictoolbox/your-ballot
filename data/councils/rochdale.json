@@ -1,0 +1,720 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "rochdale",
+    "council_name": "Rochdale"
+  },
+  "wards": [
+    {
+      "ward_name": "Balderstone & Kirkholt",
+      "ballot_paper_id": "local.rochdale.balderstone-kirkholt.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132303,
+          "name": "Rob Chilton",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135311,
+          "name": "Ashley-Louise Gilbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12668,
+          "name": "John Kershaw",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 77790,
+          "name": "Philip Thomas Massey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12642,
+          "name": "Sami Mir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135310,
+          "name": "Altaf Nadeem",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Bamford",
+      "ballot_paper_id": "local.rochdale.bamford.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 137404,
+          "name": "Christopher Birchenough",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12645,
+          "name": "Duncan Hannant",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137401,
+          "name": "George Hilton",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137402,
+          "name": "Bahadur Kamran",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 45511,
+          "name": "Angela Jennifer Smith",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Castleton",
+      "ballot_paper_id": "local.rochdale.castleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 97218,
+          "name": "Malcolm Thomas Bywater",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110154,
+          "name": "Sharon L Harrison",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138321,
+          "name": "Dave Jones",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12482,
+          "name": "Jonathan Edward Kershaw",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12484,
+          "name": "Billy Sheerin",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Central Rochdale",
+      "ballot_paper_id": "local.rochdale.central-rochdale.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12502,
+          "name": "Iftikhar Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12681,
+          "name": "Peter Cloran",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135334,
+          "name": "Waqar Khan",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 135335,
+          "name": "Catherine Leach",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135336,
+          "name": "Samantha Payne",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "East Middleton",
+      "ballot_paper_id": "local.rochdale.east-middleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 90557,
+          "name": "Paul Beswick",
+          "party_name": "Middleton Independents Party"
+        },
+        {
+          "person_id": 136803,
+          "name": "Gina Jacques",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136806,
+          "name": "Mervyn Simpson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 136804,
+          "name": "Michael Smith",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136805,
+          "name": "Clare Wood",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Healey",
+      "ballot_paper_id": "local.rochdale.healey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 138686,
+          "name": "Umar Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110266,
+          "name": "Andy Lord",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 11156,
+          "name": "Robert James McLean",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 139126,
+          "name": "Raja Miah",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 12527,
+          "name": "Shaun O'Neill",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 138687,
+          "name": "Mark Stephens",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Hopwood Hall",
+      "ballot_paper_id": "local.rochdale.hopwood-hall.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 132480,
+          "name": "Iain Donaldson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 67198,
+          "name": "Susan Emmott",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137391,
+          "name": "Robert Lewis King",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110111,
+          "name": "Steve Potter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137392,
+          "name": "Alan Shaw",
+          "party_name": "Advance UK"
+        },
+        {
+          "person_id": 110101,
+          "name": "Stephen Spencer-Jones",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Kingsway",
+      "ballot_paper_id": "local.rochdale.kingsway.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 12636,
+          "name": "Shakil Ahmed",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 137629,
+          "name": "Steven John Edgar",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 137631,
+          "name": "Denise  Harrison",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6071,
+          "name": "Mark Hollinrake",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90592,
+          "name": "Jenny Kelly",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137630,
+          "name": "Mohammed Saleem",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Littleborough Lakeside",
+      "ballot_paper_id": "local.rochdale.littleborough-lakeside.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138694,
+          "name": "Janet Emsley",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45586,
+          "name": "Emma Jane Griffin",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138696,
+          "name": "Victoria Howard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110268,
+          "name": "Ian Jackson",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138695,
+          "name": "Paul Michael Wooten",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milkstone & Deeplish",
+      "ballot_paper_id": "local.rochdale.milkstone-deeplish.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135366,
+          "name": "Majdi Khalil Aldimashqi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135367,
+          "name": "Mohammad Arshad",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12671,
+          "name": "Len Branton",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135368,
+          "name": "Stuart Mather",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 12507,
+          "name": "Neil Gavin Rutter",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126513,
+          "name": "Mohammed Shafiq",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Milnrow & Newhey",
+      "ballot_paper_id": "local.rochdale.milnrow-newhey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 137941,
+          "name": "Milton Danczuk",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 12644,
+          "name": "Irene Davidson",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126338,
+          "name": "Anthony Gilbert",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97118,
+          "name": "Avis Kay Gilmore",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 126191,
+          "name": "Jack Freddie Gower",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 137942,
+          "name": "Mohammed Shafiq",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Norden",
+      "ballot_paper_id": "local.rochdale.norden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 12479,
+          "name": "Sarah Louise Croke",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 12633,
+          "name": "Paul Ellison",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138296,
+          "name": "Kevin Lane",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110263,
+          "name": "Sue Moore-Holmes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 78970,
+          "name": "Stephanie Robertson",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Heywood",
+      "ballot_paper_id": "local.rochdale.north-heywood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138657,
+          "name": "Sam Bancroft",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138658,
+          "name": "Naomi Charlotte Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138659,
+          "name": "Steve Gillan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 110255,
+          "name": "Michael Howard",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 110138,
+          "name": "Lewis Chadwick Woodall",
+          "party_name": "Labour and Co-operative Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "North Middleton",
+      "ballot_paper_id": "local.rochdale.north-middleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 136257,
+          "name": "James Luckham",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 110198,
+          "name": "Keeley O'Mara",
+          "party_name": "Middleton Independents Party"
+        },
+        {
+          "person_id": 90615,
+          "name": "Chariss Peacock",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136258,
+          "name": "Connor Stanisauskis",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 90746,
+          "name": "Eileen Taylor",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136259,
+          "name": "Lee Wolf",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Smallbridge & Firgrove",
+      "ballot_paper_id": "local.rochdale.smallbridge-firgrove.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 67208,
+          "name": "Feruz Ali",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 135378,
+          "name": "Cole Brierley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 109121,
+          "name": "Billy Howarth",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 63952,
+          "name": "Aftab Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135376,
+          "name": "Mohammed Khizer",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135377,
+          "name": "Charlotte Jayne Taylor",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Middleton",
+      "ballot_paper_id": "local.rochdale.south-middleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 138669,
+          "name": "Stacey Bancroft",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 138670,
+          "name": "Sam Ellis",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138671,
+          "name": "Sunday Stephen Onabanjo",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 138672,
+          "name": "Matthew Pilkington",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 64513,
+          "name": "Peter James Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Spotland & Falinge",
+      "ballot_paper_id": "local.rochdale.spotland-falinge.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 79012,
+          "name": "Rabina Asghar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 138538,
+          "name": "Benita Blessing",
+          "party_name": "Workers Party of Britain"
+        },
+        {
+          "person_id": 138539,
+          "name": "Stefan Cholenka",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 12689,
+          "name": "Mick Coats",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 97198,
+          "name": "Ann Marie Conway",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 72859,
+          "name": "Iram Faisal",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 12691,
+          "name": "Carl Faulkner",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wardle, Shore & West Littleborough",
+      "ballot_paper_id": "local.rochdale.wardle-shore-west-littleborough.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 135396,
+          "name": "Philip Barrett",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 135394,
+          "name": "Matthew Frederick Hargreaves",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 110258,
+          "name": "Kim Ho",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135395,
+          "name": "Joshua James McCarron",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 45526,
+          "name": "Adam Mir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119132,
+          "name": "Laura Pugh",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Heywood",
+      "ballot_paper_id": "local.rochdale.west-heywood.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 136596,
+          "name": "Adele Allison Anstee",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136597,
+          "name": "Angela Brown",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 139101,
+          "name": "Stuart Crawford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 97125,
+          "name": "Tom Shaw",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 136598,
+          "name": "Ethan Towers",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "West Middleton",
+      "ballot_paper_id": "local.rochdale.west-middleton.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 62112,
+          "name": "Phil Burke",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 136911,
+          "name": "Caitlin Furlong",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 90646,
+          "name": "Matthew Steven Roughsedge",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136912,
+          "name": "Trevor Taylor",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

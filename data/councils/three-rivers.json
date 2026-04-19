@@ -1,0 +1,444 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "three-rivers",
+    "council_name": "Three Rivers"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbots Langley & Bedmond",
+      "ballot_paper_id": "local.three-rivers.abbots-langley-bedmond.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118645,
+          "name": "Ian Campbell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 117958,
+          "name": "Pierce Culliton",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131036,
+          "name": "Jane Lay",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131037,
+          "name": "Kodi-Chantal Lloyd",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 117959,
+          "name": "Jane Powell",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Carpenders Park",
+      "ballot_paper_id": "local.three-rivers.carpenders-park.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 93310,
+          "name": "Rue Grewal",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 113129,
+          "name": "Matt Jones",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131032,
+          "name": "Krutika Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131033,
+          "name": "Martin Thomas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131034,
+          "name": "Don Wilkinson",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorleywood North & Sarratt",
+      "ballot_paper_id": "local.three-rivers.chorleywood-north-sarratt.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131347,
+          "name": "Caroline Margaret Ansell",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47603,
+          "name": "Margaret Gallagher",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131348,
+          "name": "Matthew Hunt",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131349,
+          "name": "Mohinder Kalsi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48260,
+          "name": "Peter Loader",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chorleywood South & Maple Cross",
+      "ballot_paper_id": "local.three-rivers.chorleywood-south-maple-cross.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 82973,
+          "name": "Philip Hearn",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131002,
+          "name": "Natalie Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131003,
+          "name": "John Monk",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 93315,
+          "name": "Louise Price",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 48055,
+          "name": "Roger Stafford",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Dickinsons",
+      "ballot_paper_id": "local.three-rivers.dickinsons.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 60591,
+          "name": "Rupert Barnes",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 48425,
+          "name": "Jeni Swift Gillett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83551,
+          "name": "Chris Mitchell",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131094,
+          "name": "Alison Wall",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131095,
+          "name": "Atif Wasay",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Durrants",
+      "ballot_paper_id": "local.three-rivers.durrants.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126055,
+          "name": "Andy Delius",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 25546,
+          "name": "Steve Drury",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131088,
+          "name": "Dominic Milner Evans",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 48457,
+          "name": "John Grillo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131089,
+          "name": "Neil Marathe",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gade Valley",
+      "ballot_paper_id": "local.three-rivers.gade-valley.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 118644,
+          "name": "Aidan Christopher Bentley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 131082,
+          "name": "Jo Colledge-Miller",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131083,
+          "name": "Sachin Dhir",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 44147,
+          "name": "Andrew Gallagher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 19036,
+          "name": "Bruce Prochnik",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Leavesden",
+      "ballot_paper_id": "local.three-rivers.leavesden.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 83316,
+          "name": "Colin James Gray",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 103569,
+          "name": "Anne Jervis",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93335,
+          "name": "Kevin Raeburn",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 83312,
+          "name": "Michael John Rayment",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131046,
+          "name": "Nicky Rowe",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 6776,
+          "name": "Richard Shattock",
+          "party_name": "Trade Unionist and Socialist Coalition"
+        }
+      ]
+    },
+    {
+      "ward_name": "Moor Park & Eastbury",
+      "ballot_paper_id": "local.three-rivers.moor-park-eastbury.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 126208,
+          "name": "Anaika Chopra",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 100876,
+          "name": "Peter Terence Harman",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 93347,
+          "name": "Mashkoor Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131074,
+          "name": "Jan Blatchford Pace",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131075,
+          "name": "Shailja Shah",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Oxhey Hall & Hayling",
+      "ballot_paper_id": "local.three-rivers.oxhey-hall-hayling.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 131058,
+          "name": "Shelley Gormley",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113124,
+          "name": "Jason St John",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113123,
+          "name": "Vishal Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131059,
+          "name": "Alex James Trainor",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131060,
+          "name": "Noah Yeates",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Penn & Mill End",
+      "ballot_paper_id": "local.three-rivers.penn-mill-end.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 119612,
+          "name": "Dane Bradley Clarke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 19039,
+          "name": "Joanne Victoria Cox",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 113125,
+          "name": "Malcolm Lee",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 131011,
+          "name": "Kerry Milliken",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 21076,
+          "name": "Sarah Jane Nelmes",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Rickmansworth Town",
+      "ballot_paper_id": "local.three-rivers.rickmansworth-town.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 119632,
+          "name": "Melvyn Paul Clifford",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 131053,
+          "name": "Kelly Critcher",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 93358,
+          "name": "Andrea Fraser",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 131054,
+          "name": "Philip Lockett",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131055,
+          "name": "Katy Sorkin",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "South Oxhey",
+      "ballot_paper_id": "local.three-rivers.south-oxhey.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 19060,
+          "name": "Stephen Michael James King",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 83466,
+          "name": "Chris Lawrence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 119627,
+          "name": "Taylor Edward George Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 83467,
+          "name": "Rhys leuan Southall",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 113128,
+          "name": "Kavan Trivedi",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    }
+  ]
+}

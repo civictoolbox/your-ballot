@@ -1,0 +1,43 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "hertfordshire",
+    "council_name": "Hertfordshire"
+  },
+  "wards": [
+    {
+      "ward_name": "Flamstead End & Turnford",
+      "ballot_paper_id": "local.hertfordshire.flamstead-end-turnford.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 5,
+      "candidates": [
+        {
+          "person_id": 76414,
+          "name": "Owen George Brett",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129276,
+          "name": "Christopher Edmund Valentine Bush",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 35586,
+          "name": "Lesley Greensmyth",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118955,
+          "name": "Madeline McFadden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 35587,
+          "name": "David Bryan Payne",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    }
+  ]
+}

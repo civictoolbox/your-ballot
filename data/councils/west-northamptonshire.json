@@ -1,0 +1,48 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "west-northamptonshire",
+    "council_name": "West Northamptonshire"
+  },
+  "wards": [
+    {
+      "ward_name": "Hackleton & Roade",
+      "ballot_paper_id": "local.west-northamptonshire.hackleton-roade.by.2026-05-07",
+      "seats_contested": 1,
+      "candidate_count": 6,
+      "candidates": [
+        {
+          "person_id": 79216,
+          "name": "Maggie Clubley",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 10026,
+          "name": "Peter French",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 130637,
+          "name": "Ron Johnson",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 121256,
+          "name": "Dave Pearson",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125448,
+          "name": "Stephen Gordon Shellabear",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 130632,
+          "name": "Laura Christine Weston",
+          "party_name": "Reform UK"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1237 @@
+{
+  "_meta": {
+    "election_date": "2026-05-07",
+    "generated_at": "2026-04-19T02:26:37+00:00",
+    "council_slug": "barking-and-dagenham",
+    "council_name": "Barking and Dagenham"
+  },
+  "wards": [
+    {
+      "ward_name": "Abbey",
+      "ballot_paper_id": "local.barking-and-dagenham.abbey.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 9,
+      "candidates": [
+        {
+          "person_id": 125570,
+          "name": "Ehsan Attiq",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126404,
+          "name": "Natasha Caulfield",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88041,
+          "name": "Manzoor Hussain",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126556,
+          "name": "Shazia Majeed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125654,
+          "name": "Craig Pullen",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129592,
+          "name": "Malik Rabbani",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88042,
+          "name": "Regina Rahman",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125571,
+          "name": "Kazi MD Reza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126555,
+          "name": "Verinder Singh",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Alibon",
+      "ballot_paper_id": "local.barking-and-dagenham.alibon.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 38833,
+          "name": "Dorothy Akwaboah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125564,
+          "name": "Ikem Chinedu",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125563,
+          "name": "Abul Khayer",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88599,
+          "name": "Muazzam Sandhu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125655,
+          "name": "Tracey Jayne Sullivan-Sparks",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 40034,
+          "name": "Nick Vandyke",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128846,
+          "name": "Brianne Wooding",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Barking Riverside",
+      "ballot_paper_id": "local.barking-and-dagenham.barking-riverside.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 128848,
+          "name": "Gabriel Abe",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 38098,
+          "name": "Josie Channer",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38099,
+          "name": "Cameron Geddes",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126405,
+          "name": "Jim Holland",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88383,
+          "name": "Victoria Hornby",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124859,
+          "name": "Marion Lesley Hull",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128850,
+          "name": "Syed I Kazmi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125562,
+          "name": "Musammat Meherun Nessa Khanam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126557,
+          "name": "Mizanur Rahman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126558,
+          "name": "Godfrey Kizito Sekisonge",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126406,
+          "name": "lon Talambuta",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125560,
+          "name": "Helal Talukder",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125561,
+          "name": "Mohammad Gias Uddin",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126407,
+          "name": "Ion Ursachi",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Beam",
+      "ballot_paper_id": "local.barking-and-dagenham.beam.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 88575,
+          "name": "Muhib Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118276,
+          "name": "George Elebiju",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88713,
+          "name": "Mehreen Iqbal",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125583,
+          "name": "Taye Ishola",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38097,
+          "name": "Donna R A Lumsden",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125584,
+          "name": "Joseph Obukowho Omorere",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126559,
+          "name": "lonel Popa",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126409,
+          "name": "Anish Samuel",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126408,
+          "name": "Nina Sontea",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124861,
+          "name": "Glen Spoor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126410,
+          "name": "Mariana Suciu",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Becontree",
+      "ballot_paper_id": "local.barking-and-dagenham.becontree.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 128869,
+          "name": "Muhammad Amin Ahmadzai",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 125657,
+          "name": "Ann Clark",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38158,
+          "name": "Edna Fergus",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125658,
+          "name": "Dave Godfrey",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125565,
+          "name": "Mohammed Sanaullah Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125566,
+          "name": "Minhaz Karim Khan",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124780,
+          "name": "Mary-Ann Murphy",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124779,
+          "name": "Masood Khushi Pasha",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38162,
+          "name": "Muhammad Saleem",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128866,
+          "name": "Mohammad Yaqoob",
+          "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Chadwell Heath",
+      "ballot_paper_id": "local.barking-and-dagenham.chadwell-heath.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 126412,
+          "name": "Fuad Ashraf",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38164,
+          "name": "Sade Bright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126561,
+          "name": "Vivian Ebal",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126413,
+          "name": "Muhammad Hamza",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126411,
+          "name": "Paul Anthony Hewson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125585,
+          "name": "Arinze David Nwanna",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38169,
+          "name": "Simon Perry",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88629,
+          "name": "Michel Pongo",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 3146,
+          "name": "Debbie Rosaman",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 128872,
+          "name": "Mohib Ali Shah",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125586,
+          "name": "Kamini Devi Sharma",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125588,
+          "name": "Anonta Candra Sutradhar",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastbrook & Rush Green",
+      "ballot_paper_id": "local.barking-and-dagenham.eastbrook-rush-green.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 124536,
+          "name": "Djena Balde",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38257,
+          "name": "Princess Opeyemi Bright",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38259,
+          "name": "Ron Emin",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125589,
+          "name": "Neil Edgar Hallewell",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 122941,
+          "name": "Lewis Reece Holmes",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 128874,
+          "name": "Nomsa Munangatire",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124537,
+          "name": "Sheikh Adil Nadeem",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118261,
+          "name": "Ben Suter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124863,
+          "name": "Amimul Ahsan Tanim",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125590,
+          "name": "James Alfred Arthur Tyler",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126193,
+          "name": "Ashlea Hetty Wane",
+          "party_name": "Independent"
+        }
+      ]
+    },
+    {
+      "ward_name": "Eastbury",
+      "ballot_paper_id": "local.barking-and-dagenham.eastbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 125554,
+          "name": "Md Monzour Ahamed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126415,
+          "name": "Zinaida Birlea",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126562,
+          "name": "Romas Bugaitis",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126416,
+          "name": "Sisir Das",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88381,
+          "name": "Costel Filipescu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38166,
+          "name": "Mohammed Khan",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 128881,
+          "name": "Elizabeth Makinde",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126564,
+          "name": "Pinar Polat",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125555,
+          "name": "Azizur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38478,
+          "name": "Dominic Twomey",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126563,
+          "name": "Mohammed Jalal Uddin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 38830,
+          "name": "Maureen Margaret Worby",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125556,
+          "name": "Joshua Yousaf",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Gascoigne",
+      "ballot_paper_id": "local.barking-and-dagenham.gascoigne.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 124865,
+          "name": "Ashwin Balluck",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125569,
+          "name": "Lilufar Begum",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126417,
+          "name": "Vera Botnari",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129583,
+          "name": "Ayfer Cebi",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 88024,
+          "name": "Alison Cormack",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 87878,
+          "name": "Kaied Omar Ghiyatha",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126418,
+          "name": "Tadas Karkauskas",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 93837,
+          "name": "Abedin Kazi",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126455,
+          "name": "Nazrul Islam Kazi",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126419,
+          "name": "Mihaela Melinte",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38482,
+          "name": "Moin Ali Quadri",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126565,
+          "name": "Silvia Rotaru",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125568,
+          "name": "Adriana Saldana",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126577,
+          "name": "Qasim Tahir",
+          "party_name": "Workers Party of Britain"
+        }
+      ]
+    },
+    {
+      "ward_name": "Goresbrook",
+      "ballot_paper_id": "local.barking-and-dagenham.goresbrook.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 12,
+      "candidates": [
+        {
+          "person_id": 126566,
+          "name": "Sheikh Faruque Ahmed",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126567,
+          "name": "Poly Rawsan Ara",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 129601,
+          "name": "Muhammad Shahid Awan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125390,
+          "name": "Colin Paul Bowman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38480,
+          "name": "Irma L M Freeborn",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129600,
+          "name": "Nassaba Guiba",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125391,
+          "name": "Mohammed Jafar Islam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125659,
+          "name": "George Miller",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125661,
+          "name": "Manjeet Nandra",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 88692,
+          "name": "Sharfaraz Khan Raj",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 37227,
+          "name": "Paul David Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125660,
+          "name": "Caleb Van Ryneveld",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Heath",
+      "ballot_paper_id": "local.barking-and-dagenham.heath.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 7,
+      "candidates": [
+        {
+          "person_id": 47008,
+          "name": "Naveed Akbar",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125593,
+          "name": "Abdullah Alam",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125662,
+          "name": "Sunil Idiculla",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125591,
+          "name": "Corine Mengalle",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38491,
+          "name": "Ingrid Robinson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95887,
+          "name": "Harriet Spoor",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125663,
+          "name": "Lee Colin Dennis Willoughby",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Longbridge",
+      "ballot_paper_id": "local.barking-and-dagenham.longbridge.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 126422,
+          "name": "Marin Adam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38492,
+          "name": "Faruk Choudhury",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124866,
+          "name": "Emran Hussain Chowdhury",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126420,
+          "name": "Chris Fennessy",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 34387,
+          "name": "Rocky Gill",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124777,
+          "name": "Tim Hunt",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126463,
+          "name": "Mohammed Sahed Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 118267,
+          "name": "Val Masson",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124778,
+          "name": "Mashkura Binta Mazid",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 123881,
+          "name": "Joe McNicholl",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 88631,
+          "name": "Shah Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129584,
+          "name": "Ghulam Rasool",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38493,
+          "name": "Lynda Jane Rice",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126421,
+          "name": "Alexandru Suciu",
+          "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Mayesbrook",
+      "ballot_paper_id": "local.barking-and-dagenham.mayesbrook.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 126568,
+          "name": "Raju Ahamad",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125665,
+          "name": "Ray Anderson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124867,
+          "name": "Shamsul Azam",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125558,
+          "name": "Shahana H S Choudhury",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38497,
+          "name": "Kashif Haroon",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125666,
+          "name": "Bijoy Johnson",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38499,
+          "name": "Andy McNab",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125559,
+          "name": "Tamanna Mirza",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 129597,
+          "name": "Waheed Nazir",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124868,
+          "name": "Faiza Noreen",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126569,
+          "name": "Juliano Nunes",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 88385,
+          "name": "Mizanur Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126570,
+          "name": "Syed Fahim Ahmed Roomy",
+          "party_name": "Green Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Northbury",
+      "ballot_paper_id": "local.barking-and-dagenham.northbury.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 129598,
+          "name": "Mehnaz Ali",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 38474,
+          "name": "Saima Ashraf",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126424,
+          "name": "Scott Cleaver",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124430,
+          "name": "Curtis Cooper",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125572,
+          "name": "Ahad Hossain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126425,
+          "name": "Paul Mateiu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126426,
+          "name": "Lesley McNab",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 37202,
+          "name": "Giasuddin Miah",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125573,
+          "name": "Rasel Miha",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124764,
+          "name": "Khawar Rizwan Nasim",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124763,
+          "name": "Aiden Nicholls",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125574,
+          "name": "Shibli Rahman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 108875,
+          "name": "Summya Sohaib",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Parsloes",
+      "ballot_paper_id": "local.barking-and-dagenham.parsloes.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 13,
+      "candidates": [
+        {
+          "person_id": 125667,
+          "name": "Alexandra Arnautu",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126571,
+          "name": "Taiwo Bodunrin",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125668,
+          "name": "Billy Edmunds",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125576,
+          "name": "Md Meraj Hossain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126452,
+          "name": "Syful Islam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 124870,
+          "name": "Robert James Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38835,
+          "name": "Elizabeth Kangethe",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129599,
+          "name": "Zulifqar Khan",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 126573,
+          "name": "Mst Marzia Khatun",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125577,
+          "name": "Chika Nwokorie",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125578,
+          "name": "Sonjoy Kumar Roy",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125669,
+          "name": "Ripon Sheikh",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 124871,
+          "name": "Jeorgina Da Costa Soares",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Thames View",
+      "ballot_paper_id": "local.barking-and-dagenham.thames-view.2026-05-07",
+      "seats_contested": 2,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 126427,
+          "name": "lon Adam",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125579,
+          "name": "Comfort Adegbulugbe",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 76811,
+          "name": "Lucy Baiye-Gaman",
+          "party_name": "Christian Peoples Alliance"
+        },
+        {
+          "person_id": 7998,
+          "name": "Andrew Boff",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124765,
+          "name": "Emma Louise Grove",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 122909,
+          "name": "Lucy Sara Lee",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 129604,
+          "name": "Mine Mayda",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 122944,
+          "name": "Paul David Powlesland",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 126428,
+          "name": "Karen Staddon",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 76814,
+          "name": "Sabbir Zamee",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Valence",
+      "ballot_paper_id": "local.barking-and-dagenham.valence.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 125596,
+          "name": "Mark Akindeko",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125670,
+          "name": "Kim Barti",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126574,
+          "name": "Saqib Bashir",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 125672,
+          "name": "Mavis Oti Boakye",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38827,
+          "name": "Syed Feroz Ghani",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125671,
+          "name": "Barb Gibbs",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 129602,
+          "name": "Amber Ijaz",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 124872,
+          "name": "Laura Iosifescu",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 38828,
+          "name": "Jane Elizabeth Jones",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125594,
+          "name": "Vivien Ojo",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125595,
+          "name": "Goodluck Nonye Uba",
+          "party_name": "Conservative and Unionist Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Village",
+      "ballot_paper_id": "local.barking-and-dagenham.village.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 10,
+      "candidates": [
+        {
+          "person_id": 108874,
+          "name": "Olumide Adeyefa",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125580,
+          "name": "Sheikh Mostak Ahmed",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 3003,
+          "name": "Arinola Ibiyemi Araba",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118260,
+          "name": "Graham Gosling",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125673,
+          "name": "Del Hunter",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 118268,
+          "name": "Ajanta Deb Roy",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 125674,
+          "name": "Marina Sanduleac",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125675,
+          "name": "Michael David Smith",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38844,
+          "name": "Phil Waker",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 118269,
+          "name": "Julia Williams",
+          "party_name": "Labour Party"
+        }
+      ]
+    },
+    {
+      "ward_name": "Whalebone",
+      "ballot_paper_id": "local.barking-and-dagenham.whalebone.2026-05-07",
+      "seats_contested": 3,
+      "candidate_count": 11,
+      "candidates": [
+        {
+          "person_id": 38845,
+          "name": "Andrew Achilleos",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126429,
+          "name": "Ramesh Babu Boddukola",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 38095,
+          "name": "Ada Emeka Echedom",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126430,
+          "name": "Adrian Gregory-Brown",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126575,
+          "name": "Nazrul Islam",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 118277,
+          "name": "Herbert Munangatire",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 125581,
+          "name": "Kenneth Okechukwu Odunze",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 126431,
+          "name": "Olesea Pasat",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125582,
+          "name": "Dixant Patel",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 118464,
+          "name": "Rubina Siddiqui",
+          "party_name": "Labour Party"
+        },
+        {
+          "person_id": 88894,
+          "name": "Mukhtar Yusuf",
+          "party_name": "Labour Party"
+        }
+      ]
+    }
+  ]
+}
