@@ -39,6 +39,11 @@
   const pollingLink= document.getElementById('polling-station-link');
   const shareBtn   = document.getElementById('share-btn');
   const shareHost  = document.getElementById('share-btn-host');
+  const priorityTool   = document.getElementById('priority-tool');
+  const priorityIssues = document.getElementById('priority-issues');
+  const priorityNote   = document.getElementById('priority-note');
+  const councilPowers  = document.getElementById('council-powers');
+  const councilPowersSummaryText = document.getElementById('council-powers-summary-text');
 
   // ---------- Preloaded data (lazy) ----------
   let partiesDataPromise = null;
@@ -344,10 +349,9 @@
         : `${pastCount} past election${pastCount === 1 ? '' : 's'}${pastWon > 0 ? ` · won ${pastWon}` : ''}`;
 
       // ── Statement ─────────────────────────────────────────────────
+      // Full statement (not a snippet). These are the candidate's own
+      // published words to Democracy Club — voters should read them in full.
       const statement = (person.statement_to_voters || '').trim();
-      const statementSnippet = statement
-        ? (statement.length > 180 ? statement.slice(0, 177).trim() + '…' : statement)
-        : '';
 
       // ── Photo ─────────────────────────────────────────────────────
       const photoUrl = person.thumbnail || person.image || '';
@@ -362,7 +366,7 @@
         : null;
 
       return `
-        <article class="candidate candidate-compare">
+        <article class="candidate candidate-compare" data-party-key="${esc(partyKey)}">
           <div class="candidate-photo ${photoUrl ? '' : 'is-placeholder'}" aria-hidden="true">
             ${photoUrl ? `<img src="${esc(photoUrl)}" alt="" loading="lazy" />` : '<span class="photo-placeholder-mark" aria-hidden="true"></span>'}
           </div>
@@ -386,7 +390,12 @@
                 <dd>${links.length ? `${links.length} link${links.length === 1 ? '' : 's'}` : '<span class="fact-empty">None listed</span>'}</dd>
               </div>
             </dl>
-            ${statementSnippet ? `<blockquote class="candidate-statement-snippet">${esc(statementSnippet)}</blockquote>` : ''}
+            ${statement ? `
+              <blockquote class="candidate-statement-full">
+                ${esc(statement).split(/\n\s*\n/).map(p => `<p>${p.replace(/\n/g, '<br>')}</p>`).join('')}
+                <cite>— ${esc(displayName)}, to Democracy Club</cite>
+              </blockquote>` : ''}
+            <div class="candidate-positions" data-person-id="${esc(person.id || '')}" hidden></div>
             ${links.length ? `
               <p class="candidate-links">
                 ${links.map(l => `<a href="${esc(l.href)}" rel="noopener" target="_blank">${esc(l.label)}</a>`).join('')}
@@ -500,6 +509,82 @@
     setTimeout(() => setHost('Copy link'), 2500);
   };
 
+  // ── Priority tool — "what matters to you?" ─────────────────────────────
+  const renderPriorityTool = async (ballot) => {
+    if (!priorityTool || !priorityIssues) return;
+    const partiesData = await loadPartiesData();
+    const issueMeta = (partiesData && partiesData._meta && partiesData._meta.issues) || [];
+    if (!issueMeta.length) { priorityTool.hidden = true; return; }
+
+    priorityIssues.innerHTML = issueMeta.map(({ key, label }) => `
+      <label class="priority-chip">
+        <input type="checkbox" value="${esc(key)}" />
+        <span>${esc(label)}</span>
+      </label>
+    `).join('');
+
+    const updatePositions = () => {
+      const selected = Array.from(priorityIssues.querySelectorAll('input[type="checkbox"]:checked'))
+        .map(cb => cb.value);
+      // For each candidate card, render the party's position on each selected issue
+      document.querySelectorAll('.candidate-positions').forEach(el => {
+        const card = el.closest('.candidate');
+        const key = card?.dataset.partyKey || 'other';
+        const info = (partiesData && partiesData[key]) || {};
+        const positions = info.positions || {};
+        if (!selected.length) {
+          el.hidden = true;
+          el.innerHTML = '';
+          return;
+        }
+        const items = selected.map(issueKey => {
+          const label = (issueMeta.find(i => i.key === issueKey) || {}).label || issueKey;
+          const text = positions[issueKey];
+          if (!text) {
+            return `
+              <div class="candidate-position-item is-empty">
+                <dt>${esc(label)}</dt>
+                <dd>${info.display_name ? `No position data for ${esc(info.display_name)} on this issue.` : 'No position data for this party on this issue.'}</dd>
+              </div>`;
+          }
+          return `
+            <div class="candidate-position-item">
+              <dt>${esc(label)}</dt>
+              <dd>${esc(text)}</dd>
+            </div>`;
+        }).join('');
+        el.innerHTML = `
+          <p class="candidate-positions-intro">
+            What <strong>${esc(info.display_name || 'this candidate\u2019s party')}</strong> says on the issues you picked
+            <span class="candidate-positions-disclaimer">(party-level position, not this specific candidate's)</span>:
+          </p>
+          <dl class="candidate-positions-list">${items}</dl>`;
+        el.hidden = false;
+      });
+
+      // Summary note under the checkboxes
+      if (priorityNote) {
+        priorityNote.textContent = selected.length
+          ? `Showing each party's published position on ${selected.length} issue${selected.length === 1 ? '' : 's'} above.`
+          : 'Pick one or more issues above to reveal party positions under each candidate.';
+      }
+    };
+
+    priorityIssues.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+      cb.addEventListener('change', updatePositions);
+    });
+
+    updatePositions();
+    priorityTool.hidden = false;
+  };
+
+  // ── Council powers — "what does this council actually do?" ─────────────
+  const renderCouncilPowers = (councilName) => {
+    if (!councilPowers || !councilPowersSummaryText) return;
+    councilPowersSummaryText.textContent = `What does ${councilName} actually decide?`;
+    councilPowers.hidden = false;
+  };
+
   const renderResults = async ({ district, ward, postcode }, ballot, enriched, extras) => {
     noElection.hidden = true;
     results.hidden = false;
@@ -512,6 +597,8 @@
 
     renderCandidates(ballot, enriched, extras);
     renderNextSteps(postcode);
+    renderCouncilPowers(district);
+    await renderPriorityTool(ballot);
     await renderParties(ballot);
 
     // Smooth scroll into view

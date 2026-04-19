@@ -180,6 +180,69 @@
 
       <div class="results-grid" id="candidates-grid"></div>
 
+      <!-- Priority-matcher: voter ticks the issues that matter to them,
+           and each candidate card reveals their party's position on
+           those issues. Helps voters focus without us ranking for them. -->
+      <section id="priority-tool" class="priority-tool" hidden aria-labelledby="priority-heading">
+        <h3 id="priority-heading" class="priority-heading">Not sure who to vote for?</h3>
+        <p class="priority-intro">
+          Tick the <strong>issues that matter most to you</strong>. We'll show what each
+          candidate's party says about those specific issues, so you can scan the
+          positions that are actually relevant to your vote.
+        </p>
+        <fieldset class="priority-fieldset">
+          <legend class="visually-hidden">Issues I care about</legend>
+          <div class="priority-issues" id="priority-issues">
+            <!-- Populated dynamically from parties.json _meta.issues -->
+          </div>
+        </fieldset>
+        <p class="priority-note" id="priority-note" aria-live="polite"></p>
+      </section>
+
+      <!-- What does your council actually decide? -->
+      <details class="council-powers" id="council-powers" hidden>
+        <summary><span id="council-powers-summary-text">What does this council actually decide?</span></summary>
+        <div class="council-powers-body">
+          <p>
+            UK councils are split across two tiers in many areas. The election
+            you're voting in determines which tier of responsibilities is at
+            stake on 7 May 2026.
+          </p>
+          <dl>
+            <dt>District, borough, or city councils (lower tier) typically run:</dt>
+            <dd>
+              Bin collections and street cleaning · housing and homelessness
+              services · planning decisions for new buildings and extensions ·
+              council tax rates (collecting on behalf of the county/police/fire too) ·
+              leisure centres, parks, and markets · licensing for taxis, pubs,
+              and street trading · housing benefit and council tax support ·
+              running elections themselves.
+            </dd>
+            <dt>County councils (upper tier) typically run:</dt>
+            <dd>
+              Schools and school admissions (except academies) ·
+              adult social care (care homes, home care) ·
+              children's social care (child protection, fostering) ·
+              roads, streetlights, and traffic systems · waste disposal
+              after your district's collection · libraries ·
+              registration of births, deaths, and marriages · trading
+              standards and environmental health · public health.
+            </dd>
+            <dt>Unitary, London borough, and metropolitan councils:</dt>
+            <dd>
+              Combine both tiers in a single council — they run
+              everything above.
+            </dd>
+          </dl>
+          <p class="council-powers-note">
+            Whichever candidate you pick has direct influence only over the
+            services their council is responsible for. If you care about
+            schools or social care, check whether your ward election is for
+            a county or a combined-tier council.
+          </p>
+        </div>
+      </details>
+
       <section class="next-steps" id="next-steps" hidden>
         <a id="polling-station-link" class="next-step-link" href="#" rel="noopener" target="_blank">
           <span class="next-step-label">Find your polling station</span>
