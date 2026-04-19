@@ -201,18 +201,21 @@
       </section>
     </section>
 
-    <!-- Empty / no-election state -->
+    <!-- Empty / no-election state (also reused for county-only / two-tier
+         fallback — the JS swaps the heading + body text as needed) -->
     <section id="no-election" class="no-election" hidden>
       <h2>No local election found for this postcode</h2>
-      <p>
-        We couldn&rsquo;t find a local election on 7 May 2026 for your area.
-        This may mean your council isn&rsquo;t holding an election this year, or the
-        data hasn&rsquo;t been published yet.
-      </p>
-      <p>
-        Try <a href="https://whocanivotefor.co.uk/" rel="noopener">Who Can I Vote For?</a> for
-        the most up-to-date information.
-      </p>
+      <div id="no-election-body">
+        <p>
+          We couldn&rsquo;t find a local election on 7 May 2026 for your area.
+          This may mean your council isn&rsquo;t holding an election this year, or the
+          data hasn&rsquo;t been published yet.
+        </p>
+        <p>
+          Try <a href="https://whocanivotefor.co.uk/" rel="noopener">Who Can I Vote For?</a> for
+          the most up-to-date information.
+        </p>
+      </div>
     </section>
   </main>
 

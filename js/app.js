@@ -185,7 +185,7 @@
 
   // ---------- API steps ----------
 
-  /** postcodes.io lookup. Returns { district, ward, wardGss } or throws. */
+  /** postcodes.io lookup. Returns location fields or throws. */
   const lookupPostcode = async (postcode) => {
     const url = `${POSTCODES_BASE}/${encodeURIComponent(postcode)}`;
     let res;
@@ -204,10 +204,27 @@
     return {
       district:    r.admin_district,
       ward:        r.admin_ward,
+      county:      r.admin_county || null,   // only present in two-tier areas
       wardGss:     r.codes?.admin_ward,
       districtGss: r.codes?.admin_district,
+      countyGss:   r.codes?.admin_county,
       country:     r.country,
     };
+  };
+
+  /** Count the ballots for a given council slug on ELECTION_DATE. Used to
+      detect whether a two-tier county layer has elections when the district
+      doesn't. */
+  const countCouncilBallots = async (councilSlug) => {
+    try {
+      const electionId = `local.${councilSlug}.${ELECTION_DATE}`;
+      const res = await fetch(
+        `${YNR_BASE}/ballots/?election_id=${encodeURIComponent(electionId)}&page_size=1`
+      );
+      if (!res.ok) return 0;
+      const data = await res.json();
+      return data.count || 0;
+    } catch { return 0; }
   };
 
   /** Try the exact slugified ballot_paper_id first. */
@@ -506,9 +523,51 @@
     partiesSec.hidden = true;
     if (nextSteps) nextSteps.hidden = true;
     noElection.hidden = false;
-    // Personalise the no-election message slightly
+    // Reset to the default message (a later county-detect path may replace it).
     noElection.querySelector('h2').textContent =
       `No 2026 local election found for ${district}`;
+    const body = noElection.querySelector('#no-election-body');
+    if (body) body.innerHTML = `
+      <p>We couldn't find a local election on 7 May 2026 for your area.
+      This may mean your council isn't holding an election this year, or the
+      data hasn't been published yet.</p>
+      <p>Try
+        <a href="https://whocanivotefor.co.uk/elections/${encodeURIComponent(normalisePostcode(postcode))}/" rel="noopener" target="_blank">Who Can I Vote For?</a>
+        — Democracy Club's own tool — which also handles "split postcodes" where
+        one postcode covers multiple wards.</p>`;
+    noElection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+
+  const renderCountyOnlyElection = ({ district, ward, county, postcode }, ballotCount) => {
+    results.hidden = true;
+    partiesSec.hidden = true;
+    if (nextSteps) nextSteps.hidden = true;
+    noElection.hidden = false;
+    noElection.querySelector('h2').textContent =
+      `${county} County Council is holding an election on 7 May 2026`;
+    const countySlug = slugify(county);
+    const pcUrl = encodeURIComponent(normalisePostcode(postcode));
+    const body = noElection.querySelector('#no-election-body');
+    if (body) body.innerHTML = `
+      <p>Your district (<strong>${esc(district)}</strong>) isn't holding an election this year —
+      but <strong>${esc(county)}</strong>, the county above it, is.
+      There are <strong>${ballotCount} ${ballotCount === 1 ? 'division' : 'divisions'}</strong>
+      up for election across ${esc(county)}.</p>
+
+      <p>County elections use <em>electoral divisions</em> rather than the ward
+      your postcode sits in, and a single postcode can cover more than one
+      division. To find your exact division and candidates, please use:</p>
+
+      <p class="browse-link" style="margin-top:1.25rem;">
+        <a href="https://whocanivotefor.co.uk/elections/${pcUrl}/" rel="noopener" target="_blank">
+          Who Can I Vote For? for ${esc(normalisePostcode(postcode))} →
+        </a>
+      </p>
+      <p class="browse-link">
+        <a href="all.html?council=${encodeURIComponent(countySlug)}">
+          Or browse all ${esc(county)} divisions →
+        </a>
+      </p>`;
     noElection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
@@ -535,6 +594,17 @@
       const ballot = await fetchBallot(loc.district, loc.ward);
 
       if (!ballot) {
+        // Two-tier fallback: if the district has no election but the county
+        // does (e.g. Wealden district / East Sussex county on 7 May 2026),
+        // tell the user that specifically instead of the generic "no found".
+        if (loc.county) {
+          setStatus(`Checking ${loc.county}…`);
+          const countyBallots = await countCouncilBallots(slugify(loc.county));
+          setStatus('');
+          if (countyBallots > 0) {
+            return renderCountyOnlyElection({ ...loc, postcode: pc }, countyBallots);
+          }
+        }
         setStatus('');
         return renderNoElection({ ...loc, postcode: pc });
       }
