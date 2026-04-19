@@ -38,6 +38,21 @@
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 
+  const slugifyName = (name) => {
+    if (!name) return '';
+    let s = name.normalize('NFKD').replace(/\p{M}/gu, '');
+    s = s.toLowerCase().replace(/'/g, '').replace(/\u2019/g, '');
+    s = s.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    return s;
+  };
+  const candidateHref = (personId, name) => {
+    if (!personId) return '';
+    const nslug = slugifyName(name || '');
+    return nslug
+      ? `candidate.html?name=${encodeURIComponent(nslug)}&id=${encodeURIComponent(personId)}`
+      : `candidate.html?id=${encodeURIComponent(personId)}`;
+  };
+
   const normaliseSearch = (s) => (s || '').toLowerCase().trim();
 
   // Party name -> canonical key (subset match, same rules as app.js)
@@ -169,9 +184,9 @@
       const candidates = (w.candidates || []).map(c => {
         const colour = COLOURS[partyKey(c.party_name)] || COLOURS.other;
         // Profile link goes to our own candidate page, not the external WCIVF
-        const profile = c.person_id ? `candidate.html?id=${encodeURIComponent(c.person_id)}` : null;
+        const profile = c.person_id ? candidateHref(c.person_id, c.name) : null;
         const nameHtml = c.person_id
-          ? `<a href="candidate.html?id=${encodeURIComponent(c.person_id)}">${esc(c.name)}</a>`
+          ? `<a href="${esc(candidateHref(c.person_id, c.name))}">${esc(c.name)}</a>`
           : esc(c.name);
         return `
           <li class="candidate-item">

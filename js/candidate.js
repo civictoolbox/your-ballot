@@ -205,9 +205,12 @@
     if (!others.length) return;
     wardOthers.innerHTML = others.map(c => {
       const colour = COLOURS[partyKey(c.party_name)] || COLOURS.other;
+      const href = slugifyName(c.name)
+        ? `candidate.html?name=${encodeURIComponent(slugifyName(c.name))}&id=${encodeURIComponent(c.person_id)}`
+        : `candidate.html?id=${encodeURIComponent(c.person_id)}`;
       return `
         <li>
-          <a class="ward-other-link" href="candidate.html?id=${encodeURIComponent(c.person_id)}">
+          <a class="ward-other-link" href="${esc(href)}">
             <span class="ward-other-name">${esc(c.name)}</span>
             <span class="ward-other-party">
               <span class="party-swatch" style="background:${colour}"></span>
@@ -389,10 +392,111 @@
       </li>`).join('');
   };
 
+  // Same slugification rules as scripts/build_candidate_slug_index.py.
+  // Keep in sync — the canonical version is that Python script.
+  const slugifyName = (name) => {
+    if (!name) return '';
+    let s = name.normalize('NFKD').replace(/\p{M}/gu, '');
+    s = s.toLowerCase();
+    s = s.replace(/'/g, '').replace(/\u2019/g, '');
+    s = s.replace(/[^a-z0-9]+/g, '-');
+    s = s.replace(/^-+|-+$/g, '');
+    return s;
+  };
+
+  let _slugsPromise = null;
+  const loadCandidateSlugs = () => {
+    if (!_slugsPromise) {
+      _slugsPromise = fetch('data/candidate-slugs.json', { cache: 'default' })
+        .then(r => r.ok ? r.json() : null)
+        .catch(() => null);
+    }
+    return _slugsPromise;
+  };
+
+  // ---------- Disambiguation for slug collisions ----------
+  const renderDisambiguation = async (slug, ids) => {
+    nameEl.textContent = 'More than one candidate with that name';
+    kickerEl.innerHTML = `
+      Several candidates share the slug <code>${esc(slug)}</code>. Pick the
+      one you want — the URL will then have a stable ID.
+    `;
+    bodyEl.hidden = false;
+
+    // Resolve each to council+ward via the candidates-index for display
+    const index = await loadCandidatesIndex();
+    const slugMap = (index && index.candidates) || {};
+    const entries = await Promise.all(ids.map(async (pid) => {
+      const councilHit = slugMap[String(pid)];
+      const councilSlug = Array.isArray(councilHit) ? councilHit[0] : councilHit;
+      if (!councilSlug) return { id: pid, name: '(unknown)', where: '' };
+      const council = await loadCouncil(councilSlug);
+      if (!council) return { id: pid, name: '(unknown)', where: '' };
+      for (const w of council.wards || []) {
+        for (const c of w.candidates || []) {
+          if (String(c.person_id) === String(pid)) {
+            return {
+              id: pid,
+              name: c.name,
+              party: c.party_name,
+              where: `${w.ward_name}, ${council._meta?.council_name || councilSlug}`,
+            };
+          }
+        }
+      }
+      return { id: pid, name: '(withdrawn)', where: '' };
+    }));
+
+    // Hide all the detail sections and put a picker into the ward-others section
+    document.getElementById('statement-section')?.setAttribute('hidden', '');
+    document.getElementById('links-section')?.setAttribute('hidden', '');
+    document.getElementById('history-section')?.setAttribute('hidden', '');
+    document.getElementById('party-context-section')?.setAttribute('hidden', '');
+    wardCtxSec.hidden = false;
+    document.querySelector('#ward-context-section h2').textContent = 'Which one?';
+    wardOthers.innerHTML = entries.map(e => {
+      const nslug = slugifyName(e.name);
+      const href = nslug
+        ? `candidate.html?name=${encodeURIComponent(nslug)}&id=${encodeURIComponent(e.id)}`
+        : `candidate.html?id=${encodeURIComponent(e.id)}`;
+      return `
+        <li>
+          <a class="ward-other-link" href="${esc(href)}">
+            <span class="ward-other-name">${esc(e.name)}</span>
+            <span class="ward-other-party">${esc(e.party || '')}${e.where ? ' · ' + esc(e.where) : ''}</span>
+          </a>
+        </li>`;
+    }).join('');
+    showStatus('');
+  };
+
   // ---------- Main ----------
   const init = async () => {
     const params = new URLSearchParams(location.search);
-    const id = (params.get('id') || '').trim();
+    let id = (params.get('id') || '').trim();
+    const nameParam = (params.get('name') || '').trim();
+
+    // If ?name=slug is present but no ?id, resolve the slug to an id
+    // via data/candidate-slugs.json. If the slug has multiple matches
+    // and no disambiguator is supplied, show a disambiguation page.
+    if (!id && nameParam) {
+      showStatus('Resolving candidate…');
+      const data = await loadCandidateSlugs();
+      const ids = data?.slugs?.[nameParam] || [];
+      if (ids.length === 0) {
+        showStatus('');
+        nameEl.textContent = 'Candidate not found';
+        kickerEl.innerHTML = `No candidate matched <code>${esc(nameParam)}</code>. Try <a href="all.html">browsing all councils</a>.`;
+        return;
+      }
+      if (ids.length === 1) {
+        id = String(ids[0]);
+        // Normalise URL to include the id for stable bookmarking
+        history.replaceState({}, '', `?name=${encodeURIComponent(nameParam)}&id=${encodeURIComponent(id)}`);
+      } else {
+        return renderDisambiguation(nameParam, ids);
+      }
+    }
 
     if (!id || !/^\d+$/.test(id)) {
       showStatus('');

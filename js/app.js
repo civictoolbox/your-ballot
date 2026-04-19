@@ -112,6 +112,23 @@
     .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
+  // Slugify a candidate's name for friendly URLs
+  // (keep in sync with scripts/build_candidate_slug_index.py)
+  const slugifyName = (name) => {
+    if (!name) return '';
+    let s = name.normalize('NFKD').replace(/\p{M}/gu, '');
+    s = s.toLowerCase().replace(/'/g, '').replace(/\u2019/g, '');
+    s = s.replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    return s;
+  };
+  const candidateHref = (personId, name) => {
+    if (!personId) return '';
+    const slug = slugifyName(name || '');
+    return slug
+      ? `candidate.html?name=${encodeURIComponent(slug)}&id=${encodeURIComponent(personId)}`
+      : `candidate.html?id=${encodeURIComponent(personId)}`;
+  };
+
   // Limited-concurrency map
   const mapLimit = async (items, limit, fn) => {
     const out = new Array(items.length);
@@ -358,12 +375,10 @@
 
       // ── Name, always linked to profile page when we have an ID ────
       const nameHtml = person.id
-        ? `<a href="candidate.html?id=${encodeURIComponent(person.id)}">${esc(displayName)}</a>`
+        ? `<a href="${esc(candidateHref(person.id, displayName))}">${esc(displayName)}</a>`
         : esc(displayName);
 
-      const profileHref = person.id
-        ? `candidate.html?id=${encodeURIComponent(person.id)}`
-        : null;
+      const profileHref = person.id ? candidateHref(person.id, displayName) : null;
 
       return `
         <article class="candidate candidate-compare" data-party-key="${esc(partyKey)}">
@@ -463,33 +478,33 @@
     if (!nextSteps) return;
     const pcCompact = normalisePostcode(postcode);
     if (pollingLink) {
-      pollingLink.href = `https://wheredoivote.co.uk/postcode/${encodeURIComponent(pcCompact)}/`;
+      // If we have a postcode, link directly. Otherwise fall back to the
+      // root of wheredoivote.co.uk (user enters their own postcode there).
+      pollingLink.href = pcCompact
+        ? `https://wheredoivote.co.uk/postcode/${encodeURIComponent(pcCompact)}/`
+        : 'https://wheredoivote.co.uk/';
+      const host = pollingLink.querySelector('.next-step-host');
+      if (host) host.textContent = pcCompact
+        ? 'on wheredoivote.co.uk →'
+        : 'enter your postcode on wheredoivote.co.uk →';
     }
-    if (shareBtn) {
-      shareBtn.dataset.postcode = pcCompact;
-      if (shareHost) shareHost.textContent = 'Copy link';
-    }
+    if (shareHost) shareHost.textContent = 'Copy link';
     nextSteps.hidden = false;
-  };
-
-  const buildShareUrl = (postcode) => {
-    const base = `${location.origin}${location.pathname.replace(/[^/]*$/, '')}`;
-    return `${base}?postcode=${encodeURIComponent(postcode)}`;
   };
 
   const handleShare = async () => {
     if (!shareBtn) return;
-    const postcode = shareBtn.dataset.postcode || '';
-    if (!postcode) return;
-    const url = buildShareUrl(postcode);
+    // Always share whatever the current browser URL is — after a successful
+    // lookup that's ?council=X&ward=Y (or ?postcode=X). Fully shareable.
+    const url = location.href;
     const setHost = (msg) => { if (shareHost) shareHost.textContent = msg; };
 
     // Prefer the native share sheet on mobile; fall back to clipboard.
     if (navigator.share) {
       try {
         await navigator.share({
-          title: 'Your Ballot',
-          text: `Candidates on my ballot for 7 May 2026`,
+          title: 'Your Ballot — candidates',
+          text: `Candidates on the ballot for 7 May 2026`,
           url,
         });
         setHost('Shared');
@@ -589,7 +604,9 @@
     noElection.hidden = true;
     results.hidden = false;
 
-    kicker.textContent  = `${district} · ${formatPostcode(postcode)}`;
+    kicker.textContent  = postcode
+      ? `${district} · ${formatPostcode(postcode)}`
+      : district;
     heading.textContent = ward;
     const seats = ballot.winner_count || 1;
     const nCand = (ballot.candidacies || []).length;
@@ -714,7 +731,7 @@
                     <ul class="candidate-list">
                       ${sorted.map(c => {
                         const colour = FALLBACK_COLOURS[partyKeyFromName(c.party_name)] || FALLBACK_COLOURS.other;
-                        const profile = c.person_id ? `candidate.html?id=${encodeURIComponent(c.person_id)}` : null;
+                        const profile = c.person_id ? candidateHref(c.person_id, c.name) : null;
                         return `
                           <li class="candidate-item">
                             <span class="candidate-item-name">${profile ? `<a href="${esc(profile)}">${esc(c.name)}</a>` : esc(c.name)}</span>
@@ -773,6 +790,80 @@
     if (inlineContainer) renderCountyDivisionsInline(countySlug, inlineContainer);
 
     noElection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  };
+
+  // ---------- Direct ward loader (called when the URL already specifies
+  //   ?council=X&ward=Y — skips the postcode.io resolution step). ----------
+  const loadWardDirectly = async (councilSlug, wardSlug) => {
+    setLoading(true);
+    results.hidden = true;
+    noElection.hidden = true;
+    setStatus('Loading this ward…');
+
+    try {
+      // Pull the council's JSON so we have the human-readable names.
+      let councilName = councilSlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      let wardName = wardSlug.replace(/-/g, ' ');
+      try {
+        const councilRes = await fetch(
+          `data/councils/${encodeURIComponent(councilSlug)}.json`,
+          { cache: 'default' }
+        );
+        if (councilRes.ok) {
+          const councilData = await councilRes.json();
+          councilName = councilData._meta?.council_name || councilName;
+          const match = (councilData.wards || []).find(
+            w => slugify(w.ward_name) === wardSlug
+          );
+          if (match) wardName = match.ward_name;
+        }
+      } catch {}
+
+      const ballot = await fetchBallotDirect(councilSlug, wardSlug);
+      if (!ballot) {
+        setStatus('');
+        noElection.hidden = false;
+        noElection.querySelector('h2').textContent = 'Ward not found';
+        const body = noElection.querySelector('#no-election-body');
+        if (body) body.innerHTML = `
+          <p>We couldn't find a ward matching that URL on 7 May 2026.
+          Try <a href="all.html">browsing all councils</a> or entering
+          a postcode above.</p>`;
+        return;
+      }
+
+      if (ballot.cancelled) {
+        setStatus('');
+        noElection.hidden = false;
+        noElection.querySelector('h2').textContent = 'This election has been cancelled';
+        return;
+      }
+
+      setStatus('Loading candidate details…');
+      const candidacies = ballot.candidacies || [];
+      const enriched = await mapLimit(candidacies, CONCURRENCY, async (c) => {
+        const id = c.person?.id;
+        if (!id) return c.person || null;
+        const p = await fetchPerson(id);
+        return p || c.person;
+      });
+      const extras = await loadCandidateExtras();
+      setStatus('');
+
+      // No postcode available from this entry path — renderResults handles that.
+      await renderResults(
+        { district: councilName, ward: wardName, postcode: '', wardSlug, councilSlug },
+        ballot,
+        enriched,
+        extras
+      );
+    } catch (err) {
+      setStatus('');
+      showError(err.message || 'Something went wrong. Please try again.');
+      console.error(err);
+    } finally {
+      setLoading(false);
+    }
   };
 
   // ---------- Main handler ----------
@@ -834,7 +925,23 @@
       const extras = await loadCandidateExtras();
 
       setStatus('');
-      await renderResults({ ...loc, postcode: pc }, ballot, enriched, extras);
+
+      // Promote the URL from ?postcode=… to ?council=X&ward=Y so the
+      // address bar now reflects a navigable state. Fixes the "back button
+      // jumps to homepage" issue reported by users: when they click a
+      // candidate and hit back, the browser returns to a URL that
+      // auto-reloads this ward.
+      const councilSlug = slugify(loc.district);
+      const wardSlug    = slugify(loc.ward);
+      const wardUrl     = `?council=${encodeURIComponent(councilSlug)}&ward=${encodeURIComponent(wardSlug)}`;
+      if (location.search !== wardUrl) {
+        history.replaceState({ councilSlug, wardSlug }, '', wardUrl);
+      }
+
+      await renderResults(
+        { ...loc, postcode: pc, councilSlug, wardSlug },
+        ballot, enriched, extras
+      );
     } catch (err) {
       setStatus('');
       showError(err.message || 'Something went wrong. Please try again.');
@@ -847,12 +954,21 @@
   form.addEventListener('submit', handleSubmit);
   if (shareBtn) shareBtn.addEventListener('click', handleShare);
 
-  // Handle ?postcode= in URL for shareable links
+  // ── URL-param entry points ─────────────────────────────────────────────
+  // Priority order (first match wins):
+  //   1. ?council=X&ward=Y — jump straight to that ward (shareable,
+  //      back-button-safe, no postcode.io round-trip)
+  //   2. ?postcode=X       — auto-run the postcode lookup (back-compat for
+  //      older share links that used this format)
   const params = new URLSearchParams(location.search);
-  const shared = params.get('postcode');
-  if (shared) {
+  const urlCouncil = params.get('council');
+  const urlWard    = params.get('ward');
+  const shared     = params.get('postcode');
+
+  if (urlCouncil && urlWard) {
+    loadWardDirectly(urlCouncil, urlWard);
+  } else if (shared) {
     input.value = formatPostcode(shared);
-    // Submit after a tick so DOM is fully ready
     setTimeout(() => form.requestSubmit(), 50);
   }
 

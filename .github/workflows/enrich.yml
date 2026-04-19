@@ -57,10 +57,15 @@ jobs:
         timeout-minutes: 2
         run: python scripts/build_candidates_index.py
 
+      - name: Build candidate-name slug index
+        if: success()
+        timeout-minutes: 2
+        run: python scripts/build_candidate_slug_index.py
+
       - name: Commit browse + party + candidates data
         if: success()
         run: |
-          git add data/elections-index.json data/councils data/ballot_person_ids.json data/parties-index.json data/parties-candidates data/candidates-index.json 2>/dev/null || true
+          git add data/elections-index.json data/councils data/ballot_person_ids.json data/parties-index.json data/parties-candidates data/candidates-index.json data/candidate-slugs.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No browse/party/candidates data changes."
           else
