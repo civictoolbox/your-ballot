@@ -1,27 +1,29 @@
 name: Nightly candidate data enrichment
 
 # Runs once a day and also on manual trigger.
-# The job fetches the latest Democracy Club data for the 7 May 2026
-# local elections, builds data/candidate-extras.json, and commits if the
-# content has changed.
+# Two-stage pipeline:
+#   1. build_browse_data.py — fast (~15–20 min). Commits browse JSONs so the
+#      /all.html list goes live even if the slow step times out.
+#   2. enrich_candidates.py — slow (~30–60 min). Uses the person ID list the
+#      fast step wrote. Commits data/candidate-extras.json on success.
+#
+# If step 2 times out, step 1's commit is already safely on main.
 
 on:
   schedule:
-    - cron: "17 3 * * *"     # 03:17 UTC every day (quiet hour, off-peak for the API)
+    - cron: "17 3 * * *"     # 03:17 UTC every day (quiet hour)
   workflow_dispatch:           # allow manual runs from the Actions tab
 
-# Grant the workflow permission to push back to the repo
 permissions:
   contents: write
 
-# Avoid overlapping runs
 concurrency:
   group: enrich-candidates
   cancel-in-progress: false
 
 jobs:
   enrich:
-    name: Build candidate-extras.json
+    name: Build browse data + candidate extras
     runs-on: ubuntu-latest
     timeout-minutes: 120
 
@@ -34,30 +36,46 @@ jobs:
         with:
           python-version: "3.12"
 
-      # The enrichment script uses only the Python standard library,
-      # so no `pip install` step is needed.
-
-      - name: Run enrichment script
-        run: python scripts/enrich_candidates.py
-
-      - name: Check for changes
-        id: diff
-        run: |
-          git add -N data/
-          if git diff --quiet -- data/; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No changes to commit."
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Changes detected:"
-            git diff --stat -- data/
-          fi
-
-      - name: Commit and push if changed
-        if: steps.diff.outputs.changed == 'true'
+      - name: Configure git for bot commits
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m "chore: nightly data refresh (candidates, browse index)"
-          git push
+
+      # ── Stage 1: browse data (fast, always commits) ────────────────────
+      - name: Build browse data
+        id: browse
+        timeout-minutes: 45
+        run: python scripts/build_browse_data.py
+
+      - name: Commit browse data
+        if: success()
+        run: |
+          git add data/elections-index.json data/councils data/ballot_person_ids.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No browse data changes."
+          else
+            git diff --cached --stat
+            git commit -m "chore: refresh browse data (elections index + councils)"
+            git push
+          fi
+
+      # ── Stage 2: candidate extras (slow, commits what it has) ──────────
+      - name: Enrich candidates
+        id: enrich
+        continue-on-error: true
+        timeout-minutes: 60
+        run: python scripts/enrich_candidates.py
+
+      - name: Commit candidate extras
+        if: always()
+        run: |
+          # Pull first in case Stage 1's commit raced with a manual push
+          git pull --rebase --autostash || true
+          git add data/candidate-extras.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No candidate-extras changes."
+          else
+            git diff --cached --stat
+            git commit -m "chore: refresh candidate extras"
+            git push
+          fi

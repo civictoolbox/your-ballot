@@ -63,6 +63,7 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 OUTPUT_PATH = DATA_DIR / "candidate-extras.json"
 INDEX_PATH = DATA_DIR / "elections-index.json"
 COUNCILS_DIR = DATA_DIR / "councils"
+PERSON_IDS_PATH = DATA_DIR / "ballot_person_ids.json"
 
 
 def extract_council_slug(ballot_paper_id: str) -> str:
@@ -369,12 +370,46 @@ def write_elections_browse_data(
     )
 
 
+def enrich_from_person_ids(person_ids: list[int]) -> dict:
+    """Fetch /people/ for each ID and build the extras map. Used by the fast
+    path when build_browse_data.py has already produced ballot_person_ids.json."""
+    extras: dict[str, dict] = {}
+    now_iso = datetime.now(timezone.utc).replace(microsecond=0).isoformat()
+    for i, pid in enumerate(person_ids, 1):
+        if i % 100 == 0:
+            log(f"  enriching {i}/{len(person_ids)} ({100 * i // len(person_ids)}%)")
+        person = fetch_person(pid)
+        time.sleep(INTER_REQUEST_SLEEP)
+        if not person:
+            continue
+        links = extract_links(person)
+        if links:
+            extras[str(pid)] = {
+                "name": person.get("name") or "",
+                "links": links,
+                "last_seen": now_iso,
+            }
+    log(f"Built extras for {len(extras)}/{len(person_ids)} candidates.")
+    return extras
+
+
 def main() -> int:
     start = time.time()
     log("Enrichment run starting.")
 
+    # Fast path: if build_browse_data.py already produced the person ID list,
+    # skip the slow ballot scan entirely and just enrich from those IDs.
+    use_fast_path = PERSON_IDS_PATH.exists()
+
     try:
-        extras, councils_wards, council_names = build_candidate_extras()
+        if use_fast_path:
+            data = json.loads(PERSON_IDS_PATH.read_text())
+            ids = data.get("person_ids") or []
+            log(f"Fast path: loaded {len(ids)} person IDs from {PERSON_IDS_PATH.name}.")
+            extras = enrich_from_person_ids(ids)
+        else:
+            log("No ballot_person_ids.json — falling back to full ballot scan.")
+            extras, councils_wards, council_names = build_candidate_extras()
     except KeyboardInterrupt:
         log("Interrupted.")
         return 130
@@ -383,7 +418,6 @@ def main() -> int:
         return 1
 
     # Write candidate-extras.json (used by the postcode lookup)
-    # (Browse data was already written mid-run inside build_candidate_extras.)
     output = {
         "_meta": {
             "election_date": ELECTION_DATE,
