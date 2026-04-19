@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "south-cambridgeshire",
     "council_name": "South Cambridgeshire"
   },
@@ -811,13 +811,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 20391,
-          "name": "Henry Batchelor",
+          "person_id": 12040,
+          "name": "John Batchelor",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 12040,
-          "name": "John Batchelor",
+          "person_id": 20391,
+          "name": "Henry Batchelor",
           "party_name": "Liberal Democrats"
         },
         {

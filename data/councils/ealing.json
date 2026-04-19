@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "ealing",
     "council_name": "Ealing"
   },
@@ -1119,14 +1119,14 @@
           "party_name": "Ealing Community Independents Party"
         },
         {
-          "person_id": 124297,
-          "name": "Craig Smith",
-          "party_name": "Ealing Community Independents Party"
-        },
-        {
           "person_id": 126245,
           "name": "Ruby Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 124297,
+          "name": "Craig Smith",
+          "party_name": "Ealing Community Independents Party"
         },
         {
           "person_id": 123463,

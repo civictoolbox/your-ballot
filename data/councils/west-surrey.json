@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "west-surrey",
     "council_name": "West Surrey"
   },
@@ -1647,13 +1647,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 131953,
-          "name": "Asbjorn Appleby",
+          "person_id": 131954,
+          "name": "Simon Trevor Appleby",
           "party_name": "Green Party"
         },
         {
-          "person_id": 131954,
-          "name": "Simon Trevor Appleby",
+          "person_id": 131953,
+          "name": "Asbjorn Appleby",
           "party_name": "Green Party"
         },
         {
@@ -2176,13 +2176,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 11708,
-          "name": "Sylvia Jane Whyte",
+          "person_id": 11678,
+          "name": "Don Whyte",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 11678,
-          "name": "Don Whyte",
+          "person_id": 11708,
+          "name": "Sylvia Jane Whyte",
           "party_name": "Liberal Democrats"
         }
       ]

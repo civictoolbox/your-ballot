@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "sheffield",
     "council_name": "Sheffield"
   },
@@ -382,14 +382,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 12299,
-          "name": "Martin Richard Smith",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133329,
           "name": "Nicola Smith",
           "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 12299,
+          "name": "Martin Richard Smith",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 82045,

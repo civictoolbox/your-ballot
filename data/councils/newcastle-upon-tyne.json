@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -433,13 +433,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 99024,
-          "name": "Margaret Donnelly",
+          "person_id": 11195,
+          "name": "Marc Donnelly",
           "party_name": "Independent"
         },
         {
-          "person_id": 11195,
-          "name": "Marc Donnelly",
+          "person_id": 99024,
+          "name": "Margaret Donnelly",
           "party_name": "Independent"
         },
         {
@@ -619,13 +619,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 37648,
-          "name": "Tracey Ann Mitchell",
+          "person_id": 38323,
+          "name": "Adam Lee Mitchell",
           "party_name": "Newcastle Independents"
         },
         {
-          "person_id": 38323,
-          "name": "Adam Lee Mitchell",
+          "person_id": 37648,
+          "name": "Tracey Ann Mitchell",
           "party_name": "Newcastle Independents"
         },
         {

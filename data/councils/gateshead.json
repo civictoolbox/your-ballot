@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "gateshead",
     "council_name": "Gateshead"
   },
@@ -121,13 +121,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 110692,
-          "name": "Joe William Kenneth Sowerby",
+          "person_id": 138365,
+          "name": "Lauran Sowerby",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 138365,
-          "name": "Lauran Sowerby",
+          "person_id": 110692,
+          "name": "Joe William Kenneth Sowerby",
           "party_name": "Liberal Democrats"
         },
         {
@@ -529,13 +529,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 139065,
-          "name": "Michaela McCaugherty",
+          "person_id": 139066,
+          "name": "Stephen McCaugherty",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 139066,
-          "name": "Stephen McCaugherty",
+          "person_id": 139065,
+          "name": "Michaela McCaugherty",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1292,13 +1292,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 139019,
-          "name": "Iona Brown",
+          "person_id": 139020,
+          "name": "Ruby Hazel Brown",
           "party_name": "Green Party"
         },
         {
-          "person_id": 139020,
-          "name": "Ruby Hazel Brown",
+          "person_id": 139019,
+          "name": "Iona Brown",
           "party_name": "Green Party"
         },
         {

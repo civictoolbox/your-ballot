@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -647,13 +647,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 129680,
-          "name": "Dagmara Wojtowicz",
+          "person_id": 129681,
+          "name": "Patryk Wojtowicz",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 129681,
-          "name": "Patryk Wojtowicz",
+          "person_id": 129680,
+          "name": "Dagmara Wojtowicz",
           "party_name": "Conservative and Unionist Party"
         }
       ]
@@ -685,14 +685,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 39574,
-          "name": "Paul Moore",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 129954,
           "name": "Dave Moore",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39574,
+          "name": "Paul Moore",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 129955,
@@ -826,13 +826,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130214,
-          "name": "James Deans",
+          "person_id": 96695,
+          "name": "Sarah Louise Deans",
           "party_name": "Green Party"
         },
         {
-          "person_id": 96695,
-          "name": "Sarah Louise Deans",
+          "person_id": 130214,
+          "name": "James Deans",
           "party_name": "Green Party"
         },
         {
@@ -1415,13 +1415,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 130237,
-          "name": "Krzysztof Misiewicz",
+          "person_id": 130236,
+          "name": "Anna Misiewicz",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130236,
-          "name": "Anna Misiewicz",
+          "person_id": 130237,
+          "name": "Krzysztof Misiewicz",
           "party_name": "Conservative and Unionist Party"
         },
         {

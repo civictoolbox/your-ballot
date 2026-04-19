@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "kingston-upon-thames",
     "council_name": "Kingston upon Thames"
   },
@@ -237,13 +237,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 41952,
-          "name": "Andreas Kirsch",
+          "person_id": 88716,
+          "name": "Griseldis Kirsch",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 88716,
-          "name": "Griseldis Kirsch",
+          "person_id": 41952,
+          "name": "Andreas Kirsch",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1236,13 +1236,13 @@
       "candidate_count": 18,
       "candidates": [
         {
-          "person_id": 137105,
-          "name": "Noel Edward Alex",
+          "person_id": 137104,
+          "name": "Jackie Alex",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137104,
-          "name": "Jackie Alex",
+          "person_id": 137105,
+          "name": "Noel Edward Alex",
           "party_name": "Reform UK"
         },
         {

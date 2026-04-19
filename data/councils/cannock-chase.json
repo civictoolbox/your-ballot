@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "cannock-chase",
     "council_name": "Cannock Chase"
   },
@@ -295,13 +295,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 126770,
-          "name": "Angela Rose Rushton",
+          "person_id": 126743,
+          "name": "Cameron John Rushton",
           "party_name": "Green Party"
         },
         {
-          "person_id": 126743,
-          "name": "Cameron John Rushton",
+          "person_id": 126770,
+          "name": "Angela Rose Rushton",
           "party_name": "Green Party"
         },
         {

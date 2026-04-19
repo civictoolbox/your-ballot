@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "barking-and-dagenham",
     "council_name": "Barking and Dagenham"
   },
@@ -547,14 +547,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 93837,
-          "name": "Abedin Kazi",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 126455,
           "name": "Nazrul Islam Kazi",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 93837,
+          "name": "Abedin Kazi",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 126419,

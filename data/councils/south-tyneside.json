@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T02:26:37+00:00",
+    "generated_at": "2026-04-19T07:56:43+00:00",
     "council_slug": "south-tyneside",
     "council_name": "South Tyneside"
   },
@@ -96,13 +96,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110112,
-          "name": "Terry Foggon",
+          "person_id": 131490,
+          "name": "Donna Foggon",
           "party_name": "Independent"
         },
         {
-          "person_id": 131490,
-          "name": "Donna Foggon",
+          "person_id": 110112,
+          "name": "Terry Foggon",
           "party_name": "Independent"
         },
         {
@@ -879,13 +879,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 81051,
-          "name": "David Kennedy",
+          "person_id": 138893,
+          "name": "Karen Kennedy",
           "party_name": "Independent"
         },
         {
-          "person_id": 138893,
-          "name": "Karen Kennedy",
+          "person_id": 81051,
+          "name": "David Kennedy",
           "party_name": "Independent"
         },
         {
