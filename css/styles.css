@@ -574,10 +574,27 @@ a:hover { text-decoration-thickness: 2px; }
   color: var(--accent);
   border-bottom-color: var(--accent);
 }
+.browse-link a + a {
+  margin-left: 1.25rem;
+}
 .browse-link a:focus-visible,
 .back-link:focus-visible {
   outline: 3px solid var(--accent);
   outline-offset: 3px;
+}
+
+/* ---------- Party row tweaks on parties.html ---------- */
+.party-row .council-name {
+  display: inline-flex;
+  align-items: center;
+  gap: .7rem;
+}
+.party-detail .ward .ward-name {
+  font-size: 1rem;
+  color: var(--ink-soft);
+  font-family: var(--sans);
+  font-weight: 600;
+  letter-spacing: 0;
 }
 
 /* ---------- Back link in eyebrow on all.html ---------- */

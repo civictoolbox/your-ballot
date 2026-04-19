@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="light only" />
+  <meta name="theme-color" content="#ffffff" />
+  <title>Candidates by party · Your Ballot</title>
+  <meta name="description" content="Every party standing a candidate on Thursday 7 May 2026, with candidate counts and the wards they're contesting." />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+  <!-- Canonical + Open Graph + Twitter -->
+  <link rel="canonical" href="https://civictoolbox.github.io/your-ballot/parties.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://civictoolbox.github.io/your-ballot/parties.html" />
+  <meta property="og:title" content="Candidates by party · Your Ballot" />
+  <meta property="og:description" content="Every party standing a candidate on Thursday 7 May 2026, with candidate counts and the wards they're contesting." />
+  <meta property="og:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale" content="en_GB" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Candidates by party · Your Ballot" />
+  <meta name="twitter:description" content="Every party standing a candidate on Thursday 7 May 2026." />
+  <meta name="twitter:image" content="https://civictoolbox.github.io/your-ballot/og-image.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter+Tight:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="css/styles.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "url": "https://civictoolbox.github.io/your-ballot/parties.html",
+    "name": "Candidates by party · Your Ballot",
+    "description": "Every party standing a candidate in the UK local elections on Thursday 7 May 2026.",
+    "inLanguage": "en-GB",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://civictoolbox.github.io/your-ballot/#website"
+    }
+  }
+  </script>
+</head>
+<body>
+  <a href="#main" class="skip-link">Skip to content</a>
+
+  <noscript>
+    <aside class="voter-id-banner" role="note" style="margin:1rem auto;max-width:1040px;">
+      <p>
+        <strong>This site needs JavaScript</strong> to list the parties.
+        If you can't enable JS, head straight to
+        <a href="https://whocanivotefor.co.uk/" rel="noopener">whocanivotefor.co.uk</a>
+        — Democracy Club's own tool — which works without JavaScript.
+      </p>
+    </aside>
+  </noscript>
+
+  <header class="site-header">
+    <div class="container">
+      <p class="eyebrow"><a href="./" class="back-link">← Your Ballot</a> &middot; Candidates by party</p>
+      <h1 class="site-title">By party</h1>
+      <p class="site-tagline" id="parties-tagline">
+        Every party standing a candidate on Thursday 7 May 2026.
+        Click a party to see every candidate they're standing, across every ward.
+      </p>
+    </div>
+  </header>
+
+  <main id="main" class="container">
+
+    <section class="search-section" aria-labelledby="search-heading">
+      <h2 id="search-heading" class="visually-hidden">Search parties</h2>
+      <label for="party-search" class="postcode-label">Search by party name</label>
+      <div class="postcode-row">
+        <input
+          id="party-search"
+          type="search"
+          inputmode="text"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="e.g. Labour, Green, Reform"
+        />
+      </div>
+      <p id="parties-summary" class="postcode-help" aria-live="polite">Loading parties…</p>
+    </section>
+
+    <section class="status-region" id="parties-status" aria-live="polite"></section>
+
+    <section id="party-list" class="council-list" aria-label="Parties list"></section>
+
+    <section id="no-match" class="no-election" hidden>
+      <h2>No parties match your search</h2>
+      <p>Try a different name or clear the search box to see all parties.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Candidate data from
+        <a href="https://candidates.democracyclub.org.uk/" rel="noopener">Democracy Club</a>.
+        Independent candidates do not represent a party; they are grouped together here for completeness.
+      </p>
+      <p class="disclaimer">
+        Candidate counts reflect candidacies (each candidate standing counts once per ward).
+        A single person standing in two wards would count twice.
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/parties.js" defer></script>
+</body>
+</html>
