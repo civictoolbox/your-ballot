@@ -538,6 +538,122 @@
     noElection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
+  const partyKeyFromName = (name) => partyKeyForCandidate({ party_name: name });
+
+  const renderCountyDivisionsInline = async (countySlug, container) => {
+    try {
+      const res = await fetch(`data/councils/${encodeURIComponent(countySlug)}.json`, { cache: 'default' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      const wards = (data.wards || []).slice().sort((a, b) =>
+        (a.ward_name || '').toLowerCase().localeCompare((b.ward_name || '').toLowerCase())
+      );
+      if (!wards.length) {
+        container.innerHTML = '<p class="status-msg">No division data available.</p>';
+        return;
+      }
+
+      container.innerHTML = `
+        <label for="division-search" class="postcode-label" style="margin-top:1.5rem;">
+          Or find your division here
+        </label>
+        <div class="postcode-row">
+          <input
+            id="division-search"
+            type="search"
+            inputmode="text"
+            autocomplete="off"
+            spellcheck="false"
+            placeholder="e.g. Chailey, Crowborough, Hailsham"
+          />
+        </div>
+        <p class="postcode-help">
+          ${wards.length} divisions across ${esc(data._meta?.council_name || countySlug)}.
+          Click a division to see its candidates.
+        </p>
+        <section class="council-list" id="division-list" aria-label="County divisions"></section>
+      `;
+
+      const listEl = container.querySelector('#division-list');
+      const searchInput = container.querySelector('#division-search');
+
+      const renderList = (filter) => {
+        const q = (filter || '').toLowerCase().trim();
+        const visible = q
+          ? wards.filter(w => (w.ward_name || '').toLowerCase().includes(q))
+          : wards;
+        if (!visible.length) {
+          listEl.innerHTML = '<p class="status-msg">No divisions match that search.</p>';
+          return;
+        }
+        listEl.innerHTML = visible.map(w => {
+          const seats = w.seats_contested || 1;
+          const nCand = (w.candidates || []).length;
+          return `
+            <article class="council-row" data-ward="${esc(w.ward_name)}">
+              <button class="council-toggle" type="button" aria-expanded="false">
+                <span class="council-name">${esc(w.ward_name)}</span>
+                <span class="council-meta">
+                  ${seats} ${seats === 1 ? 'seat' : 'seats'} &middot; ${nCand} ${nCand === 1 ? 'candidate' : 'candidates'}
+                </span>
+                <span class="council-chevron" aria-hidden="true">▸</span>
+              </button>
+              <div class="council-wards" hidden></div>
+            </article>`;
+        }).join('');
+
+        listEl.querySelectorAll('.council-toggle').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const row = btn.closest('.council-row');
+            const wardName = row?.dataset.ward;
+            const ward = wards.find(w => w.ward_name === wardName);
+            const detail = row.querySelector('.council-wards');
+            const isOpen = row.classList.contains('is-open');
+            if (isOpen) {
+              row.classList.remove('is-open');
+              btn.setAttribute('aria-expanded', 'false');
+              detail.hidden = true;
+            } else {
+              row.classList.add('is-open');
+              btn.setAttribute('aria-expanded', 'true');
+              detail.hidden = false;
+              if (!detail.dataset.rendered) {
+                const sorted = (ward.candidates || []).slice().sort((a, b) =>
+                  (a.name || '').split(' ').pop().toLowerCase()
+                    .localeCompare((b.name || '').split(' ').pop().toLowerCase())
+                );
+                detail.innerHTML = `
+                  <section class="ward">
+                    <ul class="candidate-list">
+                      ${sorted.map(c => {
+                        const colour = FALLBACK_COLOURS[partyKeyFromName(c.party_name)] || FALLBACK_COLOURS.other;
+                        const profile = c.person_id ? `candidate.html?id=${encodeURIComponent(c.person_id)}` : null;
+                        return `
+                          <li class="candidate-item">
+                            <span class="candidate-item-name">${profile ? `<a href="${esc(profile)}">${esc(c.name)}</a>` : esc(c.name)}</span>
+                            <span class="candidate-item-party">
+                              <span class="party-swatch" style="background:${colour}"></span>
+                              ${esc(c.party_name)}
+                            </span>
+                          </li>`;
+                      }).join('')}
+                    </ul>
+                  </section>`;
+                detail.dataset.rendered = '1';
+              }
+            }
+          });
+        });
+      };
+
+      renderList('');
+      searchInput.addEventListener('input', (e) => renderList(e.target.value));
+    } catch (e) {
+      console.error('Failed to load county divisions inline', e);
+      container.innerHTML = '<p class="status-msg">Could not load divisions inline — try the browse link above.</p>';
+    }
+  };
+
   const renderCountyOnlyElection = ({ district, ward, county, postcode }, ballotCount) => {
     results.hidden = true;
     partiesSec.hidden = true;
@@ -556,18 +672,19 @@
 
       <p>County elections use <em>electoral divisions</em> rather than the ward
       your postcode sits in, and a single postcode can cover more than one
-      division. To find your exact division and candidates, please use:</p>
+      division — so we can't auto-select your exact division from the postcode alone.</p>
 
-      <p class="browse-link" style="margin-top:1.25rem;">
-        <a href="https://whocanivotefor.co.uk/elections/${pcUrl}/" rel="noopener" target="_blank">
-          Who Can I Vote For? for ${esc(normalisePostcode(postcode))} →
-        </a>
-      </p>
-      <p class="browse-link">
-        <a href="all.html?council=${encodeURIComponent(countySlug)}">
-          Or browse all ${esc(county)} divisions →
-        </a>
+      <div id="county-divisions-inline"></div>
+
+      <p class="postcode-help" style="margin-top:2rem;">
+        Not sure which division is yours? Democracy Club's
+        <a href="https://whocanivotefor.co.uk/elections/${pcUrl}/" rel="noopener" target="_blank">Who Can I Vote For?</a>
+        picks it from your exact address.
       </p>`;
+
+    const inlineContainer = body.querySelector('#county-divisions-inline');
+    if (inlineContainer) renderCountyDivisionsInline(countySlug, inlineContainer);
+
     noElection.scrollIntoView({ behavior: 'smooth', block: 'start' });
   };
 
