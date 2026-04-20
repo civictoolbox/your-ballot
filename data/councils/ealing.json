@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "ealing",
     "council_name": "Ealing"
   },
@@ -176,14 +176,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 90537,
-          "name": "Md Main Uddin",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 128673,
           "name": "Mohd Mofiz Uddin",
           "party_name": "Rejoin EU"
+        },
+        {
+          "person_id": 90537,
+          "name": "Md Main Uddin",
+          "party_name": "Conservative and Unionist Party"
         }
       ]
     },
@@ -752,13 +752,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 109938,
-          "name": "Nazrul Islam",
+          "person_id": 84492,
+          "name": "Rafiq Islam",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 84492,
-          "name": "Rafiq Islam",
+          "person_id": 109938,
+          "name": "Nazrul Islam",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1021,13 +1021,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 38560,
-          "name": "Ray Wall",
+          "person_id": 38587,
+          "name": "Lauren Marie Wall",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 38587,
-          "name": "Lauren Marie Wall",
+          "person_id": 38560,
+          "name": "Ray Wall",
           "party_name": "Labour Party"
         },
         {

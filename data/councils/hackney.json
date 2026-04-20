@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "hackney",
     "council_name": "Hackney"
   },
@@ -1000,13 +1000,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 132275,
-          "name": "Andrzej Zolnierzak",
+          "person_id": 132276,
+          "name": "Iwona Zolnierzak",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 132276,
-          "name": "Iwona Zolnierzak",
+          "person_id": 132275,
+          "name": "Andrzej Zolnierzak",
           "party_name": "Conservative and Unionist Party"
         }
       ]
@@ -1043,13 +1043,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 41183,
-          "name": "Pamela Sills",
+          "person_id": 19510,
+          "name": "Christopher Sills",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 19510,
-          "name": "Christopher Sills",
+          "person_id": 41183,
+          "name": "Pamela Sills",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1159,13 +1159,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 132158,
-          "name": "Khuram Hussain",
+          "person_id": 132159,
+          "name": "Yousaf Khan Hussain",
           "party_name": "Independent"
         },
         {
-          "person_id": 132159,
-          "name": "Yousaf Khan Hussain",
+          "person_id": 132158,
+          "name": "Khuram Hussain",
           "party_name": "Independent"
         },
         {

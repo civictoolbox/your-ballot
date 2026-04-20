@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "rochdale",
     "council_name": "Rochdale"
   },
@@ -221,7 +221,7 @@
       "candidate_count": 6,
       "candidates": [
         {
-          "person_id": 132480,
+          "person_id": 10252,
           "name": "Iain Donaldson",
           "party_name": "Liberal Democrats"
         },

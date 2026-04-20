@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "west-surrey",
     "council_name": "West Surrey"
   },
@@ -1647,13 +1647,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 131954,
-          "name": "Simon Trevor Appleby",
+          "person_id": 131953,
+          "name": "Asbjorn Appleby",
           "party_name": "Green Party"
         },
         {
-          "person_id": 131953,
-          "name": "Asbjorn Appleby",
+          "person_id": 131954,
+          "name": "Simon Trevor Appleby",
           "party_name": "Green Party"
         },
         {
@@ -2010,13 +2010,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 81738,
-          "name": "Helen Elizabeth Couchman",
+          "person_id": 2235,
+          "name": "Paul Dennis Couchman",
           "party_name": "Trade Unionist and Socialist Coalition"
         },
         {
-          "person_id": 2235,
-          "name": "Paul Dennis Couchman",
+          "person_id": 81738,
+          "name": "Helen Elizabeth Couchman",
           "party_name": "Trade Unionist and Socialist Coalition"
         },
         {

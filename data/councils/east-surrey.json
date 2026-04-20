@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -318,13 +318,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 79472,
-          "name": "Steven John Gray",
+          "person_id": 79477,
+          "name": "Carolyn Ann Gray",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 79477,
-          "name": "Carolyn Ann Gray",
+          "person_id": 79472,
+          "name": "Steven John Gray",
           "party_name": "Labour Party"
         },
         {
@@ -1107,14 +1107,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125874,
-          "name": "Andrew Stevens",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 41037,
           "name": "Christian Stevens",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125874,
+          "name": "Andrew Stevens",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 102167,
@@ -1664,8 +1664,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 138335,
-          "name": "Victor Henry Lewanski",
+          "person_id": 40299,
+          "name": "Victor Lewanski",
           "party_name": "Independent"
         },
         {

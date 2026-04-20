@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "hillingdon",
     "council_name": "Hillingdon"
   },
@@ -343,14 +343,14 @@
       "candidate_count": 17,
       "candidates": [
         {
-          "person_id": 128258,
-          "name": "Omar Ali",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 94816,
           "name": "Hanna Ahmed Ali",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128258,
+          "name": "Omar Ali",
+          "party_name": "Independent"
         },
         {
           "person_id": 128260,
@@ -791,13 +791,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 128485,
-          "name": "Ulla Ingrid Elisabet Mallick",
+          "person_id": 128484,
+          "name": "Saghaer Ahmad Mallick",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128484,
-          "name": "Saghaer Ahmad Mallick",
+          "person_id": 128485,
+          "name": "Ulla Ingrid Elisabet Mallick",
           "party_name": "Liberal Democrats"
         },
         {
@@ -854,14 +854,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 128510,
-          "name": "Thessiver Hussain Nawaz",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 128509,
           "name": "Haq Nawaz",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 128510,
+          "name": "Thessiver Hussain Nawaz",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 128511,
@@ -1116,13 +1116,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128293,
-          "name": "Douglas Lewis",
+          "person_id": 128294,
+          "name": "Stephen Lewis",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 128294,
-          "name": "Stephen Lewis",
+          "person_id": 128293,
+          "name": "Douglas Lewis",
           "party_name": "Reform UK"
         },
         {

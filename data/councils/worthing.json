@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "worthing",
     "council_name": "Worthing"
   },
@@ -391,14 +391,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 12834,
-          "name": "Joe Thornton",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 135499,
           "name": "Katie Thornton",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 12834,
+          "name": "Joe Thornton",
+          "party_name": "Labour Party"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "east-sussex",
     "council_name": "East Sussex"
   },
@@ -421,7 +421,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132998,
+          "person_id": 49031,
           "name": "Marion Joyce Hughes",
           "party_name": "Liberal Democrats"
         },
@@ -774,7 +774,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 133102,
+          "person_id": 100977,
           "name": "Lorraine Janet Crawley",
           "party_name": "Reform UK"
         },
@@ -784,12 +784,12 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133104,
-          "name": "William Webb",
+          "person_id": 58940,
+          "name": "Bill Webb",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133117,
+          "person_id": 58056,
           "name": "Kevin West",
           "party_name": "Liberal Democrats"
         }
@@ -1223,8 +1223,8 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133145,
-          "name": "Richard John Turner",
+          "person_id": 58161,
+          "name": "Richard Turner",
           "party_name": "Conservative and Unionist Party"
         }
       ]

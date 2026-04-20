@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "hampshire",
     "council_name": "Hampshire"
   },
@@ -736,7 +736,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 131122,
+          "person_id": 127679,
           "name": "Chris Gibbs",
           "party_name": "Labour Party"
         },

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-19T07:56:43+00:00",
+    "generated_at": "2026-04-20T09:28:59+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -219,14 +219,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 123947,
-          "name": "Aleya Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 124162,
           "name": "Mohammed Delwar Hussain",
           "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 123947,
+          "name": "Aleya Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 124161,
@@ -591,14 +591,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137692,
-          "name": "Sanawar Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 137691,
           "name": "Kamal Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 137692,
+          "name": "Sanawar Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 137693,
@@ -1333,14 +1333,14 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 135146,
-          "name": "Mohammed Alam Begum",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 135148,
           "name": "Rubi Begum",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135146,
+          "name": "Mohammed Alam Begum",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 135149,
@@ -1368,13 +1368,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135153,
-          "name": "Tamzied Hossain Khan",
+          "person_id": 135152,
+          "name": "Obaid Khan",
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 135152,
-          "name": "Obaid Khan",
+          "person_id": 135153,
+          "name": "Tamzied Hossain Khan",
           "party_name": "Newham Independents Party"
         },
         {
