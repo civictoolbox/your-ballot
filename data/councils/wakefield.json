@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-20T09:28:59+00:00",
+    "generated_at": "2026-04-21T09:12:56+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -38,13 +38,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 125439,
-          "name": "Charles Patrick McKinney",
+          "person_id": 125440,
+          "name": "Yvette Amanda Dorothy McKinney",
           "party_name": "Green Party"
         },
         {
-          "person_id": 125440,
-          "name": "Yvette Amanda Dorothy McKinney",
+          "person_id": 125439,
+          "name": "Charles Patrick McKinney",
           "party_name": "Green Party"
         },
         {
@@ -53,13 +53,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 131316,
-          "name": "David Pointon",
+          "person_id": 76470,
+          "name": "Ayrton Pointon",
           "party_name": "Independent"
         },
         {
-          "person_id": 76470,
-          "name": "Ayrton Pointon",
+          "person_id": 131316,
+          "name": "David Pointon",
           "party_name": "Independent"
         },
         {
@@ -280,13 +280,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 5269,
-          "name": "Steven Ashton",
+          "person_id": 8548,
+          "name": "Penny Ashton",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 8548,
-          "name": "Penny Ashton",
+          "person_id": 5269,
+          "name": "Steven Ashton",
           "party_name": "Reform UK"
         },
         {

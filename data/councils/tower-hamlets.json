@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-20T09:28:59+00:00",
+    "generated_at": "2026-04-21T09:12:56+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -234,14 +234,14 @@
       "candidate_count": 20,
       "candidates": [
         {
-          "person_id": 132736,
-          "name": "Yeadhir Ahmed",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 132737,
           "name": "Zaheed Ahmed",
           "party_name": "Tower Hamlets Independents"
+        },
+        {
+          "person_id": 132736,
+          "name": "Yeadhir Ahmed",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 123972,
@@ -264,14 +264,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 95189,
-          "name": "Ahmodur Rahman Khan",
-          "party_name": "Aspire"
-        },
-        {
           "person_id": 132738,
           "name": "Idrees Khan",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95189,
+          "name": "Ahmodur Rahman Khan",
+          "party_name": "Aspire"
         },
         {
           "person_id": 132739,
@@ -1182,13 +1182,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42606,
-          "name": "Ana Miah",
+          "person_id": 42607,
+          "name": "Mohammad Harun Miah",
           "party_name": "Aspire"
         },
         {
-          "person_id": 42607,
-          "name": "Mohammad Harun Miah",
+          "person_id": 42606,
+          "name": "Ana Miah",
           "party_name": "Aspire"
         },
         {
@@ -1230,13 +1230,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 124534,
-          "name": "Faysal Ahmed",
+          "person_id": 43361,
+          "name": "Suluk Ahmed",
           "party_name": "Aspire"
         },
         {
-          "person_id": 43361,
-          "name": "Suluk Ahmed",
+          "person_id": 124534,
+          "name": "Faysal Ahmed",
           "party_name": "Aspire"
         },
         {
@@ -1328,14 +1328,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133156,
-          "name": "Mohammad Amirul Islam",
-          "party_name": "Tower Hamlets Independents"
-        },
-        {
           "person_id": 133157,
           "name": "Shafiq Islam",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 133156,
+          "name": "Mohammad Amirul Islam",
+          "party_name": "Tower Hamlets Independents"
         },
         {
           "person_id": 133158,
@@ -1542,14 +1542,14 @@
       "candidate_count": 14,
       "candidates": [
         {
-          "person_id": 133220,
-          "name": "Rakib Ahmed",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 83851,
           "name": "Kabir Ahmed",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 133220,
+          "name": "Rakib Ahmed",
+          "party_name": "Green Party"
         },
         {
           "person_id": 94680,
@@ -1620,14 +1620,14 @@
       "candidate_count": 22,
       "candidates": [
         {
-          "person_id": 39817,
-          "name": "Faroque Ahmed",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 36586,
           "name": "Shafi Ahmed",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 39817,
+          "name": "Faroque Ahmed",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 133252,

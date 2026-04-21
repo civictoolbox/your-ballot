@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-20T09:28:59+00:00",
+    "generated_at": "2026-04-21T09:12:56+00:00",
     "council_slug": "croydon",
     "council_name": "Croydon"
   },
@@ -210,7 +210,7 @@
         },
         {
           "person_id": 129270,
-          "name": "Mohana Mandharan",
+          "name": "Mohana Manoharan",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -326,7 +326,7 @@
         },
         {
           "person_id": 129296,
-          "name": "Coral Carroll",
+          "name": "Coral M. Carroll",
           "party_name": "Labour Party"
         },
         {
@@ -1416,13 +1416,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 42889,
-          "name": "Liz Bebington",
+          "person_id": 42888,
+          "name": "Andy Bebington",
           "party_name": "Green Party"
         },
         {
-          "person_id": 42888,
-          "name": "Andy Bebington",
+          "person_id": 42889,
+          "name": "Liz Bebington",
           "party_name": "Green Party"
         },
         {

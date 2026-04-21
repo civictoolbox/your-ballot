@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-20T09:28:59+00:00",
+    "generated_at": "2026-04-21T09:12:56+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -166,14 +166,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133318,
-          "name": "Richard John Wilson",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133317,
           "name": "Andy Wilson",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133318,
+          "name": "Richard John Wilson",
+          "party_name": "Liberal Democrats"
         }
       ]
     },
@@ -611,14 +611,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 126509,
-          "name": "Nicola Jane Turner",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 7742,
           "name": "Graham Turner",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 126509,
+          "name": "Nicola Jane Turner",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 75275,
@@ -898,13 +898,13 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 134912,
-          "name": "Tina Bamford",
+          "person_id": 73387,
+          "name": "Timothy Vincent Bamford",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 73387,
-          "name": "Timothy Vincent Bamford",
+          "person_id": 134912,
+          "name": "Tina Bamford",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -968,13 +968,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126658,
-          "name": "Viv Woodhead",
+          "person_id": 126656,
+          "name": "Edward Woodhead",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 126656,
-          "name": "Edward Woodhead",
+          "person_id": 126658,
+          "name": "Viv Woodhead",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -1433,13 +1433,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 75259,
-          "name": "Stephen James Long",
+          "person_id": 97900,
+          "name": "Gill Long",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 97900,
-          "name": "Gill Long",
+          "person_id": 75259,
+          "name": "Stephen James Long",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1521,13 +1521,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 136931,
-          "name": "Alex Green",
+          "person_id": 53057,
+          "name": "Chris Green",
           "party_name": "Green Party"
         },
         {
-          "person_id": 53057,
-          "name": "Chris Green",
+          "person_id": 136931,
+          "name": "Alex Green",
           "party_name": "Green Party"
         },
         {
@@ -1722,14 +1722,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 136476,
-          "name": "Jeremy Smith",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 8670,
           "name": "Richard Smith",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136476,
+          "name": "Jeremy Smith",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 53770,
@@ -1853,24 +1853,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133899,
-          "name": "Maya Elizabeth Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133898,
           "name": "Daniel Francis Michael Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133901,
-          "name": "George Mason Hall",
-          "party_name": "Labour Party"
+          "person_id": 133899,
+          "name": "Maya Elizabeth Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133900,
           "name": "David James Hall",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133901,
+          "name": "George Mason Hall",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 109864,
