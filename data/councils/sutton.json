@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "sutton",
     "council_name": "Sutton"
   },
@@ -697,13 +697,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 131758,
-          "name": "Dominic O'Shea",
+          "person_id": 131759,
+          "name": "Lucy O'Shea",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131759,
-          "name": "Lucy O'Shea",
+          "person_id": 131758,
+          "name": "Dominic O'Shea",
           "party_name": "Reform UK"
         },
         {
@@ -1444,13 +1444,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 48786,
-          "name": "Christopher Ellis Wortley",
+          "person_id": 48772,
+          "name": "Hilary Vaughan Wortley",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 48772,
-          "name": "Hilary Vaughan Wortley",
+          "person_id": 48786,
+          "name": "Christopher Ellis Wortley",
           "party_name": "Conservative and Unionist Party"
         }
       ]

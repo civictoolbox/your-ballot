@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -318,13 +318,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 79477,
-          "name": "Carolyn Ann Gray",
+          "person_id": 79472,
+          "name": "Steven John Gray",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 79472,
-          "name": "Steven John Gray",
+          "person_id": 79477,
+          "name": "Carolyn Ann Gray",
           "party_name": "Labour Party"
         },
         {
@@ -729,14 +729,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 17024,
-          "name": "Alex Coomes",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 90040,
           "name": "Sarah Coomes",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 17024,
+          "name": "Alex Coomes",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 42914,
@@ -928,7 +928,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137904,
+          "person_id": 72647,
           "name": "Roben Colin Franklin",
           "party_name": "Liberal Democrats"
         },
@@ -1107,14 +1107,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125874,
-          "name": "Andrew Stevens",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 41037,
           "name": "Christian Stevens",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125874,
+          "name": "Andrew Stevens",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 102167,
@@ -1392,13 +1392,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 112034,
-          "name": "Adrian Freeman",
+          "person_id": 92537,
+          "name": "Pamela Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 92537,
-          "name": "Pamela Freeman",
+          "person_id": 112034,
+          "name": "Adrian Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1407,7 +1407,7 @@
           "party_name": "Nork & Tattenhams Residents' Associations"
         },
         {
-          "person_id": 125877,
+          "person_id": 102158,
           "name": "Lexi Lawrence",
           "party_name": "Liberal Democrats"
         },
@@ -1518,7 +1518,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 125879,
+          "person_id": 79502,
           "name": "Martin Elbourne",
           "party_name": "Liberal Democrats"
         },
@@ -1853,8 +1853,8 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 138292,
-          "name": "Gregor MacGregor",
+          "person_id": 102133,
+          "name": "Gregor Macgregor",
           "party_name": "Independent"
         },
         {
@@ -2002,13 +2002,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 137743,
-          "name": "Simon Chambers",
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137742,
-          "name": "Sarah Jane Chambers",
+          "person_id": 137743,
+          "name": "Simon Chambers",
           "party_name": "Reform UK"
         },
         {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "haringey",
     "council_name": "Haringey"
   },
@@ -257,13 +257,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 136386,
-          "name": "Jeanne Dorothy Sherwood",
+          "person_id": 39519,
+          "name": "Julian Alexander James Sherwood",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 39519,
-          "name": "Julian Alexander James Sherwood",
+          "person_id": 136386,
+          "name": "Jeanne Dorothy Sherwood",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1280,7 +1280,7 @@
         },
         {
           "person_id": 124317,
-          "name": "Hannah Elizabeth Ward",
+          "name": "Hannah Ward",
           "party_name": "Green Party"
         },
         {

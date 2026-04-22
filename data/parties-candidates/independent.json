@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1213,
@@ -1283,16 +1283,16 @@
       "ward_name": "Keighley Central"
     },
     {
-      "person_id": 132278,
-      "name": "Shabana Bashir",
+      "person_id": 75594,
+      "name": "Aleem Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Heaton & Frizinghall"
     },
     {
-      "person_id": 75594,
-      "name": "Aleem Bashir",
+      "person_id": 132278,
+      "name": "Shabana Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -4139,7 +4139,7 @@
       "ward_name": "Levenshulme"
     },
     {
-      "person_id": 130327,
+      "person_id": 15326,
       "name": "Jamie Hodgkinson",
       "party_name": "Independent Network",
       "council_slug": "wigan",
@@ -4483,16 +4483,16 @@
       "ward_name": "Great Horton"
     },
     {
-      "person_id": 110875,
-      "name": "Sharat Hussain",
+      "person_id": 131817,
+      "name": "Arshad Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Toller"
     },
     {
-      "person_id": 131817,
-      "name": "Arshad Hussain",
+      "person_id": 110875,
+      "name": "Sharat Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -4507,16 +4507,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -4587,16 +4587,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 135922,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 135922,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -5411,16 +5411,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 135153,
-      "name": "Tamzied Hossain Khan",
+      "person_id": 135152,
+      "name": "Obaid Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Plaistow South"
     },
     {
-      "person_id": 135152,
-      "name": "Obaid Khan",
+      "person_id": 135153,
+      "name": "Tamzied Hossain Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -5875,8 +5875,8 @@
       "ward_name": "Mersey & Weston"
     },
     {
-      "person_id": 138292,
-      "name": "Gregor MacGregor",
+      "person_id": 102133,
+      "name": "Gregor Macgregor",
       "party_name": "Independent",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -6379,16 +6379,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 37648,
-      "name": "Tracey Ann Mitchell",
+      "person_id": 38323,
+      "name": "Adam Lee Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Denton & Westerhope"
     },
     {
-      "person_id": 38323,
-      "name": "Adam Lee Mitchell",
+      "person_id": 37648,
+      "name": "Tracey Ann Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -7211,8 +7211,8 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
-      "person_id": 132009,
-      "name": "Safvan Patel",
+      "person_id": 132007,
+      "name": "Altaf Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7227,8 +7227,8 @@
       "ward_name": "Wensley Fold"
     },
     {
-      "person_id": 132007,
-      "name": "Altaf Patel",
+      "person_id": 132009,
+      "name": "Safvan Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7371,16 +7371,16 @@
       "ward_name": "Northfield"
     },
     {
-      "person_id": 76470,
-      "name": "Ayrton Pointon",
+      "person_id": 131316,
+      "name": "David Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
       "ward_name": "Ackworth, North Elmsall & Upton"
     },
     {
-      "person_id": 131316,
-      "name": "David Pointon",
+      "person_id": 76470,
+      "name": "Ayrton Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",

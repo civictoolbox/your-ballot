@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "party_key": "reform",
     "display_name": "Reform UK",
     "candidate_count": 4814,
@@ -4675,7 +4675,7 @@
       "ward_name": "Chiswick Homefields"
     },
     {
-      "person_id": 129044,
+      "person_id": 70217,
       "name": "Tony Brown",
       "party_name": "Reform UK",
       "council_slug": "hounslow",
@@ -6107,16 +6107,16 @@
       "ward_name": "Lydiate & Maghull West"
     },
     {
-      "person_id": 137743,
-      "name": "Simon Chambers",
+      "person_id": 137742,
+      "name": "Sarah Jane Chambers",
       "party_name": "Reform UK",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
       "ward_name": "West Ewell"
     },
     {
-      "person_id": 137742,
-      "name": "Sarah Jane Chambers",
+      "person_id": 137743,
+      "name": "Simon Chambers",
       "party_name": "Reform UK",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -7603,16 +7603,16 @@
       "ward_name": "Kingstone"
     },
     {
-      "person_id": 135348,
-      "name": "Christian Corkish",
+      "person_id": 135349,
+      "name": "Irena Corkish",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
       "ward_name": "Warley"
     },
     {
-      "person_id": 135349,
-      "name": "Irena Corkish",
+      "person_id": 135348,
+      "name": "Christian Corkish",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
@@ -7699,8 +7699,8 @@
       "ward_name": "Norwood"
     },
     {
-      "person_id": 131039,
-      "name": "Martin Paul Costello",
+      "person_id": 35065,
+      "name": "Martin Costello",
       "party_name": "Reform UK",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -12499,16 +12499,16 @@
       "ward_name": "Gloucester Park"
     },
     {
-      "person_id": 134076,
-      "name": "John Paul Gardner",
+      "person_id": 134077,
+      "name": "Mark Gardner",
       "party_name": "Reform UK",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Manor Park"
     },
     {
-      "person_id": 134077,
-      "name": "Mark Gardner",
+      "person_id": 134076,
+      "name": "John Paul Gardner",
       "party_name": "Reform UK",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -19595,16 +19595,16 @@
       "ward_name": "West Twickenham"
     },
     {
-      "person_id": 134644,
-      "name": "Zbigniew Kowalczyk",
+      "person_id": 134637,
+      "name": "Jane Elizabeth Kowalczyk",
       "party_name": "Reform UK",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Pinner"
     },
     {
-      "person_id": 134637,
-      "name": "Jane Elizabeth Kowalczyk",
+      "person_id": 134644,
+      "name": "Zbigniew Kowalczyk",
       "party_name": "Reform UK",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -20484,7 +20484,7 @@
     },
     {
       "person_id": 130881,
-      "name": "Sarah Letissier",
+      "name": "Sarah LeTissier",
       "party_name": "Reform UK",
       "council_slug": "crawley",
       "council_name": "Crawley",
@@ -20948,7 +20948,7 @@
     },
     {
       "person_id": 136062,
-      "name": "Reuben Burns Loake",
+      "name": "Reuben Loake",
       "party_name": "Reform UK",
       "council_slug": "isle-of-wight",
       "council_name": "Isle of Wight",
@@ -25691,16 +25691,16 @@
       "ward_name": "Sparkhill"
     },
     {
-      "person_id": 131758,
-      "name": "Dominic O'Shea",
+      "person_id": 131759,
+      "name": "Lucy O'Shea",
       "party_name": "Reform UK",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 131759,
-      "name": "Lucy O'Shea",
+      "person_id": 131758,
+      "name": "Dominic O'Shea",
       "party_name": "Reform UK",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -27723,16 +27723,16 @@
       "ward_name": "Romsey Town"
     },
     {
-      "person_id": 136756,
-      "name": "Ozlem Polat",
+      "person_id": 136755,
+      "name": "Ismail Polat",
       "party_name": "Reform UK",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Brimsdown"
     },
     {
-      "person_id": 136755,
-      "name": "Ismail Polat",
+      "person_id": 136756,
+      "name": "Ozlem Polat",
       "party_name": "Reform UK",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -29883,16 +29883,16 @@
       "ward_name": "Brook Green"
     },
     {
-      "person_id": 129579,
-      "name": "Millie Rook",
+      "person_id": 129578,
+      "name": "Melvyn Rook",
       "party_name": "Reform UK",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Bletchley West"
     },
     {
-      "person_id": 129578,
-      "name": "Melvyn Rook",
+      "person_id": 129579,
+      "name": "Millie Rook",
       "party_name": "Reform UK",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -33724,7 +33724,7 @@
     },
     {
       "person_id": 126074,
-      "name": "Colin David McLean Sutton",
+      "name": "Colin Sutton",
       "party_name": "Reform UK",
       "council_slug": "norfolk",
       "council_name": "Norfolk",
@@ -34292,7 +34292,7 @@
     },
     {
       "person_id": 130328,
-      "name": "Nigel Taylor",
+      "name": "Nigel W Taylor",
       "party_name": "Reform UK",
       "council_slug": "wigan",
       "council_name": "Wigan",
@@ -37963,7 +37963,7 @@
       "ward_name": "Reigate"
     },
     {
-      "person_id": 136259,
+      "person_id": 90598,
       "name": "Lee Wolf",
       "party_name": "Reform UK",
       "council_slug": "rochdale",

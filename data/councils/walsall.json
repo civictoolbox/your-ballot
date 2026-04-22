@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -257,14 +257,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135341,
-          "name": "Louis Gill",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 94331,
           "name": "Manju Gill",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135341,
+          "name": "Louis Gill",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 135342,
@@ -282,13 +282,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135345,
-          "name": "Kaiser Majeed",
+          "person_id": 135344,
+          "name": "Faisal Majeed",
           "party_name": "Green Party"
         },
         {
-          "person_id": 135344,
-          "name": "Faisal Majeed",
+          "person_id": 135345,
+          "name": "Kaiser Majeed",
           "party_name": "Green Party"
         },
         {
@@ -355,13 +355,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 52081,
-          "name": "Corin Ann Statham",
+          "person_id": 13386,
+          "name": "Mark Andrew Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 13386,
-          "name": "Mark Andrew Statham",
+          "person_id": 52081,
+          "name": "Corin Ann Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -642,13 +642,13 @@
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135908,
-          "name": "Susan Langford",
+          "person_id": 135907,
+          "name": "Stephen John Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135907,
-          "name": "Stephen John Langford",
+          "person_id": 135908,
+          "name": "Susan Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -783,13 +783,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112815,
-          "name": "Dean Margetts",
+          "person_id": 112845,
+          "name": "Klara Margetts",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112845,
-          "name": "Klara Margetts",
+          "person_id": 112815,
+          "name": "Dean Margetts",
           "party_name": "Labour Party"
         },
         {
@@ -1115,13 +1115,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135921,
-          "name": "Basharat Hussain",
+          "person_id": 135922,
+          "name": "Khizar Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135922,
-          "name": "Khizar Hussain",
+          "person_id": 135921,
+          "name": "Basharat Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -1150,14 +1150,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135927,
-          "name": "Salek Miah",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 135926,
           "name": "Muhammad Khosru Miah",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135927,
+          "name": "Salek Miah",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 135928,

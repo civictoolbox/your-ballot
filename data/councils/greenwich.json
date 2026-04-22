@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "greenwich",
     "council_name": "Greenwich"
   },
@@ -48,13 +48,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42639,
-          "name": "Thomas Headon",
+          "person_id": 127807,
+          "name": "Finbarr Dominic Headon",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 127807,
-          "name": "Finbarr Dominic Headon",
+          "person_id": 42639,
+          "name": "Thomas Headon",
           "party_name": "Liberal Democrats"
         },
         {
@@ -685,14 +685,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 43066,
-          "name": "Aidan Smith",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 90126,
           "name": "Stacy Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 43066,
+          "name": "Aidan Smith",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 90127,
@@ -821,14 +821,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42752,
-          "name": "Malcolm Reid",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 89754,
           "name": "Donald Reid",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 42752,
+          "name": "Malcolm Reid",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 127979,

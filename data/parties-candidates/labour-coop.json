@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "party_key": "labour-coop",
     "display_name": "Labour and Co-operative Party",
     "candidate_count": 673,
@@ -347,7 +347,7 @@
       "ward_name": "Blackbird Leys"
     },
     {
-      "person_id": 135367,
+      "person_id": 12477,
       "name": "Mohammad Arshad",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "rochdale",
@@ -2475,7 +2475,7 @@
       "ward_name": "North Greenford"
     },
     {
-      "person_id": 129757,
+      "person_id": 92138,
       "name": "Mohammed Amirul Islam",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "croydon",
@@ -2563,16 +2563,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 9036,
-      "name": "Marion Kadewere",
+      "person_id": 9040,
+      "name": "Patrick Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
       "ward_name": "Huntingdon North"
     },
     {
-      "person_id": 9040,
-      "name": "Patrick Kadewere",
+      "person_id": 9036,
+      "name": "Marion Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
@@ -3875,16 +3875,16 @@
       "ward_name": "Dalgarno"
     },
     {
-      "person_id": 35684,
-      "name": "Paul Simon Preston",
+      "person_id": 124942,
+      "name": "Rachel Marie Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Bartley Green"
     },
     {
-      "person_id": 124942,
-      "name": "Rachel Marie Preston",
+      "person_id": 35684,
+      "name": "Paul Simon Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -4395,16 +4395,16 @@
       "ward_name": "Perry Vale"
     },
     {
-      "person_id": 110021,
-      "name": "Simon John Shelley",
+      "person_id": 40405,
+      "name": "Carol Hannah Shelley",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "St Andrews East"
     },
     {
-      "person_id": 40405,
-      "name": "Carol Hannah Shelley",
+      "person_id": 110021,
+      "name": "Simon John Shelley",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",

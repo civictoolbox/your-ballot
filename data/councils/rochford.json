@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "rochford",
     "council_name": "Rochford"
   },
@@ -474,14 +474,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127215,
-          "name": "Roy Williams",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 9862,
           "name": "Victoria Mary Williams",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 127215,
+          "name": "Roy Williams",
+          "party_name": "Green Party"
         }
       ]
     }

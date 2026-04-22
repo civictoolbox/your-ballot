@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "wandsworth",
     "council_name": "Wandsworth"
   },
@@ -1372,13 +1372,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 36354,
-          "name": "Angela Graham",
+          "person_id": 36362,
+          "name": "Peter Graham",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 36362,
-          "name": "Peter Graham",
+          "person_id": 36354,
+          "name": "Angela Graham",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1641,14 +1641,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 132698,
-          "name": "Timothy David Hamilton Thomas",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 132697,
           "name": "Sarah Alexandra Thomas",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 132698,
+          "name": "Timothy David Hamilton Thomas",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 132699,

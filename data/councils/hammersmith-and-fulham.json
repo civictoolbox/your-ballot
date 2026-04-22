@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "hammersmith-and-fulham",
     "council_name": "Hammersmith and Fulham"
   },
@@ -812,14 +812,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 46738,
-          "name": "Alexander Trayton Baker",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 135361,
           "name": "Cath Baker",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 46738,
+          "name": "Alexander Trayton Baker",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 34619,

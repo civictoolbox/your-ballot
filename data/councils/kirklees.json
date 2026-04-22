@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -166,14 +166,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133317,
-          "name": "Andy Wilson",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 133318,
           "name": "Richard John Wilson",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133317,
+          "name": "Andy Wilson",
+          "party_name": "Conservative and Unionist Party"
         }
       ]
     },
@@ -1041,14 +1041,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 6361,
-          "name": "Ednan Hussain",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 134134,
           "name": "Karam Hussain",
           "party_name": "Community Alliance Kirklees"
+        },
+        {
+          "person_id": 6361,
+          "name": "Ednan Hussain",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 134135,
@@ -1197,14 +1197,14 @@
       "candidate_count": 18,
       "candidates": [
         {
-          "person_id": 36816,
-          "name": "Waheed Anwar",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 135823,
           "name": "Ammar Anwar",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 36816,
+          "name": "Waheed Anwar",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 135824,
@@ -1433,13 +1433,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 97900,
-          "name": "Gill Long",
+          "person_id": 75259,
+          "name": "Stephen James Long",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 75259,
-          "name": "Stephen James Long",
+          "person_id": 97900,
+          "name": "Gill Long",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1521,13 +1521,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 53057,
-          "name": "Chris Green",
+          "person_id": 136931,
+          "name": "Alex Green",
           "party_name": "Green Party"
         },
         {
-          "person_id": 136931,
-          "name": "Alex Green",
+          "person_id": 53057,
+          "name": "Chris Green",
           "party_name": "Green Party"
         },
         {
@@ -1722,14 +1722,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 8670,
-          "name": "Richard Smith",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 136476,
           "name": "Jeremy Smith",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 8670,
+          "name": "Richard Smith",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 53770,

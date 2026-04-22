@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "trafford",
     "council_name": "Trafford"
   },
@@ -28,7 +28,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128170,
+          "person_id": 100454,
           "name": "Mark Nesbitt",
           "party_name": "Labour Party"
         },
@@ -384,7 +384,7 @@
         },
         {
           "person_id": 128574,
-          "name": "Centaine Wendy Parker",
+          "name": "Centaine Parker",
           "party_name": "Green Party"
         },
         {
@@ -643,7 +643,7 @@
       "candidates": [
         {
           "person_id": 110518,
-          "name": "James William Brooke-Taylor",
+          "name": "James Brooke-Taylor",
           "party_name": "Green Party"
         },
         {

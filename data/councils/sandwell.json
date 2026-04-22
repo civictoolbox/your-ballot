@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -1264,14 +1264,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 81943,
-          "name": "Parbinder Kaur",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 130160,
           "name": "Simran Kaur",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81943,
+          "name": "Parbinder Kaur",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 87499,
@@ -1357,14 +1357,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130345,
-          "name": "Les Smith",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130346,
           "name": "Stefan Joseph Gareth Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 130345,
+          "name": "Les Smith",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 74257,
@@ -1415,13 +1415,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 130237,
-          "name": "Krzysztof Misiewicz",
+          "person_id": 130236,
+          "name": "Anna Misiewicz",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130236,
-          "name": "Anna Misiewicz",
+          "person_id": 130237,
+          "name": "Krzysztof Misiewicz",
           "party_name": "Conservative and Unionist Party"
         },
         {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "swindon",
     "council_name": "Swindon"
   },
@@ -23,8 +23,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 131039,
-          "name": "Martin Paul Costello",
+          "person_id": 35065,
+          "name": "Martin Costello",
           "party_name": "Reform UK"
         },
         {
@@ -38,13 +38,13 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 40463,
-          "name": "Zachary Jay Hawson",
+          "person_id": 131040,
+          "name": "Sally Ann Hawson",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131040,
-          "name": "Sally Ann Hawson",
+          "person_id": 40463,
+          "name": "Zachary Jay Hawson",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -230,13 +230,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 40192,
-          "name": "Kevin Parry",
+          "person_id": 16517,
+          "name": "Barbara Parry",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 16517,
-          "name": "Barbara Parry",
+          "person_id": 40192,
+          "name": "Kevin Parry",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1153,13 +1153,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 110021,
-          "name": "Simon John Shelley",
+          "person_id": 40405,
+          "name": "Carol Hannah Shelley",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 40405,
-          "name": "Carol Hannah Shelley",
+          "person_id": 110021,
+          "name": "Simon John Shelley",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -1239,13 +1239,13 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 90413,
-          "name": "Ola Ibitoye",
+          "person_id": 16545,
+          "name": "David-Oladapo Ibitoye",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 16545,
-          "name": "David-Oladapo Ibitoye",
+          "person_id": 90413,
+          "name": "Ola Ibitoye",
           "party_name": "Conservative and Unionist Party"
         },
         {

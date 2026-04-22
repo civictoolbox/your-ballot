@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-21T09:12:56+00:00",
+    "generated_at": "2026-04-22T09:07:03+00:00",
     "council_slug": "richmond-upon-thames",
     "council_name": "Richmond upon Thames"
   },
@@ -267,7 +267,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 134209,
+          "person_id": 36594,
           "name": "Seamus Joyce",
           "party_name": "Liberal Democrats"
         },
@@ -1019,14 +1019,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133446,
-          "name": "Jack Clothier Jones",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133449,
           "name": "Gareth Jones",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 133446,
+          "name": "Jack Clothier Jones",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 91744,
