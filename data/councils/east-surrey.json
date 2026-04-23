@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -729,14 +729,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 90040,
-          "name": "Sarah Coomes",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 17024,
           "name": "Alex Coomes",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90040,
+          "name": "Sarah Coomes",
+          "party_name": "Green Party"
         },
         {
           "person_id": 42914,
@@ -1392,13 +1392,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 92537,
-          "name": "Pamela Freeman",
+          "person_id": 112034,
+          "name": "Adrian Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 112034,
-          "name": "Adrian Freeman",
+          "person_id": 92537,
+          "name": "Pamela Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1649,8 +1649,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 18598,
-          "name": "Paul Martin Ingram",
+          "person_id": 48157,
+          "name": "Paul Ingram",
           "party_name": "Green Party"
         },
         {
@@ -2002,13 +2002,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 137742,
-          "name": "Sarah Jane Chambers",
+          "person_id": 137743,
+          "name": "Simon Chambers",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137743,
-          "name": "Simon Chambers",
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
           "party_name": "Reform UK"
         },
         {

@@ -1,12 +1,12 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
-    "ward_count": 2966,
-    "candidate_count": 25017,
-    "seat_count": 5059
+    "ward_count": 2965,
+    "candidate_count": 25012,
+    "seat_count": 5058
   },
   "councils": [
     {
@@ -1117,9 +1117,9 @@
     {
       "slug": "essex",
       "name": "Essex",
-      "ward_count": 78,
-      "candidate_count": 432,
-      "seat_count": 78,
+      "ward_count": 77,
+      "candidate_count": 427,
+      "seat_count": 77,
       "wards": [
         "Billericay North",
         "Bocking",
@@ -1139,7 +1139,6 @@
         "Chelmer",
         "Chelmsford Central",
         "Chelmsford North",
-        "Chelmsford Springfield",
         "Chelmsford West",
         "Chigwell & Buckhurst Hill East",
         "Clacton North",

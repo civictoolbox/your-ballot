@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "hackney",
     "council_name": "Hackney"
   },
@@ -1159,13 +1159,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 132158,
-          "name": "Khuram Hussain",
+          "person_id": 132159,
+          "name": "Yousaf Khan Hussain",
           "party_name": "Independent"
         },
         {
-          "person_id": 132159,
-          "name": "Yousaf Khan Hussain",
+          "person_id": 132158,
+          "name": "Khuram Hussain",
           "party_name": "Independent"
         },
         {

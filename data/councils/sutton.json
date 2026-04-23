@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "sutton",
     "council_name": "Sutton"
   },
@@ -672,13 +672,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 126044,
-          "name": "Andy Acton",
+          "person_id": 126491,
+          "name": "Dylan Acton",
           "party_name": "Green Party"
         },
         {
-          "person_id": 126491,
-          "name": "Dylan Acton",
+          "person_id": 126044,
+          "name": "Andy Acton",
           "party_name": "Green Party"
         },
         {

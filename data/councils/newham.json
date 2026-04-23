@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -23,14 +23,14 @@
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 138469,
-          "name": "Mohammed Mashud Ahmed",
-          "party_name": "Newham Independents Party"
-        },
-        {
           "person_id": 138470,
           "name": "Syed Ahmed",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138469,
+          "name": "Mohammed Mashud Ahmed",
+          "party_name": "Newham Independents Party"
         },
         {
           "person_id": 93869,
@@ -219,14 +219,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 124162,
-          "name": "Mohammed Delwar Hussain",
-          "party_name": "Newham Independents Party"
-        },
-        {
           "person_id": 123947,
           "name": "Aleya Hussain",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 124162,
+          "name": "Mohammed Delwar Hussain",
+          "party_name": "Newham Independents Party"
         },
         {
           "person_id": 124161,
@@ -249,13 +249,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137009,
-          "name": "Precious Nkire",
+          "person_id": 137008,
+          "name": "Goodness Nkire",
           "party_name": "Christian Peoples Alliance"
         },
         {
-          "person_id": 137008,
-          "name": "Goodness Nkire",
+          "person_id": 137009,
+          "name": "Precious Nkire",
           "party_name": "Christian Peoples Alliance"
         },
         {
@@ -591,14 +591,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137692,
-          "name": "Sanawar Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 137691,
           "name": "Kamal Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 137692,
+          "name": "Sanawar Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 137693,
@@ -865,14 +865,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 93579,
-          "name": "Miraj Patel",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 48050,
           "name": "Kirankumar Ramanbhai Patel",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93579,
+          "name": "Miraj Patel",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 93841,
@@ -1250,14 +1250,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 45605,
-          "name": "Zulfiqar Ali",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 138371,
           "name": "Nizam Ali",
           "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 45605,
+          "name": "Zulfiqar Ali",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 123822,
@@ -1333,14 +1333,14 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 135148,
-          "name": "Rubi Begum",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 135146,
           "name": "Mohammed Alam Begum",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135148,
+          "name": "Rubi Begum",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 135149,

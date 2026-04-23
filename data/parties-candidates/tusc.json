@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "party_key": "tusc",
     "display_name": "Trade Unionist and Socialist Coalition",
     "candidate_count": 286,
@@ -379,16 +379,16 @@
       "ward_name": "Ryton, Crookhill & Stella"
     },
     {
-      "person_id": 81738,
-      "name": "Helen Elizabeth Couchman",
+      "person_id": 2235,
+      "name": "Paul Dennis Couchman",
       "party_name": "Trade Unionist and Socialist Coalition",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
       "ward_name": "Sunbury Common & Ashford Common"
     },
     {
-      "person_id": 2235,
-      "name": "Paul Dennis Couchman",
+      "person_id": 81738,
+      "name": "Helen Elizabeth Couchman",
       "party_name": "Trade Unionist and Socialist Coalition",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
@@ -491,7 +491,7 @@
       "ward_name": "Bethnal Green East"
     },
     {
-      "person_id": 127011,
+      "person_id": 139135,
       "name": "Nick Davies",
       "party_name": "Trade Unionist and Socialist Coalition",
       "council_slug": "haringey",

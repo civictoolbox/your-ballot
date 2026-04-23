@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "essex",
     "council_name": "Essex"
   },
@@ -626,39 +626,6 @@
         {
           "person_id": 90526,
           "name": "Stacy Seales",
-          "party_name": "Conservative and Unionist Party"
-        }
-      ]
-    },
-    {
-      "ward_name": "Chelmsford Springfield",
-      "ballot_paper_id": "local.essex.chelmsford-springfield.2026-05-07",
-      "seats_contested": 1,
-      "candidate_count": 5,
-      "candidates": [
-        {
-          "person_id": 107640,
-          "name": "Adam Kenningham-Brown",
-          "party_name": "Labour Party"
-        },
-        {
-          "person_id": 24470,
-          "name": "Mike MacKrory",
-          "party_name": "Liberal Democrats"
-        },
-        {
-          "person_id": 132521,
-          "name": "Chris Rees",
-          "party_name": "Green Party"
-        },
-        {
-          "person_id": 132522,
-          "name": "Tomy Sebastian",
-          "party_name": "Reform UK"
-        },
-        {
-          "person_id": 126701,
-          "name": "David John Wilkinson",
           "party_name": "Conservative and Unionist Party"
         }
       ]

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "swindon",
     "council_name": "Swindon"
   },
@@ -38,13 +38,13 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 131040,
-          "name": "Sally Ann Hawson",
+          "person_id": 40463,
+          "name": "Zachary Jay Hawson",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 40463,
-          "name": "Zachary Jay Hawson",
+          "person_id": 131040,
+          "name": "Sally Ann Hawson",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -505,13 +505,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 40225,
-          "name": "Roger Arthur Smith",
+          "person_id": 130844,
+          "name": "Tom Smith",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130844,
-          "name": "Tom Smith",
+          "person_id": 40225,
+          "name": "Roger Arthur Smith",
           "party_name": "Conservative and Unionist Party"
         }
       ]
@@ -636,13 +636,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 131239,
-          "name": "Mark William Lewis",
+          "person_id": 131238,
+          "name": "Beverley Jane Lewis",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131238,
-          "name": "Beverley Jane Lewis",
+          "person_id": 131239,
+          "name": "Mark William Lewis",
           "party_name": "Reform UK"
         },
         {
@@ -1042,8 +1042,8 @@
       "candidate_count": 12,
       "candidates": [
         {
-          "person_id": 38194,
-          "name": "Mathew Robert Barnes",
+          "person_id": 139136,
+          "name": "Matt Barnes",
           "party_name": "Green Party"
         },
         {
@@ -1153,13 +1153,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 40405,
-          "name": "Carol Hannah Shelley",
+          "person_id": 110021,
+          "name": "Simon John Shelley",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 110021,
-          "name": "Simon John Shelley",
+          "person_id": 40405,
+          "name": "Carol Hannah Shelley",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -1181,13 +1181,13 @@
       "candidate_count": 8,
       "candidates": [
         {
-          "person_id": 76328,
-          "name": "Daniel Adams",
+          "person_id": 130998,
+          "name": "Cherie Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130998,
-          "name": "Cherie Adams",
+          "person_id": 76328,
+          "name": "Daniel Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {

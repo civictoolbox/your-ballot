@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "milton-keynes",
     "council_name": "Milton Keynes"
   },
@@ -239,13 +239,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 129578,
-          "name": "Melvyn Rook",
+          "person_id": 129579,
+          "name": "Millie Rook",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 129579,
-          "name": "Millie Rook",
+          "person_id": 129578,
+          "name": "Melvyn Rook",
           "party_name": "Reform UK"
         },
         {
@@ -277,13 +277,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 13002,
-          "name": "Kerrie Bradburn",
+          "person_id": 12997,
+          "name": "Marie Bradburn",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 12997,
-          "name": "Marie Bradburn",
+          "person_id": 13002,
+          "name": "Kerrie Bradburn",
           "party_name": "Liberal Democrats"
         },
         {
@@ -576,13 +576,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 129450,
-          "name": "Anthea Nelmes",
+          "person_id": 129451,
+          "name": "John Peter Nelmes",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 129451,
-          "name": "John Peter Nelmes",
+          "person_id": 129450,
+          "name": "Anthea Nelmes",
           "party_name": "Reform UK"
         },
         {
@@ -596,7 +596,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 129454,
+          "person_id": 68304,
           "name": "Paul Joseph Williams",
           "party_name": "Green Party"
         },
@@ -649,13 +649,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 13013,
-          "name": "Victoria Hopkins",
+          "person_id": 41963,
+          "name": "David George Hopkins",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 41963,
-          "name": "David George Hopkins",
+          "person_id": 13013,
+          "name": "Victoria Hopkins",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1052,14 +1052,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130007,
-          "name": "Malcolm Carter",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130006,
           "name": "Duncan Stewart Carter",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 130007,
+          "name": "Malcolm Carter",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 42195,
@@ -1643,13 +1643,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130088,
-          "name": "James Bartrick",
+          "person_id": 130089,
+          "name": "Jeannie Bartrick",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130089,
-          "name": "Jeannie Bartrick",
+          "person_id": 130088,
+          "name": "James Bartrick",
           "party_name": "Liberal Democrats"
         },
         {

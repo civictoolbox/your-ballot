@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "party_key": "aspire",
     "display_name": "Aspire",
     "candidate_count": 45,
@@ -59,16 +59,16 @@
       "ward_name": "Lansbury"
     },
     {
-      "person_id": 124534,
-      "name": "Faysal Ahmed",
+      "person_id": 43361,
+      "name": "Suluk Ahmed",
       "party_name": "Aspire",
       "council_slug": "tower-hamlets",
       "council_name": "Tower Hamlets",
       "ward_name": "Spitalfields & Banglatown"
     },
     {
-      "person_id": 43361,
-      "name": "Suluk Ahmed",
+      "person_id": 124534,
+      "name": "Faysal Ahmed",
       "party_name": "Aspire",
       "council_slug": "tower-hamlets",
       "council_name": "Tower Hamlets",

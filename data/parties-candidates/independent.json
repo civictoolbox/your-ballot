@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1213,
@@ -427,14 +427,6 @@
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 133610,
-      "name": "Ashfaq Ahmed",
-      "party_name": "Independent",
-      "council_slug": "walsall",
-      "council_name": "Walsall",
-      "ward_name": "Palfrey & The Delves"
-    },
-    {
       "person_id": 133611,
       "name": "Imran Ahmed",
       "party_name": "Independent",
@@ -443,17 +435,25 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135185,
-      "name": "Jamal Ahmed",
+      "person_id": 133610,
+      "name": "Ashfaq Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
-      "ward_name": "St Matthew's"
+      "ward_name": "Palfrey & The Delves"
     },
     {
       "person_id": 112838,
       "name": "Mushtaq Ahmed",
       "party_name": "Walsall Community Independents Party",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "St Matthew's"
+    },
+    {
+      "person_id": 135185,
+      "name": "Jamal Ahmed",
+      "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -1635,16 +1635,16 @@
       "ward_name": "Hebden Bridge & Todmorden East"
     },
     {
-      "person_id": 13410,
-      "name": "Chris Bott",
+      "person_id": 42128,
+      "name": "Paul Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 42128,
-      "name": "Paul Bott",
+      "person_id": 13410,
+      "name": "Chris Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -2643,7 +2643,7 @@
       "ward_name": "Downham Market"
     },
     {
-      "person_id": 125050,
+      "person_id": 87862,
       "name": "Happy Singh Dhaliwal",
       "party_name": "Ealing Community Independents Party",
       "council_slug": "ealing",
@@ -3851,16 +3851,16 @@
       "ward_name": "Park"
     },
     {
-      "person_id": 138949,
-      "name": "Vicky Harrison",
+      "person_id": 5445,
+      "name": "Steve Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Cleadon Park & Harton Moor"
     },
     {
-      "person_id": 5445,
-      "name": "Steve Harrison",
+      "person_id": 138949,
+      "name": "Vicky Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4507,16 +4507,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -4587,16 +4587,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135922,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 135922,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -6059,7 +6059,7 @@
       "ward_name": "Yeading"
     },
     {
-      "person_id": 127110,
+      "person_id": 98104,
       "name": "Fiona Elizabeth Marsh",
       "party_name": "Independent",
       "council_slug": "brentwood",
@@ -7371,16 +7371,16 @@
       "ward_name": "Northfield"
     },
     {
-      "person_id": 131316,
-      "name": "David Pointon",
+      "person_id": 76470,
+      "name": "Ayrton Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
       "ward_name": "Ackworth, North Elmsall & Upton"
     },
     {
-      "person_id": 76470,
-      "name": "Ayrton Pointon",
+      "person_id": 131316,
+      "name": "David Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
@@ -9283,7 +9283,7 @@
       "ward_name": "Farnham South"
     },
     {
-      "person_id": 128800,
+      "person_id": 1629,
       "name": "Michael De Whalley",
       "party_name": "Independent",
       "council_slug": "norfolk",

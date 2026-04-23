@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "birmingham",
     "council_name": "Birmingham"
   },
@@ -53,13 +53,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 124945,
-          "name": "Lu O'Shea",
+          "person_id": 40305,
+          "name": "John Anthony O'Shea",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 40305,
-          "name": "John Anthony O'Shea",
+          "person_id": 124945,
+          "name": "Lu O'Shea",
           "party_name": "Labour Party"
         },
         {
@@ -154,13 +154,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 70002,
-          "name": "Ansar Ali Khan",
+          "person_id": 10047,
+          "name": "Mariam Khan",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 10047,
-          "name": "Mariam Khan",
+          "person_id": 70002,
+          "name": "Ansar Ali Khan",
           "party_name": "Labour Party"
         },
         {
@@ -787,13 +787,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 124433,
-          "name": "Arshad Hussain",
+          "person_id": 91590,
+          "name": "Iftekhar Hussain",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 91590,
-          "name": "Iftekhar Hussain",
+          "person_id": 124433,
+          "name": "Arshad Hussain",
           "party_name": "Liberal Democrats"
         },
         {

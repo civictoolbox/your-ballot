@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "gateshead",
     "council_name": "Gateshead"
   },
@@ -529,13 +529,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 139065,
-          "name": "Michaela McCaugherty",
+          "person_id": 139066,
+          "name": "Stephen McCaugherty",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 139066,
-          "name": "Stephen McCaugherty",
+          "person_id": 139065,
+          "name": "Michaela McCaugherty",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1128,14 +1128,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 139018,
-          "name": "Paul Turnbull",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 139014,
           "name": "Gemma Lockyer Turnbull",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 139018,
+          "name": "Paul Turnbull",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 125232,
@@ -1458,13 +1458,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 139005,
-          "name": "Jeff Smart",
+          "person_id": 139006,
+          "name": "Julie Smart",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 139006,
-          "name": "Julie Smart",
+          "person_id": 139005,
+          "name": "Jeff Smart",
           "party_name": "Reform UK"
         },
         {
@@ -1516,13 +1516,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 138873,
-          "name": "Cheryl May Dixon",
+          "person_id": 138874,
+          "name": "Steven Frederick Dixon",
           "party_name": "Green Party"
         },
         {
-          "person_id": 138874,
-          "name": "Steven Frederick Dixon",
+          "person_id": 138873,
+          "name": "Cheryl May Dixon",
           "party_name": "Green Party"
         },
         {

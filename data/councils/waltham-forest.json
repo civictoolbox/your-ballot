@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -378,13 +378,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 91879,
-          "name": "Marsela Berberi",
+          "person_id": 45958,
+          "name": "Kastriot Berberi",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 45958,
-          "name": "Kastriot Berberi",
+          "person_id": 91879,
+          "name": "Marsela Berberi",
           "party_name": "Labour Party"
         },
         {
@@ -896,14 +896,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 48514,
-          "name": "Ahsan Khan",
-          "party_name": "Labour and Co-operative Party"
-        },
-        {
           "person_id": 131960,
           "name": "Md Shoeb Khan",
           "party_name": "Your Party"
+        },
+        {
+          "person_id": 48514,
+          "name": "Ahsan Khan",
+          "party_name": "Labour and Co-operative Party"
         },
         {
           "person_id": 131961,
@@ -964,14 +964,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130411,
-          "name": "Peter Hollingsworth",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130410,
           "name": "Deborah Hollingsworth",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 130411,
+          "name": "Peter Hollingsworth",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 130412,
@@ -1085,13 +1085,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 45991,
-          "name": "Kathy Berg",
+          "person_id": 86714,
+          "name": "Luke Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 86714,
-          "name": "Luke Berg",
+          "person_id": 45991,
+          "name": "Kathy Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1456,7 +1456,7 @@
         },
         {
           "person_id": 130377,
-          "name": "Sorin Theodor Cioricu",
+          "name": "Sorin-Theodor Cioriciu",
           "party_name": "Reform UK"
         },
         {

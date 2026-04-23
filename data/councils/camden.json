@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-22T09:07:03+00:00",
+    "generated_at": "2026-04-23T09:13:42+00:00",
     "council_slug": "camden",
     "council_name": "Camden"
   },
@@ -111,14 +111,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137645,
-          "name": "Katie Marie Cooke",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 137644,
           "name": "Christopher Cooke",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 137645,
+          "name": "Katie Marie Cooke",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 42588,
@@ -432,7 +432,7 @@
       "candidates": [
         {
           "person_id": 134376,
-          "name": "John Richard Atkins",
+          "name": "Richard John Atkins",
           "party_name": "Green Party"
         },
         {
@@ -487,7 +487,7 @@
         },
         {
           "person_id": 134384,
-          "name": "Bob Reeves",
+          "name": "Rob Reeves",
           "party_name": "Green Party"
         },
         {
@@ -885,7 +885,7 @@
         },
         {
           "person_id": 138677,
-          "name": "Pete Hutchings",
+          "name": "Peter Hutchings",
           "party_name": "Green Party"
         },
         {
