@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -551,14 +551,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 4028,
-          "name": "Wendy Barbara Taylor",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 111762,
           "name": "Laurence Taylor",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 4028,
+          "name": "Wendy Barbara Taylor",
+          "party_name": "Liberal Democrats"
         }
       ]
     },

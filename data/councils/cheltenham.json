@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "cheltenham",
     "council_name": "Cheltenham"
   },
@@ -249,7 +249,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 127040,
+          "person_id": 120073,
           "name": "Dean Raymond Luke Botterill",
           "party_name": "Reform UK"
         },
@@ -371,7 +371,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 127111,
+          "person_id": 77356,
           "name": "Alan James Davis",
           "party_name": "Conservative and Unionist Party"
         },

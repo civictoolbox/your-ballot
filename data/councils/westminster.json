@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "westminster",
     "council_name": "Westminster"
   },
@@ -823,13 +823,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 134548,
-          "name": "Bella Arraiol",
+          "person_id": 134549,
+          "name": "Joao Arraiol",
           "party_name": "Green Party"
         },
         {
-          "person_id": 134549,
-          "name": "Joao Arraiol",
+          "person_id": 134548,
+          "name": "Bella Arraiol",
           "party_name": "Green Party"
         },
         {
@@ -1336,8 +1336,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 126457,
-          "name": "Paul Edward Fisher",
+          "person_id": 84568,
+          "name": "Paul Fisher",
           "party_name": "Conservative and Unionist Party"
         },
         {

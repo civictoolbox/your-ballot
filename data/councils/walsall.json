@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -642,13 +642,13 @@
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135907,
-          "name": "Stephen John Langford",
+          "person_id": 135908,
+          "name": "Susan Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135908,
-          "name": "Susan Langford",
+          "person_id": 135907,
+          "name": "Stephen John Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1115,13 +1115,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135921,
-          "name": "Basharat Hussain",
+          "person_id": 135922,
+          "name": "Khizar Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135922,
-          "name": "Khizar Hussain",
+          "person_id": 135921,
+          "name": "Basharat Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -1344,14 +1344,14 @@
       "candidate_count": 17,
       "candidates": [
         {
-          "person_id": 112838,
-          "name": "Mushtaq Ahmed",
-          "party_name": "Walsall Community Independents Party"
-        },
-        {
           "person_id": 135185,
           "name": "Jamal Ahmed",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 112838,
+          "name": "Mushtaq Ahmed",
+          "party_name": "Walsall Community Independents Party"
         },
         {
           "person_id": 135186,
@@ -1540,13 +1540,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134841,
-          "name": "Shakir Mehmood Khan",
+          "person_id": 134840,
+          "name": "Aleena Khan",
           "party_name": "Green Party"
         },
         {
-          "person_id": 134840,
-          "name": "Aleena Khan",
+          "person_id": 134841,
+          "name": "Shakir Mehmood Khan",
           "party_name": "Green Party"
         },
         {

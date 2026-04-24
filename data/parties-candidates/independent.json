@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:30+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1213,
@@ -315,7 +315,7 @@
       "ward_name": "Canning Town North"
     },
     {
-      "person_id": 133289,
+      "person_id": 90809,
       "name": "Sajjad Ahmed",
       "party_name": "Independent",
       "council_slug": "pendle",
@@ -443,17 +443,17 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 112838,
-      "name": "Mushtaq Ahmed",
-      "party_name": "Walsall Community Independents Party",
+      "person_id": 135185,
+      "name": "Jamal Ahmed",
+      "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
     },
     {
-      "person_id": 135185,
-      "name": "Jamal Ahmed",
-      "party_name": "Independent",
+      "person_id": 112838,
+      "name": "Mushtaq Ahmed",
+      "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -1283,16 +1283,16 @@
       "ward_name": "Keighley Central"
     },
     {
-      "person_id": 75594,
-      "name": "Aleem Bashir",
+      "person_id": 132278,
+      "name": "Shabana Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Heaton & Frizinghall"
     },
     {
-      "person_id": 132278,
-      "name": "Shabana Bashir",
+      "person_id": 75594,
+      "name": "Aleem Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -1355,7 +1355,7 @@
       "ward_name": "South Elmsall & South Kirkby"
     },
     {
-      "person_id": 133533,
+      "person_id": 14731,
       "name": "Andy Batsford",
       "party_name": "Independent",
       "council_slug": "hastings",
@@ -1771,16 +1771,16 @@
       "ward_name": "Langdon Hills"
     },
     {
-      "person_id": 138914,
-      "name": "Gill Brown",
+      "person_id": 80641,
+      "name": "Phil Brown",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Horsley Hill & Westoe Crown"
     },
     {
-      "person_id": 80641,
-      "name": "Phil Brown",
+      "person_id": 138914,
+      "name": "Gill Brown",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -1987,7 +1987,7 @@
       "ward_name": "Mildenhall"
     },
     {
-      "person_id": 126262,
+      "person_id": 86625,
       "name": "Sarah Chaney",
       "party_name": "Independent",
       "council_slug": "waltham-forest",
@@ -2219,7 +2219,7 @@
       "ward_name": "Newton-le-Willows West"
     },
     {
-      "person_id": 129386,
+      "person_id": 77270,
       "name": "Abigail Compton-Burnett",
       "party_name": "Independent",
       "council_slug": "basingstoke-and-deane",
@@ -2299,7 +2299,7 @@
       "ward_name": "Banister & Polygon"
     },
     {
-      "person_id": 138340,
+      "person_id": 79498,
       "name": "Zelanie Sue Cooper",
       "party_name": "Independent Network",
       "council_slug": "east-surrey",
@@ -3155,16 +3155,16 @@
       "ward_name": "Southall West"
     },
     {
-      "person_id": 110112,
-      "name": "Terry Foggon",
+      "person_id": 131490,
+      "name": "Donna Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Bede"
     },
     {
-      "person_id": 131490,
-      "name": "Donna Foggon",
+      "person_id": 110112,
+      "name": "Terry Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4587,16 +4587,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 135922,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 135922,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -5859,7 +5859,7 @@
       "ward_name": "Ryde Monktonmead"
     },
     {
-      "person_id": 127926,
+      "person_id": 19478,
       "name": "Victor Lukaniuk",
       "party_name": "Independent",
       "council_slug": "suffolk",
@@ -6091,7 +6091,7 @@
       "ward_name": "Ackworth, North Elmsall & Upton"
     },
     {
-      "person_id": 131494,
+      "person_id": 26026,
       "name": "Eric Philip Ashwell Masters",
       "party_name": "Independent",
       "council_slug": "norfolk",
@@ -6547,7 +6547,7 @@
       "ward_name": "Shanklin Central"
     },
     {
-      "person_id": 133663,
+      "person_id": 39718,
       "name": "David Morton",
       "party_name": "Independent",
       "council_slug": "hammersmith-and-fulham",
@@ -7211,6 +7211,14 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
+      "person_id": 132009,
+      "name": "Safvan Patel",
+      "party_name": "Independent",
+      "council_slug": "blackburn-with-darwen",
+      "council_name": "Blackburn With Darwen",
+      "ward_name": "Wensley Fold"
+    },
+    {
       "person_id": 132007,
       "name": "Altaf Patel",
       "party_name": "Independent",
@@ -7221,14 +7229,6 @@
     {
       "person_id": 132008,
       "name": "Maulana Siddiq Patel",
-      "party_name": "Independent",
-      "council_slug": "blackburn-with-darwen",
-      "council_name": "Blackburn With Darwen",
-      "ward_name": "Wensley Fold"
-    },
-    {
-      "person_id": 132009,
-      "name": "Safvan Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7371,16 +7371,16 @@
       "ward_name": "Northfield"
     },
     {
-      "person_id": 76470,
-      "name": "Ayrton Pointon",
+      "person_id": 131316,
+      "name": "David Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
       "ward_name": "Ackworth, North Elmsall & Upton"
     },
     {
-      "person_id": 131316,
-      "name": "David Pointon",
+      "person_id": 76470,
+      "name": "Ayrton Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
@@ -7747,16 +7747,16 @@
       "ward_name": "Banbury Calthorpe & Easington"
     },
     {
-      "person_id": 135533,
-      "name": "Maggie Richens",
+      "person_id": 135534,
+      "name": "William George Spencer Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "North Richmond"
     },
     {
-      "person_id": 135534,
-      "name": "William George Spencer Richens",
+      "person_id": 135533,
+      "name": "Maggie Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -8347,7 +8347,7 @@
       "ward_name": "Huntingdon North"
     },
     {
-      "person_id": 133528,
+      "person_id": 14738,
       "name": "Nigel Sinden",
       "party_name": "Independent",
       "council_slug": "hastings",
@@ -8867,7 +8867,7 @@
       "ward_name": "Ward End"
     },
     {
-      "person_id": 128359,
+      "person_id": 91310,
       "name": "Ian Pele Taylor",
       "party_name": "Independent",
       "council_slug": "huntingdonshire",
@@ -8883,8 +8883,8 @@
       "ward_name": "Hockley"
     },
     {
-      "person_id": 30834,
-      "name": "David Anthony Taylor",
+      "person_id": 106943,
+      "name": "David Taylor",
       "party_name": "Independent",
       "council_slug": "suffolk",
       "council_name": "Suffolk",

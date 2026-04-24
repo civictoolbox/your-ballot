@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -39,7 +39,7 @@
         },
         {
           "person_id": 138780,
-          "name": "Grant McMurry",
+          "name": "Grant McMurray",
           "party_name": "Reform UK"
         },
         {
@@ -81,7 +81,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 125871,
+          "person_id": 54364,
           "name": "Anthony Daniel Ross Anderson",
           "party_name": "Liberal Democrats"
         },
@@ -318,13 +318,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 79472,
-          "name": "Steven John Gray",
+          "person_id": 79477,
+          "name": "Carolyn Ann Gray",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 79477,
-          "name": "Carolyn Ann Gray",
+          "person_id": 79472,
+          "name": "Steven John Gray",
           "party_name": "Labour Party"
         },
         {
@@ -560,7 +560,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 125873,
+          "person_id": 102166,
           "name": "Robin Timothy Lawrence",
           "party_name": "Liberal Democrats"
         },
@@ -729,14 +729,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 17024,
-          "name": "Alex Coomes",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 90040,
           "name": "Sarah Coomes",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 17024,
+          "name": "Alex Coomes",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 42914,
@@ -1324,7 +1324,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 125876,
+          "person_id": 40428,
           "name": "Graham John Burr",
           "party_name": "Liberal Democrats"
         },
@@ -1611,7 +1611,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 125880,
+          "person_id": 58675,
           "name": "Gemma Mary Roulston",
           "party_name": "Liberal Democrats"
         },
@@ -1697,7 +1697,7 @@
       "candidate_count": 11,
       "candidates": [
         {
-          "person_id": 138340,
+          "person_id": 79498,
           "name": "Zelanie Sue Cooper",
           "party_name": "Independent Network"
         },
@@ -1810,7 +1810,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 138261,
+          "person_id": 108933,
           "name": "Kevin Whincup",
           "party_name": "The Molesey Residents Association"
         },
@@ -2002,13 +2002,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 137743,
-          "name": "Simon Chambers",
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137742,
-          "name": "Sarah Jane Chambers",
+          "person_id": 137743,
+          "name": "Simon Chambers",
           "party_name": "Reform UK"
         },
         {

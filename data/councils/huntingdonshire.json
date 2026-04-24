@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "huntingdonshire",
     "council_name": "Huntingdonshire"
   },
@@ -190,13 +190,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 91197,
-          "name": "Brett Alistair Mickelburgh",
+          "person_id": 91198,
+          "name": "Debbie Mickelburgh",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 91198,
-          "name": "Debbie Mickelburgh",
+          "person_id": 91197,
+          "name": "Brett Alistair Mickelburgh",
           "party_name": "Liberal Democrats"
         },
         {
@@ -508,14 +508,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 127919,
-          "name": "Mike Simpson",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 127918,
           "name": "Lianne Simpson",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 127919,
+          "name": "Mike Simpson",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 28043,
@@ -867,8 +867,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 128860,
-          "name": "Stephen William Ferguson",
+          "person_id": 77431,
+          "name": "Stephen Ferguson",
           "party_name": "Green Party"
         },
         {
@@ -1053,7 +1053,7 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 128359,
+          "person_id": 91310,
           "name": "Ian Pele Taylor",
           "party_name": "Independent"
         },

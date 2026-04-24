@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "croydon",
     "council_name": "Croydon"
   },
@@ -1416,13 +1416,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 42889,
-          "name": "Liz Bebington",
+          "person_id": 42888,
+          "name": "Andy Bebington",
           "party_name": "Green Party"
         },
         {
-          "person_id": 42888,
-          "name": "Andy Bebington",
+          "person_id": 42889,
+          "name": "Liz Bebington",
           "party_name": "Green Party"
         },
         {

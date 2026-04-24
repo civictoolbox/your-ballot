@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -43,8 +43,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 130182,
-          "name": "Jennifer Lynn Hemingway",
+          "person_id": 96029,
+          "name": "Jennifer Hemingway",
           "party_name": "Labour Party"
         },
         {
@@ -68,7 +68,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 130187,
+          "person_id": 81930,
           "name": "John Ashley Tipper",
           "party_name": "Green Party"
         },
@@ -685,14 +685,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 39574,
-          "name": "Paul Moore",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 129954,
           "name": "Dave Moore",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 39574,
+          "name": "Paul Moore",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 129955,
@@ -889,7 +889,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 129906,
+          "person_id": 97255,
           "name": "Saj Ashraf",
           "party_name": "Labour Party"
         },
@@ -1128,7 +1128,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 130125,
+          "person_id": 110695,
           "name": "Shareen Khan",
           "party_name": "Green Party"
         },
@@ -1163,8 +1163,8 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130129,
-          "name": "David John Wilkes",
+          "person_id": 73769,
+          "name": "David Wilkes",
           "party_name": "Advance UK"
         },
         {
@@ -1357,14 +1357,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130345,
-          "name": "Les Smith",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130346,
           "name": "Stefan Joseph Gareth Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 130345,
+          "name": "Les Smith",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 74257,

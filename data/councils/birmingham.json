@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "birmingham",
     "council_name": "Birmingham"
   },
@@ -53,13 +53,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 40305,
-          "name": "John Anthony O'Shea",
+          "person_id": 124945,
+          "name": "Lu O'Shea",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 124945,
-          "name": "Lu O'Shea",
+          "person_id": 40305,
+          "name": "John Anthony O'Shea",
           "party_name": "Labour Party"
         },
         {
@@ -154,13 +154,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 10047,
-          "name": "Mariam Khan",
+          "person_id": 70002,
+          "name": "Ansar Ali Khan",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 70002,
-          "name": "Ansar Ali Khan",
+          "person_id": 10047,
+          "name": "Mariam Khan",
           "party_name": "Labour Party"
         },
         {
@@ -237,14 +237,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 88458,
-          "name": "Mumtaz Hussain",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 134523,
           "name": "Naib Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 88458,
+          "name": "Mumtaz Hussain",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 41574,
@@ -2577,13 +2577,13 @@
       "candidate_count": 12,
       "candidates": [
         {
-          "person_id": 134818,
-          "name": "Sara Jane Ackroyd",
+          "person_id": 134817,
+          "name": "Mark Stewart Ackroyd",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134817,
-          "name": "Mark Stewart Ackroyd",
+          "person_id": 134818,
+          "name": "Sara Jane Ackroyd",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -2680,14 +2680,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 126677,
-          "name": "Shafaq Hussain",
-          "party_name": "Your Party"
-        },
-        {
           "person_id": 117564,
           "name": "Altaf Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 126677,
+          "name": "Shafaq Hussain",
+          "party_name": "Your Party"
         },
         {
           "person_id": 84764,

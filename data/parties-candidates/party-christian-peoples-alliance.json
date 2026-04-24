@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:30+00:00",
     "party_key": "party-christian-peoples-alliance",
     "display_name": "Christian Peoples Alliance",
     "candidate_count": 28,
@@ -147,16 +147,16 @@
       "ward_name": "Canning Town South"
     },
     {
-      "person_id": 137008,
-      "name": "Goodness Nkire",
+      "person_id": 137009,
+      "name": "Precious Nkire",
       "party_name": "Christian Peoples Alliance",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Canning Town North"
     },
     {
-      "person_id": 137009,
-      "name": "Precious Nkire",
+      "person_id": 137008,
+      "name": "Goodness Nkire",
       "party_name": "Christian Peoples Alliance",
       "council_slug": "newham",
       "council_name": "Newham",

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "sefton",
     "council_name": "Sefton"
   },
@@ -312,13 +312,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 122763,
-          "name": "David Roscoe",
+          "person_id": 16104,
+          "name": "Diane Roscoe",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 16104,
-          "name": "Diane Roscoe",
+          "person_id": 122763,
+          "name": "David Roscoe",
           "party_name": "Labour Party"
         },
         {
@@ -501,7 +501,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134771,
+          "person_id": 81562,
           "name": "Sinclair D'Albuquerque",
           "party_name": "Reform UK"
         },
@@ -873,13 +873,13 @@
           "party_name": "Formby Residents Action Group"
         },
         {
-          "person_id": 136944,
-          "name": "Susanne Zajitschek",
+          "person_id": 136943,
+          "name": "Felix Zajitschek",
           "party_name": "Green Party"
         },
         {
-          "person_id": 136943,
-          "name": "Felix Zajitschek",
+          "person_id": 136944,
+          "name": "Susanne Zajitschek",
           "party_name": "Green Party"
         }
       ]

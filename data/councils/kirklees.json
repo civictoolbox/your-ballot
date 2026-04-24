@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -166,14 +166,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133318,
-          "name": "Richard John Wilson",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133317,
           "name": "Andy Wilson",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133318,
+          "name": "Richard John Wilson",
+          "party_name": "Liberal Democrats"
         }
       ]
     },
@@ -239,7 +239,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 53008,
+          "person_id": 139137,
           "name": "Clive Patrick",
           "party_name": "Conservative and Unionist Party"
         },
@@ -1197,14 +1197,14 @@
       "candidate_count": 18,
       "candidates": [
         {
-          "person_id": 135823,
-          "name": "Ammar Anwar",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 36816,
           "name": "Waheed Anwar",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 135823,
+          "name": "Ammar Anwar",
+          "party_name": "Independent"
         },
         {
           "person_id": 135824,
@@ -1433,13 +1433,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 75259,
-          "name": "Stephen James Long",
+          "person_id": 97900,
+          "name": "Gill Long",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 97900,
-          "name": "Gill Long",
+          "person_id": 75259,
+          "name": "Stephen James Long",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1521,13 +1521,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 53057,
-          "name": "Chris Green",
+          "person_id": 136931,
+          "name": "Alex Green",
           "party_name": "Green Party"
         },
         {
-          "person_id": 136931,
-          "name": "Alex Green",
+          "person_id": 53057,
+          "name": "Chris Green",
           "party_name": "Green Party"
         },
         {
@@ -1722,14 +1722,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 136476,
-          "name": "Jeremy Smith",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 8670,
           "name": "Richard Smith",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 136476,
+          "name": "Jeremy Smith",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 53770,
@@ -1853,24 +1853,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133899,
-          "name": "Maya Elizabeth Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133898,
           "name": "Daniel Francis Michael Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133900,
-          "name": "David James Hall",
-          "party_name": "Conservative and Unionist Party"
+          "person_id": 133899,
+          "name": "Maya Elizabeth Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133901,
           "name": "George Mason Hall",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133900,
+          "name": "David James Hall",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 109864,

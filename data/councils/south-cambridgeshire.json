@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "south-cambridgeshire",
     "council_name": "South Cambridgeshire"
   },
@@ -319,7 +319,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 127135,
+          "person_id": 87159,
           "name": "Nigel Charles Francis Bolitho",
           "party_name": "Conservative and Unionist Party"
         },
@@ -349,7 +349,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127140,
+          "person_id": 95684,
           "name": "Tom Hingston",
           "party_name": "Labour Party"
         },

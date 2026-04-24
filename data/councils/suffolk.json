@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-23T09:13:42+00:00",
+    "generated_at": "2026-04-24T09:18:29+00:00",
     "council_slug": "suffolk",
     "council_name": "Suffolk"
   },
@@ -355,7 +355,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127926,
+          "person_id": 19478,
           "name": "Victor Lukaniuk",
           "party_name": "Independent"
         },
@@ -1672,8 +1672,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 30834,
-          "name": "David Anthony Taylor",
+          "person_id": 106943,
+          "name": "David Taylor",
           "party_name": "Independent"
         },
         {
