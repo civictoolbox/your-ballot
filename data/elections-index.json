@@ -1,12 +1,12 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
-    "ward_count": 2965,
-    "candidate_count": 25012,
-    "seat_count": 5058
+    "ward_count": 2966,
+    "candidate_count": 25020,
+    "seat_count": 5060
   },
   "councils": [
     {
@@ -1755,9 +1755,9 @@
     {
       "slug": "hillingdon",
       "name": "Hillingdon",
-      "ward_count": 20,
-      "candidate_count": 247,
-      "seat_count": 51,
+      "ward_count": 21,
+      "candidate_count": 255,
+      "seat_count": 53,
       "wards": [
         "Belmore",
         "Charville",
@@ -1767,6 +1767,7 @@
         "Hayes Town",
         "Heathrow Villages",
         "Hillingdon East",
+        "Hillingdon West",
         "Ickenham & South Harefield",
         "Northwood",
         "Northwood Hills",

@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-04-24T09:18:30+00:00",
+    "generated_at": "2026-04-25T07:53:12+00:00",
     "party_key": "green",
     "display_name": "Green Party",
-    "candidate_count": 4498,
+    "candidate_count": 4499,
     "council_count": 156,
     "raw_party_names": [
       "Green Party"
@@ -9331,7 +9331,7 @@
       "ward_name": "Wardley & Leam Lane"
     },
     {
-      "person_id": 125452,
+      "person_id": 105973,
       "name": "James Dyson",
       "party_name": "Green Party",
       "council_slug": "cheltenham",
@@ -9731,16 +9731,16 @@
       "ward_name": "Barrowford & Pendleside"
     },
     {
-      "person_id": 92617,
-      "name": "Maximilian Ellis",
+      "person_id": 133295,
+      "name": "Suzanne Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
       "ward_name": "Wandsworth Common"
     },
     {
-      "person_id": 133295,
-      "name": "Suzanne Ellis",
+      "person_id": 92617,
+      "name": "Maximilian Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
@@ -11067,16 +11067,16 @@
       "ward_name": "Carshalton Central"
     },
     {
-      "person_id": 133898,
-      "name": "Daniel Francis Michael Friend",
+      "person_id": 133899,
+      "name": "Maya Elizabeth Friend",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Liversedge & Gomersal"
     },
     {
-      "person_id": 133899,
-      "name": "Maya Elizabeth Friend",
+      "person_id": 133898,
+      "name": "Daniel Francis Michael Friend",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -17739,16 +17739,16 @@
       "ward_name": "St Helier West"
     },
     {
-      "person_id": 134840,
-      "name": "Aleena Khan",
+      "person_id": 134841,
+      "name": "Shakir Mehmood Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Willenhall"
     },
     {
-      "person_id": 134841,
-      "name": "Shakir Mehmood Khan",
+      "person_id": 134840,
+      "name": "Aleena Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -20107,16 +20107,16 @@
       "ward_name": "Abbey"
     },
     {
-      "person_id": 135344,
-      "name": "Faisal Majeed",
+      "person_id": 135345,
+      "name": "Kaiser Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 135345,
-      "name": "Kaiser Majeed",
+      "person_id": 135344,
+      "name": "Faisal Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -24403,16 +24403,16 @@
       "ward_name": "Grays Riverside"
     },
     {
-      "person_id": 131072,
-      "name": "Anita Paris",
+      "person_id": 131073,
+      "name": "David Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
       "ward_name": "Longlands"
     },
     {
-      "person_id": 131073,
-      "name": "David Paris",
+      "person_id": 131072,
+      "name": "Anita Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
@@ -35211,6 +35211,14 @@
       "ward_name": "Halesowen South"
     },
     {
+      "person_id": 128436,
+      "name": "Alicia Windsor",
+      "party_name": "Green Party",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Hillingdon West"
+    },
+    {
       "person_id": 131454,
       "name": "Richard Wink",
       "party_name": "Green Party",
@@ -35923,16 +35931,16 @@
       "ward_name": "Blendon & Penhill"
     },
     {
-      "person_id": 136943,
-      "name": "Felix Zajitschek",
+      "person_id": 136944,
+      "name": "Susanne Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Formby West"
     },
     {
-      "person_id": 136944,
-      "name": "Susanne Zajitschek",
+      "person_id": 136943,
+      "name": "Felix Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",

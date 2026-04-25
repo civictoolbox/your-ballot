@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -280,13 +280,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 8548,
-          "name": "Penny Ashton",
+          "person_id": 5269,
+          "name": "Steven Ashton",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 5269,
-          "name": "Steven Ashton",
+          "person_id": 8548,
+          "name": "Penny Ashton",
           "party_name": "Reform UK"
         },
         {
@@ -899,13 +899,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 125301,
-          "name": "Jonathan Alan Crosswaite",
+          "person_id": 109927,
+          "name": "Jack Lewis Crosswaite",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 109927,
-          "name": "Jack Lewis Crosswaite",
+          "person_id": 125301,
+          "name": "Jonathan Alan Crosswaite",
           "party_name": "Conservative and Unionist Party"
         },
         {

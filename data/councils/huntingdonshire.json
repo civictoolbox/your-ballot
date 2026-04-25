@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "huntingdonshire",
     "council_name": "Huntingdonshire"
   },
@@ -508,14 +508,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 127918,
-          "name": "Lianne Simpson",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 127919,
           "name": "Mike Simpson",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 127918,
+          "name": "Lianne Simpson",
+          "party_name": "Independent"
         },
         {
           "person_id": 28043,
@@ -1338,8 +1338,8 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127799,
-          "name": "Peter John Gammons",
+          "person_id": 72940,
+          "name": "Peter Gammons",
           "party_name": "Reform UK"
         },
         {

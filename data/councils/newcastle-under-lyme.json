@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "newcastle-under-lyme",
     "council_name": "Newcastle Under Lyme"
   },
@@ -741,13 +741,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 7031,
-          "name": "Nigel Jones",
+          "person_id": 4909,
+          "name": "Hilary Jones",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 4909,
-          "name": "Hilary Jones",
+          "person_id": 7031,
+          "name": "Nigel Jones",
           "party_name": "Liberal Democrats"
         },
         {

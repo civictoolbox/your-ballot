@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "swindon",
     "council_name": "Swindon"
   },
@@ -306,13 +306,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131202,
-          "name": "Leigh John Jackson",
+          "person_id": 76296,
+          "name": "John Dennis Jackson",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 76296,
-          "name": "John Dennis Jackson",
+          "person_id": 131202,
+          "name": "Leigh John Jackson",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -636,13 +636,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 131238,
-          "name": "Beverley Jane Lewis",
+          "person_id": 131239,
+          "name": "Mark William Lewis",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131239,
-          "name": "Mark William Lewis",
+          "person_id": 131238,
+          "name": "Beverley Jane Lewis",
           "party_name": "Reform UK"
         },
         {

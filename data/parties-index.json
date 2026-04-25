@@ -1,38 +1,38 @@
 {
   "_meta": {
-    "generated_at": "2026-04-24T09:18:30+00:00",
+    "generated_at": "2026-04-25T07:53:12+00:00",
     "party_count": 94,
-    "candidate_count": 25012
+    "candidate_count": 25020
   },
   "parties": [
     {
       "key": "reform",
       "display_name": "Reform UK",
-      "candidate_count": 4813,
+      "candidate_count": 4814,
       "council_count": 156
     },
     {
       "key": "conservative",
       "display_name": "Conservative Party",
-      "candidate_count": 4763,
+      "candidate_count": 4765,
       "council_count": 156
     },
     {
       "key": "green",
       "display_name": "Green Party",
-      "candidate_count": 4498,
+      "candidate_count": 4499,
       "council_count": 156
     },
     {
       "key": "labour",
       "display_name": "Labour Party",
-      "candidate_count": 4218,
+      "candidate_count": 4220,
       "council_count": 152
     },
     {
       "key": "libdem",
       "display_name": "Liberal Democrats",
-      "candidate_count": 3945,
+      "candidate_count": 3947,
       "council_count": 154
     },
     {

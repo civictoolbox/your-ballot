@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "west-surrey",
     "council_name": "West Surrey"
   },
@@ -2010,13 +2010,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 81738,
-          "name": "Helen Elizabeth Couchman",
+          "person_id": 2235,
+          "name": "Paul Dennis Couchman",
           "party_name": "Trade Unionist and Socialist Coalition"
         },
         {
-          "person_id": 2235,
-          "name": "Paul Dennis Couchman",
+          "person_id": 81738,
+          "name": "Helen Elizabeth Couchman",
           "party_name": "Trade Unionist and Socialist Coalition"
         },
         {
@@ -2176,13 +2176,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 11678,
-          "name": "Don Whyte",
+          "person_id": 11708,
+          "name": "Sylvia Jane Whyte",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 11708,
-          "name": "Sylvia Jane Whyte",
+          "person_id": 11678,
+          "name": "Don Whyte",
           "party_name": "Liberal Democrats"
         }
       ]

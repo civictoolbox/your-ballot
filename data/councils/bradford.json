@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -423,13 +423,13 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132184,
-          "name": "Mukhtar Ali",
+          "person_id": 132185,
+          "name": "Sakib Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132185,
-          "name": "Sakib Ali",
+          "person_id": 132184,
+          "name": "Mukhtar Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -855,7 +855,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 132421,
+          "person_id": 105355,
           "name": "Wajid Rasool",
           "party_name": "Independent"
         },
@@ -996,13 +996,13 @@
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132278,
-          "name": "Shabana Bashir",
+          "person_id": 75594,
+          "name": "Aleem Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 75594,
-          "name": "Aleem Bashir",
+          "person_id": 132278,
+          "name": "Shabana Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -1499,14 +1499,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131841,
-          "name": "Shafi Ullah Khan",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65543,
           "name": "Imran Khan",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131841,
+          "name": "Shafi Ullah Khan",
+          "party_name": "Independent"
         },
         {
           "person_id": 131842,
@@ -1997,14 +1997,9 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 38368,
-          "name": "Kamran Hussain",
-          "party_name": "Labour Party"
-        },
-        {
-          "person_id": 131817,
-          "name": "Arshad Hussain",
-          "party_name": "Independent"
+          "person_id": 131818,
+          "name": "Ghafoor Hussain",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 110875,
@@ -2012,9 +2007,14 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 131818,
-          "name": "Ghafoor Hussain",
-          "party_name": "Conservative and Unionist Party"
+          "person_id": 131817,
+          "name": "Arshad Hussain",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 131819,

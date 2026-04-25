@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -282,13 +282,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135344,
-          "name": "Faisal Majeed",
+          "person_id": 135345,
+          "name": "Kaiser Majeed",
           "party_name": "Green Party"
         },
         {
-          "person_id": 135345,
-          "name": "Kaiser Majeed",
+          "person_id": 135344,
+          "name": "Faisal Majeed",
           "party_name": "Green Party"
         },
         {
@@ -355,13 +355,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 52081,
-          "name": "Corin Ann Statham",
+          "person_id": 13386,
+          "name": "Mark Andrew Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 13386,
-          "name": "Mark Andrew Statham",
+          "person_id": 52081,
+          "name": "Corin Ann Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -584,13 +584,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135895,
-          "name": "Ade Walker",
+          "person_id": 135896,
+          "name": "Amy Walker",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135896,
-          "name": "Amy Walker",
+          "person_id": 135895,
+          "name": "Ade Walker",
           "party_name": "Labour Party"
         },
         {
@@ -768,13 +768,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134241,
-          "name": "Israr Hussain",
+          "person_id": 82764,
+          "name": "Amo Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 82764,
-          "name": "Amo Hussain",
+          "person_id": 134241,
+          "name": "Israr Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -866,14 +866,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133615,
-          "name": "Shakir Hussain",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 99490,
           "name": "Sadat Hussain",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 133615,
+          "name": "Shakir Hussain",
+          "party_name": "Independent"
         },
         {
           "person_id": 133616,
@@ -1344,14 +1344,14 @@
       "candidate_count": 17,
       "candidates": [
         {
-          "person_id": 135185,
-          "name": "Jamal Ahmed",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 112838,
           "name": "Mushtaq Ahmed",
           "party_name": "Walsall Community Independents Party"
+        },
+        {
+          "person_id": 135185,
+          "name": "Jamal Ahmed",
+          "party_name": "Independent"
         },
         {
           "person_id": 135186,
@@ -1540,13 +1540,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134840,
-          "name": "Aleena Khan",
+          "person_id": 134841,
+          "name": "Shakir Mehmood Khan",
           "party_name": "Green Party"
         },
         {
-          "person_id": 134841,
-          "name": "Shakir Mehmood Khan",
+          "person_id": 134840,
+          "name": "Aleena Khan",
           "party_name": "Green Party"
         },
         {

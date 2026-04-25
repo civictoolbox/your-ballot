@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "milton-keynes",
     "council_name": "Milton Keynes"
   },
@@ -1052,14 +1052,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130006,
-          "name": "Duncan Stewart Carter",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 130007,
           "name": "Malcolm Carter",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130006,
+          "name": "Duncan Stewart Carter",
+          "party_name": "Green Party"
         },
         {
           "person_id": 42195,
@@ -1346,13 +1346,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130052,
-          "name": "Asad Raja",
+          "person_id": 130053,
+          "name": "Humna Raja",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130053,
-          "name": "Humna Raja",
+          "person_id": 130052,
+          "name": "Asad Raja",
           "party_name": "Liberal Democrats"
         },
         {

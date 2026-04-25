@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "coventry",
     "council_name": "Coventry"
   },
@@ -991,14 +991,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 124544,
-          "name": "David Benjamin Ridley",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 64799,
           "name": "Laura Frances Ridley",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 124544,
+          "name": "David Benjamin Ridley",
+          "party_name": "Green Party"
         },
         {
           "person_id": 129784,
@@ -1107,13 +1107,13 @@
       "candidate_count": 14,
       "candidates": [
         {
-          "person_id": 125502,
-          "name": "Carole Kathleen Ann Brightwell",
+          "person_id": 125503,
+          "name": "Dean Edward Brightwell",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125503,
-          "name": "Dean Edward Brightwell",
+          "person_id": 125502,
+          "name": "Carole Kathleen Ann Brightwell",
           "party_name": "Reform UK"
         },
         {

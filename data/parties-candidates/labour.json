@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-04-24T09:18:30+00:00",
+    "generated_at": "2026-04-25T07:53:12+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
-    "candidate_count": 4218,
+    "candidate_count": 4220,
     "council_count": 152,
     "raw_party_names": [
       "Labour Party"
@@ -699,16 +699,16 @@
       "ward_name": "Walker"
     },
     {
-      "person_id": 136491,
-      "name": "Brad Aird",
+      "person_id": 136492,
+      "name": "Christine Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Walkergate"
     },
     {
-      "person_id": 136492,
-      "name": "Christine Aird",
+      "person_id": 136491,
+      "name": "Brad Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -3035,6 +3035,14 @@
       "ward_name": "Newchurch, Havenstreet & Ashey"
     },
     {
+      "person_id": 128431,
+      "name": "Tiffany Beales",
+      "party_name": "Labour Party",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Hillingdon West"
+    },
+    {
       "person_id": 53052,
       "name": "Joe Beastall",
       "party_name": "Labour Party",
@@ -3339,16 +3347,16 @@
       "ward_name": "Boleyn"
     },
     {
-      "person_id": 91879,
-      "name": "Marsela Berberi",
+      "person_id": 45958,
+      "name": "Kastriot Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
       "ward_name": "Forest"
     },
     {
-      "person_id": 45958,
-      "name": "Kastriot Berberi",
+      "person_id": 91879,
+      "name": "Marsela Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
@@ -11971,16 +11979,16 @@
       "ward_name": "Lower Stratton"
     },
     {
-      "person_id": 79477,
-      "name": "Carolyn Ann Gray",
+      "person_id": 79472,
+      "name": "Steven John Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
       "ward_name": "Cobham & Oxshott South"
     },
     {
-      "person_id": 79472,
-      "name": "Steven John Gray",
+      "person_id": 79477,
+      "name": "Carolyn Ann Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -17147,16 +17155,16 @@
       "ward_name": "Eastbury"
     },
     {
-      "person_id": 70002,
-      "name": "Ansar Ali Khan",
+      "person_id": 10047,
+      "name": "Mariam Khan",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Alum Rock"
     },
     {
-      "person_id": 10047,
-      "name": "Mariam Khan",
+      "person_id": 70002,
+      "name": "Ansar Ali Khan",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -23803,16 +23811,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 106718,
-      "name": "Chris Page",
+      "person_id": 55196,
+      "name": "Catie Page",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Formby East"
     },
     {
-      "person_id": 55196,
-      "name": "Catie Page",
+      "person_id": 106718,
+      "name": "Chris Page",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -24099,14 +24107,6 @@
       "ward_name": "Tilgate"
     },
     {
-      "person_id": 132819,
-      "name": "Pratham Patel",
-      "party_name": "Labour Party",
-      "council_slug": "harrow",
-      "council_name": "Harrow",
-      "ward_name": "Centenary"
-    },
-    {
       "person_id": 132804,
       "name": "Hetal Patel",
       "party_name": "Labour Party",
@@ -24115,16 +24115,24 @@
       "ward_name": "Centenary"
     },
     {
-      "person_id": 124031,
-      "name": "Hershil Patel",
+      "person_id": 132819,
+      "name": "Pratham Patel",
+      "party_name": "Labour Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Centenary"
+    },
+    {
+      "person_id": 124030,
+      "name": "Devisha Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Edgware"
     },
     {
-      "person_id": 124030,
-      "name": "Devisha Patel",
+      "person_id": 124031,
+      "name": "Hershil Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -24139,16 +24147,16 @@
       "ward_name": "Harrow Weald"
     },
     {
-      "person_id": 108793,
-      "name": "Sofia Patel",
+      "person_id": 137950,
+      "name": "Mukesh Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "East Ham"
     },
     {
-      "person_id": 137950,
-      "name": "Mukesh Patel",
+      "person_id": 108793,
+      "name": "Sofia Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -25211,16 +25219,16 @@
       "ward_name": "Darwin"
     },
     {
-      "person_id": 91618,
-      "name": "Debbie Price",
+      "person_id": 48571,
+      "name": "Chris Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
       "ward_name": "St Paul's Cray"
     },
     {
-      "person_id": 48571,
-      "name": "Chris Price",
+      "person_id": 91618,
+      "name": "Debbie Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
@@ -26025,6 +26033,14 @@
       "council_slug": "hounslow",
       "council_name": "Hounslow",
       "ward_name": "Cranford"
+    },
+    {
+      "person_id": 128435,
+      "name": "Imran Razak",
+      "party_name": "Labour Party",
+      "council_slug": "hillingdon",
+      "council_name": "Hillingdon",
+      "ward_name": "Hillingdon West"
     },
     {
       "person_id": 45941,
@@ -28283,16 +28299,16 @@
       "ward_name": "Chafford Hundred West"
     },
     {
-      "person_id": 135261,
-      "name": "Phil Shire",
+      "person_id": 135262,
+      "name": "Yolande Shire",
       "party_name": "Labour Party",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
       "ward_name": "Salterhebble, Southowram & Skircoat Green"
     },
     {
-      "person_id": 135262,
-      "name": "Yolande Shire",
+      "person_id": 135261,
+      "name": "Phil Shire",
       "party_name": "Labour Party",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
@@ -31851,16 +31867,16 @@
       "ward_name": "Washington North"
     },
     {
-      "person_id": 135895,
-      "name": "Ade Walker",
+      "person_id": 135896,
+      "name": "Amy Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 135896,
-      "name": "Amy Walker",
+      "person_id": 135895,
+      "name": "Ade Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -33491,7 +33507,7 @@
       "ward_name": "Milton & Waterbeach"
     },
     {
-      "person_id": 126694,
+      "person_id": 90221,
       "name": "Natalie Wright",
       "party_name": "Labour Party",
       "council_slug": "sutton",

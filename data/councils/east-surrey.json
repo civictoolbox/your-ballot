@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -318,13 +318,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 79477,
-          "name": "Carolyn Ann Gray",
+          "person_id": 79472,
+          "name": "Steven John Gray",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 79472,
-          "name": "Steven John Gray",
+          "person_id": 79477,
+          "name": "Carolyn Ann Gray",
           "party_name": "Labour Party"
         },
         {
@@ -729,14 +729,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 90040,
-          "name": "Sarah Coomes",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 17024,
           "name": "Alex Coomes",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 90040,
+          "name": "Sarah Coomes",
+          "party_name": "Green Party"
         },
         {
           "person_id": 42914,
@@ -1107,14 +1107,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 41037,
-          "name": "Christian Stevens",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 125874,
           "name": "Andrew Stevens",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41037,
+          "name": "Christian Stevens",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 102167,
@@ -2042,13 +2042,13 @@
           "party_name": "Residents Associations of Epsom and Ewell"
         },
         {
-          "person_id": 99847,
-          "name": "Tracy Margaret Muller",
+          "person_id": 99742,
+          "name": "Christopher Charles Muller",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 99742,
-          "name": "Christopher Charles Muller",
+          "person_id": 99847,
+          "name": "Tracy Margaret Muller",
           "party_name": "Conservative and Unionist Party"
         },
         {

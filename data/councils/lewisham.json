@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "lewisham",
     "council_name": "Lewisham"
   },
@@ -1407,13 +1407,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 92140,
-          "name": "Ulric Almqvist",
+          "person_id": 92277,
+          "name": "Brendan Almqvist",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 92277,
-          "name": "Brendan Almqvist",
+          "person_id": 92140,
+          "name": "Ulric Almqvist",
           "party_name": "Conservative and Unionist Party"
         },
         {

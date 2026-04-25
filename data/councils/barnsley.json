@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "barnsley",
     "council_name": "Barnsley"
   },
@@ -564,14 +564,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 86898,
-          "name": "Rosemary Sharon Jackson",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 127543,
           "name": "Matthew Lewis Jackson",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 86898,
+          "name": "Rosemary Sharon Jackson",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 76259,
@@ -667,13 +667,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 125434,
-          "name": "Janet Wray",
+          "person_id": 79635,
+          "name": "Chris Wray",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 79635,
-          "name": "Chris Wray",
+          "person_id": 125434,
+          "name": "Janet Wray",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1475,13 +1475,13 @@
       "candidate_count": 12,
       "candidates": [
         {
-          "person_id": 127768,
-          "name": "Theresa Arnold",
+          "person_id": 127767,
+          "name": "Andy Arnold",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127767,
-          "name": "Andy Arnold",
+          "person_id": 127768,
+          "name": "Theresa Arnold",
           "party_name": "Reform UK"
         },
         {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-24T09:18:29+00:00",
+    "generated_at": "2026-04-25T07:53:11+00:00",
     "council_slug": "thurrock",
     "council_name": "Thurrock"
   },
@@ -202,13 +202,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130300,
-          "name": "Stephen Davies",
+          "person_id": 130299,
+          "name": "Peggy Davies",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 130299,
-          "name": "Peggy Davies",
+          "person_id": 130300,
+          "name": "Stephen Davies",
           "party_name": "Reform UK"
         },
         {
@@ -394,14 +394,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 130305,
-          "name": "Darren Dennis",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130306,
           "name": "Kimberley Zoe Dennis",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 130305,
+          "name": "Darren Dennis",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 130307,
