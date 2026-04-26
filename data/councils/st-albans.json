@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-25T07:53:11+00:00",
+    "generated_at": "2026-04-26T08:08:07+00:00",
     "council_slug": "st-albans",
     "council_name": "St Albans"
   },
@@ -122,12 +122,12 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 127633,
+          "person_id": 37093,
           "name": "Iain Grant",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 127634,
+          "person_id": 55926,
           "name": "Frances Leonard",
           "party_name": "Conservative and Unionist Party"
         },
@@ -725,7 +725,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 127677,
+          "person_id": 120016,
           "name": "Kevin Tiplady",
           "party_name": "Green Party"
         }

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-25T07:53:11+00:00",
+    "generated_at": "2026-04-26T08:08:07+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -257,14 +257,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135341,
-          "name": "Louis Gill",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 94331,
           "name": "Manju Gill",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135341,
+          "name": "Louis Gill",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 135342,
@@ -282,13 +282,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135345,
-          "name": "Kaiser Majeed",
+          "person_id": 135344,
+          "name": "Faisal Majeed",
           "party_name": "Green Party"
         },
         {
-          "person_id": 135344,
-          "name": "Faisal Majeed",
+          "person_id": 135345,
+          "name": "Kaiser Majeed",
           "party_name": "Green Party"
         },
         {
@@ -773,8 +773,8 @@
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 134241,
-          "name": "Israr Hussain",
+          "person_id": 94319,
+          "name": "Izzy Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -866,14 +866,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 99490,
-          "name": "Sadat Hussain",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133615,
           "name": "Shakir Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 99490,
+          "name": "Sadat Hussain",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133616,
@@ -944,7 +944,7 @@
           "party_name": "Advance UK"
         },
         {
-          "person_id": 135940,
+          "person_id": 3882,
           "name": "Graham Eardley",
           "party_name": "Independent"
         },
@@ -1115,13 +1115,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135922,
-          "name": "Khizar Hussain",
+          "person_id": 135921,
+          "name": "Basharat Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135921,
-          "name": "Basharat Hussain",
+          "person_id": 52156,
+          "name": "Khizar Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
