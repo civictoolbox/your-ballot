@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-26T08:08:08+00:00",
+    "generated_at": "2026-04-27T10:33:27+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4220,
@@ -11979,16 +11979,16 @@
       "ward_name": "Lower Stratton"
     },
     {
-      "person_id": 79472,
-      "name": "Steven John Gray",
+      "person_id": 79477,
+      "name": "Carolyn Ann Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
       "ward_name": "Cobham & Oxshott South"
     },
     {
-      "person_id": 79477,
-      "name": "Carolyn Ann Gray",
+      "person_id": 79472,
+      "name": "Steven John Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -13403,8 +13403,8 @@
       "ward_name": "Somersham"
     },
     {
-      "person_id": 135756,
-      "name": "Tyler Cain Hawkins",
+      "person_id": 73535,
+      "name": "Tyler Hawkins",
       "party_name": "Labour Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -18443,16 +18443,16 @@
       "ward_name": "Chelmsford Central"
     },
     {
-      "person_id": 111540,
-      "name": "Mandy Legg",
+      "person_id": 129576,
+      "name": "Mick Legg",
       "party_name": "Labour Party",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Bletchley West"
     },
     {
-      "person_id": 129576,
-      "name": "Mick Legg",
+      "person_id": 111540,
+      "name": "Mandy Legg",
       "party_name": "Labour Party",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -24107,14 +24107,6 @@
       "ward_name": "Tilgate"
     },
     {
-      "person_id": 132819,
-      "name": "Pratham Patel",
-      "party_name": "Labour Party",
-      "council_slug": "harrow",
-      "council_name": "Harrow",
-      "ward_name": "Centenary"
-    },
-    {
       "person_id": 132804,
       "name": "Hetal Patel",
       "party_name": "Labour Party",
@@ -24123,16 +24115,24 @@
       "ward_name": "Centenary"
     },
     {
-      "person_id": 124030,
-      "name": "Devisha Patel",
+      "person_id": 132819,
+      "name": "Pratham Patel",
+      "party_name": "Labour Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Centenary"
+    },
+    {
+      "person_id": 124031,
+      "name": "Hershil Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Edgware"
     },
     {
-      "person_id": 124031,
-      "name": "Hershil Patel",
+      "person_id": 124030,
+      "name": "Devisha Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -24147,16 +24147,16 @@
       "ward_name": "Harrow Weald"
     },
     {
-      "person_id": 137950,
-      "name": "Mukesh Patel",
+      "person_id": 108793,
+      "name": "Sofia Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "East Ham"
     },
     {
-      "person_id": 108793,
-      "name": "Sofia Patel",
+      "person_id": 137950,
+      "name": "Mukesh Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -25219,16 +25219,16 @@
       "ward_name": "Darwin"
     },
     {
-      "person_id": 91618,
-      "name": "Debbie Price",
+      "person_id": 48571,
+      "name": "Chris Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
       "ward_name": "St Paul's Cray"
     },
     {
-      "person_id": 48571,
-      "name": "Chris Price",
+      "person_id": 91618,
+      "name": "Debbie Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
@@ -26619,16 +26619,16 @@
       "ward_name": "Coseley"
     },
     {
-      "person_id": 135808,
-      "name": "Sandra Jane Roberts",
+      "person_id": 135807,
+      "name": "Howard Digby Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "St Margarets & North Twickenham"
     },
     {
-      "person_id": 135807,
-      "name": "Howard Digby Roberts",
+      "person_id": 135808,
+      "name": "Sandra Jane Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -26923,16 +26923,16 @@
       "ward_name": "Frinton & Walton"
     },
     {
-      "person_id": 16104,
-      "name": "Diane Roscoe",
+      "person_id": 122763,
+      "name": "David Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Blundellsands"
     },
     {
-      "person_id": 122763,
-      "name": "David Roscoe",
+      "person_id": 16104,
+      "name": "Diane Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -29035,16 +29035,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31531,7 +31531,7 @@
       "ward_name": "Kew"
     },
     {
-      "person_id": 127845,
+      "person_id": 55917,
       "name": "Symon Vegro",
       "party_name": "Labour Party",
       "council_slug": "st-albans",

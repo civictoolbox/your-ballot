@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-26T08:08:07+00:00",
+    "generated_at": "2026-04-27T10:33:27+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -53,13 +53,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 76470,
-          "name": "Ayrton Pointon",
+          "person_id": 131316,
+          "name": "David Pointon",
           "party_name": "Independent"
         },
         {
-          "person_id": 131316,
-          "name": "David Pointon",
+          "person_id": 76470,
+          "name": "Ayrton Pointon",
           "party_name": "Independent"
         },
         {
@@ -1007,7 +1007,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 131170,
+          "person_id": 62786,
           "name": "Steve Tulley",
           "party_name": "Independent"
         },
@@ -1471,7 +1471,7 @@
         },
         {
           "person_id": 17220,
-          "name": "Samatha Harvey",
+          "name": "Samantha Harvey",
           "party_name": "Reform UK"
         },
         {
@@ -1538,14 +1538,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130545,
-          "name": "Andrew Johnson",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 17221,
           "name": "Martyn Johnson",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 130545,
+          "name": "Andrew Johnson",
+          "party_name": "Green Party"
         },
         {
           "person_id": 62818,

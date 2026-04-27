@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-26T08:08:07+00:00",
+    "generated_at": "2026-04-27T10:33:27+00:00",
     "council_slug": "city-of-lincoln",
     "council_name": "City of Lincoln"
   },
@@ -117,7 +117,7 @@
       "candidate_count": 7,
       "candidates": [
         {
-          "person_id": 127277,
+          "person_id": 119618,
           "name": "Lesley Joan Allinson",
           "party_name": "Labour and Co-operative Party"
         },

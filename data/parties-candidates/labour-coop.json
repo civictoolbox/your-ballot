@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-26T08:08:08+00:00",
+    "generated_at": "2026-04-27T10:33:27+00:00",
     "party_key": "labour-coop",
     "display_name": "Labour and Co-operative Party",
     "candidate_count": 673,
@@ -163,16 +163,16 @@
       "ward_name": "Fellgate & Hedworth"
     },
     {
-      "person_id": 4142,
-      "name": "Junab Ali",
+      "person_id": 76251,
+      "name": "Rajhia Ali",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "Priory Vale"
     },
     {
-      "person_id": 76251,
-      "name": "Rajhia Ali",
+      "person_id": 4142,
+      "name": "Junab Ali",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -211,7 +211,7 @@
       "ward_name": "Crofton Park"
     },
     {
-      "person_id": 127277,
+      "person_id": 119618,
       "name": "Lesley Joan Allinson",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "city-of-lincoln",
@@ -2147,7 +2147,7 @@
       "ward_name": "Myatt's Fields"
     },
     {
-      "person_id": 128303,
+      "person_id": 10414,
       "name": "Ben Hartley",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "trafford",
@@ -2291,7 +2291,7 @@
       "ward_name": "Pound Hill"
     },
     {
-      "person_id": 131970,
+      "person_id": 108878,
       "name": "Sharon Hofman",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "kingston-upon-hull",
@@ -2667,16 +2667,16 @@
       "ward_name": "Plumstead & Glyndon"
     },
     {
-      "person_id": 132193,
-      "name": "Hassan Uzzaman Khan",
+      "person_id": 132194,
+      "name": "Imran Ahmed Khan",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132194,
-      "name": "Imran Ahmed Khan",
+      "person_id": 132193,
+      "name": "Hassan Uzzaman Khan",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -4395,16 +4395,16 @@
       "ward_name": "Perry Vale"
     },
     {
-      "person_id": 40405,
-      "name": "Carol Hannah Shelley",
+      "person_id": 110021,
+      "name": "Simon John Shelley",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "St Andrews East"
     },
     {
-      "person_id": 110021,
-      "name": "Simon John Shelley",
+      "person_id": 40405,
+      "name": "Carol Hannah Shelley",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",

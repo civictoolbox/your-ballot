@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-26T08:08:07+00:00",
+    "generated_at": "2026-04-27T10:33:27+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -513,13 +513,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 8622,
-          "name": "Kathryn Mary Pinnock",
+          "person_id": 53021,
+          "name": "Andrew Charles Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 53021,
-          "name": "Andrew Charles Pinnock",
+          "person_id": 8622,
+          "name": "Kathryn Mary Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
@@ -611,14 +611,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 7742,
-          "name": "Graham Turner",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 126509,
           "name": "Nicola Jane Turner",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 7742,
+          "name": "Graham Turner",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 75275,
@@ -845,8 +845,8 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135756,
-          "name": "Tyler Cain Hawkins",
+          "person_id": 73535,
+          "name": "Tyler Hawkins",
           "party_name": "Labour Party"
         },
         {
@@ -968,13 +968,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126656,
-          "name": "Edward Woodhead",
+          "person_id": 126658,
+          "name": "Viv Woodhead",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 126658,
-          "name": "Viv Woodhead",
+          "person_id": 126656,
+          "name": "Edward Woodhead",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -1041,14 +1041,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 134134,
-          "name": "Karam Hussain",
-          "party_name": "Community Alliance Kirklees"
-        },
-        {
           "person_id": 6361,
           "name": "Ednan Hussain",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 134134,
+          "name": "Karam Hussain",
+          "party_name": "Community Alliance Kirklees"
         },
         {
           "person_id": 134135,
@@ -1089,7 +1089,7 @@
       "candidate_count": 20,
       "candidates": [
         {
-          "person_id": 135775,
+          "person_id": 35997,
           "name": "Masood Ahmed",
           "party_name": "Independent"
         },
@@ -1521,13 +1521,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 53057,
-          "name": "Chris Green",
+          "person_id": 136931,
+          "name": "Alex Green",
           "party_name": "Green Party"
         },
         {
-          "person_id": 136931,
-          "name": "Alex Green",
+          "person_id": 53057,
+          "name": "Chris Green",
           "party_name": "Green Party"
         },
         {
@@ -1853,24 +1853,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133899,
-          "name": "Maya Elizabeth Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133898,
           "name": "Daniel Francis Michael Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133900,
-          "name": "David James Hall",
-          "party_name": "Conservative and Unionist Party"
+          "person_id": 133899,
+          "name": "Maya Elizabeth Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133901,
           "name": "George Mason Hall",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 133900,
+          "name": "David James Hall",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 109864,
