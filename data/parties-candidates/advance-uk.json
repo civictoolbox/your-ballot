@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-04-29T10:27:50+00:00",
+    "generated_at": "2026-04-30T10:26:32+00:00",
     "party_key": "advance-uk",
     "display_name": "Advance UK",
     "candidate_count": 17,
@@ -11,7 +11,7 @@
   },
   "candidates": [
     {
-      "person_id": 128615,
+      "person_id": 13760,
       "name": "Andrew Beaumont",
       "party_name": "Advance UK",
       "council_slug": "trafford",
@@ -123,7 +123,7 @@
       "ward_name": "Pheasey Park Farm"
     },
     {
-      "person_id": 127235,
+      "person_id": 4058,
       "name": "Paul Swansborough",
       "party_name": "Advance UK",
       "council_slug": "trafford",

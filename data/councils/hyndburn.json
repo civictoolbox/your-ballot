@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-29T10:27:50+00:00",
+    "generated_at": "2026-04-30T10:26:32+00:00",
     "council_slug": "hyndburn",
     "council_name": "Hyndburn"
   },
@@ -69,8 +69,8 @@
       "candidate_count": 3,
       "candidates": [
         {
-          "person_id": 125258,
-          "name": "Josh Blayne Allen",
+          "person_id": 17414,
+          "name": "Josh Allen",
           "party_name": "Independent"
         },
         {
