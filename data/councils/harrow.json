@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-30T10:26:32+00:00",
+    "generated_at": "2026-05-01T09:22:04+00:00",
     "council_slug": "harrow",
     "council_name": "Harrow"
   },
@@ -217,13 +217,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 124031,
-          "name": "Hershil Patel",
+          "person_id": 124030,
+          "name": "Devisha Patel",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 124030,
-          "name": "Devisha Patel",
+          "person_id": 124031,
+          "name": "Hershil Patel",
           "party_name": "Labour Party"
         },
         {
@@ -416,14 +416,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 42280,
-          "name": "Pritesh Patel",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 137367,
           "name": "Primesh Patel",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 42280,
+          "name": "Pritesh Patel",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 123768,
@@ -900,8 +900,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 126196,
-          "name": "Christopher John Baxter",
+          "person_id": 47760,
+          "name": "Christopher Baxter",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -935,8 +935,8 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126197,
-          "name": "Janet Teresa Mote",
+          "person_id": 47765,
+          "name": "Janet Mote",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1041,13 +1041,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 48559,
-          "name": "Graham Henson",
+          "person_id": 48560,
+          "name": "Maxine Henson",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 48560,
-          "name": "Maxine Henson",
+          "person_id": 48559,
+          "name": "Graham Henson",
           "party_name": "Labour Party"
         },
         {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-04-30T10:26:32+00:00",
+    "generated_at": "2026-05-01T09:22:04+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -865,14 +865,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 93579,
-          "name": "Miraj Patel",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 48050,
           "name": "Kirankumar Ramanbhai Patel",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 93579,
+          "name": "Miraj Patel",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 93841,
@@ -1056,7 +1056,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 137923,
+          "person_id": 34756,
           "name": "Oli Rahman",
           "party_name": "Newham Independents Party"
         },
@@ -1368,13 +1368,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135153,
-          "name": "Tamzied Hossain Khan",
+          "person_id": 135152,
+          "name": "Obaid Khan",
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 135152,
-          "name": "Obaid Khan",
+          "person_id": 135153,
+          "name": "Tamzied Hossain Khan",
           "party_name": "Newham Independents Party"
         },
         {
@@ -1830,7 +1830,7 @@
       "candidates": [
         {
           "person_id": 137682,
-          "name": "Noman MD Abu",
+          "name": "Noman Md Abu",
           "party_name": "Newham Independents Party"
         },
         {
@@ -1839,7 +1839,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 137677,
+          "person_id": 117399,
           "name": "Kumar Anand",
           "party_name": "Newham Independents Party"
         },
