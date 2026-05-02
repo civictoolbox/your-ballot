@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-01T09:22:04+00:00",
+    "generated_at": "2026-05-02T08:14:55+00:00",
     "council_slug": "pendle",
     "council_name": "Pendle"
   },
@@ -112,7 +112,7 @@
       "candidate_count": 6,
       "candidates": [
         {
-          "person_id": 133284,
+          "person_id": 37656,
           "name": "Mohammad Ammer",
           "party_name": "Independent"
         },

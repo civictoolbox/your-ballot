@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-01T09:22:04+00:00",
+    "generated_at": "2026-05-02T08:14:55+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -23,14 +23,14 @@
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 138470,
-          "name": "Syed Ahmed",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 138469,
           "name": "Mohammed Mashud Ahmed",
           "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138470,
+          "name": "Syed Ahmed",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 93869,
@@ -249,13 +249,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137009,
-          "name": "Precious Nkire",
+          "person_id": 137008,
+          "name": "Goodness Nkire",
           "party_name": "Christian Peoples Alliance"
         },
         {
-          "person_id": 137008,
-          "name": "Goodness Nkire",
+          "person_id": 137009,
+          "name": "Precious Nkire",
           "party_name": "Christian Peoples Alliance"
         },
         {

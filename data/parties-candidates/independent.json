@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-01T09:22:04+00:00",
+    "generated_at": "2026-05-02T08:14:56+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1213,
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -579,16 +579,16 @@
       "ward_name": "Bradford Moor"
     },
     {
-      "person_id": 131905,
-      "name": "Sundas Ali",
+      "person_id": 131904,
+      "name": "Majid Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 131904,
-      "name": "Majid Ali",
+      "person_id": 131905,
+      "name": "Sundas Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -835,7 +835,7 @@
       "ward_name": "Batley West"
     },
     {
-      "person_id": 133284,
+      "person_id": 37656,
       "name": "Mohammad Ammer",
       "party_name": "Independent",
       "council_slug": "pendle",
@@ -1635,16 +1635,16 @@
       "ward_name": "Hebden Bridge & Todmorden East"
     },
     {
-      "person_id": 13410,
-      "name": "Chris Bott",
+      "person_id": 42128,
+      "name": "Paul Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 42128,
-      "name": "Paul Bott",
+      "person_id": 13410,
+      "name": "Chris Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -2723,16 +2723,16 @@
       "ward_name": "Sunbury Common & Ashford Common"
     },
     {
-      "person_id": 11195,
-      "name": "Marc Donnelly",
+      "person_id": 99024,
+      "name": "Margaret Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Chapel"
     },
     {
-      "person_id": 99024,
-      "name": "Margaret Donnelly",
+      "person_id": 11195,
+      "name": "Marc Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -3155,16 +3155,16 @@
       "ward_name": "Southall West"
     },
     {
-      "person_id": 131490,
-      "name": "Donna Foggon",
+      "person_id": 110112,
+      "name": "Terry Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Bede"
     },
     {
-      "person_id": 110112,
-      "name": "Terry Foggon",
+      "person_id": 131490,
+      "name": "Donna Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -3851,16 +3851,16 @@
       "ward_name": "Park"
     },
     {
-      "person_id": 138949,
-      "name": "Vicky Harrison",
+      "person_id": 5445,
+      "name": "Steve Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Cleadon Park & Harton Moor"
     },
     {
-      "person_id": 5445,
-      "name": "Steve Harrison",
+      "person_id": 138949,
+      "name": "Vicky Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4483,16 +4483,16 @@
       "ward_name": "Great Horton"
     },
     {
-      "person_id": 110875,
-      "name": "Sharat Hussain",
+      "person_id": 13638,
+      "name": "Arshad Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Toller"
     },
     {
-      "person_id": 13638,
-      "name": "Arshad Hussain",
+      "person_id": 110875,
+      "name": "Sharat Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -4507,16 +4507,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -4587,16 +4587,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 52156,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 52156,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -6067,7 +6067,7 @@
       "ward_name": "Herongate, Ingrave & West Horndon"
     },
     {
-      "person_id": 128828,
+      "person_id": 84307,
       "name": "John Martin",
       "party_name": "Independent",
       "council_slug": "ealing",
@@ -6571,7 +6571,7 @@
       "ward_name": "West Ham"
     },
     {
-      "person_id": 134618,
+      "person_id": 41956,
       "name": "Gerry Moynihan",
       "party_name": "Independent",
       "council_slug": "birmingham",
@@ -6691,8 +6691,8 @@
       "ward_name": "Beighton"
     },
     {
-      "person_id": 138406,
-      "name": "Karen Louise Myers",
+      "person_id": 110166,
+      "name": "Karen Myers",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -7483,7 +7483,7 @@
       "ward_name": "Alexandra"
     },
     {
-      "person_id": 132239,
+      "person_id": 82187,
       "name": "Abdul Qadus",
       "party_name": "Independent",
       "council_slug": "dudley",
@@ -7924,7 +7924,7 @@
     },
     {
       "person_id": 125051,
-      "name": "Anwar Sabar",
+      "name": "Anwar Ali Sabar",
       "party_name": "Ealing Community Independents Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
@@ -8003,17 +8003,17 @@
       "ward_name": "Little Horton"
     },
     {
-      "person_id": 131914,
-      "name": "Bahlal Khalid Saleem",
-      "party_name": "Independent",
+      "person_id": 110871,
+      "name": "Rizwan Saleem",
+      "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 110871,
-      "name": "Rizwan Saleem",
-      "party_name": "Your Bradford Independent group",
+      "person_id": 131914,
+      "name": "Bahlal Khalid Saleem",
+      "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
@@ -8299,8 +8299,8 @@
       "ward_name": "Willingdon & South Downs"
     },
     {
-      "person_id": 128225,
-      "name": "Ian Michael Shipp",
+      "person_id": 53601,
+      "name": "Ian Shipp",
       "party_name": "Independent",
       "council_slug": "suffolk",
       "council_name": "Suffolk",

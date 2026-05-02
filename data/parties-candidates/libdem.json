@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-01T09:22:04+00:00",
+    "generated_at": "2026-05-02T08:14:56+00:00",
     "party_key": "libdem",
     "display_name": "Liberal Democrats",
     "candidate_count": 3947,
@@ -2091,16 +2091,16 @@
       "ward_name": "Southway"
     },
     {
-      "person_id": 12040,
-      "name": "John Batchelor",
+      "person_id": 20391,
+      "name": "Henry Batchelor",
       "party_name": "Liberal Democrats",
       "council_slug": "south-cambridgeshire",
       "council_name": "South Cambridgeshire",
       "ward_name": "Linton"
     },
     {
-      "person_id": 20391,
-      "name": "Henry Batchelor",
+      "person_id": 12040,
+      "name": "John Batchelor",
       "party_name": "Liberal Democrats",
       "council_slug": "south-cambridgeshire",
       "council_name": "South Cambridgeshire",
@@ -3603,16 +3603,16 @@
       "ward_name": "Clapham East"
     },
     {
-      "person_id": 12997,
-      "name": "Marie Bradburn",
+      "person_id": 13002,
+      "name": "Kerrie Bradburn",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Bradwell"
     },
     {
-      "person_id": 13002,
-      "name": "Kerrie Bradburn",
+      "person_id": 12997,
+      "name": "Marie Bradburn",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -4539,16 +4539,16 @@
       "ward_name": "Waverley Eastern Villages"
     },
     {
-      "person_id": 43494,
-      "name": "Joan Bushill",
+      "person_id": 134029,
+      "name": "Chris Bushill",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Arnos Grove"
     },
     {
-      "person_id": 134029,
-      "name": "Chris Bushill",
+      "person_id": 43494,
+      "name": "Joan Bushill",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -6227,16 +6227,16 @@
       "ward_name": "Batchley & Brockhill"
     },
     {
-      "person_id": 9684,
-      "name": "Robert Charles Cooper",
+      "person_id": 97251,
+      "name": "Hannah Lilian Jane Cooper",
       "party_name": "Liberal Democrats",
       "council_slug": "basingstoke-and-deane",
       "council_name": "Basingstoke and Deane",
       "ward_name": "Oakley & The Candovers"
     },
     {
-      "person_id": 97251,
-      "name": "Hannah Lilian Jane Cooper",
+      "person_id": 9684,
+      "name": "Robert Charles Cooper",
       "party_name": "Liberal Democrats",
       "council_slug": "basingstoke-and-deane",
       "council_name": "Basingstoke and Deane",
@@ -6539,16 +6539,16 @@
       "ward_name": "Bursledon & Hound North"
     },
     {
-      "person_id": 42807,
-      "name": "Susan Craig",
+      "person_id": 45445,
+      "name": "Peter Thomas Craig",
       "party_name": "Liberal Democrats",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Whickham North & Swalwell"
     },
     {
-      "person_id": 45445,
-      "name": "Peter Thomas Craig",
+      "person_id": 42807,
+      "name": "Susan Craig",
       "party_name": "Liberal Democrats",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -8411,16 +8411,16 @@
       "ward_name": "Pennywell & South Hylton"
     },
     {
-      "person_id": 134329,
-      "name": "Derya Ekici",
+      "person_id": 134328,
+      "name": "Ayse Ekici",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Jubilee"
     },
     {
-      "person_id": 134328,
-      "name": "Ayse Ekici",
+      "person_id": 134329,
+      "name": "Derya Ekici",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -9835,16 +9835,16 @@
       "ward_name": "London Fields"
     },
     {
-      "person_id": 134084,
-      "name": "Elizabeth Gaffney",
+      "person_id": 125162,
+      "name": "Kath Gaffney",
       "party_name": "Liberal Democrats",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Hetton"
     },
     {
-      "person_id": 125162,
-      "name": "Kath Gaffney",
+      "person_id": 134084,
+      "name": "Elizabeth Gaffney",
       "party_name": "Liberal Democrats",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -12195,16 +12195,16 @@
       "ward_name": "Hill Head"
     },
     {
-      "person_id": 127807,
-      "name": "Finbarr Dominic Headon",
+      "person_id": 42639,
+      "name": "Thomas Headon",
       "party_name": "Liberal Democrats",
       "council_slug": "greenwich",
       "council_name": "Greenwich",
       "ward_name": "Abbey Wood"
     },
     {
-      "person_id": 42639,
-      "name": "Thomas Headon",
+      "person_id": 127807,
+      "name": "Finbarr Dominic Headon",
       "party_name": "Liberal Democrats",
       "council_slug": "greenwich",
       "council_name": "Greenwich",
@@ -13683,16 +13683,16 @@
       "ward_name": "Aston"
     },
     {
-      "person_id": 124433,
-      "name": "Arshad Hussain",
+      "person_id": 91590,
+      "name": "Iftekhar Hussain",
       "party_name": "Liberal Democrats",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Bromford & Hodge Hill"
     },
     {
-      "person_id": 91590,
-      "name": "Iftekhar Hussain",
+      "person_id": 124433,
+      "name": "Arshad Hussain",
       "party_name": "Liberal Democrats",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -14691,16 +14691,16 @@
       "ward_name": "New Bradwell"
     },
     {
-      "person_id": 7031,
-      "name": "Nigel Jones",
+      "person_id": 4909,
+      "name": "Hilary Jones",
       "party_name": "Liberal Democrats",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
       "ward_name": "Thistleberry"
     },
     {
-      "person_id": 4909,
-      "name": "Hilary Jones",
+      "person_id": 7031,
+      "name": "Nigel Jones",
       "party_name": "Liberal Democrats",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
@@ -15939,16 +15939,16 @@
       "ward_name": "Pedmore & Stourbridge East"
     },
     {
-      "person_id": 88716,
-      "name": "Griseldis Kirsch",
+      "person_id": 41952,
+      "name": "Andreas Kirsch",
       "party_name": "Liberal Democrats",
       "council_slug": "kingston-upon-thames",
       "council_name": "Kingston upon Thames",
       "ward_name": "Chessington South & Malden Rushett"
     },
     {
-      "person_id": 41952,
-      "name": "Andreas Kirsch",
+      "person_id": 88716,
+      "name": "Griseldis Kirsch",
       "party_name": "Liberal Democrats",
       "council_slug": "kingston-upon-thames",
       "council_name": "Kingston upon Thames",
@@ -16827,16 +16827,16 @@
       "ward_name": "Ryburn"
     },
     {
-      "person_id": 92940,
-      "name": "Sheila Michelle Levy",
+      "person_id": 92939,
+      "name": "Philip Grenville Levy",
       "party_name": "Liberal Democrats",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Canons"
     },
     {
-      "person_id": 92939,
-      "name": "Philip Grenville Levy",
+      "person_id": 92940,
+      "name": "Sheila Michelle Levy",
       "party_name": "Liberal Democrats",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -19355,16 +19355,16 @@
       "ward_name": "Stanley"
     },
     {
-      "person_id": 91198,
-      "name": "Debbie Mickelburgh",
+      "person_id": 91197,
+      "name": "Brett Alistair Mickelburgh",
       "party_name": "Liberal Democrats",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
       "ward_name": "Godmanchester & Hemingford Abbots"
     },
     {
-      "person_id": 91197,
-      "name": "Brett Alistair Mickelburgh",
+      "person_id": 91198,
+      "name": "Debbie Mickelburgh",
       "party_name": "Liberal Democrats",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
@@ -22483,16 +22483,16 @@
       "ward_name": "St Mark's"
     },
     {
-      "person_id": 53021,
-      "name": "Andrew Charles Pinnock",
+      "person_id": 8622,
+      "name": "Kathryn Mary Pinnock",
       "party_name": "Liberal Democrats",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Cleckheaton"
     },
     {
-      "person_id": 8622,
-      "name": "Kathryn Mary Pinnock",
+      "person_id": 53021,
+      "name": "Andrew Charles Pinnock",
       "party_name": "Liberal Democrats",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -23339,16 +23339,16 @@
       "ward_name": "Furzton"
     },
     {
-      "person_id": 130052,
-      "name": "Asad Raja",
+      "person_id": 130053,
+      "name": "Humna Raja",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Tattenhoe"
     },
     {
-      "person_id": 130053,
-      "name": "Humna Raja",
+      "person_id": 130052,
+      "name": "Asad Raja",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -26931,16 +26931,16 @@
       "ward_name": "Regent's Park"
     },
     {
-      "person_id": 42633,
-      "name": "Lorice Stainer",
+      "person_id": 42990,
+      "name": "Alan Stainer",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Southgate"
     },
     {
-      "person_id": 42990,
-      "name": "Alan Stainer",
+      "person_id": 42633,
+      "name": "Lorice Stainer",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -27091,16 +27091,16 @@
       "ward_name": "Southfield"
     },
     {
-      "person_id": 45794,
-      "name": "Margaret Steel",
+      "person_id": 134702,
+      "name": "Michael Steel",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Enfield Lock"
     },
     {
-      "person_id": 134702,
-      "name": "Michael Steel",
+      "person_id": 45794,
+      "name": "Margaret Steel",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -28947,16 +28947,16 @@
       "ward_name": "Cricket Green"
     },
     {
-      "person_id": 129332,
-      "name": "Carol Vella",
+      "person_id": 129331,
+      "name": "Alfred Dominic Vella",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Bletchley South"
     },
     {
-      "person_id": 129331,
-      "name": "Alfred Dominic Vella",
+      "person_id": 129332,
+      "name": "Carol Vella",
       "party_name": "Liberal Democrats",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -29051,16 +29051,16 @@
       "ward_name": "Bromley Common & Holwood"
     },
     {
-      "person_id": 45705,
-      "name": "Anne Viney",
+      "person_id": 45706,
+      "name": "Stephen Viney",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Carterhatch"
     },
     {
-      "person_id": 45706,
-      "name": "Stephen Viney",
+      "person_id": 45705,
+      "name": "Anne Viney",
       "party_name": "Liberal Democrats",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -29435,7 +29435,7 @@
       "ward_name": "Hargate & Hempsted"
     },
     {
-      "person_id": 134027,
+      "person_id": 37688,
       "name": "Peter Walton",
       "party_name": "Liberal Democrats",
       "council_slug": "sunderland",
@@ -30211,16 +30211,16 @@
       "ward_name": "Brixton North"
     },
     {
-      "person_id": 11708,
-      "name": "Sylvia Jane Whyte",
+      "person_id": 11678,
+      "name": "Don Whyte",
       "party_name": "Liberal Democrats",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
       "ward_name": "Thorpe, Longcross & Ottershaw"
     },
     {
-      "person_id": 11678,
-      "name": "Don Whyte",
+      "person_id": 11708,
+      "name": "Sylvia Jane Whyte",
       "party_name": "Liberal Democrats",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
@@ -31019,16 +31019,16 @@
       "ward_name": "Batley West"
     },
     {
-      "person_id": 126656,
-      "name": "Edward Woodhead",
+      "person_id": 126658,
+      "name": "Viv Woodhead",
       "party_name": "Liberal Democrats",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Denby Dale"
     },
     {
-      "person_id": 126658,
-      "name": "Viv Woodhead",
+      "person_id": 126656,
+      "name": "Edward Woodhead",
       "party_name": "Liberal Democrats",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -31203,16 +31203,16 @@
       "ward_name": "Stalham"
     },
     {
-      "person_id": 125434,
-      "name": "Janet Wray",
+      "person_id": 79635,
+      "name": "Chris Wray",
       "party_name": "Liberal Democrats",
       "council_slug": "barnsley",
       "council_name": "Barnsley",
       "ward_name": "Dodworth, Stainborough & Tankersley"
     },
     {
-      "person_id": 79635,
-      "name": "Chris Wray",
+      "person_id": 125434,
+      "name": "Janet Wray",
       "party_name": "Liberal Democrats",
       "council_slug": "barnsley",
       "council_name": "Barnsley",

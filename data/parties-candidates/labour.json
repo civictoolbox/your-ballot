@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-01T09:22:04+00:00",
+    "generated_at": "2026-05-02T08:14:56+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4220,
@@ -699,16 +699,16 @@
       "ward_name": "Walker"
     },
     {
-      "person_id": 136492,
-      "name": "Christine Aird",
+      "person_id": 136491,
+      "name": "Brad Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Walkergate"
     },
     {
-      "person_id": 136491,
-      "name": "Brad Aird",
+      "person_id": 136492,
+      "name": "Christine Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -3635,8 +3635,8 @@
       "ward_name": "Salterhebble, Southowram & Skircoat Green"
     },
     {
-      "person_id": 128323,
-      "name": "Emma Jane Bishton",
+      "person_id": 1142,
+      "name": "Emma Bishton",
       "party_name": "Labour Party",
       "council_slug": "suffolk",
       "council_name": "Suffolk",
@@ -12227,16 +12227,16 @@
       "ward_name": "Bethnal Green West"
     },
     {
-      "person_id": 129072,
-      "name": "Janet Elaine Grewal",
+      "person_id": 47645,
+      "name": "Shivraj Singh Grewal",
       "party_name": "Labour Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
       "ward_name": "Heston Central"
     },
     {
-      "person_id": 47645,
-      "name": "Shivraj Singh Grewal",
+      "person_id": 129072,
+      "name": "Janet Elaine Grewal",
       "party_name": "Labour Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
@@ -13483,7 +13483,7 @@
       "ward_name": "Redbourn"
     },
     {
-      "person_id": 125362,
+      "person_id": 5360,
       "name": "Steve Haynes",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
@@ -17155,16 +17155,16 @@
       "ward_name": "Eastbury"
     },
     {
-      "person_id": 10047,
-      "name": "Mariam Khan",
+      "person_id": 70002,
+      "name": "Ansar Ali Khan",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Alum Rock"
     },
     {
-      "person_id": 70002,
-      "name": "Ansar Ali Khan",
+      "person_id": 10047,
+      "name": "Mariam Khan",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -26619,16 +26619,16 @@
       "ward_name": "Coseley"
     },
     {
-      "person_id": 135808,
-      "name": "Sandra Jane Roberts",
+      "person_id": 135807,
+      "name": "Howard Digby Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "St Margarets & North Twickenham"
     },
     {
-      "person_id": 135807,
-      "name": "Howard Digby Roberts",
+      "person_id": 135808,
+      "name": "Sandra Jane Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -26923,16 +26923,16 @@
       "ward_name": "Frinton & Walton"
     },
     {
-      "person_id": 122763,
-      "name": "David Roscoe",
+      "person_id": 16104,
+      "name": "Diane Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Blundellsands"
     },
     {
-      "person_id": 16104,
-      "name": "Diane Roscoe",
+      "person_id": 122763,
+      "name": "David Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -29035,16 +29035,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31883,16 +31883,16 @@
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 38587,
-      "name": "Lauren Marie Wall",
+      "person_id": 38560,
+      "name": "Ray Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
       "ward_name": "North Hanwell"
     },
     {
-      "person_id": 38560,
-      "name": "Ray Wall",
+      "person_id": 38587,
+      "name": "Lauren Marie Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
