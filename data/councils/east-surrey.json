@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-02T08:14:55+00:00",
+    "generated_at": "2026-05-03T09:05:16+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -729,14 +729,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 17024,
-          "name": "Alex Coomes",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 90040,
           "name": "Sarah Coomes",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 17024,
+          "name": "Alex Coomes",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 42914,
@@ -1392,13 +1392,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 92537,
-          "name": "Pamela Freeman",
+          "person_id": 112034,
+          "name": "Adrian Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 112034,
-          "name": "Adrian Freeman",
+          "person_id": 92537,
+          "name": "Pamela Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
