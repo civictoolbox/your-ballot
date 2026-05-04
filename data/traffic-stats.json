@@ -1,19 +1,14 @@
 {
   "_meta": {
-    "generated_at": "2026-05-03T08:58:19Z",
+    "generated_at": "2026-05-04T10:31:18Z",
     "repo": "civictoolbox/your-ballot",
     "source": "GitHub Repo Traffic API",
     "window": "14 days rolling"
   },
   "views": {
-    "count": 3,
-    "uniques": 1,
+    "count": 0,
+    "uniques": 0,
     "views": [
-      {
-        "timestamp": "2026-04-19T00:00:00Z",
-        "count": 3,
-        "uniques": 1
-      },
       {
         "timestamp": "2026-04-20T00:00:00Z",
         "count": 0,
@@ -78,18 +73,18 @@
         "timestamp": "2026-05-02T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-05-03T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ]
   },
   "clones": {
-    "count": 857,
-    "uniques": 287,
+    "count": 625,
+    "uniques": 194,
     "clones": [
-      {
-        "timestamp": "2026-04-19T00:00:00Z",
-        "count": 265,
-        "uniques": 114
-      },
       {
         "timestamp": "2026-04-20T00:00:00Z",
         "count": 28,
@@ -154,22 +149,14 @@
         "timestamp": "2026-05-02T00:00:00Z",
         "count": 22,
         "uniques": 8
+      },
+      {
+        "timestamp": "2026-05-03T00:00:00Z",
+        "count": 33,
+        "uniques": 9
       }
     ]
   },
-  "referrers": [
-    {
-      "referrer": "github.com",
-      "count": 1,
-      "uniques": 1
-    }
-  ],
-  "popular_paths": [
-    {
-      "path": "/civictoolbox/your-ballot",
-      "title": "Overview",
-      "count": 1,
-      "uniques": 1
-    }
-  ]
+  "referrers": [],
+  "popular_paths": []
 }
