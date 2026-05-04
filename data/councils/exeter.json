@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-03T09:05:16+00:00",
+    "generated_at": "2026-05-04T10:34:27+00:00",
     "council_slug": "exeter",
     "council_name": "Exeter"
   },
@@ -185,14 +185,14 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 11175,
-          "name": "Michael Geoffrey Payne",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133125,
           "name": "Anthony John Payne",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 11175,
+          "name": "Michael Geoffrey Payne",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 11130,
