@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-04T10:34:27+00:00",
+    "generated_at": "2026-05-05T09:32:50+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -423,13 +423,13 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132184,
-          "name": "Mukhtar Ali",
+          "person_id": 132185,
+          "name": "Sakib Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132185,
-          "name": "Sakib Ali",
+          "person_id": 132184,
+          "name": "Mukhtar Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -604,13 +604,13 @@
       "candidate_count": 19,
       "candidates": [
         {
-          "person_id": 131905,
-          "name": "Sundas Ali",
+          "person_id": 131904,
+          "name": "Majid Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 131904,
-          "name": "Majid Ali",
+          "person_id": 131905,
+          "name": "Sundas Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -1562,14 +1562,14 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 126119,
-          "name": "Fatima Safa Ali",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 132106,
           "name": "Shazad Ali",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 126119,
+          "name": "Fatima Safa Ali",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 132107,
@@ -2002,6 +2002,11 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
+          "person_id": 110875,
+          "name": "Sharat Hussain",
+          "party_name": "Independent"
+        },
+        {
           "person_id": 13638,
           "name": "Arshad Hussain",
           "party_name": "Independent"
@@ -2010,11 +2015,6 @@
           "person_id": 38368,
           "name": "Kamran Hussain",
           "party_name": "Labour Party"
-        },
-        {
-          "person_id": 110875,
-          "name": "Sharat Hussain",
-          "party_name": "Independent"
         },
         {
           "person_id": 131819,
