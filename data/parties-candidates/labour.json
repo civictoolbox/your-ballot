@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-05T09:32:50+00:00",
+    "generated_at": "2026-05-06T10:35:39+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4220,
@@ -699,16 +699,16 @@
       "ward_name": "Walker"
     },
     {
-      "person_id": 136492,
-      "name": "Christine Aird",
+      "person_id": 136491,
+      "name": "Brad Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Walkergate"
     },
     {
-      "person_id": 136491,
-      "name": "Brad Aird",
+      "person_id": 136492,
+      "name": "Christine Aird",
       "party_name": "Labour Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -1115,7 +1115,7 @@
       "ward_name": "Small Heath"
     },
     {
-      "person_id": 99970,
+      "person_id": 139158,
       "name": "Liaqat Ali",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
@@ -3347,16 +3347,16 @@
       "ward_name": "Boleyn"
     },
     {
-      "person_id": 45958,
-      "name": "Kastriot Berberi",
+      "person_id": 91879,
+      "name": "Marsela Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
       "ward_name": "Forest"
     },
     {
-      "person_id": 91879,
-      "name": "Marsela Berberi",
+      "person_id": 45958,
+      "name": "Kastriot Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
@@ -11099,7 +11099,7 @@
       "ward_name": "West Drayton"
     },
     {
-      "person_id": 128095,
+      "person_id": 93217,
       "name": "Ella Garelick",
       "party_name": "Labour Party",
       "council_slug": "hillingdon",
@@ -12243,16 +12243,16 @@
       "ward_name": "Heston Central"
     },
     {
-      "person_id": 39138,
-      "name": "Ajmer Grewal",
+      "person_id": 39139,
+      "name": "Pritam Singh Grewal",
       "party_name": "Labour Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
       "ward_name": "Hounslow Central"
     },
     {
-      "person_id": 39139,
-      "name": "Pritam Singh Grewal",
+      "person_id": 39138,
+      "name": "Ajmer Grewal",
       "party_name": "Labour Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
@@ -13755,16 +13755,16 @@
       "ward_name": "Shirley North"
     },
     {
-      "person_id": 48560,
-      "name": "Maxine Henson",
+      "person_id": 48559,
+      "name": "Graham Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Roxbourne"
     },
     {
-      "person_id": 48559,
-      "name": "Graham Henson",
+      "person_id": 48560,
+      "name": "Maxine Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -19627,16 +19627,16 @@
       "ward_name": "Bloxwich West"
     },
     {
-      "person_id": 112815,
-      "name": "Dean Margetts",
+      "person_id": 112845,
+      "name": "Klara Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Paddock"
     },
     {
-      "person_id": 112845,
-      "name": "Klara Margetts",
+      "person_id": 112815,
+      "name": "Dean Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -24123,16 +24123,16 @@
       "ward_name": "Centenary"
     },
     {
-      "person_id": 124031,
-      "name": "Hershil Patel",
+      "person_id": 124030,
+      "name": "Devisha Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Edgware"
     },
     {
-      "person_id": 124030,
-      "name": "Devisha Patel",
+      "person_id": 124031,
+      "name": "Hershil Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -29035,16 +29035,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31019,7 +31019,7 @@
       "ward_name": "Haverstoe"
     },
     {
-      "person_id": 48662,
+      "person_id": 139155,
       "name": "Peter John Tozer",
       "party_name": "Labour Party",
       "council_slug": "bromley",
@@ -31883,16 +31883,16 @@
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 38587,
-      "name": "Lauren Marie Wall",
+      "person_id": 38560,
+      "name": "Ray Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
       "ward_name": "North Hanwell"
     },
     {
-      "person_id": 38560,
-      "name": "Ray Wall",
+      "person_id": 38587,
+      "name": "Lauren Marie Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",

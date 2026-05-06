@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-05T09:32:50+00:00",
+    "generated_at": "2026-05-06T10:35:38+00:00",
     "council_slug": "sunderland",
     "council_name": "Sunderland"
   },
@@ -38,7 +38,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 133722,
+          "person_id": 75398,
           "name": "Ehthesham Haque",
           "party_name": "Labour and Co-operative Party"
         },
@@ -1039,13 +1039,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 134232,
-          "name": "Angela Smith",
+          "person_id": 134233,
+          "name": "George Thomas Smith",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 134233,
-          "name": "George Thomas Smith",
+          "person_id": 134232,
+          "name": "Angela Smith",
           "party_name": "Labour Party"
         },
         {
@@ -1087,13 +1087,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 125143,
-          "name": "Carol Giles",
+          "person_id": 125145,
+          "name": "Russell Arthur Giles",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125145,
-          "name": "Russell Arthur Giles",
+          "person_id": 125143,
+          "name": "Carol Giles",
           "party_name": "Reform UK"
         },
         {
