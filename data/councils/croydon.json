@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-06T10:35:38+00:00",
+    "generated_at": "2026-05-07T11:18:13+00:00",
     "council_slug": "croydon",
     "council_name": "Croydon"
   },
@@ -486,7 +486,7 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 129313,
+          "person_id": 43892,
           "name": "Paul Wyn Ednyfed Ainscough",
           "party_name": "Green Party"
         },
@@ -1416,13 +1416,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 42889,
-          "name": "Liz Bebington",
+          "person_id": 42888,
+          "name": "Andy Bebington",
           "party_name": "Green Party"
         },
         {
-          "person_id": 42888,
-          "name": "Andy Bebington",
+          "person_id": 42889,
+          "name": "Liz Bebington",
           "party_name": "Green Party"
         },
         {

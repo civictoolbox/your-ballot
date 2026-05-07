@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-06T10:35:38+00:00",
+    "generated_at": "2026-05-07T11:18:13+00:00",
     "council_slug": "blackburn-with-darwen",
     "council_name": "Blackburn With Darwen"
   },
@@ -320,7 +320,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 132501,
+          "person_id": 90382,
           "name": "Elaine Whittingham",
           "party_name": "Independent"
         }
@@ -349,7 +349,7 @@
         },
         {
           "person_id": 132505,
-          "name": "Emma MacAulay",
+          "name": "Emma Macaulay",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -508,8 +508,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 132007,
-          "name": "Altaf Patel",
+          "person_id": 132008,
+          "name": "Maulana Siddiq Patel",
           "party_name": "Independent"
         },
         {
@@ -518,8 +518,8 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 132008,
-          "name": "Maulana Siddiq Patel",
+          "person_id": 132007,
+          "name": "Altaf Patel",
           "party_name": "Independent"
         },
         {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-06T10:35:38+00:00",
+    "generated_at": "2026-05-07T11:18:13+00:00",
     "council_slug": "burnley",
     "council_name": "Burnley"
   },
@@ -18,7 +18,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 129378,
+          "person_id": 43977,
           "name": "Afrasiab Anwar",
           "party_name": "Independent"
         },
@@ -285,7 +285,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 129405,
+          "person_id": 15105,
           "name": "Asif Raja",
           "party_name": "Liberal Democrats"
         }

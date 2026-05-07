@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-06T10:35:38+00:00",
+    "generated_at": "2026-05-07T11:18:13+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -1097,7 +1097,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 138060,
+          "person_id": 47814,
           "name": "Laurence Nasskau",
           "party_name": "Labour Party"
         },
@@ -1107,14 +1107,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 41037,
-          "name": "Christian Stevens",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 125874,
           "name": "Andrew Stevens",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 41037,
+          "name": "Christian Stevens",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 102167,
@@ -1387,18 +1387,18 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 126832,
+          "person_id": 23356,
           "name": "Elizabeth Cooper",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 112034,
-          "name": "Adrian Freeman",
+          "person_id": 92537,
+          "name": "Pamela Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 92537,
-          "name": "Pamela Freeman",
+          "person_id": 112034,
+          "name": "Adrian Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -2183,8 +2183,8 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 90113,
-          "name": "Helen Clare Pilmer",
+          "person_id": 75040,
+          "name": "Helen Pilmer",
           "party_name": "Labour and Co-operative Party"
         }
       ]
