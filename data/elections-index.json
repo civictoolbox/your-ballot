@@ -1,11 +1,11 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-07T11:18:13+00:00",
+    "generated_at": "2026-05-08T08:18:49+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
     "ward_count": 2966,
-    "candidate_count": 25020,
+    "candidate_count": 25019,
     "seat_count": 5060
   },
   "councils": [
@@ -1640,7 +1640,7 @@
       "slug": "hartlepool",
       "name": "Hartlepool",
       "ward_count": 12,
-      "candidate_count": 58,
+      "candidate_count": 57,
       "seat_count": 12,
       "wards": [
         "Burn Valley",

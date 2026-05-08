@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated_at": "2026-05-07T11:18:14+00:00",
+    "generated_at": "2026-05-08T08:18:49+00:00",
     "party_count": 94,
-    "candidate_count": 25020
+    "candidate_count": 25019
   },
   "parties": [
     {
@@ -14,7 +14,7 @@
     {
       "key": "conservative",
       "display_name": "Conservative Party",
-      "candidate_count": 4765,
+      "candidate_count": 4764,
       "council_count": 156
     },
     {

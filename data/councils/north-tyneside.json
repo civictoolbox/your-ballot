@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-07T11:18:13+00:00",
+    "generated_at": "2026-05-08T08:18:49+00:00",
     "council_slug": "north-tyneside",
     "council_name": "North Tyneside"
   },
@@ -117,8 +117,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 129080,
-          "name": "Steven Paul Robinson",
+          "person_id": 73918,
+          "name": "Steven Robinson",
           "party_name": "Reform UK"
         }
       ]
@@ -389,14 +389,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 125455,
-          "name": "Helen Smith McGuire",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 130572,
           "name": "Phillip McGuire",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 125455,
+          "name": "Helen Smith McGuire",
+          "party_name": "Green Party"
         },
         {
           "person_id": 129183,
