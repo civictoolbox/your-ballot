@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-08T08:18:49+00:00",
+    "generated_at": "2026-05-09T08:56:02+00:00",
     "party_key": "conservative",
     "display_name": "Conservative Party",
     "candidate_count": 4764,
@@ -123,16 +123,16 @@
       "ward_name": "Greenstead"
     },
     {
-      "person_id": 134817,
-      "name": "Mark Stewart Ackroyd",
+      "person_id": 134818,
+      "name": "Sara Jane Ackroyd",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Sheldon"
     },
     {
-      "person_id": 134818,
-      "name": "Sara Jane Ackroyd",
+      "person_id": 134817,
+      "name": "Mark Stewart Ackroyd",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -179,16 +179,16 @@
       "ward_name": "Bridge"
     },
     {
-      "person_id": 130998,
-      "name": "Cherie Adams",
+      "person_id": 76328,
+      "name": "Daniel Adams",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "St Andrews West & Tadpole"
     },
     {
-      "person_id": 76328,
-      "name": "Daniel Adams",
+      "person_id": 130998,
+      "name": "Cherie Adams",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -1091,16 +1091,16 @@
       "ward_name": "Athersley & New Lodge"
     },
     {
-      "person_id": 92140,
-      "name": "Ulric Almqvist",
+      "person_id": 92277,
+      "name": "Brendan Almqvist",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "lewisham",
       "council_name": "Lewisham",
       "ward_name": "Telegraph Hill"
     },
     {
-      "person_id": 92277,
-      "name": "Brendan Almqvist",
+      "person_id": 92140,
+      "name": "Ulric Almqvist",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "lewisham",
       "council_name": "Lewisham",
@@ -3571,16 +3571,16 @@
       "ward_name": "Grove Green"
     },
     {
-      "person_id": 86714,
-      "name": "Luke Berg",
+      "person_id": 45991,
+      "name": "Kathy Berg",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
       "ward_name": "Leyton"
     },
     {
-      "person_id": 45991,
-      "name": "Kathy Berg",
+      "person_id": 86714,
+      "name": "Luke Berg",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
@@ -8211,16 +8211,16 @@
       "ward_name": "Mottingham"
     },
     {
-      "person_id": 47155,
-      "name": "Richard Alan Cornelius",
+      "person_id": 44836,
+      "name": "Alison Jane Cornelius",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "barnet",
       "council_name": "Barnet",
       "ward_name": "Totteridge & Woodside"
     },
     {
-      "person_id": 44836,
-      "name": "Alison Jane Cornelius",
+      "person_id": 47155,
+      "name": "Richard Alan Cornelius",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "barnet",
       "council_name": "Barnet",
@@ -8659,16 +8659,16 @@
       "ward_name": "Chirton & Percy Main"
     },
     {
-      "person_id": 109927,
-      "name": "Jack Lewis Crosswaite",
+      "person_id": 125301,
+      "name": "Jonathan Alan Crosswaite",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
       "ward_name": "Pontefract South"
     },
     {
-      "person_id": 125301,
-      "name": "Jonathan Alan Crosswaite",
+      "person_id": 109927,
+      "name": "Jack Lewis Crosswaite",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
@@ -12035,16 +12035,16 @@
       "ward_name": "Wakefield Rural"
     },
     {
-      "person_id": 43822,
-      "name": "Peter Forrest",
+      "person_id": 40663,
+      "name": "Daphne Forrest",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "haringey",
       "council_name": "Haringey",
       "ward_name": "Stroud Green"
     },
     {
-      "person_id": 40663,
-      "name": "Daphne Forrest",
+      "person_id": 43822,
+      "name": "Peter Forrest",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "haringey",
       "council_name": "Haringey",
@@ -12259,16 +12259,16 @@
       "ward_name": "Camden Square"
     },
     {
-      "person_id": 92537,
-      "name": "Pamela Freeman",
+      "person_id": 112034,
+      "name": "Adrian Freeman",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
       "ward_name": "Nork & Tattenhams"
     },
     {
-      "person_id": 112034,
-      "name": "Adrian Freeman",
+      "person_id": 92537,
+      "name": "Pamela Freeman",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -12323,16 +12323,16 @@
       "ward_name": "Bloomsbury"
     },
     {
-      "person_id": 41848,
-      "name": "Alison Frost",
+      "person_id": 94630,
+      "name": "Tim Frost",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "camden",
       "council_name": "Camden",
       "ward_name": "Holborn & Covent Garden"
     },
     {
-      "person_id": 94630,
-      "name": "Tim Frost",
+      "person_id": 41848,
+      "name": "Alison Frost",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "camden",
       "council_name": "Camden",
@@ -14483,16 +14483,16 @@
       "ward_name": "Ashton upon Mersey"
     },
     {
-      "person_id": 134596,
-      "name": "Angela Mary Halliwell",
+      "person_id": 134597,
+      "name": "Roger William Halliwell",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Birkdale"
     },
     {
-      "person_id": 134597,
-      "name": "Roger William Halliwell",
+      "person_id": 134596,
+      "name": "Angela Mary Halliwell",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -16323,16 +16323,16 @@
       "ward_name": "Golborne"
     },
     {
-      "person_id": 41963,
-      "name": "David George Hopkins",
+      "person_id": 13013,
+      "name": "Victoria Hopkins",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
       "ward_name": "Danesborough"
     },
     {
-      "person_id": 13013,
-      "name": "Victoria Hopkins",
+      "person_id": 41963,
+      "name": "David George Hopkins",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "milton-keynes",
       "council_name": "Milton Keynes",
@@ -16571,16 +16571,16 @@
       "ward_name": "Hillrise"
     },
     {
-      "person_id": 48294,
-      "name": "Janice Mary Elizabeth Howard",
+      "person_id": 47420,
+      "name": "Andrew Geoffrey Eliot Howard",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "merton",
       "council_name": "Merton",
       "ward_name": "Wimbledon Park"
     },
     {
-      "person_id": 47420,
-      "name": "Andrew Geoffrey Eliot Howard",
+      "person_id": 48294,
+      "name": "Janice Mary Elizabeth Howard",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "merton",
       "council_name": "Merton",
@@ -17035,16 +17035,16 @@
       "ward_name": "Washington West"
     },
     {
-      "person_id": 90413,
-      "name": "Ola Ibitoye",
+      "person_id": 16545,
+      "name": "David-Oladapo Ibitoye",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "Upper Stratton"
     },
     {
-      "person_id": 16545,
-      "name": "David-Oladapo Ibitoye",
+      "person_id": 90413,
+      "name": "Ola Ibitoye",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -19899,16 +19899,16 @@
       "ward_name": "Brixton Windrush"
     },
     {
-      "person_id": 135907,
-      "name": "Stephen John Langford",
+      "person_id": 135908,
+      "name": "Susan Langford",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Harden, Goscote & Ryecroft"
     },
     {
-      "person_id": 135908,
-      "name": "Susan Langford",
+      "person_id": 135907,
+      "name": "Stephen John Langford",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -21332,7 +21332,7 @@
     },
     {
       "person_id": 24053,
-      "name": "Ian James MacKie",
+      "name": "Ian James Mackie",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "norfolk",
       "council_name": "Norfolk",
@@ -26411,16 +26411,16 @@
       "ward_name": "Brentwood North"
     },
     {
-      "person_id": 40192,
-      "name": "Kevin Parry",
+      "person_id": 16517,
+      "name": "Barbara Parry",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "Covingham & Nythe"
     },
     {
-      "person_id": 16517,
-      "name": "Barbara Parry",
+      "person_id": 40192,
+      "name": "Kevin Parry",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -31411,16 +31411,16 @@
       "ward_name": "Old Warley"
     },
     {
-      "person_id": 41183,
-      "name": "Pamela Sills",
+      "person_id": 19510,
+      "name": "Christopher Sills",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Shacklewell"
     },
     {
-      "person_id": 19510,
-      "name": "Christopher Sills",
+      "person_id": 41183,
+      "name": "Pamela Sills",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -35755,16 +35755,16 @@
       "ward_name": "Stanmore"
     },
     {
-      "person_id": 129148,
-      "name": "Sapphire Wagu",
+      "person_id": 129149,
+      "name": "Shane Wagu",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
       "ward_name": "Isleworth"
     },
     {
-      "person_id": 129149,
-      "name": "Shane Wagu",
+      "person_id": 129148,
+      "name": "Sapphire Wagu",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hounslow",
       "council_name": "Hounslow",
@@ -36875,16 +36875,16 @@
       "ward_name": "Portchester Wicor"
     },
     {
-      "person_id": 80797,
-      "name": "Paul William Whittle",
+      "person_id": 110808,
+      "name": "Lisa Jane Whittle",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hampshire",
       "council_name": "Hampshire",
       "ward_name": "Fareham Town"
     },
     {
-      "person_id": 110808,
-      "name": "Lisa Jane Whittle",
+      "person_id": 80797,
+      "name": "Paul William Whittle",
       "party_name": "Conservative and Unionist Party",
       "council_slug": "hampshire",
       "council_name": "Hampshire",
