@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-09T08:56:01+00:00",
+    "generated_at": "2026-05-10T09:16:52+00:00",
     "council_slug": "croydon",
     "council_name": "Croydon"
   },
@@ -262,6 +262,11 @@
           "party_name": "Green Party"
         },
         {
+          "person_id": 47096,
+          "name": "Mary Cecilia Mala Croos",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
           "person_id": 84388,
           "name": "Titilope Deborah Fadipe",
           "party_name": "Conservative and Unionist Party"
@@ -284,11 +289,6 @@
         {
           "person_id": 123746,
           "name": "Alfie Kingett",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
-          "person_id": 47096,
-          "name": "Mary Cecilia Mala Kroos",
           "party_name": "Conservative and Unionist Party"
         },
         {

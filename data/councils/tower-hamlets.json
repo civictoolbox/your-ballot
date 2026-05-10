@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-09T08:56:01+00:00",
+    "generated_at": "2026-05-10T09:16:52+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -126,14 +126,14 @@
       "candidate_count": 20,
       "candidates": [
         {
-          "person_id": 132719,
-          "name": "Mohaemd Ahmed Ahmed",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 94992,
           "name": "Musthak Ahmed",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 132719,
+          "name": "Mohaemd Ahmed Ahmed",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 132720,
@@ -1182,13 +1182,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42607,
-          "name": "Mohammad Harun Miah",
+          "person_id": 42606,
+          "name": "Ana Miah",
           "party_name": "Aspire"
         },
         {
-          "person_id": 42606,
-          "name": "Ana Miah",
+          "person_id": 42607,
+          "name": "Mohammad Harun Miah",
           "party_name": "Aspire"
         },
         {
@@ -1230,13 +1230,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 124534,
-          "name": "Faysal Ahmed",
+          "person_id": 43361,
+          "name": "Suluk Ahmed",
           "party_name": "Aspire"
         },
         {
-          "person_id": 43361,
-          "name": "Suluk Ahmed",
+          "person_id": 124534,
+          "name": "Faysal Ahmed",
           "party_name": "Aspire"
         },
         {
