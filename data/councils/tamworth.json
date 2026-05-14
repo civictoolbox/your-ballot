@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-13T11:39:21+00:00",
+    "generated_at": "2026-05-14T11:21:44+00:00",
     "council_slug": "tamworth",
     "council_name": "Tamworth"
   },
@@ -275,6 +275,34 @@
           "person_id": 130554,
           "name": "Bernard Skeen",
           "party_name": "Reform UK"
+        }
+      ]
+    },
+    {
+      "ward_name": "Wilnecote",
+      "ballot_paper_id": "local.tamworth.wilnecote.2026-06-25",
+      "seats_contested": 1,
+      "candidate_count": 4,
+      "candidates": [
+        {
+          "person_id": 130555,
+          "name": "Kyle Brown",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 32232,
+          "name": "Tina Anne Clements",
+          "party_name": "Independent"
+        },
+        {
+          "person_id": 122075,
+          "name": "Tracey Lynne Dougherty",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130558,
+          "name": "James Kent Trafford",
+          "party_name": "Conservative and Unionist Party"
         }
       ]
     }

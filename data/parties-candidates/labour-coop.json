@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-05-13T11:39:21+00:00",
+    "generated_at": "2026-05-14T11:21:44+00:00",
     "party_key": "labour-coop",
     "display_name": "Labour and Co-operative Party",
-    "candidate_count": 673,
+    "candidate_count": 675,
     "council_count": 92,
     "raw_party_names": [
       "Labour and Co-operative Party"
@@ -1947,6 +1947,14 @@
       "ward_name": "Crystal Palace & Upper Norwood"
     },
     {
+      "person_id": 132313,
+      "name": "Evelyne Godfrey",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Idle & Thackley"
+    },
+    {
       "person_id": 117992,
       "name": "George Gooch",
       "party_name": "Labour and Co-operative Party",
@@ -2563,16 +2571,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 9036,
-      "name": "Marion Kadewere",
+      "person_id": 9040,
+      "name": "Patrick Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
       "ward_name": "Huntingdon North"
     },
     {
-      "person_id": 9040,
-      "name": "Patrick Kadewere",
+      "person_id": 9036,
+      "name": "Marion Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
@@ -2667,16 +2675,16 @@
       "ward_name": "Plumstead & Glyndon"
     },
     {
-      "person_id": 132193,
-      "name": "Hassan Uzzaman Khan",
+      "person_id": 132194,
+      "name": "Imran Ahmed Khan",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132194,
-      "name": "Imran Ahmed Khan",
+      "person_id": 132193,
+      "name": "Hassan Uzzaman Khan",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -2953,6 +2961,14 @@
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Brandwood & King's Heath"
+    },
+    {
+      "person_id": 132316,
+      "name": "Gareth David Logan",
+      "party_name": "Labour and Co-operative Party",
+      "council_slug": "bradford",
+      "council_name": "Bradford",
+      "ward_name": "Idle & Thackley"
     },
     {
       "person_id": 42746,
@@ -3875,16 +3891,16 @@
       "ward_name": "Dalgarno"
     },
     {
-      "person_id": 124942,
-      "name": "Rachel Marie Preston",
+      "person_id": 35684,
+      "name": "Paul Simon Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Bartley Green"
     },
     {
-      "person_id": 35684,
-      "name": "Paul Simon Preston",
+      "person_id": 124942,
+      "name": "Rachel Marie Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",

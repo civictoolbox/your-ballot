@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-13T11:39:21+00:00",
+    "generated_at": "2026-05-14T11:21:44+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -38,13 +38,13 @@
           "party_name": "Yorkshire Party"
         },
         {
-          "person_id": 131799,
-          "name": "Nathen James Keenan",
+          "person_id": 131798,
+          "name": "Daniel James Keenan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131798,
-          "name": "Daniel James Keenan",
+          "person_id": 131799,
+          "name": "Nathen James Keenan",
           "party_name": "Reform UK"
         },
         {
@@ -78,13 +78,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110880,
-          "name": "Neil Whitaker",
+          "person_id": 38326,
+          "name": "Caroline Whitaker",
           "party_name": "Green Party"
         },
         {
-          "person_id": 38326,
-          "name": "Caroline Whitaker",
+          "person_id": 110880,
+          "name": "Neil Whitaker",
           "party_name": "Green Party"
         }
       ]
@@ -423,13 +423,13 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132184,
-          "name": "Mukhtar Ali",
+          "person_id": 132185,
+          "name": "Sakib Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132185,
-          "name": "Sakib Ali",
+          "person_id": 132184,
+          "name": "Mukhtar Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -468,13 +468,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 132193,
-          "name": "Hassan Uzzaman Khan",
+          "person_id": 132194,
+          "name": "Imran Ahmed Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 132194,
-          "name": "Imran Ahmed Khan",
+          "person_id": 132193,
+          "name": "Hassan Uzzaman Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -604,13 +604,13 @@
       "candidate_count": 19,
       "candidates": [
         {
-          "person_id": 131905,
-          "name": "Sundas Ali",
+          "person_id": 131904,
+          "name": "Majid Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 131904,
-          "name": "Majid Ali",
+          "person_id": 131905,
+          "name": "Sundas Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 2891,
-          "name": "Raja Sakhawat Hussain",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65481,
           "name": "Zubair Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2891,
+          "name": "Raja Sakhawat Hussain",
+          "party_name": "Independent"
         },
         {
           "person_id": 132418,
@@ -1142,6 +1142,84 @@
           "person_id": 38321,
           "name": "Ines Linda Riach",
           "party_name": "Liberal Democrats"
+        }
+      ]
+    },
+    {
+      "ward_name": "Idle & Thackley",
+      "ballot_paper_id": "local.bradford.idle-thackley.2026-06-18",
+      "seats_contested": 3,
+      "candidate_count": 14,
+      "candidates": [
+        {
+          "person_id": 132311,
+          "name": "David Bryant",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132312,
+          "name": "Sally Cook",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132313,
+          "name": "Evelyne Godfrey",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 6017,
+          "name": "Alun Owen Griffiths",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132314,
+          "name": "Stuart Hurlbut",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132315,
+          "name": "Melissa Jacobs",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 65799,
+          "name": "Tess Lawrence",
+          "party_name": "Green Party"
+        },
+        {
+          "person_id": 132316,
+          "name": "Gareth David Logan",
+          "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 132317,
+          "name": "Tom MacPherson le Maire",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132318,
+          "name": "David Llewelyn Mills",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 94069,
+          "name": "Aislin Naylor",
+          "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 132319,
+          "name": "John Michael Riley",
+          "party_name": "Reform UK"
+        },
+        {
+          "person_id": 132320,
+          "name": "Richard Edward John Wightman",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132321,
+          "name": "Paul Wright",
+          "party_name": "Labour Party"
         }
       ]
     },
@@ -1982,14 +2060,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131815,
-          "name": "Sophie Bibi",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 131814,
           "name": "Aisha Bibi",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 131815,
+          "name": "Sophie Bibi",
+          "party_name": "Independent"
         },
         {
           "person_id": 131816,
@@ -1997,14 +2075,14 @@
           "party_name": "Reform UK"
         },
         {
+          "person_id": 110875,
+          "name": "Sharat Hussain",
+          "party_name": "Independent"
+        },
+        {
           "person_id": 131818,
           "name": "Ghafoor Hussain",
           "party_name": "Conservative and Unionist Party"
-        },
-        {
-          "person_id": 13638,
-          "name": "Arshad Hussain",
-          "party_name": "Independent"
         },
         {
           "person_id": 38368,
@@ -2012,8 +2090,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110875,
-          "name": "Sharat Hussain",
+          "person_id": 13638,
+          "name": "Arshad Hussain",
           "party_name": "Independent"
         },
         {
@@ -2178,14 +2256,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 13472,
-          "name": "Sabiya Akhtar Khan",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 132138,
           "name": "Alayna Khan",
           "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 13472,
+          "name": "Sabiya Akhtar Khan",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 94064,

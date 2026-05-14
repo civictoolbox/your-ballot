@@ -1,12 +1,12 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-13T11:39:21+00:00",
+    "generated_at": "2026-05-14T11:21:44+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
-    "ward_count": 2966,
-    "candidate_count": 25019,
-    "seat_count": 5060
+    "ward_count": 2969,
+    "candidate_count": 25042,
+    "seat_count": 5065
   },
   "councils": [
     {
@@ -335,9 +335,9 @@
     {
       "slug": "bradford",
       "name": "Bradford",
-      "ward_count": 29,
-      "candidate_count": 443,
-      "seat_count": 87,
+      "ward_count": 30,
+      "candidate_count": 457,
+      "seat_count": 90,
       "wards": [
         "Airedale",
         "Baildon",
@@ -352,6 +352,7 @@
         "Great Horton",
         "Heaton & Frizinghall",
         "Holme Wood & Bierley",
+        "Idle & Thackley",
         "Ilkley & Addingham",
         "Keighley Central",
         "Keighley East",
@@ -1117,9 +1118,9 @@
     {
       "slug": "essex",
       "name": "Essex",
-      "ward_count": 77,
-      "candidate_count": 427,
-      "seat_count": 77,
+      "ward_count": 78,
+      "candidate_count": 432,
+      "seat_count": 78,
       "wards": [
         "Billericay North",
         "Bocking",
@@ -1139,6 +1140,7 @@
         "Chelmer",
         "Chelmsford Central",
         "Chelmsford North",
+        "Chelmsford Springfield",
         "Chelmsford West",
         "Chigwell & Buckhurst Hill East",
         "Clacton North",
@@ -3700,9 +3702,9 @@
     {
       "slug": "tamworth",
       "name": "Tamworth",
-      "ward_count": 9,
-      "candidate_count": 40,
-      "seat_count": 9,
+      "ward_count": 10,
+      "candidate_count": 44,
+      "seat_count": 10,
       "wards": [
         "Amington",
         "Belgrave",
@@ -3712,7 +3714,8 @@
         "Mercian",
         "Spital",
         "Stonydelph",
-        "Trinity"
+        "Trinity",
+        "Wilnecote"
       ]
     },
     {

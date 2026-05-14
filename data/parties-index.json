@@ -1,50 +1,50 @@
 {
   "_meta": {
-    "generated_at": "2026-05-13T11:39:21+00:00",
+    "generated_at": "2026-05-14T11:21:44+00:00",
     "party_count": 94,
-    "candidate_count": 25019
+    "candidate_count": 25042
   },
   "parties": [
     {
       "key": "reform",
       "display_name": "Reform UK",
-      "candidate_count": 4814,
+      "candidate_count": 4819,
       "council_count": 156
     },
     {
       "key": "conservative",
       "display_name": "Conservative Party",
-      "candidate_count": 4764,
+      "candidate_count": 4769,
       "council_count": 156
     },
     {
       "key": "green",
       "display_name": "Green Party",
-      "candidate_count": 4499,
+      "candidate_count": 4504,
       "council_count": 156
     },
     {
       "key": "labour",
       "display_name": "Labour Party",
-      "candidate_count": 4220,
+      "candidate_count": 4222,
       "council_count": 152
     },
     {
       "key": "libdem",
       "display_name": "Liberal Democrats",
-      "candidate_count": 3947,
+      "candidate_count": 3950,
       "council_count": 154
     },
     {
       "key": "independent",
       "display_name": "Independent",
-      "candidate_count": 1213,
+      "candidate_count": 1214,
       "council_count": 124
     },
     {
       "key": "labour-coop",
       "display_name": "Labour and Co-operative Party",
-      "candidate_count": 673,
+      "candidate_count": 675,
       "council_count": 92
     },
     {
