@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-15T11:31:33+00:00",
+    "generated_at": "2026-05-16T09:14:45+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -257,14 +257,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135341,
-          "name": "Louis Gill",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 94331,
           "name": "Manju Gill",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 135341,
+          "name": "Louis Gill",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 135342,
@@ -282,13 +282,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135345,
-          "name": "Kaiser Majeed",
+          "person_id": 135344,
+          "name": "Faisal Majeed",
           "party_name": "Green Party"
         },
         {
-          "person_id": 135344,
-          "name": "Faisal Majeed",
+          "person_id": 135345,
+          "name": "Kaiser Majeed",
           "party_name": "Green Party"
         },
         {
@@ -355,13 +355,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 52081,
-          "name": "Corin Ann Statham",
+          "person_id": 13386,
+          "name": "Mark Andrew Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 13386,
-          "name": "Mark Andrew Statham",
+          "person_id": 52081,
+          "name": "Corin Ann Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -584,13 +584,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135896,
-          "name": "Amy Walker",
+          "person_id": 135895,
+          "name": "Ade Walker",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135895,
-          "name": "Ade Walker",
+          "person_id": 135896,
+          "name": "Amy Walker",
           "party_name": "Labour Party"
         },
         {
@@ -836,13 +836,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133610,
-          "name": "Ashfaq Ahmed",
+          "person_id": 133611,
+          "name": "Imran Ahmed",
           "party_name": "Independent"
         },
         {
-          "person_id": 133611,
-          "name": "Imran Ahmed",
+          "person_id": 133610,
+          "name": "Ashfaq Ahmed",
           "party_name": "Independent"
         },
         {
@@ -1540,13 +1540,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134841,
-          "name": "Shakir Mehmood Khan",
+          "person_id": 134840,
+          "name": "Aleena Khan",
           "party_name": "Green Party"
         },
         {
-          "person_id": 134840,
-          "name": "Aleena Khan",
+          "person_id": 134841,
+          "name": "Shakir Mehmood Khan",
           "party_name": "Green Party"
         },
         {

@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-05-15T11:31:33+00:00",
+    "generated_at": "2026-05-16T09:14:45+00:00",
     "party_key": "green",
     "display_name": "Green Party",
-    "candidate_count": 4504,
+    "candidate_count": 4506,
     "council_count": 156,
     "raw_party_names": [
       "Green Party"
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -1243,16 +1243,16 @@
       "ward_name": "Lyndon"
     },
     {
-      "person_id": 131954,
-      "name": "Simon Trevor Appleby",
+      "person_id": 131953,
+      "name": "Asbjorn Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
       "ward_name": "Lower Sunbury & Halliford"
     },
     {
-      "person_id": 131953,
-      "name": "Asbjorn Appleby",
+      "person_id": 131954,
+      "name": "Simon Trevor Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
@@ -1403,16 +1403,16 @@
       "ward_name": "Drake"
     },
     {
-      "person_id": 134549,
-      "name": "Joao Arraiol",
+      "person_id": 134548,
+      "name": "Bella Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
       "ward_name": "Pimlico North"
     },
     {
-      "person_id": 134548,
-      "name": "Bella Arraiol",
+      "person_id": 134549,
+      "name": "Joao Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
@@ -2715,16 +2715,16 @@
       "ward_name": "Latton Bush & Stewards"
     },
     {
-      "person_id": 42888,
-      "name": "Andy Bebington",
+      "person_id": 42889,
+      "name": "Liz Bebington",
       "party_name": "Green Party",
       "council_slug": "croydon",
       "council_name": "Croydon",
       "ward_name": "Shirley South"
     },
     {
-      "person_id": 42889,
-      "name": "Liz Bebington",
+      "person_id": 42888,
+      "name": "Andy Bebington",
       "party_name": "Green Party",
       "council_slug": "croydon",
       "council_name": "Croydon",
@@ -4427,16 +4427,16 @@
       "ward_name": "Upper Edmonton"
     },
     {
-      "person_id": 139020,
-      "name": "Ruby Hazel Brown",
+      "person_id": 139019,
+      "name": "Iona Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Whickham North & Swalwell"
     },
     {
-      "person_id": 139019,
-      "name": "Iona Brown",
+      "person_id": 139020,
+      "name": "Ruby Hazel Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -8651,16 +8651,16 @@
       "ward_name": "Tividale"
     },
     {
-      "person_id": 138873,
-      "name": "Cheryl May Dixon",
+      "person_id": 138874,
+      "name": "Steven Frederick Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Winlaton & High Spen"
     },
     {
-      "person_id": 138874,
-      "name": "Steven Frederick Dixon",
+      "person_id": 138873,
+      "name": "Cheryl May Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -9747,16 +9747,16 @@
       "ward_name": "Barrowford & Pendleside"
     },
     {
-      "person_id": 92617,
-      "name": "Maximilian Ellis",
+      "person_id": 133295,
+      "name": "Suzanne Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
       "ward_name": "Wandsworth Common"
     },
     {
-      "person_id": 133295,
-      "name": "Suzanne Ellis",
+      "person_id": 92617,
+      "name": "Maximilian Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
@@ -12499,6 +12499,14 @@
       "ward_name": "Cadishead & Lower Irlam"
     },
     {
+      "person_id": 133794,
+      "name": "Chloe Graves",
+      "party_name": "Green Party",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "St Helens Town Centre"
+    },
+    {
       "person_id": 128823,
       "name": "Tom Gray",
       "party_name": "Green Party",
@@ -12635,16 +12643,16 @@
       "ward_name": "Huncoat"
     },
     {
-      "person_id": 53057,
-      "name": "Chris Green",
+      "person_id": 136931,
+      "name": "Alex Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Holme Valley North"
     },
     {
-      "person_id": 136931,
-      "name": "Alex Green",
+      "person_id": 53057,
+      "name": "Chris Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -17763,16 +17771,16 @@
       "ward_name": "St Helier West"
     },
     {
-      "person_id": 134841,
-      "name": "Shakir Mehmood Khan",
+      "person_id": 134840,
+      "name": "Aleena Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Willenhall"
     },
     {
-      "person_id": 134840,
-      "name": "Aleena Khan",
+      "person_id": 134841,
+      "name": "Shakir Mehmood Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -20147,16 +20155,16 @@
       "ward_name": "Abbey"
     },
     {
-      "person_id": 135345,
-      "name": "Kaiser Majeed",
+      "person_id": 135344,
+      "name": "Faisal Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 135344,
-      "name": "Faisal Majeed",
+      "person_id": 135345,
+      "name": "Kaiser Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -21657,6 +21665,14 @@
       "council_slug": "stockport",
       "council_name": "Stockport",
       "ward_name": "Heatons North"
+    },
+    {
+      "person_id": 126445,
+      "name": "James Mellors",
+      "party_name": "Green Party",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "St Helens Town Centre"
     },
     {
       "person_id": 39103,
@@ -27331,16 +27347,16 @@
       "ward_name": "Stockland Green"
     },
     {
-      "person_id": 137887,
-      "name": "Mike Roberts",
+      "person_id": 137886,
+      "name": "Janet Elizabeth Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",
       "ward_name": "Earlsdon"
     },
     {
-      "person_id": 137886,
-      "name": "Janet Elizabeth Roberts",
+      "person_id": 137887,
+      "name": "Mike Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",
@@ -34467,16 +34483,16 @@
       "ward_name": "St Loyes"
     },
     {
-      "person_id": 38326,
-      "name": "Caroline Whitaker",
+      "person_id": 110880,
+      "name": "Neil Whitaker",
       "party_name": "Green Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Airedale"
     },
     {
-      "person_id": 110880,
-      "name": "Neil Whitaker",
+      "person_id": 38326,
+      "name": "Caroline Whitaker",
       "party_name": "Green Party",
       "council_slug": "bradford",
       "council_name": "Bradford",

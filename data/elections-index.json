@@ -1,12 +1,12 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-15T11:31:33+00:00",
+    "generated_at": "2026-05-16T09:14:45+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
-    "ward_count": 2969,
-    "candidate_count": 25042,
-    "seat_count": 5065
+    "ward_count": 2970,
+    "candidate_count": 25048,
+    "seat_count": 5067
   },
   "councils": [
     {
@@ -3401,9 +3401,9 @@
     {
       "slug": "st-helens",
       "name": "St Helens",
-      "ward_count": 17,
-      "candidate_count": 154,
-      "seat_count": 46,
+      "ward_count": 18,
+      "candidate_count": 160,
+      "seat_count": 48,
       "wards": [
         "Billinge & Seneley Green",
         "Blackbrook",
@@ -3417,6 +3417,7 @@
         "Peasley Cross & Fingerpost",
         "Rainford",
         "Rainhill",
+        "St Helens Town Centre",
         "Sutton North West",
         "Sutton South East",
         "Thatto Heath",
