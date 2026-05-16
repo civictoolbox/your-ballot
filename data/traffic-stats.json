@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-05-15T11:29:11Z",
+    "generated_at": "2026-05-16T09:09:14Z",
     "repo": "civictoolbox/your-ballot",
     "source": "GitHub Repo Traffic API",
     "window": "14 days rolling"
@@ -9,11 +9,6 @@
     "count": 0,
     "uniques": 0,
     "views": [
-      {
-        "timestamp": "2026-05-01T00:00:00Z",
-        "count": 0,
-        "uniques": 0
-      },
       {
         "timestamp": "2026-05-02T00:00:00Z",
         "count": 0,
@@ -78,18 +73,18 @@
         "timestamp": "2026-05-14T00:00:00Z",
         "count": 0,
         "uniques": 0
+      },
+      {
+        "timestamp": "2026-05-15T00:00:00Z",
+        "count": 0,
+        "uniques": 0
       }
     ]
   },
   "clones": {
-    "count": 408,
-    "uniques": 127,
+    "count": 383,
+    "uniques": 117,
     "clones": [
-      {
-        "timestamp": "2026-05-01T00:00:00Z",
-        "count": 34,
-        "uniques": 17
-      },
       {
         "timestamp": "2026-05-02T00:00:00Z",
         "count": 22,
@@ -154,6 +149,11 @@
         "timestamp": "2026-05-14T00:00:00Z",
         "count": 35,
         "uniques": 14
+      },
+      {
+        "timestamp": "2026-05-15T00:00:00Z",
+        "count": 9,
+        "uniques": 6
       }
     ]
   },
