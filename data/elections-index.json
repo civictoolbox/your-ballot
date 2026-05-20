@@ -1,11 +1,11 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-19T14:06:29+00:00",
+    "generated_at": "2026-05-20T06:56:08+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
     "ward_count": 2970,
-    "candidate_count": 25048,
+    "candidate_count": 25049,
     "seat_count": 5067
   },
   "councils": [
@@ -336,7 +336,7 @@
       "slug": "bradford",
       "name": "Bradford",
       "ward_count": 30,
-      "candidate_count": 457,
+      "candidate_count": 458,
       "seat_count": 90,
       "wards": [
         "Airedale",
