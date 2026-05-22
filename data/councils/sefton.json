@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-21T07:00:13+00:00",
+    "generated_at": "2026-05-22T06:56:24+00:00",
     "council_slug": "sefton",
     "council_name": "Sefton"
   },
@@ -189,13 +189,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 134597,
-          "name": "Roger William Halliwell",
+          "person_id": 134596,
+          "name": "Angela Mary Halliwell",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134596,
-          "name": "Angela Mary Halliwell",
+          "person_id": 134597,
+          "name": "Roger William Halliwell",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -312,13 +312,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 122763,
-          "name": "David Roscoe",
+          "person_id": 16104,
+          "name": "Diane Roscoe",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 16104,
-          "name": "Diane Roscoe",
+          "person_id": 122763,
+          "name": "David Roscoe",
           "party_name": "Labour Party"
         },
         {
