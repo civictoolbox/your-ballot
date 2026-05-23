@@ -1,8 +1,8 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-22T06:56:24+00:00",
-    "count": 24494,
+    "generated_at": "2026-05-23T06:18:40+00:00",
+    "count": 24496,
     "source": "Democracy Club YNR CSV export"
   },
   "person_ids": [
@@ -24499,6 +24499,8 @@
     139156,
     139157,
     139158,
-    139159
+    139159,
+    139234,
+    139235
   ]
 }

@@ -1,11 +1,11 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-22T06:56:24+00:00",
+    "generated_at": "2026-05-23T06:18:40+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
     "ward_count": 2970,
-    "candidate_count": 25049,
+    "candidate_count": 25051,
     "seat_count": 5067
   },
   "councils": [
@@ -1758,7 +1758,7 @@
       "slug": "hillingdon",
       "name": "Hillingdon",
       "ward_count": 21,
-      "candidate_count": 255,
+      "candidate_count": 257,
       "seat_count": 53,
       "wards": [
         "Belmore",

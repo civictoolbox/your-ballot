@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-22T06:56:24+00:00",
+    "generated_at": "2026-05-23T06:18:40+00:00",
     "council_slug": "hillingdon",
     "council_name": "Hillingdon"
   },
@@ -292,14 +292,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128346,
-          "name": "Manjinder Singh",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 128347,
           "name": "Satjit Singh",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128346,
+          "name": "Manjinder Singh",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 123704,
@@ -579,8 +579,13 @@
       "ward_name": "Hillingdon West",
       "ballot_paper_id": "local.hillingdon.hillingdon-west.2026-06-18",
       "seats_contested": 2,
-      "candidate_count": 8,
+      "candidate_count": 10,
       "candidates": [
+        {
+          "person_id": 139234,
+          "name": "Justin Anderson",
+          "party_name": "Reform UK"
+        },
         {
           "person_id": 128431,
           "name": "Tiffany Beales",
@@ -598,13 +603,18 @@
         },
         {
           "person_id": 128433,
-          "name": "Margaret Forrest",
+          "name": "Margaret Edith Elizabeth Forrest",
           "party_name": "Reform UK"
         },
         {
           "person_id": 128434,
           "name": "Muhammad Saqib Iqbal",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 139235,
+          "name": "Ruhi Patel",
+          "party_name": "Green Party"
         },
         {
           "person_id": 128435,
@@ -786,13 +796,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 128485,
-          "name": "Ulla Ingrid Elisabet Mallick",
+          "person_id": 128484,
+          "name": "Saghaer Ahmad Mallick",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128484,
-          "name": "Saghaer Ahmad Mallick",
+          "person_id": 128485,
+          "name": "Ulla Ingrid Elisabet Mallick",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1111,13 +1121,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128294,
-          "name": "Stephen Lewis",
+          "person_id": 128293,
+          "name": "Douglas Lewis",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 128293,
-          "name": "Douglas Lewis",
+          "person_id": 128294,
+          "name": "Stephen Lewis",
           "party_name": "Reform UK"
         },
         {

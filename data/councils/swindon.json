@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-22T06:56:24+00:00",
+    "generated_at": "2026-05-23T06:18:40+00:00",
     "council_slug": "swindon",
     "council_name": "Swindon"
   },
@@ -1181,13 +1181,13 @@
       "candidate_count": 8,
       "candidates": [
         {
-          "person_id": 130998,
-          "name": "Cherie Adams",
+          "person_id": 76328,
+          "name": "Daniel Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 76328,
-          "name": "Daniel Adams",
+          "person_id": 130998,
+          "name": "Cherie Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {
