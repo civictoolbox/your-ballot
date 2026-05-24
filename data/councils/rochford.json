@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-23T06:18:40+00:00",
+    "generated_at": "2026-05-24T06:46:01+00:00",
     "council_slug": "rochford",
     "council_name": "Rochford"
   },
@@ -13,7 +13,7 @@
       "candidate_count": 9,
       "candidates": [
         {
-          "person_id": 127100,
+          "person_id": 99152,
           "name": "Stuart Belton",
           "party_name": "Conservative and Unionist Party"
         },
