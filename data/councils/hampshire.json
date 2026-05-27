@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-26T06:54:54+00:00",
+    "generated_at": "2026-05-27T07:13:06+00:00",
     "council_slug": "hampshire",
     "council_name": "Hampshire"
   },
@@ -1295,7 +1295,7 @@
         },
         {
           "person_id": 422,
-          "name": "Alan Howling 'Laud' Hope",
+          "name": "Howling Laud Hope",
           "party_name": "The Official Monster Raving Loony Party"
         },
         {
@@ -1520,14 +1520,14 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 78029,
-          "name": "Jonathan Brown",
-          "party_name": "Labour and Co-operative Party"
-        },
-        {
           "person_id": 125095,
           "name": "Ian Richard Brown",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78029,
+          "name": "Jonathan Brown",
+          "party_name": "Labour and Co-operative Party"
         },
         {
           "person_id": 15957,
