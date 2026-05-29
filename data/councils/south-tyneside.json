@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-28T07:01:37+00:00",
+    "generated_at": "2026-05-29T07:01:55+00:00",
     "council_slug": "south-tyneside",
     "council_name": "South Tyneside"
   },
@@ -310,13 +310,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 5445,
-          "name": "Steve Harrison",
+          "person_id": 138949,
+          "name": "Vicky Harrison",
           "party_name": "Independent"
         },
         {
-          "person_id": 138949,
-          "name": "Vicky Harrison",
+          "person_id": 5445,
+          "name": "Steve Harrison",
           "party_name": "Independent"
         },
         {
@@ -879,13 +879,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 81051,
-          "name": "David Kennedy",
+          "person_id": 138893,
+          "name": "Karen Kennedy",
           "party_name": "Independent"
         },
         {
-          "person_id": 138893,
-          "name": "Karen Kennedy",
+          "person_id": 81051,
+          "name": "David Kennedy",
           "party_name": "Independent"
         },
         {
