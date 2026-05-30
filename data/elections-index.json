@@ -1,11 +1,11 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-29T07:01:55+00:00",
+    "generated_at": "2026-05-30T06:29:50+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
     "ward_count": 2970,
-    "candidate_count": 25051,
+    "candidate_count": 25054,
     "seat_count": 5067
   },
   "councils": [
@@ -3402,7 +3402,7 @@
       "slug": "st-helens",
       "name": "St Helens",
       "ward_count": 18,
-      "candidate_count": 160,
+      "candidate_count": 162,
       "seat_count": 48,
       "wards": [
         "Billinge & Seneley Green",
@@ -3704,7 +3704,7 @@
       "slug": "tamworth",
       "name": "Tamworth",
       "ward_count": 10,
-      "candidate_count": 44,
+      "candidate_count": 45,
       "seat_count": 10,
       "wards": [
         "Amington",

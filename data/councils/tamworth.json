@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-29T07:01:55+00:00",
+    "generated_at": "2026-05-30T06:29:50+00:00",
     "council_slug": "tamworth",
     "council_name": "Tamworth"
   },
@@ -282,7 +282,7 @@
       "ward_name": "Wilnecote",
       "ballot_paper_id": "local.tamworth.wilnecote.2026-06-25",
       "seats_contested": 1,
-      "candidate_count": 4,
+      "candidate_count": 5,
       "candidates": [
         {
           "person_id": 130555,
@@ -296,8 +296,13 @@
         },
         {
           "person_id": 122075,
-          "name": "Tracey Lynne Dougherty",
+          "name": "Tracey Dougherty",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 139250,
+          "name": "Jenny Khalfan",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 130558,
