@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-05-31T07:05:34+00:00",
+    "generated_at": "2026-06-01T08:43:29+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -234,14 +234,14 @@
       "candidate_count": 20,
       "candidates": [
         {
-          "person_id": 132737,
-          "name": "Zaheed Ahmed",
-          "party_name": "Tower Hamlets Independents"
-        },
-        {
           "person_id": 132736,
           "name": "Yeadhir Ahmed",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 132737,
+          "name": "Zaheed Ahmed",
+          "party_name": "Tower Hamlets Independents"
         },
         {
           "person_id": 123972,
@@ -1006,14 +1006,14 @@
           "party_name": "Tower Hamlets Independents"
         },
         {
-          "person_id": 133040,
-          "name": "Iftakhar Ahmed",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 95002,
           "name": "Leelu Ahmed",
           "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 133040,
+          "name": "Iftakhar Ahmed",
+          "party_name": "Independent"
         },
         {
           "person_id": 42005,
@@ -1620,14 +1620,14 @@
       "candidate_count": 22,
       "candidates": [
         {
-          "person_id": 36586,
-          "name": "Shafi Ahmed",
-          "party_name": "Aspire"
-        },
-        {
           "person_id": 39817,
           "name": "Faroque Ahmed",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 36586,
+          "name": "Shafi Ahmed",
+          "party_name": "Aspire"
         },
         {
           "person_id": 133252,
