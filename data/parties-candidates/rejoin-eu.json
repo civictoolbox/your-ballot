@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-01T08:43:29+00:00",
+    "generated_at": "2026-06-02T08:04:30+00:00",
     "party_key": "rejoin-eu",
     "display_name": "Rejoin EU",
     "candidate_count": 15,
@@ -124,7 +124,7 @@
     },
     {
       "person_id": 34560,
-      "name": "Peter Mark Ward",
+      "name": "Peter Ward",
       "party_name": "Rejoin EU",
       "council_slug": "ealing",
       "council_name": "Ealing",
