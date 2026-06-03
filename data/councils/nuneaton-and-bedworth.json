@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-02T08:04:29+00:00",
+    "generated_at": "2026-06-03T08:27:08+00:00",
     "council_slug": "nuneaton-and-bedworth",
     "council_name": "Nuneaton and Bedworth"
   },
@@ -102,7 +102,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 125763,
+          "person_id": 86800,
           "name": "Richard Cope",
           "party_name": "Green Party"
         },
