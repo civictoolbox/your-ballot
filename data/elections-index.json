@@ -1,12 +1,12 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-03T08:27:08+00:00",
+    "generated_at": "2026-06-04T07:59:16+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
-    "ward_count": 2970,
-    "candidate_count": 25054,
-    "seat_count": 5067
+    "ward_count": 2971,
+    "candidate_count": 25060,
+    "seat_count": 5068
   },
   "councils": [
     {
@@ -501,15 +501,16 @@
     {
       "slug": "bury",
       "name": "Bury",
-      "ward_count": 16,
-      "candidate_count": 85,
-      "seat_count": 16,
+      "ward_count": 17,
+      "candidate_count": 91,
+      "seat_count": 17,
       "wards": [
         "Besses",
         "Bury East",
         "Bury West",
         "Elton",
         "Holyrood",
+        "Moorside",
         "North Manor",
         "Pilkington Park",
         "Radcliffe East",

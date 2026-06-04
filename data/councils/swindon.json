@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-03T08:27:08+00:00",
+    "generated_at": "2026-06-04T07:59:16+00:00",
     "council_slug": "swindon",
     "council_name": "Swindon"
   },
@@ -770,13 +770,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 4142,
-          "name": "Junab Ali",
+          "person_id": 76251,
+          "name": "Rajhia Ali",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 76251,
-          "name": "Rajhia Ali",
+          "person_id": 4142,
+          "name": "Junab Ali",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -1181,13 +1181,13 @@
       "candidate_count": 8,
       "candidates": [
         {
-          "person_id": 76328,
-          "name": "Daniel Adams",
+          "person_id": 130998,
+          "name": "Cherie Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130998,
-          "name": "Cherie Adams",
+          "person_id": 76328,
+          "name": "Daniel Adams",
           "party_name": "Conservative and Unionist Party"
         },
         {

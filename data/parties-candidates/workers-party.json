@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "generated_at": "2026-06-03T08:27:09+00:00",
+    "generated_at": "2026-06-04T07:59:16+00:00",
     "party_key": "workers-party",
     "display_name": "Workers Party of Britain",
-    "candidate_count": 69,
+    "candidate_count": 70,
     "council_count": 17,
     "raw_party_names": [
       "Workers Party - Oldham Group",
@@ -538,6 +538,14 @@
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Yardley East"
+    },
+    {
+      "person_id": 94803,
+      "name": "Aamer Yasin",
+      "party_name": "Workers Party of Britain",
+      "council_slug": "bury",
+      "council_name": "Bury",
+      "ward_name": "Moorside"
     },
     {
       "person_id": 125326,
