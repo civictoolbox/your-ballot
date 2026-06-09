@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-08T08:20:47+00:00",
+    "generated_at": "2026-06-09T06:57:04+00:00",
     "council_slug": "barnsley",
     "council_name": "Barnsley"
   },
@@ -154,13 +154,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 127420,
-          "name": "Stanley John Bryan",
+          "person_id": 127419,
+          "name": "Diane Bryan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127419,
-          "name": "Diane Bryan",
+          "person_id": 127420,
+          "name": "Stanley John Bryan",
           "party_name": "Reform UK"
         },
         {
