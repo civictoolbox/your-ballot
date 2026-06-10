@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-09T06:57:04+00:00",
+    "generated_at": "2026-06-10T07:16:22+00:00",
     "council_slug": "basingstoke-and-deane",
     "council_name": "Basingstoke and Deane"
   },
@@ -358,13 +358,13 @@
           "party_name": "Basingstoke & Deane Independents"
         },
         {
-          "person_id": 97251,
-          "name": "Hannah Lilian Jane Cooper",
+          "person_id": 9684,
+          "name": "Robert Charles Cooper",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 9684,
-          "name": "Robert Charles Cooper",
+          "person_id": 97251,
+          "name": "Hannah Lilian Jane Cooper",
           "party_name": "Liberal Democrats"
         },
         {
@@ -629,8 +629,8 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110643,
-          "name": "Christina Sheila Jordan",
+          "person_id": 70377,
+          "name": "Christina Jordan",
           "party_name": "Reform UK"
         },
         {
