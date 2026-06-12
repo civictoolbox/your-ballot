@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-11T08:14:10+00:00",
+    "generated_at": "2026-06-12T08:00:08+00:00",
     "council_slug": "huntingdonshire",
     "council_name": "Huntingdonshire"
   },
@@ -801,7 +801,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127885,
+          "person_id": 76023,
           "name": "Cath Gleadow",
           "party_name": "Liberal Democrats"
         },
@@ -930,13 +930,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 118013,
-          "name": "Alan James Hunt",
+          "person_id": 91287,
+          "name": "Jacqueline Priscilla Hunt",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 91287,
-          "name": "Jacqueline Priscilla Hunt",
+          "person_id": 118013,
+          "name": "Alan James Hunt",
           "party_name": "Liberal Democrats"
         },
         {

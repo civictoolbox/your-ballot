@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-11T08:14:10+00:00",
+    "generated_at": "2026-06-12T08:00:08+00:00",
     "council_slug": "bromley",
     "council_name": "Bromley"
   },
@@ -126,14 +126,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 47316,
-          "name": "Robert Neil Evans",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 130650,
           "name": "John Evans",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 47316,
+          "name": "Robert Neil Evans",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 130651,

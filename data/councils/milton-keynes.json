@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-11T08:14:10+00:00",
+    "generated_at": "2026-06-12T08:00:08+00:00",
     "council_slug": "milton-keynes",
     "council_name": "Milton Keynes"
   },
@@ -277,13 +277,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 12997,
-          "name": "Marie Bradburn",
+          "person_id": 13002,
+          "name": "Kerrie Bradburn",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 13002,
-          "name": "Kerrie Bradburn",
+          "person_id": 12997,
+          "name": "Marie Bradburn",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1346,13 +1346,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 130053,
-          "name": "Humna Raja",
+          "person_id": 130052,
+          "name": "Asad Raja",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130052,
-          "name": "Asad Raja",
+          "person_id": 130053,
+          "name": "Humna Raja",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1648,7 +1648,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130088,
+          "person_id": 19414,
           "name": "James Bartrick",
           "party_name": "Liberal Democrats"
         },
