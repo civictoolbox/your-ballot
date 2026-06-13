@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-12T08:00:08+00:00",
+    "generated_at": "2026-06-13T07:05:14+00:00",
     "council_slug": "lambeth",
     "council_name": "Lambeth"
   },
@@ -492,7 +492,7 @@
         },
         {
           "person_id": 131755,
-          "name": "Martin Read",
+          "name": "Martin Lester Read",
           "party_name": "Reform UK"
         },
         {
@@ -607,13 +607,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 37156,
-          "name": "Vivienne Baines",
+          "person_id": 37155,
+          "name": "Malcolm Baines",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 37155,
-          "name": "Malcolm Baines",
+          "person_id": 37156,
+          "name": "Vivienne Baines",
           "party_name": "Liberal Democrats"
         },
         {
@@ -744,7 +744,7 @@
         },
         {
           "person_id": 91161,
-          "name": "Michael Ball",
+          "name": "Michael Sherif Ball",
           "party_name": "Green Party"
         },
         {
@@ -1270,7 +1270,7 @@
         },
         {
           "person_id": 131303,
-          "name": "Christopher Henri Cousins",
+          "name": "Chris Cousins",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1444,7 +1444,7 @@
         },
         {
           "person_id": 131572,
-          "name": "Jade Albas",
+          "name": "Jade Ellen Albas",
           "party_name": "Labour Party"
         },
         {
