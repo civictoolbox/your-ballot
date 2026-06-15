@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-14T07:55:57+00:00",
+    "generated_at": "2026-06-15T09:33:06+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -433,13 +433,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 99024,
-          "name": "Margaret Donnelly",
+          "person_id": 11195,
+          "name": "Marc Donnelly",
           "party_name": "Independent"
         },
         {
-          "person_id": 11195,
-          "name": "Marc Donnelly",
+          "person_id": 99024,
+          "name": "Margaret Donnelly",
           "party_name": "Independent"
         },
         {
@@ -551,14 +551,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 4028,
-          "name": "Wendy Barbara Taylor",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 111762,
           "name": "Laurence Taylor",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 4028,
+          "name": "Wendy Barbara Taylor",
+          "party_name": "Liberal Democrats"
         }
       ]
     },
@@ -619,13 +619,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 38323,
-          "name": "Adam Lee Mitchell",
+          "person_id": 37648,
+          "name": "Tracey Ann Mitchell",
           "party_name": "Newcastle Independents"
         },
         {
-          "person_id": 37648,
-          "name": "Tracey Ann Mitchell",
+          "person_id": 38323,
+          "name": "Adam Lee Mitchell",
           "party_name": "Newcastle Independents"
         },
         {
@@ -1301,13 +1301,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 134077,
-          "name": "Mark Gardner",
+          "person_id": 134076,
+          "name": "John Paul Gardner",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 134076,
-          "name": "John Paul Gardner",
+          "person_id": 134077,
+          "name": "Mark Gardner",
           "party_name": "Reform UK"
         },
         {
@@ -1817,13 +1817,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 136491,
-          "name": "Brad Aird",
+          "person_id": 136492,
+          "name": "Christine Aird",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 136492,
-          "name": "Christine Aird",
+          "person_id": 136491,
+          "name": "Brad Aird",
           "party_name": "Labour Party"
         },
         {
