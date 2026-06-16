@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-15T09:33:06+00:00",
+    "generated_at": "2026-06-16T09:02:23+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -1107,14 +1107,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125874,
-          "name": "Andrew Stevens",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 41037,
           "name": "Christian Stevens",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 125874,
+          "name": "Andrew Stevens",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 102167,
@@ -1392,13 +1392,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 92537,
-          "name": "Pamela Freeman",
+          "person_id": 112034,
+          "name": "Adrian Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 112034,
-          "name": "Adrian Freeman",
+          "person_id": 92537,
+          "name": "Pamela Freeman",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -2002,13 +2002,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 137743,
-          "name": "Simon Chambers",
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137742,
-          "name": "Sarah Jane Chambers",
+          "person_id": 137743,
+          "name": "Simon Chambers",
           "party_name": "Reform UK"
         },
         {

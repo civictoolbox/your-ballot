@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-15T09:33:06+00:00",
+    "generated_at": "2026-06-16T09:02:23+00:00",
     "council_slug": "camden",
     "council_name": "Camden"
   },
@@ -111,14 +111,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137644,
-          "name": "Christopher Cooke",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 137645,
           "name": "Katie Marie Cooke",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137644,
+          "name": "Christopher Cooke",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 42588,
@@ -661,7 +661,7 @@
         },
         {
           "person_id": 94624,
-          "name": "Alice Brown",
+          "name": "Alice Amelia Brown",
           "party_name": "Green Party"
         },
         {
@@ -733,13 +733,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 41848,
-          "name": "Alison Frost",
+          "person_id": 94630,
+          "name": "Tim Frost",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 94630,
-          "name": "Tim Frost",
+          "person_id": 41848,
+          "name": "Alison Frost",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1013,7 +1013,7 @@
         },
         {
           "person_id": 94566,
-          "name": "Nanouche Basoukama Umeadi",
+          "name": "Nanouche Umeadi",
           "party_name": "Labour Party"
         }
       ]
