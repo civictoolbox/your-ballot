@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-16T09:02:23+00:00",
+    "generated_at": "2026-06-17T08:35:24+00:00",
     "council_slug": "blackburn-with-darwen",
     "council_name": "Blackburn With Darwen"
   },
@@ -541,7 +541,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 132002,
+          "person_id": 111202,
           "name": "Simon Charlesworth",
           "party_name": "Green Party"
         },

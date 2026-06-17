@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-16T09:02:23+00:00",
+    "generated_at": "2026-06-17T08:35:24+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -264,14 +264,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 95189,
-          "name": "Ahmodur Rahman Khan",
-          "party_name": "Aspire"
-        },
-        {
           "person_id": 132738,
           "name": "Idrees Khan",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95189,
+          "name": "Ahmodur Rahman Khan",
+          "party_name": "Aspire"
         },
         {
           "person_id": 132739,
@@ -1710,14 +1710,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 95196,
-          "name": "Michael David Robinson",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 133261,
           "name": "Rick Robinson",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 95196,
+          "name": "Michael David Robinson",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 133262,

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-16T09:02:23+00:00",
+    "generated_at": "2026-06-17T08:35:24+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -896,14 +896,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 131960,
-          "name": "Md Shoeb Khan",
-          "party_name": "Your Party"
-        },
-        {
           "person_id": 48514,
           "name": "Ahsan Khan",
           "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131960,
+          "name": "Md Shoeb Khan",
+          "party_name": "Your Party"
         },
         {
           "person_id": 131961,
@@ -964,14 +964,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130411,
-          "name": "Peter Hollingsworth",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130410,
           "name": "Deborah Hollingsworth",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 130411,
+          "name": "Peter Hollingsworth",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 130412,
@@ -1183,13 +1183,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 132026,
-          "name": "Beverley Goldie",
+          "person_id": 132027,
+          "name": "Nick Goldie",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 132027,
-          "name": "Nick Goldie",
+          "person_id": 132026,
+          "name": "Beverley Goldie",
           "party_name": "Conservative and Unionist Party"
         },
         {

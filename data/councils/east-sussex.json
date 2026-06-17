@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-16T09:02:23+00:00",
+    "generated_at": "2026-06-17T08:35:24+00:00",
     "council_slug": "east-sussex",
     "council_name": "East Sussex"
   },
@@ -863,7 +863,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 135578,
+          "person_id": 5628,
           "name": "Peter James Bucklitsch",
           "party_name": "Reform UK"
         },

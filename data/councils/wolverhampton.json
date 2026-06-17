@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-16T09:02:23+00:00",
+    "generated_at": "2026-06-17T08:35:24+00:00",
     "council_slug": "wolverhampton",
     "council_name": "Wolverhampton"
   },
@@ -262,7 +262,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 129930,
+          "person_id": 73124,
           "name": "Chris Burden",
           "party_name": "Labour and Co-operative Party"
         },
@@ -333,14 +333,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130333,
-          "name": "Hardeep Singh",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 130332,
           "name": "Ash Singh",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130333,
+          "name": "Hardeep Singh",
+          "party_name": "Green Party"
         },
         {
           "person_id": 130334,
