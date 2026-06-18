@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-17T08:35:24+00:00",
+    "generated_at": "2026-06-18T08:18:18+00:00",
     "council_slug": "enfield",
     "council_name": "Enfield"
   },
@@ -159,13 +159,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 136752,
-          "name": "Hasan Hurer",
+          "person_id": 42508,
+          "name": "Ertan Hurer",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 42508,
-          "name": "Ertan Hurer",
+          "person_id": 136752,
+          "name": "Hasan Hurer",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -189,13 +189,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 136755,
-          "name": "Ismail Polat",
+          "person_id": 136756,
+          "name": "Ozlem Polat",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 136756,
-          "name": "Ozlem Polat",
+          "person_id": 136755,
+          "name": "Ismail Polat",
           "party_name": "Reform UK"
         },
         {
@@ -398,13 +398,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 45706,
-          "name": "Stephen Viney",
+          "person_id": 45705,
+          "name": "Anne Viney",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45705,
-          "name": "Anne Viney",
+          "person_id": 45706,
+          "name": "Stephen Viney",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -924,13 +924,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 134328,
-          "name": "Ayse Ekici",
+          "person_id": 134329,
+          "name": "Derya Ekici",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 134329,
-          "name": "Derya Ekici",
+          "person_id": 134328,
+          "name": "Ayse Ekici",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1070,13 +1070,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133858,
-          "name": "Shelley Jane Doolan",
+          "person_id": 133857,
+          "name": "James Michael Doolan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133857,
-          "name": "James Michael Doolan",
+          "person_id": 133858,
+          "name": "Shelley Jane Doolan",
           "party_name": "Reform UK"
         },
         {
