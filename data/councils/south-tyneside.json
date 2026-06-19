@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-18T08:18:18+00:00",
+    "generated_at": "2026-06-19T08:39:00+00:00",
     "council_slug": "south-tyneside",
     "council_name": "South Tyneside"
   },
@@ -232,7 +232,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 138967,
+          "person_id": 54051,
           "name": "Ian Jason Diamond",
           "party_name": "Reform UK"
         },
@@ -310,13 +310,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 5445,
-          "name": "Steve Harrison",
+          "person_id": 138949,
+          "name": "Vicky Harrison",
           "party_name": "Independent"
         },
         {
-          "person_id": 138949,
-          "name": "Vicky Harrison",
+          "person_id": 5445,
+          "name": "Steve Harrison",
           "party_name": "Independent"
         },
         {

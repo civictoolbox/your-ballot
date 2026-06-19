@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-18T08:18:18+00:00",
+    "generated_at": "2026-06-19T08:39:00+00:00",
     "council_slug": "leeds",
     "council_name": "Leeds"
   },
@@ -167,14 +167,14 @@
           "party_name": "Trade Unionist and Socialist Coalition"
         },
         {
-          "person_id": 36971,
-          "name": "Dan Walker",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 125040,
           "name": "Clancy Walker",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 36971,
+          "name": "Dan Walker",
+          "party_name": "Liberal Democrats"
         }
       ]
     },
@@ -266,8 +266,8 @@
       "candidate_count": 7,
       "candidates": [
         {
-          "person_id": 126619,
-          "name": "Shahab Saqib Adris",
+          "person_id": 55189,
+          "name": "Shahab Adris",
           "party_name": "Green Party"
         },
         {

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-18T08:18:19+00:00",
+    "generated_at": "2026-06-19T08:39:01+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -251,8 +251,8 @@
       "ward_name": "West Fenham"
     },
     {
-      "person_id": 126619,
-      "name": "Shahab Saqib Adris",
+      "person_id": 55189,
+      "name": "Shahab Adris",
       "party_name": "Green Party",
       "council_slug": "leeds",
       "council_name": "Leeds",
@@ -4427,16 +4427,16 @@
       "ward_name": "Upper Edmonton"
     },
     {
-      "person_id": 139019,
-      "name": "Iona Brown",
+      "person_id": 139020,
+      "name": "Ruby Hazel Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Whickham North & Swalwell"
     },
     {
-      "person_id": 139020,
-      "name": "Ruby Hazel Brown",
+      "person_id": 139019,
+      "name": "Iona Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -9307,16 +9307,16 @@
       "ward_name": "Sandridge & Wheathampstead"
     },
     {
-      "person_id": 93383,
-      "name": "Oliver Jacob Duxbury",
+      "person_id": 129537,
+      "name": "Connie Olivia Duxbury",
       "party_name": "Green Party",
       "council_slug": "croydon",
       "council_name": "Croydon",
       "ward_name": "South Croydon"
     },
     {
-      "person_id": 129537,
-      "name": "Connie Olivia Duxbury",
+      "person_id": 93383,
+      "name": "Oliver Jacob Duxbury",
       "party_name": "Green Party",
       "council_slug": "croydon",
       "council_name": "Croydon",
@@ -9747,16 +9747,16 @@
       "ward_name": "Barrowford & Pendleside"
     },
     {
-      "person_id": 133295,
-      "name": "Suzanne Ellis",
+      "person_id": 92617,
+      "name": "Maximilian Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
       "ward_name": "Wandsworth Common"
     },
     {
-      "person_id": 92617,
-      "name": "Maximilian Ellis",
+      "person_id": 133295,
+      "name": "Suzanne Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
@@ -16091,16 +16091,16 @@
       "ward_name": "Odiham & Hook"
     },
     {
-      "person_id": 134361,
-      "name": "Nicola Jacques",
+      "person_id": 134360,
+      "name": "Barry Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Ryhope"
     },
     {
-      "person_id": 134360,
-      "name": "Barry Jacques",
+      "person_id": 134361,
+      "name": "Nicola Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -16523,7 +16523,7 @@
       "ward_name": "Cheshunt North"
     },
     {
-      "person_id": 125537,
+      "person_id": 32762,
       "name": "Elizabeth Johnson",
       "party_name": "Green Party",
       "council_slug": "cheltenham",
@@ -17571,7 +17571,7 @@
       "ward_name": "Stonebridge"
     },
     {
-      "person_id": 125648,
+      "person_id": 48729,
       "name": "John Keys",
       "party_name": "Green Party",
       "council_slug": "sutton",
@@ -20155,16 +20155,16 @@
       "ward_name": "Abbey"
     },
     {
-      "person_id": 135345,
-      "name": "Kaiser Majeed",
+      "person_id": 135344,
+      "name": "Faisal Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 135344,
-      "name": "Faisal Majeed",
+      "person_id": 135345,
+      "name": "Kaiser Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -27363,16 +27363,16 @@
       "ward_name": "Stockland Green"
     },
     {
-      "person_id": 137887,
-      "name": "Mike Roberts",
+      "person_id": 137886,
+      "name": "Janet Elizabeth Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",
       "ward_name": "Earlsdon"
     },
     {
-      "person_id": 137886,
-      "name": "Janet Elizabeth Roberts",
+      "person_id": 137887,
+      "name": "Mike Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",

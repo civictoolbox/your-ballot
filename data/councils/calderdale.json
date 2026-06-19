@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-18T08:18:18+00:00",
+    "generated_at": "2026-06-19T08:39:00+00:00",
     "council_slug": "calderdale",
     "council_name": "Calderdale"
   },
@@ -531,7 +531,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135049,
+          "person_id": 36851,
           "name": "Dan Sutherland",
           "party_name": "Reform UK"
         },
@@ -994,7 +994,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135219,
+          "person_id": 73534,
           "name": "Leah Elizabeth Webster",
           "party_name": "Independent"
         },
@@ -1052,13 +1052,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 135261,
-          "name": "Phil Shire",
+          "person_id": 135262,
+          "name": "Yolande Shire",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135262,
-          "name": "Yolande Shire",
+          "person_id": 135261,
+          "name": "Phil Shire",
           "party_name": "Labour Party"
         },
         {

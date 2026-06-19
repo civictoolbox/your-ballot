@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-18T08:18:18+00:00",
+    "generated_at": "2026-06-19T08:39:00+00:00",
     "council_slug": "epping-forest",
     "council_name": "Epping Forest"
   },
@@ -348,7 +348,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 135426,
+          "person_id": 132590,
           "name": "Tom Addenbrooke",
           "party_name": "Liberal Democrats"
         },
