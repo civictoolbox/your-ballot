@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-22T09:20:30+00:00",
+    "generated_at": "2026-06-23T06:58:00+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -427,16 +427,16 @@
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 133611,
-      "name": "Imran Ahmed",
+      "person_id": 133610,
+      "name": "Ashfaq Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 133610,
-      "name": "Ashfaq Ahmed",
+      "person_id": 133611,
+      "name": "Imran Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -579,16 +579,16 @@
       "ward_name": "Bradford Moor"
     },
     {
-      "person_id": 131905,
-      "name": "Sundas Ali",
+      "person_id": 131904,
+      "name": "Majid Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 131904,
-      "name": "Majid Ali",
+      "person_id": 131905,
+      "name": "Sundas Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -2739,16 +2739,16 @@
       "ward_name": "Sunbury Common & Ashford Common"
     },
     {
-      "person_id": 11195,
-      "name": "Marc Donnelly",
+      "person_id": 99024,
+      "name": "Margaret Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Chapel"
     },
     {
-      "person_id": 99024,
-      "name": "Margaret Donnelly",
+      "person_id": 11195,
+      "name": "Marc Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -3171,16 +3171,16 @@
       "ward_name": "Southall West"
     },
     {
-      "person_id": 131490,
-      "name": "Donna Foggon",
+      "person_id": 110112,
+      "name": "Terry Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Bede"
     },
     {
-      "person_id": 110112,
-      "name": "Terry Foggon",
+      "person_id": 131490,
+      "name": "Donna Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4507,16 +4507,16 @@
       "ward_name": "Great Horton"
     },
     {
-      "person_id": 110875,
-      "name": "Sharat Hussain",
+      "person_id": 13638,
+      "name": "Arshad Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Toller"
     },
     {
-      "person_id": 13638,
-      "name": "Arshad Hussain",
+      "person_id": 110875,
+      "name": "Sharat Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -4595,16 +4595,16 @@
       "ward_name": "Spitalfields & Banglatown"
     },
     {
-      "person_id": 94319,
-      "name": "Izzy Hussain",
+      "person_id": 82764,
+      "name": "Amo Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Paddock"
     },
     {
-      "person_id": 82764,
-      "name": "Amo Hussain",
+      "person_id": 94319,
+      "name": "Izzy Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -5443,16 +5443,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 135153,
-      "name": "Tamzied Hossain Khan",
+      "person_id": 135152,
+      "name": "Obaid Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Plaistow South"
     },
     {
-      "person_id": 135152,
-      "name": "Obaid Khan",
+      "person_id": 135153,
+      "name": "Tamzied Hossain Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -7235,16 +7235,16 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
-      "person_id": 132009,
-      "name": "Safvan Patel",
+      "person_id": 132007,
+      "name": "Altaf Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
       "ward_name": "Wensley Fold"
     },
     {
-      "person_id": 132007,
-      "name": "Altaf Patel",
+      "person_id": 132009,
+      "name": "Safvan Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7395,16 +7395,16 @@
       "ward_name": "Northfield"
     },
     {
-      "person_id": 76470,
-      "name": "Ayrton Pointon",
+      "person_id": 131316,
+      "name": "David Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
       "ward_name": "Ackworth, North Elmsall & Upton"
     },
     {
-      "person_id": 131316,
-      "name": "David Pointon",
+      "person_id": 76470,
+      "name": "Ayrton Pointon",
       "party_name": "Independent",
       "council_slug": "wakefield",
       "council_name": "Wakefield",
@@ -7771,16 +7771,16 @@
       "ward_name": "Banbury Calthorpe & Easington"
     },
     {
-      "person_id": 135533,
-      "name": "Maggie Richens",
+      "person_id": 135534,
+      "name": "William George Spencer Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "North Richmond"
     },
     {
-      "person_id": 135534,
-      "name": "William George Spencer Richens",
+      "person_id": 135533,
+      "name": "Maggie Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -8027,17 +8027,17 @@
       "ward_name": "Little Horton"
     },
     {
-      "person_id": 110871,
-      "name": "Rizwan Saleem",
-      "party_name": "Your Bradford Independent group",
+      "person_id": 131914,
+      "name": "Bahlal Khalid Saleem",
+      "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 131914,
-      "name": "Bahlal Khalid Saleem",
-      "party_name": "Independent",
+      "person_id": 110871,
+      "name": "Rizwan Saleem",
+      "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
