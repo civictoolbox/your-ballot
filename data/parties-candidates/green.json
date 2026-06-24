@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-23T06:58:00+00:00",
+    "generated_at": "2026-06-24T06:55:45+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -611,7 +611,7 @@
       "ward_name": "Uxbridge"
     },
     {
-      "person_id": 136963,
+      "person_id": 90945,
       "name": "Sadia Ahmed-Nur Ali",
       "party_name": "Green Party",
       "council_slug": "islington",
@@ -1403,16 +1403,16 @@
       "ward_name": "Drake"
     },
     {
-      "person_id": 134549,
-      "name": "Joao Arraiol",
+      "person_id": 134548,
+      "name": "Bella Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
       "ward_name": "Pimlico North"
     },
     {
-      "person_id": 134548,
-      "name": "Bella Arraiol",
+      "person_id": 134549,
+      "name": "Joao Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
@@ -8019,7 +8019,7 @@
       "ward_name": "Walkley"
     },
     {
-      "person_id": 138923,
+      "person_id": 99426,
       "name": "Chris Davies",
       "party_name": "Green Party",
       "council_slug": "south-tyneside",
@@ -24451,16 +24451,16 @@
       "ward_name": "Grays Riverside"
     },
     {
-      "person_id": 131072,
-      "name": "Anita Paris",
+      "person_id": 131073,
+      "name": "David Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
       "ward_name": "Longlands"
     },
     {
-      "person_id": 131073,
-      "name": "David Paris",
+      "person_id": 131072,
+      "name": "Anita Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
@@ -27003,7 +27003,7 @@
       "ward_name": "Stilton, Folksworth & Washingley"
     },
     {
-      "person_id": 139100,
+      "person_id": 26738,
       "name": "David Francis Revett",
       "party_name": "Green Party",
       "council_slug": "suffolk",
@@ -27643,7 +27643,7 @@
       "ward_name": "Wombwell"
     },
     {
-      "person_id": 134419,
+      "person_id": 3206,
       "name": "Steve Roest",
       "party_name": "Green Party",
       "council_slug": "richmond-upon-thames",

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-23T06:58:00+00:00",
+    "generated_at": "2026-06-24T06:55:45+00:00",
     "council_slug": "south-tyneside",
     "council_name": "South Tyneside"
   },
@@ -159,7 +159,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 138923,
+          "person_id": 99426,
           "name": "Chris Davies",
           "party_name": "Green Party"
         },
@@ -310,13 +310,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 5445,
-          "name": "Steve Harrison",
+          "person_id": 138949,
+          "name": "Vicky Harrison",
           "party_name": "Independent"
         },
         {
-          "person_id": 138949,
-          "name": "Vicky Harrison",
+          "person_id": 5445,
+          "name": "Steve Harrison",
           "party_name": "Independent"
         },
         {
