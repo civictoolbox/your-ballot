@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-24T06:55:45+00:00",
+    "generated_at": "2026-06-25T06:55:23+00:00",
     "council_slug": "camden",
     "council_name": "Camden"
   },
@@ -111,14 +111,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 137644,
-          "name": "Christopher Cooke",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 137645,
           "name": "Katie Marie Cooke",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137644,
+          "name": "Christopher Cooke",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 42588,

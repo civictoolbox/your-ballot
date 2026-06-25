@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-24T06:55:45+00:00",
+    "generated_at": "2026-06-25T06:55:23+00:00",
     "council_slug": "southend-on-sea",
     "council_name": "Southend on Sea"
   },
@@ -519,8 +519,8 @@
       "candidate_count": 8,
       "candidates": [
         {
-          "person_id": 125575,
-          "name": "Robert Daniel Peter Clemenson",
+          "person_id": 9814,
+          "name": "Robert Clemenson",
           "party_name": "Labour Party"
         },
         {
@@ -668,14 +668,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 95994,
-          "name": "Simon James Jones",
-          "party_name": "Confelicity"
-        },
-        {
           "person_id": 133475,
           "name": "Brian Jones",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 95994,
+          "name": "Simon James Jones",
+          "party_name": "Confelicity"
         }
       ]
     },
