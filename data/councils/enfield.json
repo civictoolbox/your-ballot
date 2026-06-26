@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-06-25T06:55:23+00:00",
+    "generated_at": "2026-06-26T07:01:35+00:00",
     "council_slug": "enfield",
     "council_name": "Enfield"
   },
@@ -13,7 +13,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 124727,
+          "person_id": 47672,
           "name": "Shamshia Ali",
           "party_name": "Labour Party"
         },
@@ -23,13 +23,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 134029,
-          "name": "Chris Bushill",
+          "person_id": 43494,
+          "name": "Joan Bushill",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 43494,
-          "name": "Joan Bushill",
+          "person_id": 134029,
+          "name": "Chris Bushill",
           "party_name": "Liberal Democrats"
         },
         {
@@ -632,13 +632,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 134702,
-          "name": "Michael Steel",
+          "person_id": 45794,
+          "name": "Margaret Steel",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45794,
-          "name": "Margaret Steel",
+          "person_id": 134702,
+          "name": "Michael Steel",
           "party_name": "Liberal Democrats"
         },
         {
@@ -826,13 +826,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135439,
-          "name": "Nuran Ali",
+          "person_id": 135438,
+          "name": "Hasan Ali",
           "party_name": "Enfield Community Independents Party"
         },
         {
-          "person_id": 135438,
-          "name": "Hasan Ali",
+          "person_id": 135439,
+          "name": "Nuran Ali",
           "party_name": "Enfield Community Independents Party"
         },
         {
