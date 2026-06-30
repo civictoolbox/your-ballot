@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-06-29T08:23:49+00:00",
+    "generated_at": "2026-06-30T07:02:07+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -1403,16 +1403,16 @@
       "ward_name": "Drake"
     },
     {
-      "person_id": 134548,
-      "name": "Bella Arraiol",
+      "person_id": 134549,
+      "name": "Joao Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
       "ward_name": "Pimlico North"
     },
     {
-      "person_id": 134549,
-      "name": "Joao Arraiol",
+      "person_id": 134548,
+      "name": "Bella Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
@@ -8259,16 +8259,16 @@
       "ward_name": "Bristnall"
     },
     {
-      "person_id": 130214,
-      "name": "James Deans",
+      "person_id": 96695,
+      "name": "Sarah Louise Deans",
       "party_name": "Green Party",
       "council_slug": "sandwell",
       "council_name": "Sandwell",
       "ward_name": "Langley"
     },
     {
-      "person_id": 96695,
-      "name": "Sarah Louise Deans",
+      "person_id": 130214,
+      "name": "James Deans",
       "party_name": "Green Party",
       "council_slug": "sandwell",
       "council_name": "Sandwell",
@@ -8651,16 +8651,16 @@
       "ward_name": "Tividale"
     },
     {
-      "person_id": 138873,
-      "name": "Cheryl May Dixon",
+      "person_id": 138874,
+      "name": "Steven Frederick Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Winlaton & High Spen"
     },
     {
-      "person_id": 138874,
-      "name": "Steven Frederick Dixon",
+      "person_id": 138873,
+      "name": "Cheryl May Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -16091,16 +16091,16 @@
       "ward_name": "Odiham & Hook"
     },
     {
-      "person_id": 134361,
-      "name": "Nicola Jacques",
+      "person_id": 134360,
+      "name": "Barry Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Ryhope"
     },
     {
-      "person_id": 134360,
-      "name": "Barry Jacques",
+      "person_id": 134361,
+      "name": "Nicola Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -24451,16 +24451,16 @@
       "ward_name": "Grays Riverside"
     },
     {
-      "person_id": 131073,
-      "name": "David Paris",
+      "person_id": 131072,
+      "name": "Anita Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
       "ward_name": "Longlands"
     },
     {
-      "person_id": 131072,
-      "name": "Anita Paris",
+      "person_id": 131073,
+      "name": "David Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
@@ -27363,16 +27363,16 @@
       "ward_name": "Stockland Green"
     },
     {
-      "person_id": 137886,
-      "name": "Janet Elizabeth Roberts",
+      "person_id": 137887,
+      "name": "Mike Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",
       "ward_name": "Earlsdon"
     },
     {
-      "person_id": 137887,
-      "name": "Mike Roberts",
+      "person_id": 137886,
+      "name": "Janet Elizabeth Roberts",
       "party_name": "Green Party",
       "council_slug": "coventry",
       "council_name": "Coventry",
@@ -36003,16 +36003,16 @@
       "ward_name": "Blendon & Penhill"
     },
     {
-      "person_id": 136943,
-      "name": "Felix Zajitschek",
+      "person_id": 136944,
+      "name": "Susanne Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Formby West"
     },
     {
-      "person_id": 136944,
-      "name": "Susanne Zajitschek",
+      "person_id": 136943,
+      "name": "Felix Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
