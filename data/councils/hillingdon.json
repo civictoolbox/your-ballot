@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-01T07:19:12+00:00",
+    "generated_at": "2026-07-02T06:49:15+00:00",
     "council_slug": "hillingdon",
     "council_name": "Hillingdon"
   },
@@ -292,14 +292,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128346,
-          "name": "Manjinder Singh",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 128347,
           "name": "Satjit Singh",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 128346,
+          "name": "Manjinder Singh",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 123704,
