@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-05T06:49:18+00:00",
+    "generated_at": "2026-07-06T07:53:27+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -257,14 +257,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 94331,
-          "name": "Manju Gill",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 135341,
           "name": "Louis Gill",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 94331,
+          "name": "Manju Gill",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 135342,
@@ -355,13 +355,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 13386,
-          "name": "Mark Andrew Statham",
+          "person_id": 52081,
+          "name": "Corin Ann Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 52081,
-          "name": "Corin Ann Statham",
+          "person_id": 13386,
+          "name": "Mark Andrew Statham",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -539,13 +539,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42128,
-          "name": "Paul Bott",
+          "person_id": 13410,
+          "name": "Chris Bott",
           "party_name": "Independent"
         },
         {
-          "person_id": 13410,
-          "name": "Chris Bott",
+          "person_id": 42128,
+          "name": "Paul Bott",
           "party_name": "Independent"
         },
         {
@@ -584,13 +584,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135896,
-          "name": "Amy Walker",
+          "person_id": 135895,
+          "name": "Ade Walker",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135895,
-          "name": "Ade Walker",
+          "person_id": 135896,
+          "name": "Amy Walker",
           "party_name": "Labour Party"
         },
         {
@@ -768,13 +768,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 94319,
-          "name": "Izzy Hussain",
+          "person_id": 82764,
+          "name": "Amo Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 82764,
-          "name": "Amo Hussain",
+          "person_id": 94319,
+          "name": "Izzy Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -783,13 +783,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112845,
-          "name": "Klara Margetts",
+          "person_id": 112815,
+          "name": "Dean Margetts",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112815,
-          "name": "Dean Margetts",
+          "person_id": 112845,
+          "name": "Klara Margetts",
           "party_name": "Labour Party"
         },
         {
@@ -836,13 +836,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133610,
-          "name": "Ashfaq Ahmed",
+          "person_id": 133611,
+          "name": "Imran Ahmed",
           "party_name": "Independent"
         },
         {
-          "person_id": 133611,
-          "name": "Imran Ahmed",
+          "person_id": 133610,
+          "name": "Ashfaq Ahmed",
           "party_name": "Independent"
         },
         {
@@ -866,14 +866,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 99490,
-          "name": "Sadat Hussain",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133615,
           "name": "Shakir Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 99490,
+          "name": "Sadat Hussain",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133616,

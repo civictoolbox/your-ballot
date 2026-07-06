@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-05T06:49:18+00:00",
+    "generated_at": "2026-07-06T07:53:27+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -1301,13 +1301,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 134076,
-          "name": "John Paul Gardner",
+          "person_id": 134077,
+          "name": "Mark Gardner",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 134077,
-          "name": "Mark Gardner",
+          "person_id": 134076,
+          "name": "John Paul Gardner",
           "party_name": "Reform UK"
         },
         {
