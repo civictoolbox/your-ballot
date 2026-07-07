@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-06T07:53:27+00:00",
+    "generated_at": "2026-07-07T06:54:21+00:00",
     "council_slug": "enfield",
     "council_name": "Enfield"
   },
@@ -189,13 +189,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 136755,
-          "name": "Ismail Polat",
+          "person_id": 136756,
+          "name": "Ozlem Polat",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 136756,
-          "name": "Ozlem Polat",
+          "person_id": 136755,
+          "name": "Ismail Polat",
           "party_name": "Reform UK"
         },
         {
@@ -826,13 +826,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135438,
-          "name": "Hasan Ali",
+          "person_id": 135439,
+          "name": "Nuran Ali",
           "party_name": "Enfield Community Independents Party"
         },
         {
-          "person_id": 135439,
-          "name": "Nuran Ali",
+          "person_id": 135438,
+          "name": "Hasan Ali",
           "party_name": "Enfield Community Independents Party"
         },
         {
@@ -1070,13 +1070,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133857,
-          "name": "James Michael Doolan",
+          "person_id": 133858,
+          "name": "Shelley Jane Doolan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133858,
-          "name": "Shelley Jane Doolan",
+          "person_id": 133857,
+          "name": "James Michael Doolan",
           "party_name": "Reform UK"
         },
         {
