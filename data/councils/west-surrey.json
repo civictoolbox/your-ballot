@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-07T06:54:21+00:00",
+    "generated_at": "2026-07-08T06:05:46+00:00",
     "council_slug": "west-surrey",
     "council_name": "West Surrey"
   },
@@ -1647,13 +1647,13 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 131954,
-          "name": "Simon Trevor Appleby",
+          "person_id": 131953,
+          "name": "Asbjorn Appleby",
           "party_name": "Green Party"
         },
         {
-          "person_id": 131953,
-          "name": "Asbjorn Appleby",
+          "person_id": 131954,
+          "name": "Simon Trevor Appleby",
           "party_name": "Green Party"
         },
         {
