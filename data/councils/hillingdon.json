@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-08T06:05:46+00:00",
+    "generated_at": "2026-07-09T06:58:13+00:00",
     "council_slug": "hillingdon",
     "council_name": "Hillingdon"
   },
@@ -292,14 +292,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128347,
-          "name": "Satjit Singh",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 128346,
           "name": "Manjinder Singh",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 128347,
+          "name": "Satjit Singh",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 123704,
@@ -1121,13 +1121,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 128294,
-          "name": "Stephen Lewis",
+          "person_id": 128293,
+          "name": "Douglas Lewis",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 128293,
-          "name": "Douglas Lewis",
+          "person_id": 128294,
+          "name": "Stephen Lewis",
           "party_name": "Reform UK"
         },
         {
