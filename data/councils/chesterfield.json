@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-09T06:58:13+00:00",
+    "generated_at": "2026-07-10T06:53:49+00:00",
     "council_slug": "chesterfield",
     "council_name": "Chesterfield"
   },
@@ -28,13 +28,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 31427,
-          "name": "Dean Collins",
+          "person_id": 63953,
+          "name": "Lisa Kelly Collins",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 63953,
-          "name": "Lisa Kelly Collins",
+          "person_id": 31427,
+          "name": "Dean Collins",
           "party_name": "Labour Party"
         },
         {

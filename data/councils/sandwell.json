@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-09T06:58:13+00:00",
+    "generated_at": "2026-07-10T06:53:49+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -826,13 +826,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 96695,
-          "name": "Sarah Louise Deans",
+          "person_id": 130214,
+          "name": "James Deans",
           "party_name": "Green Party"
         },
         {
-          "person_id": 130214,
-          "name": "James Deans",
+          "person_id": 96695,
+          "name": "Sarah Louise Deans",
           "party_name": "Green Party"
         },
         {
@@ -1264,14 +1264,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 81943,
-          "name": "Parbinder Kaur",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 130160,
           "name": "Simran Kaur",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81943,
+          "name": "Parbinder Kaur",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 87499,
