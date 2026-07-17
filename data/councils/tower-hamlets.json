@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-16T05:48:12+00:00",
+    "generated_at": "2026-07-17T05:49:24+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -1182,13 +1182,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42606,
-          "name": "Ana Miah",
+          "person_id": 42607,
+          "name": "Mohammad Harun Miah",
           "party_name": "Aspire"
         },
         {
-          "person_id": 42607,
-          "name": "Mohammad Harun Miah",
+          "person_id": 42606,
+          "name": "Ana Miah",
           "party_name": "Aspire"
         },
         {
@@ -1230,13 +1230,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 43361,
-          "name": "Suluk Ahmed",
+          "person_id": 124534,
+          "name": "Faysal Ahmed",
           "party_name": "Aspire"
         },
         {
-          "person_id": 124534,
-          "name": "Faysal Ahmed",
+          "person_id": 43361,
+          "name": "Suluk Ahmed",
           "party_name": "Aspire"
         },
         {
@@ -1328,14 +1328,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133156,
-          "name": "Mohammad Amirul Islam",
-          "party_name": "Tower Hamlets Independents"
-        },
-        {
           "person_id": 133157,
           "name": "Shafiq Islam",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 133156,
+          "name": "Mohammad Amirul Islam",
+          "party_name": "Tower Hamlets Independents"
         },
         {
           "person_id": 133158,
@@ -1710,14 +1710,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133261,
-          "name": "Rick Robinson",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 95196,
           "name": "Michael David Robinson",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133261,
+          "name": "Rick Robinson",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 133262,
