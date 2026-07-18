@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-17T05:49:24+00:00",
+    "generated_at": "2026-07-18T05:34:55+00:00",
     "council_slug": "gosport",
     "council_name": "Gosport"
   },
@@ -163,7 +163,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 132897,
+          "person_id": 78001,
           "name": "Merv Bradley",
           "party_name": "Liberal Democrats"
         },

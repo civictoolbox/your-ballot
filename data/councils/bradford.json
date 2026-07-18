@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-17T05:49:24+00:00",
+    "generated_at": "2026-07-18T05:34:55+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -38,13 +38,13 @@
           "party_name": "Yorkshire Party"
         },
         {
-          "person_id": 131799,
-          "name": "Nathen James Keenan",
+          "person_id": 131798,
+          "name": "Daniel James Keenan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131798,
-          "name": "Daniel James Keenan",
+          "person_id": 131799,
+          "name": "Nathen James Keenan",
           "party_name": "Reform UK"
         },
         {
@@ -405,14 +405,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 2061,
-          "name": "David Ward",
-          "party_name": "Your Bradford Independent group"
-        },
-        {
           "person_id": 132151,
           "name": "larlaithe Ward",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 2061,
+          "name": "David Ward",
+          "party_name": "Your Bradford Independent group"
         }
       ]
     },
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 2891,
-          "name": "Raja Sakhawat Hussain",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65481,
           "name": "Zubair Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2891,
+          "name": "Raja Sakhawat Hussain",
+          "party_name": "Independent"
         },
         {
           "person_id": 132418,
@@ -996,13 +996,13 @@
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 75594,
-          "name": "Aleem Bashir",
+          "person_id": 132278,
+          "name": "Shabana Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132278,
-          "name": "Shabana Bashir",
+          "person_id": 75594,
+          "name": "Aleem Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -2065,14 +2065,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131815,
-          "name": "Sophie Bibi",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 131814,
           "name": "Aisha Bibi",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 131815,
+          "name": "Sophie Bibi",
+          "party_name": "Independent"
         },
         {
           "person_id": 131816,
@@ -2080,14 +2080,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 38368,
-          "name": "Kamran Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 131818,
           "name": "Ghafoor Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 13638,
@@ -2226,8 +2226,8 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 132133,
-          "name": "Ralph David Ritchie Berry",
+          "person_id": 65562,
+          "name": "Ralph Berry",
           "party_name": "Labour Party"
         },
         {
@@ -2261,14 +2261,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132138,
-          "name": "Alayna Khan",
-          "party_name": "Your Bradford Independent group"
-        },
-        {
           "person_id": 13472,
           "name": "Sabiya Akhtar Khan",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132138,
+          "name": "Alayna Khan",
+          "party_name": "Your Bradford Independent group"
         },
         {
           "person_id": 94064,

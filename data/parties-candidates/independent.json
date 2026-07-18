@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-07-17T05:49:24+00:00",
+    "generated_at": "2026-07-18T05:34:56+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -1283,16 +1283,16 @@
       "ward_name": "Keighley Central"
     },
     {
-      "person_id": 75594,
-      "name": "Aleem Bashir",
+      "person_id": 132278,
+      "name": "Shabana Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Heaton & Frizinghall"
     },
     {
-      "person_id": 132278,
-      "name": "Shabana Bashir",
+      "person_id": 75594,
+      "name": "Aleem Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -1883,7 +1883,7 @@
       "ward_name": "Feltham West"
     },
     {
-      "person_id": 133559,
+      "person_id": 82610,
       "name": "John Cannan",
       "party_name": "Independent",
       "council_slug": "hastings",
@@ -2739,16 +2739,16 @@
       "ward_name": "Sunbury Common & Ashford Common"
     },
     {
-      "person_id": 11195,
-      "name": "Marc Donnelly",
+      "person_id": 99024,
+      "name": "Margaret Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Chapel"
     },
     {
-      "person_id": 99024,
-      "name": "Margaret Donnelly",
+      "person_id": 11195,
+      "name": "Marc Donnelly",
       "party_name": "Independent",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -2811,7 +2811,7 @@
       "ward_name": "Southway"
     },
     {
-      "person_id": 135105,
+      "person_id": 40570,
       "name": "Barbara Dring",
       "party_name": "Independent",
       "council_slug": "birmingham",
@@ -2955,8 +2955,8 @@
       "ward_name": "Cleadon Park & Harton Moor"
     },
     {
-      "person_id": 135913,
-      "name": "Stacie Ann Elson",
+      "person_id": 82812,
+      "name": "Stacie Elson",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -3171,16 +3171,16 @@
       "ward_name": "Southall West"
     },
     {
-      "person_id": 110112,
-      "name": "Terry Foggon",
+      "person_id": 131490,
+      "name": "Donna Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Bede"
     },
     {
-      "person_id": 131490,
-      "name": "Donna Foggon",
+      "person_id": 110112,
+      "name": "Terry Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -3867,16 +3867,16 @@
       "ward_name": "Park"
     },
     {
-      "person_id": 138949,
-      "name": "Vicky Harrison",
+      "person_id": 5445,
+      "name": "Steve Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Cleadon Park & Harton Moor"
     },
     {
-      "person_id": 5445,
-      "name": "Steve Harrison",
+      "person_id": 138949,
+      "name": "Vicky Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4531,16 +4531,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -4619,16 +4619,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 52156,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 52156,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -5283,16 +5283,16 @@
       "ward_name": "Clenchwarton & King's Lynn South"
     },
     {
-      "person_id": 138893,
-      "name": "Karen Kennedy",
+      "person_id": 81051,
+      "name": "David Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Primrose"
     },
     {
-      "person_id": 81051,
-      "name": "David Kennedy",
+      "person_id": 138893,
+      "name": "Karen Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -5443,16 +5443,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 135153,
-      "name": "Tamzied Hossain Khan",
+      "person_id": 135152,
+      "name": "Obaid Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Plaistow South"
     },
     {
-      "person_id": 135152,
-      "name": "Obaid Khan",
+      "person_id": 135153,
+      "name": "Tamzied Hossain Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -6411,16 +6411,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 37648,
-      "name": "Tracey Ann Mitchell",
+      "person_id": 38323,
+      "name": "Adam Lee Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Denton & Westerhope"
     },
     {
-      "person_id": 38323,
-      "name": "Adam Lee Mitchell",
+      "person_id": 37648,
+      "name": "Tracey Ann Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -7235,14 +7235,6 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
-      "person_id": 132008,
-      "name": "Maulana Siddiq Patel",
-      "party_name": "Independent",
-      "council_slug": "blackburn-with-darwen",
-      "council_name": "Blackburn With Darwen",
-      "ward_name": "Wensley Fold"
-    },
-    {
       "person_id": 132007,
       "name": "Altaf Patel",
       "party_name": "Independent",
@@ -7253,6 +7245,14 @@
     {
       "person_id": 132009,
       "name": "Safvan Patel",
+      "party_name": "Independent",
+      "council_slug": "blackburn-with-darwen",
+      "council_name": "Blackburn With Darwen",
+      "ward_name": "Wensley Fold"
+    },
+    {
+      "person_id": 132008,
+      "name": "Maulana Siddiq Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7771,16 +7771,16 @@
       "ward_name": "Banbury Calthorpe & Easington"
     },
     {
-      "person_id": 135533,
-      "name": "Maggie Richens",
+      "person_id": 135534,
+      "name": "William George Spencer Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "North Richmond"
     },
     {
-      "person_id": 135534,
-      "name": "William George Spencer Richens",
+      "person_id": 135533,
+      "name": "Maggie Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
