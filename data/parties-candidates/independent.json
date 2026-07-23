@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-07-22T06:03:30+00:00",
+    "generated_at": "2026-07-23T06:09:04+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -427,16 +427,16 @@
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 133610,
-      "name": "Ashfaq Ahmed",
+      "person_id": 133611,
+      "name": "Imran Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 133611,
-      "name": "Imran Ahmed",
+      "person_id": 133610,
+      "name": "Ashfaq Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -3171,16 +3171,16 @@
       "ward_name": "Southall West"
     },
     {
-      "person_id": 110112,
-      "name": "Terry Foggon",
+      "person_id": 131490,
+      "name": "Donna Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Bede"
     },
     {
-      "person_id": 131490,
-      "name": "Donna Foggon",
+      "person_id": 110112,
+      "name": "Terry Foggon",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4531,16 +4531,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -6411,16 +6411,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 38323,
-      "name": "Adam Lee Mitchell",
+      "person_id": 37648,
+      "name": "Tracey Ann Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Denton & Westerhope"
     },
     {
-      "person_id": 37648,
-      "name": "Tracey Ann Mitchell",
+      "person_id": 38323,
+      "name": "Adam Lee Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -7771,16 +7771,16 @@
       "ward_name": "Banbury Calthorpe & Easington"
     },
     {
-      "person_id": 135533,
-      "name": "Maggie Richens",
+      "person_id": 135534,
+      "name": "William George Spencer Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "North Richmond"
     },
     {
-      "person_id": 135534,
-      "name": "William George Spencer Richens",
+      "person_id": 135533,
+      "name": "Maggie Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
