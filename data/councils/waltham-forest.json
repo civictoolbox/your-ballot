@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-25T05:50:05+00:00",
+    "generated_at": "2026-07-26T06:13:25+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -896,14 +896,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 131960,
-          "name": "Md Shoeb Khan",
-          "party_name": "Your Party"
-        },
-        {
           "person_id": 48514,
           "name": "Ahsan Khan",
           "party_name": "Labour and Co-operative Party"
+        },
+        {
+          "person_id": 131960,
+          "name": "Md Shoeb Khan",
+          "party_name": "Your Party"
         },
         {
           "person_id": 131961,

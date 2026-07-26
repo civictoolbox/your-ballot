@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-25T05:50:05+00:00",
+    "generated_at": "2026-07-26T06:13:25+00:00",
     "council_slug": "milton-keynes",
     "council_name": "Milton Keynes"
   },
@@ -239,13 +239,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 129579,
-          "name": "Millie Rook",
+          "person_id": 129578,
+          "name": "Melvyn Rook",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 129578,
-          "name": "Melvyn Rook",
+          "person_id": 129579,
+          "name": "Millie Rook",
           "party_name": "Reform UK"
         },
         {
@@ -576,13 +576,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 129450,
-          "name": "Anthea Nelmes",
+          "person_id": 129451,
+          "name": "John Peter Nelmes",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 129451,
-          "name": "John Peter Nelmes",
+          "person_id": 129450,
+          "name": "Anthea Nelmes",
           "party_name": "Reform UK"
         },
         {
@@ -959,13 +959,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 68543,
-          "name": "Andy Carr",
+          "person_id": 13315,
+          "name": "Jane Carr",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 13315,
-          "name": "Jane Carr",
+          "person_id": 68543,
+          "name": "Andy Carr",
           "party_name": "Liberal Democrats"
         },
         {
