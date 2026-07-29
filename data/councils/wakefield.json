@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-28T06:02:11+00:00",
+    "generated_at": "2026-07-29T06:06:12+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -53,13 +53,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 76470,
-          "name": "Ayrton Pointon",
+          "person_id": 131316,
+          "name": "David Pointon",
           "party_name": "Independent"
         },
         {
-          "person_id": 131316,
-          "name": "David Pointon",
+          "person_id": 76470,
+          "name": "Ayrton Pointon",
           "party_name": "Independent"
         },
         {
@@ -280,13 +280,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 5269,
-          "name": "Steven Ashton",
+          "person_id": 8548,
+          "name": "Penny Ashton",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 8548,
-          "name": "Penny Ashton",
+          "person_id": 5269,
+          "name": "Steven Ashton",
           "party_name": "Reform UK"
         },
         {
@@ -899,13 +899,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 109927,
-          "name": "Jack Lewis Crosswaite",
+          "person_id": 125301,
+          "name": "Jonathan Alan Crosswaite",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 125301,
-          "name": "Jonathan Alan Crosswaite",
+          "person_id": 109927,
+          "name": "Jack Lewis Crosswaite",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1538,14 +1538,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130545,
-          "name": "Andrew Johnson",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 17221,
           "name": "Martyn Johnson",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 130545,
+          "name": "Andrew Johnson",
+          "party_name": "Green Party"
         },
         {
           "person_id": 62818,
