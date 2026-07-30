@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-07-29T06:06:12+00:00",
+    "generated_at": "2026-07-30T05:57:52+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -443,17 +443,17 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135185,
-      "name": "Jamal Ahmed",
-      "party_name": "Independent",
+      "person_id": 112838,
+      "name": "Mushtaq Ahmed",
+      "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
     },
     {
-      "person_id": 112838,
-      "name": "Mushtaq Ahmed",
-      "party_name": "Walsall Community Independents Party",
+      "person_id": 135185,
+      "name": "Jamal Ahmed",
+      "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
@@ -579,16 +579,16 @@
       "ward_name": "Bradford Moor"
     },
     {
-      "person_id": 131904,
-      "name": "Majid Ali",
+      "person_id": 131905,
+      "name": "Sundas Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 131905,
-      "name": "Sundas Ali",
+      "person_id": 131904,
+      "name": "Majid Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -1635,16 +1635,16 @@
       "ward_name": "Hebden Bridge & Todmorden East"
     },
     {
-      "person_id": 42128,
-      "name": "Paul Bott",
+      "person_id": 13410,
+      "name": "Chris Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 13410,
-      "name": "Chris Bott",
+      "person_id": 42128,
+      "name": "Paul Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -4507,16 +4507,16 @@
       "ward_name": "Great Horton"
     },
     {
-      "person_id": 13638,
-      "name": "Arshad Hussain",
+      "person_id": 110875,
+      "name": "Sharat Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Toller"
     },
     {
-      "person_id": 110875,
-      "name": "Sharat Hussain",
+      "person_id": 13638,
+      "name": "Arshad Hussain",
       "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -5283,16 +5283,16 @@
       "ward_name": "Clenchwarton & King's Lynn South"
     },
     {
-      "person_id": 81051,
-      "name": "David Kennedy",
+      "person_id": 138893,
+      "name": "Karen Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Primrose"
     },
     {
-      "person_id": 138893,
-      "name": "Karen Kennedy",
+      "person_id": 81051,
+      "name": "David Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -5443,16 +5443,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 135153,
-      "name": "Tamzied Hossain Khan",
+      "person_id": 135152,
+      "name": "Obaid Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Plaistow South"
     },
     {
-      "person_id": 135152,
-      "name": "Obaid Khan",
+      "person_id": 135153,
+      "name": "Tamzied Hossain Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -7259,7 +7259,7 @@
       "ward_name": "Wensley Fold"
     },
     {
-      "person_id": 135829,
+      "person_id": 7737,
       "name": "Khalid Patel",
       "party_name": "Independent",
       "council_slug": "kirklees",
@@ -7771,16 +7771,16 @@
       "ward_name": "Banbury Calthorpe & Easington"
     },
     {
-      "person_id": 135533,
-      "name": "Maggie Richens",
+      "person_id": 135534,
+      "name": "William George Spencer Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "North Richmond"
     },
     {
-      "person_id": 135534,
-      "name": "William George Spencer Richens",
+      "person_id": 135533,
+      "name": "Maggie Richens",
       "party_name": "Independent",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -8027,17 +8027,17 @@
       "ward_name": "Little Horton"
     },
     {
-      "person_id": 131914,
-      "name": "Bahlal Khalid Saleem",
-      "party_name": "Independent",
+      "person_id": 110871,
+      "name": "Rizwan Saleem",
+      "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 110871,
-      "name": "Rizwan Saleem",
-      "party_name": "Your Bradford Independent group",
+      "person_id": 131914,
+      "name": "Bahlal Khalid Saleem",
+      "party_name": "Independent",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"

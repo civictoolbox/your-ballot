@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-29T06:06:12+00:00",
+    "generated_at": "2026-07-30T05:57:52+00:00",
     "council_slug": "newcastle-under-lyme",
     "council_name": "Newcastle Under Lyme"
   },
@@ -554,7 +554,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 127992,
+          "person_id": 37373,
           "name": "Jackie Olszewski",
           "party_name": "Labour Party"
         },
@@ -741,13 +741,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 4909,
-          "name": "Hilary Jones",
+          "person_id": 7031,
+          "name": "Nigel Jones",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 7031,
-          "name": "Nigel Jones",
+          "person_id": 4909,
+          "name": "Hilary Jones",
           "party_name": "Liberal Democrats"
         },
         {
