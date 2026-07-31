@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-30T05:57:52+00:00",
+    "generated_at": "2026-07-31T06:22:14+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -405,14 +405,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132151,
-          "name": "larlaithe Ward",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 2061,
           "name": "David Ward",
           "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 132151,
+          "name": "larlaithe Ward",
+          "party_name": "Green Party"
         }
       ]
     },
@@ -423,13 +423,13 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132184,
-          "name": "Mukhtar Ali",
+          "person_id": 132185,
+          "name": "Sakib Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132185,
-          "name": "Sakib Ali",
+          "person_id": 132184,
+          "name": "Mukhtar Ali",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -669,14 +669,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 110871,
-          "name": "Rizwan Saleem",
-          "party_name": "Your Bradford Independent group"
-        },
-        {
           "person_id": 131914,
           "name": "Bahlal Khalid Saleem",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 110871,
+          "name": "Rizwan Saleem",
+          "party_name": "Your Bradford Independent group"
         },
         {
           "person_id": 131915,
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 2891,
-          "name": "Raja Sakhawat Hussain",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65481,
           "name": "Zubair Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2891,
+          "name": "Raja Sakhawat Hussain",
+          "party_name": "Independent"
         },
         {
           "person_id": 132418,
@@ -2065,14 +2065,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131814,
-          "name": "Aisha Bibi",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 131815,
           "name": "Sophie Bibi",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 131814,
+          "name": "Aisha Bibi",
+          "party_name": "Green Party"
         },
         {
           "person_id": 131816,
@@ -2080,14 +2080,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 38368,
-          "name": "Kamran Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 131818,
           "name": "Ghafoor Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 110875,
@@ -2261,14 +2261,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 13472,
-          "name": "Sabiya Akhtar Khan",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 132138,
           "name": "Alayna Khan",
           "party_name": "Your Bradford Independent group"
+        },
+        {
+          "person_id": 13472,
+          "name": "Sabiya Akhtar Khan",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 94064,
