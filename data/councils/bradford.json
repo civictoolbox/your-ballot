@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-31T06:22:14+00:00",
+    "generated_at": "2026-08-01T06:07:25+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -468,13 +468,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 132193,
-          "name": "Hassan Uzzaman Khan",
+          "person_id": 132194,
+          "name": "Imran Ahmed Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 132194,
-          "name": "Imran Ahmed Khan",
+          "person_id": 132193,
+          "name": "Hassan Uzzaman Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 65481,
-          "name": "Zubair Hussain",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 2891,
           "name": "Raja Sakhawat Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 65481,
+          "name": "Zubair Hussain",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 132418,
@@ -996,13 +996,13 @@
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 132278,
-          "name": "Shabana Bashir",
+          "person_id": 75594,
+          "name": "Aleem Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
-          "person_id": 75594,
-          "name": "Aleem Bashir",
+          "person_id": 132278,
+          "name": "Shabana Bashir",
           "party_name": "Your Bradford Independent group"
         },
         {
@@ -1645,14 +1645,14 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132106,
-          "name": "Shazad Ali",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 126119,
           "name": "Fatima Safa Ali",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132106,
+          "name": "Shazad Ali",
+          "party_name": "Green Party"
         },
         {
           "person_id": 132107,
@@ -2065,14 +2065,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131815,
-          "name": "Sophie Bibi",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 131814,
           "name": "Aisha Bibi",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 131815,
+          "name": "Sophie Bibi",
+          "party_name": "Independent"
         },
         {
           "person_id": 131816,
@@ -2090,13 +2090,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110875,
-          "name": "Sharat Hussain",
+          "person_id": 13638,
+          "name": "Arshad Hussain",
           "party_name": "Independent"
         },
         {
-          "person_id": 13638,
-          "name": "Arshad Hussain",
+          "person_id": 110875,
+          "name": "Sharat Hussain",
           "party_name": "Independent"
         },
         {

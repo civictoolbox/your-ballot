@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-07-31T06:22:14+00:00",
+    "generated_at": "2026-08-01T06:07:25+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -433,13 +433,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 11195,
-          "name": "Marc Donnelly",
+          "person_id": 99024,
+          "name": "Margaret Donnelly",
           "party_name": "Independent"
         },
         {
-          "person_id": 99024,
-          "name": "Margaret Donnelly",
+          "person_id": 11195,
+          "name": "Marc Donnelly",
           "party_name": "Independent"
         },
         {
