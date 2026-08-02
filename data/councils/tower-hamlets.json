@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-01T06:07:25+00:00",
+    "generated_at": "2026-08-02T06:17:16+00:00",
     "council_slug": "tower-hamlets",
     "council_name": "Tower Hamlets"
   },
@@ -264,14 +264,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 95189,
-          "name": "Ahmodur Rahman Khan",
-          "party_name": "Aspire"
-        },
-        {
           "person_id": 132738,
           "name": "Idrees Khan",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 95189,
+          "name": "Ahmodur Rahman Khan",
+          "party_name": "Aspire"
         },
         {
           "person_id": 132739,
@@ -1182,13 +1182,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42606,
-          "name": "Ana Miah",
+          "person_id": 42607,
+          "name": "Mohammad Harun Miah",
           "party_name": "Aspire"
         },
         {
-          "person_id": 42607,
-          "name": "Mohammad Harun Miah",
+          "person_id": 42606,
+          "name": "Ana Miah",
           "party_name": "Aspire"
         },
         {
@@ -1328,14 +1328,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133156,
-          "name": "Mohammad Amirul Islam",
-          "party_name": "Tower Hamlets Independents"
-        },
-        {
           "person_id": 133157,
           "name": "Shafiq Islam",
           "party_name": "Aspire"
+        },
+        {
+          "person_id": 133156,
+          "name": "Mohammad Amirul Islam",
+          "party_name": "Tower Hamlets Independents"
         },
         {
           "person_id": 133158,
@@ -1542,14 +1542,14 @@
       "candidate_count": 14,
       "candidates": [
         {
-          "person_id": 83851,
-          "name": "Kabir Ahmed",
-          "party_name": "Aspire"
-        },
-        {
           "person_id": 133220,
           "name": "Rakib Ahmed",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 83851,
+          "name": "Kabir Ahmed",
+          "party_name": "Aspire"
         },
         {
           "person_id": 94680,
@@ -1710,14 +1710,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133261,
-          "name": "Rick Robinson",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 95196,
           "name": "Michael David Robinson",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 133261,
+          "name": "Rick Robinson",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 133262,

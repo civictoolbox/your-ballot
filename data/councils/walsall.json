@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-01T06:07:25+00:00",
+    "generated_at": "2026-08-02T06:17:16+00:00",
     "council_slug": "walsall",
     "council_name": "Walsall"
   },
@@ -584,13 +584,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135896,
-          "name": "Amy Walker",
+          "person_id": 135895,
+          "name": "Ade Walker",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135895,
-          "name": "Ade Walker",
+          "person_id": 135896,
+          "name": "Amy Walker",
           "party_name": "Labour Party"
         },
         {
@@ -642,13 +642,13 @@
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 135908,
-          "name": "Susan Langford",
+          "person_id": 135907,
+          "name": "Stephen John Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135907,
-          "name": "Stephen John Langford",
+          "person_id": 135908,
+          "name": "Susan Langford",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -768,13 +768,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 82764,
-          "name": "Amo Hussain",
+          "person_id": 94319,
+          "name": "Izzy Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
-          "person_id": 94319,
-          "name": "Izzy Hussain",
+          "person_id": 82764,
+          "name": "Amo Hussain",
           "party_name": "Walsall Community Independents Party"
         },
         {
@@ -783,13 +783,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112845,
-          "name": "Klara Margetts",
+          "person_id": 112815,
+          "name": "Dean Margetts",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 112815,
-          "name": "Dean Margetts",
+          "person_id": 112845,
+          "name": "Klara Margetts",
           "party_name": "Labour Party"
         },
         {
@@ -836,13 +836,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133610,
-          "name": "Ashfaq Ahmed",
+          "person_id": 133611,
+          "name": "Imran Ahmed",
           "party_name": "Independent"
         },
         {
-          "person_id": 133611,
-          "name": "Imran Ahmed",
+          "person_id": 133610,
+          "name": "Ashfaq Ahmed",
           "party_name": "Independent"
         },
         {
@@ -1150,14 +1150,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135927,
-          "name": "Salek Miah",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 135926,
           "name": "Muhammad Khosru Miah",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 135927,
+          "name": "Salek Miah",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 135928,
@@ -1344,14 +1344,14 @@
       "candidate_count": 17,
       "candidates": [
         {
-          "person_id": 112838,
-          "name": "Mushtaq Ahmed",
-          "party_name": "Walsall Community Independents Party"
-        },
-        {
           "person_id": 135185,
           "name": "Jamal Ahmed",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 112838,
+          "name": "Mushtaq Ahmed",
+          "party_name": "Walsall Community Independents Party"
         },
         {
           "person_id": 135186,
