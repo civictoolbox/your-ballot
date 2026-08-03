@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-02T06:17:16+00:00",
+    "generated_at": "2026-08-03T06:32:57+00:00",
     "council_slug": "haringey",
     "council_name": "Haringey"
   },
@@ -1083,13 +1083,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 40663,
-          "name": "Daphne Forrest",
+          "person_id": 43822,
+          "name": "Peter Forrest",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 43822,
-          "name": "Peter Forrest",
+          "person_id": 40663,
+          "name": "Daphne Forrest",
           "party_name": "Conservative and Unionist Party"
         },
         {
