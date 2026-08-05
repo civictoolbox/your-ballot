@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-04T06:02:48+00:00",
+    "generated_at": "2026-08-05T05:59:39+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -647,13 +647,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 129681,
-          "name": "Patryk Wojtowicz",
+          "person_id": 129680,
+          "name": "Dagmara Wojtowicz",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 129680,
-          "name": "Dagmara Wojtowicz",
+          "person_id": 129681,
+          "name": "Patryk Wojtowicz",
           "party_name": "Conservative and Unionist Party"
         }
       ]
@@ -1264,14 +1264,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 81943,
-          "name": "Parbinder Kaur",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 130160,
           "name": "Simran Kaur",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81943,
+          "name": "Parbinder Kaur",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 87499,

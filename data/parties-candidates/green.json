@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-04T06:02:49+00:00",
+    "generated_at": "2026-08-05T05:59:39+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -1243,16 +1243,16 @@
       "ward_name": "Lyndon"
     },
     {
-      "person_id": 131953,
-      "name": "Asbjorn Appleby",
+      "person_id": 131954,
+      "name": "Simon Trevor Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
       "ward_name": "Lower Sunbury & Halliford"
     },
     {
-      "person_id": 131954,
-      "name": "Simon Trevor Appleby",
+      "person_id": 131953,
+      "name": "Asbjorn Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
@@ -8651,16 +8651,16 @@
       "ward_name": "Tividale"
     },
     {
-      "person_id": 138873,
-      "name": "Cheryl May Dixon",
+      "person_id": 138874,
+      "name": "Steven Frederick Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Winlaton & High Spen"
     },
     {
-      "person_id": 138874,
-      "name": "Steven Frederick Dixon",
+      "person_id": 138873,
+      "name": "Cheryl May Dixon",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -12643,16 +12643,16 @@
       "ward_name": "Huncoat"
     },
     {
-      "person_id": 53057,
-      "name": "Chris Green",
+      "person_id": 136931,
+      "name": "Alex Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Holme Valley North"
     },
     {
-      "person_id": 136931,
-      "name": "Alex Green",
+      "person_id": 53057,
+      "name": "Chris Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -16091,16 +16091,16 @@
       "ward_name": "Odiham & Hook"
     },
     {
-      "person_id": 134361,
-      "name": "Nicola Jacques",
+      "person_id": 134360,
+      "name": "Barry Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Ryhope"
     },
     {
-      "person_id": 134360,
-      "name": "Barry Jacques",
+      "person_id": 134361,
+      "name": "Nicola Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -22467,7 +22467,7 @@
       "ward_name": "Chopwell & Rowlands Gill"
     },
     {
-      "person_id": 132056,
+      "person_id": 103978,
       "name": "Sam Morrell",
       "party_name": "Green Party",
       "council_slug": "rushmoor",
@@ -28051,16 +28051,16 @@
       "ward_name": "Mountjoy & Shide"
     },
     {
-      "person_id": 126743,
-      "name": "Cameron John Rushton",
+      "person_id": 126770,
+      "name": "Angela Rose Rushton",
       "party_name": "Green Party",
       "council_slug": "cannock-chase",
       "council_name": "Cannock Chase",
       "ward_name": "Hednesford Pye Green"
     },
     {
-      "person_id": 126770,
-      "name": "Angela Rose Rushton",
+      "person_id": 126743,
+      "name": "Cameron John Rushton",
       "party_name": "Green Party",
       "council_slug": "cannock-chase",
       "council_name": "Cannock Chase",
