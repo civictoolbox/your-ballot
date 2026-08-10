@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-09T04:35:02+00:00",
+    "generated_at": "2026-08-10T04:52:24+00:00",
     "council_slug": "brent",
     "council_name": "Brent"
   },
@@ -63,13 +63,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133670,
-          "name": "Vishal Ramesh Patel",
+          "person_id": 133668,
+          "name": "Gunjan Patel",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133668,
-          "name": "Gunjan Patel",
+          "person_id": 133670,
+          "name": "Vishal Ramesh Patel",
           "party_name": "Reform UK"
         },
         {
@@ -939,14 +939,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 133711,
-          "name": "Arvind Patel",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 46507,
           "name": "Jayanti Patel",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133711,
+          "name": "Arvind Patel",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 133712,
@@ -1178,14 +1178,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 137182,
-          "name": "Neha Patel",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 137183,
           "name": "Nirmala Patel",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 137182,
+          "name": "Neha Patel",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 137184,

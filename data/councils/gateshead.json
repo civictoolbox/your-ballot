@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-09T04:35:02+00:00",
+    "generated_at": "2026-08-10T04:52:24+00:00",
     "council_slug": "gateshead",
     "council_name": "Gateshead"
   },
@@ -1307,13 +1307,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42807,
-          "name": "Susan Craig",
+          "person_id": 45445,
+          "name": "Peter Thomas Craig",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45445,
-          "name": "Peter Thomas Craig",
+          "person_id": 42807,
+          "name": "Susan Craig",
           "party_name": "Liberal Democrats"
         },
         {

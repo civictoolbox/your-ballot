@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-09T04:35:02+00:00",
+    "generated_at": "2026-08-10T04:52:24+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -427,14 +427,6 @@
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 133611,
-      "name": "Imran Ahmed",
-      "party_name": "Independent",
-      "council_slug": "walsall",
-      "council_name": "Walsall",
-      "ward_name": "Palfrey & The Delves"
-    },
-    {
       "person_id": 133610,
       "name": "Ashfaq Ahmed",
       "party_name": "Independent",
@@ -443,17 +435,25 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135185,
-      "name": "Jamal Ahmed",
+      "person_id": 133611,
+      "name": "Imran Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
-      "ward_name": "St Matthew's"
+      "ward_name": "Palfrey & The Delves"
     },
     {
       "person_id": 112838,
       "name": "Mushtaq Ahmed",
       "party_name": "Walsall Community Independents Party",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "St Matthew's"
+    },
+    {
+      "person_id": 135185,
+      "name": "Jamal Ahmed",
+      "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -1283,16 +1283,16 @@
       "ward_name": "Keighley Central"
     },
     {
-      "person_id": 75594,
-      "name": "Aleem Bashir",
+      "person_id": 132278,
+      "name": "Shabana Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Heaton & Frizinghall"
     },
     {
-      "person_id": 132278,
-      "name": "Shabana Bashir",
+      "person_id": 75594,
+      "name": "Aleem Bashir",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -1635,16 +1635,16 @@
       "ward_name": "Hebden Bridge & Todmorden East"
     },
     {
-      "person_id": 13410,
-      "name": "Chris Bott",
+      "person_id": 42128,
+      "name": "Paul Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 42128,
-      "name": "Paul Bott",
+      "person_id": 13410,
+      "name": "Chris Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -1771,16 +1771,16 @@
       "ward_name": "Langdon Hills"
     },
     {
-      "person_id": 80641,
-      "name": "Phil Brown",
+      "person_id": 138914,
+      "name": "Gill Brown",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Horsley Hill & Westoe Crown"
     },
     {
-      "person_id": 138914,
-      "name": "Gill Brown",
+      "person_id": 80641,
+      "name": "Phil Brown",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
