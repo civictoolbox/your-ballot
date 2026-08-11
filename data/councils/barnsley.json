@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-10T04:52:24+00:00",
+    "generated_at": "2026-08-11T04:38:13+00:00",
     "council_slug": "barnsley",
     "council_name": "Barnsley"
   },
@@ -1475,13 +1475,13 @@
       "candidate_count": 12,
       "candidates": [
         {
-          "person_id": 127768,
-          "name": "Theresa Arnold",
+          "person_id": 127767,
+          "name": "Andy Arnold",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127767,
-          "name": "Andy Arnold",
+          "person_id": 127768,
+          "name": "Theresa Arnold",
           "party_name": "Reform UK"
         },
         {

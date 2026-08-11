@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-10T04:52:24+00:00",
+    "generated_at": "2026-08-11T04:38:14+00:00",
     "party_key": "reform",
     "display_name": "Reform UK",
     "candidate_count": 4823,
@@ -419,16 +419,16 @@
       "ward_name": "Ribbleton"
     },
     {
-      "person_id": 137104,
-      "name": "Jackie Alex",
+      "person_id": 137105,
+      "name": "Noel Edward Alex",
       "party_name": "Reform UK",
       "council_slug": "kingston-upon-thames",
       "council_name": "Kingston upon Thames",
       "ward_name": "Surbiton Hill"
     },
     {
-      "person_id": 137105,
-      "name": "Noel Edward Alex",
+      "person_id": 137104,
+      "name": "Jackie Alex",
       "party_name": "Reform UK",
       "council_slug": "kingston-upon-thames",
       "council_name": "Kingston upon Thames",
@@ -1035,16 +1035,16 @@
       "ward_name": "Parsloes"
     },
     {
-      "person_id": 127768,
-      "name": "Theresa Arnold",
+      "person_id": 127767,
+      "name": "Andy Arnold",
       "party_name": "Reform UK",
       "council_slug": "barnsley",
       "council_name": "Barnsley",
       "ward_name": "Wombwell"
     },
     {
-      "person_id": 127767,
-      "name": "Andy Arnold",
+      "person_id": 127768,
+      "name": "Theresa Arnold",
       "party_name": "Reform UK",
       "council_slug": "barnsley",
       "council_name": "Barnsley",
@@ -5035,16 +5035,16 @@
       "ward_name": "Liphook, Headley & Grayshott"
     },
     {
-      "person_id": 126939,
-      "name": "Duncan Bullivant",
+      "person_id": 126940,
+      "name": "Henry Bullivant",
       "party_name": "Reform UK",
       "council_slug": "south-cambridgeshire",
       "council_name": "South Cambridgeshire",
       "ward_name": "Harston & Comberton"
     },
     {
-      "person_id": 126940,
-      "name": "Henry Bullivant",
+      "person_id": 126939,
+      "name": "Duncan Bullivant",
       "party_name": "Reform UK",
       "council_slug": "south-cambridgeshire",
       "council_name": "South Cambridgeshire",
@@ -7611,16 +7611,16 @@
       "ward_name": "Kingstone"
     },
     {
-      "person_id": 135348,
-      "name": "Christian Corkish",
+      "person_id": 135349,
+      "name": "Irena Corkish",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
       "ward_name": "Warley"
     },
     {
-      "person_id": 135349,
-      "name": "Irena Corkish",
+      "person_id": 135348,
+      "name": "Christian Corkish",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
@@ -10931,8 +10931,8 @@
       "ward_name": "Winchmore Hill"
     },
     {
-      "person_id": 136241,
-      "name": "Martin Paul Evison",
+      "person_id": 79099,
+      "name": "Martin Evison",
       "party_name": "Reform UK",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -11275,16 +11275,16 @@
       "ward_name": "Bablake"
     },
     {
-      "person_id": 135325,
-      "name": "Cathy Featherstone",
+      "person_id": 135326,
+      "name": "Jeff Featherstone",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
       "ward_name": "Wainhouse"
     },
     {
-      "person_id": 135326,
-      "name": "Jeff Featherstone",
+      "person_id": 135325,
+      "name": "Cathy Featherstone",
       "party_name": "Reform UK",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
@@ -12835,16 +12835,16 @@
       "ward_name": "Harrow Weald"
     },
     {
-      "person_id": 125143,
-      "name": "Carol Giles",
+      "person_id": 125145,
+      "name": "Russell Arthur Giles",
       "party_name": "Reform UK",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pennywell & South Hylton"
     },
     {
-      "person_id": 125145,
-      "name": "Russell Arthur Giles",
+      "person_id": 125143,
+      "name": "Carol Giles",
       "party_name": "Reform UK",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -17891,16 +17891,16 @@
       "ward_name": "The Mordens"
     },
     {
-      "person_id": 137014,
-      "name": "Mark Barry Johnson",
+      "person_id": 137013,
+      "name": "Anthony Albert Johnson",
       "party_name": "Reform UK",
       "council_slug": "st-helens",
       "council_name": "St Helens",
       "ward_name": "Sutton North West"
     },
     {
-      "person_id": 137013,
-      "name": "Anthony Albert Johnson",
+      "person_id": 137014,
+      "name": "Mark Barry Johnson",
       "party_name": "Reform UK",
       "council_slug": "st-helens",
       "council_name": "St Helens",
@@ -19627,16 +19627,16 @@
       "ward_name": "West Twickenham"
     },
     {
-      "person_id": 92068,
-      "name": "Zbigniew Kowalczyk",
+      "person_id": 134637,
+      "name": "Jane Elizabeth Kowalczyk",
       "party_name": "Reform UK",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Pinner"
     },
     {
-      "person_id": 134637,
-      "name": "Jane Elizabeth Kowalczyk",
+      "person_id": 92068,
+      "name": "Zbigniew Kowalczyk",
       "party_name": "Reform UK",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -20635,16 +20635,16 @@
       "ward_name": "Alexandra Park"
     },
     {
-      "person_id": 128294,
-      "name": "Stephen Lewis",
+      "person_id": 128293,
+      "name": "Douglas Lewis",
       "party_name": "Reform UK",
       "council_slug": "hillingdon",
       "council_name": "Hillingdon",
       "ward_name": "Uxbridge"
     },
     {
-      "person_id": 128293,
-      "name": "Douglas Lewis",
+      "person_id": 128294,
+      "name": "Stephen Lewis",
       "party_name": "Reform UK",
       "council_slug": "hillingdon",
       "council_name": "Hillingdon",
@@ -25739,16 +25739,16 @@
       "ward_name": "Sparkhill"
     },
     {
-      "person_id": 131759,
-      "name": "Lucy O'Shea",
+      "person_id": 131758,
+      "name": "Dominic O'Shea",
       "party_name": "Reform UK",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 131758,
-      "name": "Dominic O'Shea",
+      "person_id": 131759,
+      "name": "Lucy O'Shea",
       "party_name": "Reform UK",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -32211,16 +32211,16 @@
       "ward_name": "Freemantle"
     },
     {
-      "person_id": 139006,
-      "name": "Julie Smart",
+      "person_id": 139005,
+      "name": "Jeff Smart",
       "party_name": "Reform UK",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Windy Nook & Whitehills"
     },
     {
-      "person_id": 139005,
-      "name": "Jeff Smart",
+      "person_id": 139006,
+      "name": "Julie Smart",
       "party_name": "Reform UK",
       "council_slug": "gateshead",
       "council_name": "Gateshead",

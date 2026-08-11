@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-10T04:52:24+00:00",
+    "generated_at": "2026-08-11T04:38:13+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -755,8 +755,8 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 136241,
-          "name": "Martin Paul Evison",
+          "person_id": 79099,
+          "name": "Martin Evison",
           "party_name": "Reform UK"
         },
         {
@@ -1817,13 +1817,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 136491,
-          "name": "Brad Aird",
+          "person_id": 136492,
+          "name": "Christine Aird",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 136492,
-          "name": "Christine Aird",
+          "person_id": 136491,
+          "name": "Brad Aird",
           "party_name": "Labour Party"
         },
         {
