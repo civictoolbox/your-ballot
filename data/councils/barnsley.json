@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-11T04:38:13+00:00",
+    "generated_at": "2026-08-12T05:00:10+00:00",
     "council_slug": "barnsley",
     "council_name": "Barnsley"
   },
@@ -63,14 +63,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 47535,
-          "name": "Neil Wright",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 127458,
           "name": "Sue Wright",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 47535,
+          "name": "Neil Wright",
+          "party_name": "Labour Party"
         }
       ]
     },
@@ -154,13 +154,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 127420,
-          "name": "Stanley John Bryan",
+          "person_id": 127419,
+          "name": "Diane Bryan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127419,
-          "name": "Diane Bryan",
+          "person_id": 127420,
+          "name": "Stanley John Bryan",
           "party_name": "Reform UK"
         },
         {
@@ -667,13 +667,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 79635,
-          "name": "Chris Wray",
+          "person_id": 125434,
+          "name": "Janet Wray",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 125434,
-          "name": "Janet Wray",
+          "person_id": 79635,
+          "name": "Chris Wray",
           "party_name": "Liberal Democrats"
         },
         {

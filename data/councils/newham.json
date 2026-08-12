@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-11T04:38:13+00:00",
+    "generated_at": "2026-08-12T05:00:10+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -23,14 +23,14 @@
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 138470,
-          "name": "Syed Ahmed",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 138469,
           "name": "Mohammed Mashud Ahmed",
           "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 138470,
+          "name": "Syed Ahmed",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 93869,
@@ -219,14 +219,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 123947,
-          "name": "Aleya Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 124162,
           "name": "Mohammed Delwar Hussain",
           "party_name": "Newham Independents Party"
+        },
+        {
+          "person_id": 123947,
+          "name": "Aleya Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 124161,
@@ -591,14 +591,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137692,
-          "name": "Sanawar Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 137691,
           "name": "Kamal Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 137692,
+          "name": "Sanawar Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 137693,
@@ -1250,14 +1250,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 116875,
-          "name": "Nizam Ali",
-          "party_name": "Newham Independents Party"
-        },
-        {
           "person_id": 45605,
           "name": "Zulfiqar Ali",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 116875,
+          "name": "Nizam Ali",
+          "party_name": "Newham Independents Party"
         },
         {
           "person_id": 123822,
@@ -1368,13 +1368,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 135152,
-          "name": "Obaid Khan",
+          "person_id": 135153,
+          "name": "Tamzied Hossain Khan",
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 135153,
-          "name": "Tamzied Hossain Khan",
+          "person_id": 135152,
+          "name": "Obaid Khan",
           "party_name": "Newham Independents Party"
         },
         {
