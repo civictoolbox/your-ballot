@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-16T03:57:44+00:00",
+    "generated_at": "2026-08-17T04:00:21+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -964,14 +964,14 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 130410,
-          "name": "Deborah Hollingsworth",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 130411,
           "name": "Peter Hollingsworth",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 130410,
+          "name": "Deborah Hollingsworth",
+          "party_name": "Independent"
         },
         {
           "person_id": 130412,
