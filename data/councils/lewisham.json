@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-17T04:00:21+00:00",
+    "generated_at": "2026-08-18T03:56:05+00:00",
     "council_slug": "lewisham",
     "council_name": "Lewisham"
   },
@@ -471,8 +471,8 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133126,
-          "name": "Teresa Mary Bentinck",
+          "person_id": 92283,
+          "name": "Teresa Bentinck",
           "party_name": "Reform UK"
         },
         {
@@ -1407,13 +1407,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 92277,
-          "name": "Brendan Almqvist",
+          "person_id": 92140,
+          "name": "Ulric Almqvist",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 92140,
-          "name": "Ulric Almqvist",
+          "person_id": 92277,
+          "name": "Brendan Almqvist",
           "party_name": "Conservative and Unionist Party"
         },
         {

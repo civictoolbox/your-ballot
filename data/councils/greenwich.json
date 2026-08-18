@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-17T04:00:21+00:00",
+    "generated_at": "2026-08-18T03:56:05+00:00",
     "council_slug": "greenwich",
     "council_name": "Greenwich"
   },
@@ -48,13 +48,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127807,
-          "name": "Finbarr Dominic Headon",
+          "person_id": 42639,
+          "name": "Thomas Headon",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 42639,
-          "name": "Thomas Headon",
+          "person_id": 127807,
+          "name": "Finbarr Dominic Headon",
           "party_name": "Liberal Democrats"
         },
         {
@@ -456,7 +456,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 74132,
+          "person_id": 40373,
           "name": "Ben Crompton",
           "party_name": "Conservative and Unionist Party"
         },
@@ -680,14 +680,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 43066,
-          "name": "Aidan Smith",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 90126,
           "name": "Stacy Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 43066,
+          "name": "Aidan Smith",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 43133,

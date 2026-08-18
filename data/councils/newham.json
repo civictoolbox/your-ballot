@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-17T04:00:21+00:00",
+    "generated_at": "2026-08-18T03:56:05+00:00",
     "council_slug": "newham",
     "council_name": "Newham"
   },
@@ -23,14 +23,14 @@
           "party_name": "Newham Independents Party"
         },
         {
-          "person_id": 138469,
-          "name": "Mohammed Mashud Ahmed",
-          "party_name": "Newham Independents Party"
-        },
-        {
           "person_id": 138470,
           "name": "Syed Ahmed",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 138469,
+          "name": "Mohammed Mashud Ahmed",
+          "party_name": "Newham Independents Party"
         },
         {
           "person_id": 93869,
@@ -460,7 +460,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 138551,
+          "person_id": 93702,
           "name": "Simon Rush",
           "party_name": "Labour and Co-operative Party"
         },
@@ -865,14 +865,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 48050,
-          "name": "Kirankumar Ramanbhai Patel",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 93579,
           "name": "Miraj Patel",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 48050,
+          "name": "Kirankumar Ramanbhai Patel",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 93841,

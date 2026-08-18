@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-17T04:00:21+00:00",
+    "generated_at": "2026-08-18T03:56:05+00:00",
     "council_slug": "suffolk",
     "council_name": "Suffolk"
   },
@@ -1761,7 +1761,7 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 138690,
+          "person_id": 58121,
           "name": "Marianne Nola Fellowes",
           "party_name": "Green Party"
         },
@@ -1893,7 +1893,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 128678,
+          "person_id": 30754,
           "name": "Philip James Faircloth-Mutton",
           "party_name": "Reform UK"
         },
