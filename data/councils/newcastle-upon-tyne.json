@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-19T03:56:58+00:00",
+    "generated_at": "2026-08-20T03:57:21+00:00",
     "council_slug": "newcastle-upon-tyne",
     "council_name": "Newcastle upon Tyne"
   },
@@ -551,14 +551,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 111762,
-          "name": "Laurence Taylor",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 4028,
           "name": "Wendy Barbara Taylor",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 111762,
+          "name": "Laurence Taylor",
+          "party_name": "Green Party"
         }
       ]
     },
@@ -619,13 +619,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 38323,
-          "name": "Adam Lee Mitchell",
+          "person_id": 37648,
+          "name": "Tracey Ann Mitchell",
           "party_name": "Newcastle Independents"
         },
         {
-          "person_id": 37648,
-          "name": "Tracey Ann Mitchell",
+          "person_id": 38323,
+          "name": "Adam Lee Mitchell",
           "party_name": "Newcastle Independents"
         },
         {
@@ -1968,7 +1968,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 137070,
+          "person_id": 13331,
           "name": "Irim Ali",
           "party_name": "Labour and Co-operative Party"
         },

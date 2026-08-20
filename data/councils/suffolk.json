@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-19T03:56:58+00:00",
+    "generated_at": "2026-08-20T03:57:21+00:00",
     "council_slug": "suffolk",
     "council_name": "Suffolk"
   },
@@ -1246,7 +1246,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 128054,
+          "person_id": 37464,
           "name": "Graham Cone",
           "party_name": "Conservative and Unionist Party"
         },

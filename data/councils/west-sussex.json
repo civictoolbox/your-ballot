@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-19T03:56:58+00:00",
+    "generated_at": "2026-08-20T03:57:21+00:00",
     "council_slug": "west-sussex",
     "council_name": "West Sussex"
   },
@@ -594,8 +594,8 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 135469,
-          "name": "Richard Alexander Bates",
+          "person_id": 98304,
+          "name": "Richard Bates",
           "party_name": "Liberal Democrats"
         },
         {

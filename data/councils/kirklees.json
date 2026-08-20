@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-19T03:56:58+00:00",
+    "generated_at": "2026-08-20T03:57:21+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -513,13 +513,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 8622,
-          "name": "Kathryn Mary Pinnock",
+          "person_id": 53021,
+          "name": "Andrew Charles Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 53021,
-          "name": "Andrew Charles Pinnock",
+          "person_id": 8622,
+          "name": "Kathryn Mary Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
@@ -611,14 +611,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 7742,
-          "name": "Graham Turner",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 126509,
           "name": "Nicola Jane Turner",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 7742,
+          "name": "Graham Turner",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 75275,
@@ -968,13 +968,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126656,
-          "name": "Edward Woodhead",
+          "person_id": 126658,
+          "name": "Viv Woodhead",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 126658,
-          "name": "Viv Woodhead",
+          "person_id": 126656,
+          "name": "Edward Woodhead",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -1099,7 +1099,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135777,
+          "person_id": 5081,
           "name": "Imtiaz Ali Ameen",
           "party_name": "Labour Party"
         },
@@ -1197,14 +1197,14 @@
       "candidate_count": 18,
       "candidates": [
         {
-          "person_id": 89487,
-          "name": "Ammar Anwar",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 36816,
           "name": "Waheed Anwar",
           "party_name": "Liberal Democrats"
+        },
+        {
+          "person_id": 89487,
+          "name": "Ammar Anwar",
+          "party_name": "Independent"
         },
         {
           "person_id": 135824,
@@ -1853,24 +1853,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133898,
-          "name": "Daniel Francis Michael Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133899,
           "name": "Maya Elizabeth Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133901,
-          "name": "George Mason Hall",
-          "party_name": "Labour Party"
+          "person_id": 133898,
+          "name": "Daniel Francis Michael Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133900,
           "name": "David James Hall",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133901,
+          "name": "George Mason Hall",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 109864,
