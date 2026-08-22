@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-21T03:58:40+00:00",
+    "generated_at": "2026-08-22T03:54:53+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4226,
@@ -1451,7 +1451,7 @@
       "ward_name": "Ashbrow"
     },
     {
-      "person_id": 136702,
+      "person_id": 90857,
       "name": "Jawad Amin",
       "party_name": "Labour Party",
       "council_slug": "manchester",
@@ -6803,7 +6803,7 @@
       "ward_name": "High Street"
     },
     {
-      "person_id": 127059,
+      "person_id": 109616,
       "name": "Philip Cole",
       "party_name": "Labour Party",
       "council_slug": "cheltenham",
@@ -6859,16 +6859,16 @@
       "ward_name": "Park"
     },
     {
-      "person_id": 63953,
-      "name": "Lisa Kelly Collins",
+      "person_id": 31427,
+      "name": "Dean Collins",
       "party_name": "Labour Party",
       "council_slug": "chesterfield",
       "council_name": "Chesterfield",
       "ward_name": "Staveley North"
     },
     {
-      "person_id": 31427,
-      "name": "Dean Collins",
+      "person_id": 63953,
+      "name": "Lisa Kelly Collins",
       "party_name": "Labour Party",
       "council_slug": "chesterfield",
       "council_name": "Chesterfield",
@@ -11987,16 +11987,16 @@
       "ward_name": "Lower Stratton"
     },
     {
-      "person_id": 79477,
-      "name": "Carolyn Ann Gray",
+      "person_id": 79472,
+      "name": "Steven John Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
       "ward_name": "Cobham & Oxshott South"
     },
     {
-      "person_id": 79472,
-      "name": "Steven John Gray",
+      "person_id": 79477,
+      "name": "Carolyn Ann Gray",
       "party_name": "Labour Party",
       "council_slug": "east-surrey",
       "council_name": "East Surrey",
@@ -13763,16 +13763,16 @@
       "ward_name": "Shirley North"
     },
     {
-      "person_id": 48560,
-      "name": "Maxine Henson",
+      "person_id": 48559,
+      "name": "Graham Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Roxbourne"
     },
     {
-      "person_id": 48559,
-      "name": "Graham Henson",
+      "person_id": 48560,
+      "name": "Maxine Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -17075,7 +17075,7 @@
       "ward_name": "Battle & Crowhurst"
     },
     {
-      "person_id": 130104,
+      "person_id": 54670,
       "name": "Skerntian Keri",
       "party_name": "Labour Party",
       "council_slug": "sandwell",
@@ -19651,16 +19651,16 @@
       "ward_name": "Bloxwich West"
     },
     {
-      "person_id": 112815,
-      "name": "Dean Margetts",
+      "person_id": 112845,
+      "name": "Klara Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Paddock"
     },
     {
-      "person_id": 112845,
-      "name": "Klara Margetts",
+      "person_id": 112815,
+      "name": "Dean Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -20603,7 +20603,7 @@
       "ward_name": "Temple Cowley"
     },
     {
-      "person_id": 133340,
+      "person_id": 97406,
       "name": "Jeanette McMullen",
       "party_name": "Labour Party",
       "council_slug": "norfolk",
@@ -24131,14 +24131,6 @@
       "ward_name": "Tilgate"
     },
     {
-      "person_id": 132804,
-      "name": "Hetal Patel",
-      "party_name": "Labour Party",
-      "council_slug": "harrow",
-      "council_name": "Harrow",
-      "ward_name": "Centenary"
-    },
-    {
       "person_id": 132819,
       "name": "Pratham Patel",
       "party_name": "Labour Party",
@@ -24147,16 +24139,24 @@
       "ward_name": "Centenary"
     },
     {
-      "person_id": 124030,
-      "name": "Devisha Patel",
+      "person_id": 132804,
+      "name": "Hetal Patel",
+      "party_name": "Labour Party",
+      "council_slug": "harrow",
+      "council_name": "Harrow",
+      "ward_name": "Centenary"
+    },
+    {
+      "person_id": 124031,
+      "name": "Hershil Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Edgware"
     },
     {
-      "person_id": 124031,
-      "name": "Hershil Patel",
+      "person_id": 124030,
+      "name": "Devisha Patel",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -25243,16 +25243,16 @@
       "ward_name": "Darwin"
     },
     {
-      "person_id": 48571,
-      "name": "Chris Price",
+      "person_id": 91618,
+      "name": "Debbie Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
       "ward_name": "St Paul's Cray"
     },
     {
-      "person_id": 91618,
-      "name": "Debbie Price",
+      "person_id": 48571,
+      "name": "Chris Price",
       "party_name": "Labour Party",
       "council_slug": "bromley",
       "council_name": "Bromley",
@@ -26643,16 +26643,16 @@
       "ward_name": "Coseley"
     },
     {
-      "person_id": 135808,
-      "name": "Sandra Jane Roberts",
+      "person_id": 135807,
+      "name": "Howard Digby Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
       "ward_name": "St Margarets & North Twickenham"
     },
     {
-      "person_id": 135807,
-      "name": "Howard Digby Roberts",
+      "person_id": 135808,
+      "name": "Sandra Jane Roberts",
       "party_name": "Labour Party",
       "council_slug": "richmond-upon-thames",
       "council_name": "Richmond upon Thames",
@@ -28315,24 +28315,24 @@
       "ward_name": "Wembley Central"
     },
     {
-      "person_id": 130282,
-      "name": "Susan Shinnick",
+      "person_id": 40321,
+      "name": "Sue Shinnick",
       "party_name": "Labour Party",
       "council_slug": "thurrock",
       "council_name": "Thurrock",
       "ward_name": "Chafford Hundred West"
     },
     {
-      "person_id": 135262,
-      "name": "Yolande Shire",
+      "person_id": 135261,
+      "name": "Phil Shire",
       "party_name": "Labour Party",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
       "ward_name": "Salterhebble, Southowram & Skircoat Green"
     },
     {
-      "person_id": 135261,
-      "name": "Phil Shire",
+      "person_id": 135262,
+      "name": "Yolande Shire",
       "party_name": "Labour Party",
       "council_slug": "calderdale",
       "council_name": "Calderdale",
@@ -29059,16 +29059,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31899,16 +31899,16 @@
       "ward_name": "Washington North"
     },
     {
-      "person_id": 135895,
-      "name": "Ade Walker",
+      "person_id": 135896,
+      "name": "Amy Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 135896,
-      "name": "Amy Walker",
+      "person_id": 135895,
+      "name": "Ade Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -32787,16 +32787,16 @@
       "ward_name": "Birstall & Birkenshaw"
     },
     {
-      "person_id": 37567,
-      "name": "Roger William Wilkes",
+      "person_id": 128592,
+      "name": "Margaret Wilkes",
       "party_name": "Labour Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
       "ward_name": "Thistleberry"
     },
     {
-      "person_id": 128592,
-      "name": "Margaret Wilkes",
+      "person_id": 37567,
+      "name": "Roger William Wilkes",
       "party_name": "Labour Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",

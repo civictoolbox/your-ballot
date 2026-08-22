@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-21T03:58:40+00:00",
+    "generated_at": "2026-08-22T03:54:53+00:00",
     "party_key": "labour-coop",
     "display_name": "Labour and Co-operative Party",
     "candidate_count": 675,
@@ -163,16 +163,16 @@
       "ward_name": "Fellgate & Hedworth"
     },
     {
-      "person_id": 76251,
-      "name": "Rajhia Ali",
+      "person_id": 4142,
+      "name": "Junab Ali",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
       "ward_name": "Priory Vale"
     },
     {
-      "person_id": 4142,
-      "name": "Junab Ali",
+      "person_id": 76251,
+      "name": "Rajhia Ali",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "swindon",
       "council_name": "Swindon",
@@ -2571,16 +2571,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 9036,
-      "name": "Marion Kadewere",
+      "person_id": 9040,
+      "name": "Patrick Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
       "ward_name": "Huntingdon North"
     },
     {
-      "person_id": 9040,
-      "name": "Patrick Kadewere",
+      "person_id": 9036,
+      "name": "Marion Kadewere",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "huntingdonshire",
       "council_name": "Huntingdonshire",
@@ -2699,8 +2699,8 @@
       "ward_name": "Plumstead Common"
     },
     {
-      "person_id": 136341,
-      "name": "Raja Khalid Mehmood Khan",
+      "person_id": 89441,
+      "name": "Raja Khan",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -3891,16 +3891,16 @@
       "ward_name": "Dalgarno"
     },
     {
-      "person_id": 124942,
-      "name": "Rachel Marie Preston",
+      "person_id": 35684,
+      "name": "Paul Simon Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Bartley Green"
     },
     {
-      "person_id": 35684,
-      "name": "Paul Simon Preston",
+      "person_id": 124942,
+      "name": "Rachel Marie Preston",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -5203,16 +5203,16 @@
       "ward_name": "Greenwich Peninsula"
     },
     {
-      "person_id": 37164,
-      "name": "Gill Williams",
+      "person_id": 37169,
+      "name": "John Williams",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
       "ward_name": "Cross Heath"
     },
     {
-      "person_id": 37169,
-      "name": "John Williams",
+      "person_id": 37164,
+      "name": "Gill Williams",
       "party_name": "Labour and Co-operative Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",

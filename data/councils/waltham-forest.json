@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-21T03:58:40+00:00",
+    "generated_at": "2026-08-22T03:54:52+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -360,8 +360,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 126146,
-          "name": "Monica Hannah Sobiecki",
+          "person_id": 92800,
+          "name": "Monika Sobiecki",
           "party_name": "Green Party"
         }
       ]
@@ -637,14 +637,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 47380,
-          "name": "Marion Fitzgerald",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 126179,
           "name": "Rory Matthew Fitzgerald",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 47380,
+          "name": "Marion Fitzgerald",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 126154,
@@ -1085,13 +1085,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 86714,
-          "name": "Luke Berg",
+          "person_id": 45991,
+          "name": "Kathy Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 45991,
-          "name": "Kathy Berg",
+          "person_id": 86714,
+          "name": "Luke Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
