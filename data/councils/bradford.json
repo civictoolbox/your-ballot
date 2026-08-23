@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-22T03:54:52+00:00",
+    "generated_at": "2026-08-23T03:58:40+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -468,9 +468,9 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 105369,
-          "name": "Sangeeta Kauser Khan",
-          "party_name": "Conservative and Unionist Party"
+          "person_id": 13467,
+          "name": "Hassan Uzzaman Khan",
+          "party_name": "Labour and Co-operative Party"
         },
         {
           "person_id": 132194,
@@ -478,9 +478,9 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 13467,
-          "name": "Hassan Uzzaman Khan",
-          "party_name": "Labour and Co-operative Party"
+          "person_id": 105369,
+          "name": "Sangeeta Kauser Khan",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 132195,
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 65481,
-          "name": "Zubair Hussain",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
           "person_id": 2891,
           "name": "Raja Sakhawat Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 65481,
+          "name": "Zubair Hussain",
+          "party_name": "Conservative and Unionist Party"
         },
         {
           "person_id": 132418,
@@ -2080,24 +2080,24 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131818,
-          "name": "Ghafoor Hussain",
-          "party_name": "Conservative and Unionist Party"
-        },
-        {
-          "person_id": 38368,
-          "name": "Kamran Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 110875,
           "name": "Sharat Hussain",
           "party_name": "Independent"
         },
         {
+          "person_id": 131818,
+          "name": "Ghafoor Hussain",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
           "person_id": 13638,
           "name": "Arshad Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 131819,
