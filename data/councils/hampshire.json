@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-23T03:58:40+00:00",
+    "generated_at": "2026-08-24T04:03:33+00:00",
     "council_slug": "hampshire",
     "council_name": "Hampshire"
   },
@@ -1520,14 +1520,14 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 78029,
-          "name": "Jonathan Brown",
-          "party_name": "Labour and Co-operative Party"
-        },
-        {
           "person_id": 125095,
           "name": "Ian Richard Brown",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 78029,
+          "name": "Jonathan Brown",
+          "party_name": "Labour and Co-operative Party"
         },
         {
           "person_id": 15957,
@@ -1659,7 +1659,7 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 133093,
+          "person_id": 27295,
           "name": "Paul Edward Miller",
           "party_name": "Reform UK"
         },

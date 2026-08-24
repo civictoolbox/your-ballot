@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-23T03:58:40+00:00",
+    "generated_at": "2026-08-24T04:03:33+00:00",
     "council_slug": "waltham-forest",
     "council_name": "Waltham Forest"
   },
@@ -637,14 +637,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 126179,
-          "name": "Rory Matthew Fitzgerald",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 47380,
           "name": "Marion Fitzgerald",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 126179,
+          "name": "Rory Matthew Fitzgerald",
+          "party_name": "Green Party"
         },
         {
           "person_id": 126154,
@@ -896,14 +896,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 48514,
-          "name": "Ahsan Khan",
-          "party_name": "Labour and Co-operative Party"
-        },
-        {
           "person_id": 131960,
           "name": "Md Shoeb Khan",
           "party_name": "Your Party"
+        },
+        {
+          "person_id": 48514,
+          "name": "Ahsan Khan",
+          "party_name": "Labour and Co-operative Party"
         },
         {
           "person_id": 131961,
@@ -1085,13 +1085,13 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 86714,
-          "name": "Luke Berg",
+          "person_id": 45991,
+          "name": "Kathy Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 45991,
-          "name": "Kathy Berg",
+          "person_id": 86714,
+          "name": "Luke Berg",
           "party_name": "Conservative and Unionist Party"
         },
         {
