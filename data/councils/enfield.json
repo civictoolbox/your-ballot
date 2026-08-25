@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-24T04:03:33+00:00",
+    "generated_at": "2026-08-25T03:58:05+00:00",
     "council_slug": "enfield",
     "council_name": "Enfield"
   },
@@ -23,13 +23,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 43494,
-          "name": "Joan Bushill",
+          "person_id": 134029,
+          "name": "Chris Bushill",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 134029,
-          "name": "Chris Bushill",
+          "person_id": 43494,
+          "name": "Joan Bushill",
           "party_name": "Liberal Democrats"
         },
         {
@@ -189,13 +189,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 136755,
-          "name": "Ismail Polat",
+          "person_id": 136756,
+          "name": "Ozlem Polat",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 136756,
-          "name": "Ozlem Polat",
+          "person_id": 136755,
+          "name": "Ismail Polat",
           "party_name": "Reform UK"
         },
         {
@@ -398,13 +398,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 45705,
-          "name": "Anne Viney",
+          "person_id": 45706,
+          "name": "Stephen Viney",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45706,
-          "name": "Stephen Viney",
+          "person_id": 45705,
+          "name": "Anne Viney",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -826,23 +826,23 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 135439,
-          "name": "Nuran Ali",
-          "party_name": "Enfield Community Independents Party"
-        },
-        {
           "person_id": 135438,
           "name": "Hasan Ali",
           "party_name": "Enfield Community Independents Party"
         },
         {
-          "person_id": 84428,
-          "name": "Peter Charalambous",
-          "party_name": "Conservative and Unionist Party"
+          "person_id": 135439,
+          "name": "Nuran Ali",
+          "party_name": "Enfield Community Independents Party"
         },
         {
           "person_id": 135440,
           "name": "Bambos Charalambous",
+          "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 84428,
+          "name": "Peter Charalambous",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -1070,13 +1070,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 133858,
-          "name": "Shelley Jane Doolan",
+          "person_id": 133857,
+          "name": "James Michael Doolan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133857,
-          "name": "James Michael Doolan",
+          "person_id": 133858,
+          "name": "Shelley Jane Doolan",
           "party_name": "Reform UK"
         },
         {

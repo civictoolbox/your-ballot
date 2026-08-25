@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-24T04:03:33+00:00",
+    "generated_at": "2026-08-25T03:58:06+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -1243,16 +1243,16 @@
       "ward_name": "Lyndon"
     },
     {
-      "person_id": 131953,
-      "name": "Asbjorn Appleby",
+      "person_id": 131954,
+      "name": "Simon Trevor Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
       "ward_name": "Lower Sunbury & Halliford"
     },
     {
-      "person_id": 131954,
-      "name": "Simon Trevor Appleby",
+      "person_id": 131953,
+      "name": "Asbjorn Appleby",
       "party_name": "Green Party",
       "council_slug": "west-surrey",
       "council_name": "West Surrey",
@@ -12643,16 +12643,16 @@
       "ward_name": "Huncoat"
     },
     {
-      "person_id": 136931,
-      "name": "Alex Green",
+      "person_id": 53057,
+      "name": "Chris Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Holme Valley North"
     },
     {
-      "person_id": 53057,
-      "name": "Chris Green",
+      "person_id": 136931,
+      "name": "Alex Green",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -16091,16 +16091,16 @@
       "ward_name": "Odiham & Hook"
     },
     {
-      "person_id": 134360,
-      "name": "Barry Jacques",
+      "person_id": 134361,
+      "name": "Nicola Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Ryhope"
     },
     {
-      "person_id": 134361,
-      "name": "Nicola Jacques",
+      "person_id": 134360,
+      "name": "Barry Jacques",
       "party_name": "Green Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -17771,16 +17771,16 @@
       "ward_name": "St Helier West"
     },
     {
-      "person_id": 134840,
-      "name": "Aleena Khan",
+      "person_id": 134841,
+      "name": "Shakir Mehmood Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Willenhall"
     },
     {
-      "person_id": 134841,
-      "name": "Shakir Mehmood Khan",
+      "person_id": 134840,
+      "name": "Aleena Khan",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -20155,16 +20155,16 @@
       "ward_name": "Abbey"
     },
     {
-      "person_id": 135345,
-      "name": "Kaiser Majeed",
+      "person_id": 135344,
+      "name": "Faisal Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 135344,
-      "name": "Faisal Majeed",
+      "person_id": 135345,
+      "name": "Kaiser Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -24451,16 +24451,16 @@
       "ward_name": "Grays Riverside"
     },
     {
-      "person_id": 131072,
-      "name": "Anita Paris",
+      "person_id": 131073,
+      "name": "David Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
       "ward_name": "Longlands"
     },
     {
-      "person_id": 131073,
-      "name": "David Paris",
+      "person_id": 131072,
+      "name": "Anita Paris",
       "party_name": "Green Party",
       "council_slug": "bexley",
       "council_name": "Bexley",
@@ -34499,16 +34499,16 @@
       "ward_name": "St Loyes"
     },
     {
-      "person_id": 110880,
-      "name": "Neil Whitaker",
+      "person_id": 38326,
+      "name": "Caroline Whitaker",
       "party_name": "Green Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Airedale"
     },
     {
-      "person_id": 38326,
-      "name": "Caroline Whitaker",
+      "person_id": 110880,
+      "name": "Neil Whitaker",
       "party_name": "Green Party",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -36003,16 +36003,16 @@
       "ward_name": "Blendon & Penhill"
     },
     {
-      "person_id": 136943,
-      "name": "Felix Zajitschek",
+      "person_id": 136944,
+      "name": "Susanne Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Formby West"
     },
     {
-      "person_id": 136944,
-      "name": "Susanne Zajitschek",
+      "person_id": 136943,
+      "name": "Felix Zajitschek",
       "party_name": "Green Party",
       "council_slug": "sefton",
       "council_name": "Sefton",

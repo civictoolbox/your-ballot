@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-24T04:03:33+00:00",
+    "generated_at": "2026-08-25T03:58:05+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -38,13 +38,13 @@
           "party_name": "Yorkshire Party"
         },
         {
-          "person_id": 131798,
-          "name": "Daniel James Keenan",
+          "person_id": 131799,
+          "name": "Nathen James Keenan",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 131799,
-          "name": "Nathen James Keenan",
+          "person_id": 131798,
+          "name": "Daniel James Keenan",
           "party_name": "Reform UK"
         },
         {
@@ -78,13 +78,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 110880,
-          "name": "Neil Whitaker",
+          "person_id": 38326,
+          "name": "Caroline Whitaker",
           "party_name": "Green Party"
         },
         {
-          "person_id": 38326,
-          "name": "Caroline Whitaker",
+          "person_id": 110880,
+          "name": "Neil Whitaker",
           "party_name": "Green Party"
         }
       ]
@@ -468,13 +468,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 13467,
-          "name": "Hassan Uzzaman Khan",
+          "person_id": 132194,
+          "name": "Imran Ahmed Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 132194,
-          "name": "Imran Ahmed Khan",
+          "person_id": 13467,
+          "name": "Hassan Uzzaman Khan",
           "party_name": "Labour and Co-operative Party"
         },
         {
@@ -815,14 +815,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 2891,
-          "name": "Raja Sakhawat Hussain",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65481,
           "name": "Zubair Hussain",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 2891,
+          "name": "Raja Sakhawat Hussain",
+          "party_name": "Independent"
         },
         {
           "person_id": 132418,
@@ -1582,14 +1582,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131841,
-          "name": "Shafi Ullah Khan",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 65543,
           "name": "Imran Khan",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 131841,
+          "name": "Shafi Ullah Khan",
+          "party_name": "Independent"
         },
         {
           "person_id": 131842,
@@ -1645,14 +1645,14 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 132106,
-          "name": "Shazad Ali",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 126119,
           "name": "Fatima Safa Ali",
           "party_name": "Labour Party"
+        },
+        {
+          "person_id": 132106,
+          "name": "Shazad Ali",
+          "party_name": "Green Party"
         },
         {
           "person_id": 132107,
@@ -2065,14 +2065,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 131815,
-          "name": "Sophie Bibi",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 131814,
           "name": "Aisha Bibi",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 131815,
+          "name": "Sophie Bibi",
+          "party_name": "Independent"
         },
         {
           "person_id": 131816,
@@ -2085,14 +2085,14 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 38368,
-          "name": "Kamran Hussain",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 13638,
           "name": "Arshad Hussain",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 38368,
+          "name": "Kamran Hussain",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 110875,
