@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-08-29T10:01:36+00:00",
+    "generated_at": "2026-08-30T09:12:10+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -427,16 +427,16 @@
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 133611,
-      "name": "Imran Ahmed",
+      "person_id": 133610,
+      "name": "Ashfaq Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 133610,
-      "name": "Ashfaq Ahmed",
+      "person_id": 133611,
+      "name": "Imran Ahmed",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -5283,16 +5283,16 @@
       "ward_name": "Clenchwarton & King's Lynn South"
     },
     {
-      "person_id": 81051,
-      "name": "David Kennedy",
+      "person_id": 138893,
+      "name": "Karen Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Primrose"
     },
     {
-      "person_id": 138893,
-      "name": "Karen Kennedy",
+      "person_id": 81051,
+      "name": "David Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -5443,16 +5443,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 135153,
-      "name": "Tamzied Hossain Khan",
+      "person_id": 135152,
+      "name": "Obaid Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "Plaistow South"
     },
     {
-      "person_id": 135152,
-      "name": "Obaid Khan",
+      "person_id": 135153,
+      "name": "Tamzied Hossain Khan",
       "party_name": "Newham Independents Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -6411,16 +6411,16 @@
       "ward_name": "Bensham Manor"
     },
     {
-      "person_id": 37648,
-      "name": "Tracey Ann Mitchell",
+      "person_id": 38323,
+      "name": "Adam Lee Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
       "ward_name": "Denton & Westerhope"
     },
     {
-      "person_id": 38323,
-      "name": "Adam Lee Mitchell",
+      "person_id": 37648,
+      "name": "Tracey Ann Mitchell",
       "party_name": "Newcastle Independents",
       "council_slug": "newcastle-upon-tyne",
       "council_name": "Newcastle upon Tyne",
@@ -7235,14 +7235,6 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
-      "person_id": 132009,
-      "name": "Safvan Patel",
-      "party_name": "Independent",
-      "council_slug": "blackburn-with-darwen",
-      "council_name": "Blackburn With Darwen",
-      "ward_name": "Wensley Fold"
-    },
-    {
       "person_id": 132007,
       "name": "Altaf Patel",
       "party_name": "Independent",
@@ -7253,6 +7245,14 @@
     {
       "person_id": 132008,
       "name": "Maulana Siddiq Patel",
+      "party_name": "Independent",
+      "council_slug": "blackburn-with-darwen",
+      "council_name": "Blackburn With Darwen",
+      "ward_name": "Wensley Fold"
+    },
+    {
+      "person_id": 132009,
+      "name": "Safvan Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",

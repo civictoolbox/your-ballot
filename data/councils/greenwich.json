@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-29T10:01:36+00:00",
+    "generated_at": "2026-08-30T09:12:09+00:00",
     "council_slug": "greenwich",
     "council_name": "Greenwich"
   },
@@ -680,14 +680,14 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 43133,
-          "name": "Andrew Smith",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 90126,
           "name": "Stacy Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 43133,
+          "name": "Andrew Smith",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 43066,
