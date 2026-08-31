@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-08-30T09:12:09+00:00",
+    "generated_at": "2026-08-31T09:42:16+00:00",
     "council_slug": "harrow",
     "council_name": "Harrow"
   },
@@ -164,9 +164,9 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132801,
-          "name": "Jayashree Singh Patel",
-          "party_name": "Reform UK"
+          "person_id": 132819,
+          "name": "Pratham Patel",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 132804,
@@ -174,9 +174,9 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 132819,
-          "name": "Pratham Patel",
-          "party_name": "Labour Party"
+          "person_id": 132801,
+          "name": "Jayashree Singh Patel",
+          "party_name": "Reform UK"
         }
       ]
     },
