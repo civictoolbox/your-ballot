@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-01T08:37:08+00:00",
+    "generated_at": "2026-09-02T07:53:19+00:00",
     "council_slug": "coventry",
     "council_name": "Coventry"
   },
@@ -337,13 +337,13 @@
           "party_name": "Labour and Co-operative Party"
         },
         {
-          "person_id": 82704,
-          "name": "Jamie Simpson",
+          "person_id": 118100,
+          "name": "Robyn Clare Simpson",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 118100,
-          "name": "Robyn Clare Simpson",
+          "person_id": 82704,
+          "name": "Jamie Simpson",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1107,13 +1107,13 @@
       "candidate_count": 14,
       "candidates": [
         {
-          "person_id": 125502,
-          "name": "Carole Kathleen Ann Brightwell",
+          "person_id": 125503,
+          "name": "Dean Edward Brightwell",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 125503,
-          "name": "Dean Edward Brightwell",
+          "person_id": 125502,
+          "name": "Carole Kathleen Ann Brightwell",
           "party_name": "Reform UK"
         },
         {

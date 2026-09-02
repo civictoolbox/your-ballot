@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-01T08:37:09+00:00",
+    "generated_at": "2026-09-02T07:53:19+00:00",
     "party_key": "green",
     "display_name": "Green Party",
     "candidate_count": 4508,
@@ -123,16 +123,16 @@
       "ward_name": "Plaistow North"
     },
     {
-      "person_id": 126491,
-      "name": "Dylan Acton",
+      "person_id": 126044,
+      "name": "Andy Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
       "ward_name": "St Helier East"
     },
     {
-      "person_id": 126044,
-      "name": "Andy Acton",
+      "person_id": 126491,
+      "name": "Dylan Acton",
       "party_name": "Green Party",
       "council_slug": "sutton",
       "council_name": "Sutton",
@@ -1403,16 +1403,16 @@
       "ward_name": "Drake"
     },
     {
-      "person_id": 134549,
-      "name": "Joao Arraiol",
+      "person_id": 134548,
+      "name": "Bella Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
       "ward_name": "Pimlico North"
     },
     {
-      "person_id": 134548,
-      "name": "Bella Arraiol",
+      "person_id": 134549,
+      "name": "Joao Arraiol",
       "party_name": "Green Party",
       "council_slug": "westminster",
       "council_name": "Westminster",
@@ -4427,16 +4427,16 @@
       "ward_name": "Upper Edmonton"
     },
     {
-      "person_id": 139019,
-      "name": "Iona Brown",
+      "person_id": 139020,
+      "name": "Ruby Hazel Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
       "ward_name": "Whickham North & Swalwell"
     },
     {
-      "person_id": 139020,
-      "name": "Ruby Hazel Brown",
+      "person_id": 139019,
+      "name": "Iona Brown",
       "party_name": "Green Party",
       "council_slug": "gateshead",
       "council_name": "Gateshead",
@@ -9747,16 +9747,16 @@
       "ward_name": "Barrowford & Pendleside"
     },
     {
-      "person_id": 92617,
-      "name": "Maximilian Ellis",
+      "person_id": 133295,
+      "name": "Suzanne Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
       "ward_name": "Wandsworth Common"
     },
     {
-      "person_id": 133295,
-      "name": "Suzanne Ellis",
+      "person_id": 92617,
+      "name": "Maximilian Ellis",
       "party_name": "Green Party",
       "council_slug": "wandsworth",
       "council_name": "Wandsworth",
@@ -11083,16 +11083,16 @@
       "ward_name": "Carshalton Central"
     },
     {
-      "person_id": 133898,
-      "name": "Daniel Francis Michael Friend",
+      "person_id": 133899,
+      "name": "Maya Elizabeth Friend",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
       "ward_name": "Liversedge & Gomersal"
     },
     {
-      "person_id": 133899,
-      "name": "Maya Elizabeth Friend",
+      "person_id": 133898,
+      "name": "Daniel Francis Michael Friend",
       "party_name": "Green Party",
       "council_slug": "kirklees",
       "council_name": "Kirklees",
@@ -20155,16 +20155,16 @@
       "ward_name": "Abbey"
     },
     {
-      "person_id": 135345,
-      "name": "Kaiser Majeed",
+      "person_id": 135344,
+      "name": "Faisal Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Bentley & Darlaston North"
     },
     {
-      "person_id": 135344,
-      "name": "Faisal Majeed",
+      "person_id": 135345,
+      "name": "Kaiser Majeed",
       "party_name": "Green Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -34603,7 +34603,7 @@
       "ward_name": "Dulwich Hill"
     },
     {
-      "person_id": 137309,
+      "person_id": 11019,
       "name": "David White",
       "party_name": "Green Party",
       "council_slug": "stockport",

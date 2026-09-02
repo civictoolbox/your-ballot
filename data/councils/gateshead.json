@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-01T08:37:08+00:00",
+    "generated_at": "2026-09-02T07:53:19+00:00",
     "council_slug": "gateshead",
     "council_name": "Gateshead"
   },
@@ -1292,13 +1292,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 139019,
-          "name": "Iona Brown",
+          "person_id": 139020,
+          "name": "Ruby Hazel Brown",
           "party_name": "Green Party"
         },
         {
-          "person_id": 139020,
-          "name": "Ruby Hazel Brown",
+          "person_id": 139019,
+          "name": "Iona Brown",
           "party_name": "Green Party"
         },
         {
@@ -1307,13 +1307,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 42807,
-          "name": "Susan Craig",
+          "person_id": 45445,
+          "name": "Peter Thomas Craig",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45445,
-          "name": "Peter Thomas Craig",
+          "person_id": 42807,
+          "name": "Susan Craig",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1458,13 +1458,13 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 139005,
-          "name": "Jeff Smart",
+          "person_id": 139006,
+          "name": "Julie Smart",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 139006,
-          "name": "Julie Smart",
+          "person_id": 139005,
+          "name": "Jeff Smart",
           "party_name": "Reform UK"
         },
         {
