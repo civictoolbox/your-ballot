@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-02T07:53:19+00:00",
+    "generated_at": "2026-09-03T08:00:48+00:00",
     "council_slug": "bolton",
     "council_name": "Bolton"
   },
@@ -421,7 +421,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 128995,
+          "person_id": 11679,
           "name": "Derek Bullock",
           "party_name": "Reform UK"
         },

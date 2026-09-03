@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-02T07:53:19+00:00",
+    "generated_at": "2026-09-03T08:00:48+00:00",
     "council_slug": "enfield",
     "council_name": "Enfield"
   },
@@ -159,13 +159,13 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 42508,
-          "name": "Ertan Hurer",
+          "person_id": 136752,
+          "name": "Hasan Hurer",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 136752,
-          "name": "Hasan Hurer",
+          "person_id": 42508,
+          "name": "Ertan Hurer",
           "party_name": "Conservative and Unionist Party"
         },
         {
@@ -398,13 +398,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 45706,
-          "name": "Stephen Viney",
+          "person_id": 45705,
+          "name": "Anne Viney",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 45705,
-          "name": "Anne Viney",
+          "person_id": 45706,
+          "name": "Stephen Viney",
           "party_name": "Liberal Democrats"
         }
       ]
@@ -836,13 +836,13 @@
           "party_name": "Enfield Community Independents Party"
         },
         {
-          "person_id": 84428,
-          "name": "Peter Charalambous",
+          "person_id": 135440,
+          "name": "Bambos Charalambous",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 135440,
-          "name": "Bambos Charalambous",
+          "person_id": 84428,
+          "name": "Peter Charalambous",
           "party_name": "Conservative and Unionist Party"
         },
         {

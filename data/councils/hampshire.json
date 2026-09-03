@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-02T07:53:19+00:00",
+    "generated_at": "2026-09-03T08:00:48+00:00",
     "council_slug": "hampshire",
     "council_name": "Hampshire"
   },
@@ -2154,8 +2154,8 @@
       "candidate_count": 6,
       "candidates": [
         {
-          "person_id": 133235,
-          "name": "Peter James Armstrong",
+          "person_id": 49312,
+          "name": "Peter Armstrong",
           "party_name": "Independent"
         },
         {
