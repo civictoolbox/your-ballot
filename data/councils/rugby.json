@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-03T08:00:48+00:00",
+    "generated_at": "2026-09-04T07:57:08+00:00",
     "council_slug": "rugby",
     "council_name": "Rugby"
   },
@@ -236,7 +236,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 126813,
+          "person_id": 56275,
           "name": "Julie Douglas",
           "party_name": "Liberal Democrats"
         },
@@ -246,7 +246,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126814,
+          "person_id": 109608,
           "name": "Alexander Linden",
           "party_name": "Green Party"
         },

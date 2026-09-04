@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-03T08:00:48+00:00",
+    "generated_at": "2026-09-04T07:57:08+00:00",
     "council_slug": "rochford",
     "council_name": "Rochford"
   },
@@ -81,7 +81,7 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 127160,
+          "person_id": 9812,
           "name": "Jo McPherson",
           "party_name": "Independent"
         },
@@ -134,13 +134,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 127177,
-          "name": "Robert Reid",
+          "person_id": 127176,
+          "name": "Katherine Elizabeth Reid",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 127176,
-          "name": "Katherine Elizabeth Reid",
+          "person_id": 127177,
+          "name": "Robert Reid",
           "party_name": "Reform UK"
         },
         {

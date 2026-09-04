@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-09-03T08:00:48+00:00",
+    "generated_at": "2026-09-04T07:57:09+00:00",
     "party_key": "independent",
     "display_name": "Independent",
     "candidate_count": 1216,
@@ -443,17 +443,17 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 112838,
-      "name": "Mushtaq Ahmed",
-      "party_name": "Walsall Community Independents Party",
+      "person_id": 135185,
+      "name": "Jamal Ahmed",
+      "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
     },
     {
-      "person_id": 135185,
-      "name": "Jamal Ahmed",
-      "party_name": "Independent",
+      "person_id": 112838,
+      "name": "Mushtaq Ahmed",
+      "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "St Matthew's"
@@ -555,16 +555,16 @@
       "ward_name": "Roe Lee"
     },
     {
-      "person_id": 132184,
-      "name": "Mukhtar Ali",
+      "person_id": 132185,
+      "name": "Sakib Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "Bowling & Barkerend"
     },
     {
-      "person_id": 132185,
-      "name": "Sakib Ali",
+      "person_id": 132184,
+      "name": "Mukhtar Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -579,16 +579,16 @@
       "ward_name": "Bradford Moor"
     },
     {
-      "person_id": 131904,
-      "name": "Majid Ali",
+      "person_id": 131905,
+      "name": "Sundas Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
       "ward_name": "City"
     },
     {
-      "person_id": 131905,
-      "name": "Sundas Ali",
+      "person_id": 131904,
+      "name": "Majid Ali",
       "party_name": "Your Bradford Independent group",
       "council_slug": "bradford",
       "council_name": "Bradford",
@@ -603,16 +603,16 @@
       "ward_name": "Lanehead"
     },
     {
-      "person_id": 135438,
-      "name": "Hasan Ali",
+      "person_id": 135439,
+      "name": "Nuran Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
       "ward_name": "Highfield"
     },
     {
-      "person_id": 135439,
-      "name": "Nuran Ali",
+      "person_id": 135438,
+      "name": "Hasan Ali",
       "party_name": "Enfield Community Independents Party",
       "council_slug": "enfield",
       "council_name": "Enfield",
@@ -723,7 +723,7 @@
       "ward_name": "St Matthew's"
     },
     {
-      "person_id": 129656,
+      "person_id": 86527,
       "name": "Shaukat Ali",
       "party_name": "Independent",
       "council_slug": "waltham-forest",
@@ -1635,16 +1635,16 @@
       "ward_name": "Hebden Bridge & Todmorden East"
     },
     {
-      "person_id": 13410,
-      "name": "Chris Bott",
+      "person_id": 42128,
+      "name": "Paul Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 42128,
-      "name": "Paul Bott",
+      "person_id": 13410,
+      "name": "Chris Bott",
       "party_name": "Independent",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -3867,16 +3867,16 @@
       "ward_name": "Park"
     },
     {
-      "person_id": 138949,
-      "name": "Vicky Harrison",
+      "person_id": 5445,
+      "name": "Steve Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Cleadon Park & Harton Moor"
     },
     {
-      "person_id": 5445,
-      "name": "Steve Harrison",
+      "person_id": 138949,
+      "name": "Vicky Harrison",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -4531,16 +4531,16 @@
       "ward_name": "Daneshouse with Stoneyholme"
     },
     {
-      "person_id": 132159,
-      "name": "Yousaf Khan Hussain",
+      "person_id": 132158,
+      "name": "Khuram Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
       "ward_name": "Stamford Hill West"
     },
     {
-      "person_id": 132158,
-      "name": "Khuram Hussain",
+      "person_id": 132159,
+      "name": "Yousaf Khan Hussain",
       "party_name": "Independent",
       "council_slug": "hackney",
       "council_name": "Hackney",
@@ -4595,16 +4595,16 @@
       "ward_name": "Spitalfields & Banglatown"
     },
     {
-      "person_id": 94319,
-      "name": "Izzy Hussain",
+      "person_id": 82764,
+      "name": "Amo Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Paddock"
     },
     {
-      "person_id": 82764,
-      "name": "Amo Hussain",
+      "person_id": 94319,
+      "name": "Izzy Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -4619,16 +4619,16 @@
       "ward_name": "Palfrey & The Delves"
     },
     {
-      "person_id": 135921,
-      "name": "Basharat Hussain",
+      "person_id": 52156,
+      "name": "Khizar Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Pleck"
     },
     {
-      "person_id": 52156,
-      "name": "Khizar Hussain",
+      "person_id": 135921,
+      "name": "Basharat Hussain",
       "party_name": "Walsall Community Independents Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -5283,16 +5283,16 @@
       "ward_name": "Clenchwarton & King's Lynn South"
     },
     {
-      "person_id": 81051,
-      "name": "David Kennedy",
+      "person_id": 138893,
+      "name": "Karen Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
       "ward_name": "Primrose"
     },
     {
-      "person_id": 138893,
-      "name": "Karen Kennedy",
+      "person_id": 81051,
+      "name": "David Kennedy",
       "party_name": "Independent",
       "council_slug": "south-tyneside",
       "council_name": "South Tyneside",
@@ -6235,7 +6235,7 @@
       "ward_name": "Primrose"
     },
     {
-      "person_id": 127160,
+      "person_id": 9812,
       "name": "Jo McPherson",
       "party_name": "Independent",
       "council_slug": "rochford",
@@ -6923,7 +6923,7 @@
       "ward_name": "Cranbrook"
     },
     {
-      "person_id": 128969,
+      "person_id": 100488,
       "name": "Ammar Noorwali",
       "party_name": "Independent",
       "council_slug": "milton-keynes",
@@ -7235,8 +7235,8 @@
       "ward_name": "Bastwell & Daisyfield"
     },
     {
-      "person_id": 132009,
-      "name": "Safvan Patel",
+      "person_id": 132007,
+      "name": "Altaf Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -7251,8 +7251,8 @@
       "ward_name": "Wensley Fold"
     },
     {
-      "person_id": 132007,
-      "name": "Altaf Patel",
+      "person_id": 132009,
+      "name": "Safvan Patel",
       "party_name": "Independent",
       "council_slug": "blackburn-with-darwen",
       "council_name": "Blackburn With Darwen",
@@ -9147,7 +9147,7 @@
       "ward_name": "Crowborough South & St Johns"
     },
     {
-      "person_id": 128994,
+      "person_id": 45714,
       "name": "Dave Waller",
       "party_name": "Brentford, Isleworth, Heston & Hounslow Independents",
       "council_slug": "hounslow",
