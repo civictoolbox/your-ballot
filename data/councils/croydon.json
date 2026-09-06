@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-05T07:38:40+00:00",
+    "generated_at": "2026-09-06T07:52:55+00:00",
     "council_slug": "croydon",
     "council_name": "Croydon"
   },
@@ -1456,13 +1456,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 129773,
-          "name": "Stephanie Jane Waddell",
+          "person_id": 42793,
+          "name": "Paul Martin Waddell",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 42793,
-          "name": "Paul Martin Waddell",
+          "person_id": 129773,
+          "name": "Stephanie Jane Waddell",
           "party_name": "Labour Party"
         }
       ]
@@ -1504,13 +1504,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 93383,
-          "name": "Oliver Jacob Duxbury",
+          "person_id": 129537,
+          "name": "Connie Olivia Duxbury",
           "party_name": "Green Party"
         },
         {
-          "person_id": 129537,
-          "name": "Connie Olivia Duxbury",
+          "person_id": 93383,
+          "name": "Oliver Jacob Duxbury",
           "party_name": "Green Party"
         },
         {
