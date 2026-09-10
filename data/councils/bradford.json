@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-09T08:06:58+00:00",
+    "generated_at": "2026-09-10T08:06:03+00:00",
     "council_slug": "bradford",
     "council_name": "Bradford"
   },
@@ -1645,14 +1645,14 @@
       "candidate_count": 16,
       "candidates": [
         {
-          "person_id": 126119,
-          "name": "Fatima Safa Ali",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 132106,
           "name": "Shazad Ali",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 126119,
+          "name": "Fatima Safa Ali",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 132107,

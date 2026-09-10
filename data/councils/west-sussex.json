@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-09T08:06:58+00:00",
+    "generated_at": "2026-09-10T08:06:03+00:00",
     "council_slug": "west-sussex",
     "council_name": "West Sussex"
   },
@@ -1604,8 +1604,8 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 137815,
-          "name": "Trevor William Bence",
+          "person_id": 54699,
+          "name": "Trevor Bence",
           "party_name": "Reform UK"
         },
         {

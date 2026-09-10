@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-09T08:06:58+00:00",
+    "generated_at": "2026-09-10T08:06:03+00:00",
     "council_slug": "norfolk",
     "council_name": "Norfolk"
   },
@@ -764,8 +764,8 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 131467,
-          "name": "Nicholas Timothy Coppack",
+          "person_id": 82957,
+          "name": "Nick Coppack",
           "party_name": "Conservative and Unionist Party"
         },
         {
