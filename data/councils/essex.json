@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-10T08:06:03+00:00",
+    "generated_at": "2026-09-11T08:01:32+00:00",
     "council_slug": "essex",
     "council_name": "Essex"
   },
@@ -1826,7 +1826,7 @@
       "candidate_count": 4,
       "candidates": [
         {
-          "person_id": 132590,
+          "person_id": 48508,
           "name": "Tom Addenbrooke",
           "party_name": "Liberal Democrats"
         },
@@ -2191,7 +2191,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132633,
+          "person_id": 112228,
           "name": "Georgina Morgan-Bates",
           "party_name": "Labour Party"
         },
@@ -2376,7 +2376,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 136018,
+          "person_id": 101335,
           "name": "Pat Murray",
           "party_name": "Reform UK"
         },

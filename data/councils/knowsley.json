@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-10T08:06:03+00:00",
+    "generated_at": "2026-09-11T08:01:32+00:00",
     "council_slug": "knowsley",
     "council_name": "Knowsley"
   },
@@ -390,7 +390,7 @@
       "candidate_count": 3,
       "candidates": [
         {
-          "person_id": 128516,
+          "person_id": 97208,
           "name": "Claude Chonzi",
           "party_name": "Reform UK"
         },
