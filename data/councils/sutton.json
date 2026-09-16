@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-15T08:38:58+00:00",
+    "generated_at": "2026-09-16T08:33:22+00:00",
     "council_slug": "sutton",
     "council_name": "Sutton"
   },
@@ -561,7 +561,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 126690,
+          "person_id": 48749,
           "name": "Ann Morrison",
           "party_name": "Labour Party"
         },
@@ -599,7 +599,7 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 126653,
+          "person_id": 48878,
           "name": "John Clay",
           "party_name": "Labour Party"
         },
@@ -1120,7 +1120,7 @@
       "candidate_count": 15,
       "candidates": [
         {
-          "person_id": 126681,
+          "person_id": 48734,
           "name": "Victoria Barlow",
           "party_name": "Labour Party"
         },
@@ -1444,13 +1444,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 48786,
-          "name": "Christopher Ellis Wortley",
+          "person_id": 48772,
+          "name": "Hilary Vaughan Wortley",
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 48772,
-          "name": "Hilary Vaughan Wortley",
+          "person_id": 48786,
+          "name": "Christopher Ellis Wortley",
           "party_name": "Conservative and Unionist Party"
         }
       ]

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-15T08:38:58+00:00",
+    "generated_at": "2026-09-16T08:33:22+00:00",
     "council_slug": "sandwell",
     "council_name": "Sandwell"
   },
@@ -1168,7 +1168,7 @@
           "party_name": "Advance UK"
         },
         {
-          "person_id": 110751,
+          "person_id": 54606,
           "name": "Archer Williams",
           "party_name": "Labour Party"
         }
@@ -1264,14 +1264,14 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 81943,
-          "name": "Parbinder Kaur",
-          "party_name": "Labour Party"
-        },
-        {
           "person_id": 130160,
           "name": "Simran Kaur",
           "party_name": "Reform UK"
+        },
+        {
+          "person_id": 81943,
+          "name": "Parbinder Kaur",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 87499,
@@ -1357,14 +1357,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 130345,
-          "name": "Les Smith",
-          "party_name": "Reform UK"
-        },
-        {
           "person_id": 130346,
           "name": "Stefan Joseph Gareth Smith",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 130345,
+          "name": "Les Smith",
+          "party_name": "Reform UK"
         },
         {
           "person_id": 74257,
