@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "generated_at": "2026-09-18T08:13:09+00:00",
+    "party_key": "party-politepolitics",
+    "display_name": "PolitePolitics",
+    "candidate_count": 4,
+    "council_count": 1,
+    "raw_party_names": [
+      "PolitePolitics"
+    ]
+  },
+  "candidates": [
+    {
+      "person_id": 90577,
+      "name": "Karl Lionel Collier",
+      "party_name": "PolitePolitics",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "Newton-le-Willows West"
+    },
+    {
+      "person_id": 77387,
+      "name": "Terry Maguire",
+      "party_name": "PolitePolitics",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "Newton-le-Willows West"
+    },
+    {
+      "person_id": 125515,
+      "name": "Tom Middleton-Leonard",
+      "party_name": "PolitePolitics",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "Newton-le-Willows East"
+    },
+    {
+      "person_id": 90578,
+      "name": "Craig Smith",
+      "party_name": "PolitePolitics",
+      "council_slug": "st-helens",
+      "council_name": "St Helens",
+      "ward_name": "Newton-le-Willows West"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-17T08:37:33+00:00",
+    "generated_at": "2026-09-18T08:13:08+00:00",
     "council_slug": "sefton",
     "council_name": "Sefton"
   },
@@ -312,13 +312,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 122763,
-          "name": "David Roscoe",
+          "person_id": 16104,
+          "name": "Diane Roscoe",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 16104,
-          "name": "Diane Roscoe",
+          "person_id": 122763,
+          "name": "David Roscoe",
           "party_name": "Labour Party"
         },
         {
@@ -760,13 +760,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 55196,
-          "name": "Catie Page",
+          "person_id": 106718,
+          "name": "Chris Page",
           "party_name": "Labour Party"
         },
         {
-          "person_id": 106718,
-          "name": "Chris Page",
+          "person_id": 55196,
+          "name": "Catie Page",
           "party_name": "Labour Party"
         },
         {
@@ -891,7 +891,7 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 134993,
+          "person_id": 71657,
           "name": "Carla Burns",
           "party_name": "Green Party"
         },

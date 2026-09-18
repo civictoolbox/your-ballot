@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "generated_at": "2026-09-17T08:37:33+00:00",
-    "party_count": 94,
+    "generated_at": "2026-09-18T08:13:09+00:00",
+    "party_count": 95,
     "candidate_count": 25060
   },
   "parties": [
@@ -38,7 +38,7 @@
     {
       "key": "independent",
       "display_name": "Independent",
-      "candidate_count": 1216,
+      "candidate_count": 1212,
       "council_count": 124
     },
     {
@@ -266,6 +266,12 @@
     {
       "key": "party-coventry-citizens-party",
       "display_name": "Coventry Citizens Party",
+      "candidate_count": 4,
+      "council_count": 1
+    },
+    {
+      "key": "party-politepolitics",
+      "display_name": "PolitePolitics",
       "candidate_count": 4,
       "council_count": 1
     },
