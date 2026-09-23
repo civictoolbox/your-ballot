@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "generated_at": "2026-09-22T08:31:09+00:00",
+    "generated_at": "2026-09-23T08:32:38+00:00",
     "party_count": 95,
-    "candidate_count": 25060
+    "candidate_count": 25059
   },
   "parties": [
     {
@@ -26,7 +26,7 @@
     {
       "key": "labour",
       "display_name": "Labour Party",
-      "candidate_count": 4226,
+      "candidate_count": 4225,
       "council_count": 152
     },
     {
@@ -426,12 +426,6 @@
       "council_count": 1
     },
     {
-      "key": "party-christian-peoples-alliance-and-christian-party",
-      "display_name": "Christian Peoples Alliance and Christian Party",
-      "candidate_count": 1,
-      "council_count": 1
-    },
-    {
       "key": "party-climate-party",
       "display_name": "Climate Party",
       "candidate_count": 1,
@@ -530,6 +524,12 @@
     {
       "key": "party-thames-ditton-weston-green-residents-association",
       "display_name": "Thames Ditton / Weston Green Residents' Association",
+      "candidate_count": 1,
+      "council_count": 1
+    },
+    {
+      "key": "party-the-christian-party-christian-peoples-alliance",
+      "display_name": "The Christian Party Christian Peoples Alliance",
       "candidate_count": 1,
       "council_count": 1
     },
