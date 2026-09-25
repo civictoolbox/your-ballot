@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-09-24T08:25:15+00:00",
+    "generated_at": "2026-09-25T08:47:23+00:00",
     "council_slug": "crawley",
     "council_name": "Crawley"
   },
@@ -193,7 +193,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 126364,
+          "person_id": 117884,
           "name": "Imtiaz Khan",
           "party_name": "Conservative and Unionist Party"
         },
