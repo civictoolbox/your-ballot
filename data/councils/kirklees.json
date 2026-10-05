@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-04T09:45:11+00:00",
+    "generated_at": "2026-10-05T10:23:05+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -1197,14 +1197,14 @@
       "candidate_count": 18,
       "candidates": [
         {
-          "person_id": 36816,
-          "name": "Waheed Anwar",
-          "party_name": "Liberal Democrats"
-        },
-        {
           "person_id": 89487,
           "name": "Ammar Anwar",
           "party_name": "Independent"
+        },
+        {
+          "person_id": 36816,
+          "name": "Waheed Anwar",
+          "party_name": "Liberal Democrats"
         },
         {
           "person_id": 135824,
@@ -1853,24 +1853,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133898,
-          "name": "Daniel Francis Michael Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133899,
           "name": "Maya Elizabeth Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133901,
-          "name": "George Mason Hall",
-          "party_name": "Labour Party"
+          "person_id": 133898,
+          "name": "Daniel Francis Michael Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133900,
           "name": "David James Hall",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133901,
+          "name": "George Mason Hall",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 109864,
