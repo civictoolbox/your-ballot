@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-07T10:13:20+00:00",
+    "generated_at": "2026-10-08T10:32:17+00:00",
     "council_slug": "west-lancashire",
     "council_name": "West Lancashire"
   },
@@ -485,7 +485,7 @@
       "candidate_count": 5,
       "candidates": [
         {
-          "person_id": 130473,
+          "person_id": 2577,
           "name": "Peter Andrew Cranie",
           "party_name": "Green Party"
         },
