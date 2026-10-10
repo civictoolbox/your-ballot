@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-09T10:30:32+00:00",
+    "generated_at": "2026-10-10T09:47:52+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -53,13 +53,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 76474,
-          "name": "David Pointon",
+          "person_id": 76470,
+          "name": "Ayrton Pointon",
           "party_name": "Independent"
         },
         {
-          "person_id": 76470,
-          "name": "Ayrton Pointon",
+          "person_id": 76474,
+          "name": "David Pointon",
           "party_name": "Independent"
         },
         {
