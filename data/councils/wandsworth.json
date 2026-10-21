@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-20T08:29:13+00:00",
+    "generated_at": "2026-10-21T08:31:52+00:00",
     "council_slug": "wandsworth",
     "council_name": "Wandsworth"
   },
@@ -184,13 +184,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 132778,
-          "name": "Rebecca Daisy Alana Barton-Singer",
+          "person_id": 91923,
+          "name": "Gabriel Byng Barton-Singer",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 91923,
-          "name": "Gabriel Byng Barton-Singer",
+          "person_id": 132778,
+          "name": "Rebecca Daisy Alana Barton-Singer",
           "party_name": "Liberal Democrats"
         },
         {
@@ -894,8 +894,8 @@
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 133031,
-          "name": "Sana Zehra Jafri",
+          "person_id": 85022,
+          "name": "Sana Jafri",
           "party_name": "Labour Party"
         },
         {
@@ -1357,13 +1357,13 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 133295,
-          "name": "Suzanne Ellis",
+          "person_id": 92617,
+          "name": "Maximilian Ellis",
           "party_name": "Green Party"
         },
         {
-          "person_id": 92617,
-          "name": "Maximilian Ellis",
+          "person_id": 133295,
+          "name": "Suzanne Ellis",
           "party_name": "Green Party"
         },
         {
