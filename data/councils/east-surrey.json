@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-21T08:31:52+00:00",
+    "generated_at": "2026-10-22T08:34:08+00:00",
     "council_slug": "east-surrey",
     "council_name": "East Surrey"
   },
@@ -976,7 +976,7 @@
       "candidate_count": 10,
       "candidates": [
         {
-          "person_id": 138247,
+          "person_id": 88561,
           "name": "Harrison Allman-Varty",
           "party_name": "Reform UK"
         },
@@ -2002,13 +2002,13 @@
       "candidate_count": 13,
       "candidates": [
         {
-          "person_id": 137742,
-          "name": "Sarah Jane Chambers",
+          "person_id": 137743,
+          "name": "Simon Chambers",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 137743,
-          "name": "Simon Chambers",
+          "person_id": 137742,
+          "name": "Sarah Jane Chambers",
           "party_name": "Reform UK"
         },
         {
