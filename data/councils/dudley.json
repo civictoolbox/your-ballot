@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-10-22T08:34:08+00:00",
+    "generated_at": "2026-10-23T08:30:11+00:00",
     "council_slug": "dudley",
     "council_name": "Dudley"
   },
@@ -586,8 +586,8 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 132347,
-          "name": "Jason Douglas Thorne",
+          "person_id": 87803,
+          "name": "Jason Thorne",
           "party_name": "Reform UK"
         }
       ]
