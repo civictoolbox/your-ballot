@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-10-30T09:58:16+00:00",
+    "generated_at": "2026-10-31T09:35:56+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4226,
@@ -13763,16 +13763,16 @@
       "ward_name": "Shirley North"
     },
     {
-      "person_id": 48560,
-      "name": "Maxine Henson",
+      "person_id": 48559,
+      "name": "Graham Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
       "ward_name": "Roxbourne"
     },
     {
-      "person_id": 48559,
-      "name": "Graham Henson",
+      "person_id": 48560,
+      "name": "Maxine Henson",
       "party_name": "Labour Party",
       "council_slug": "harrow",
       "council_name": "Harrow",
@@ -19651,16 +19651,16 @@
       "ward_name": "Bloxwich West"
     },
     {
-      "person_id": 112815,
-      "name": "Dean Margetts",
+      "person_id": 112845,
+      "name": "Klara Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Paddock"
     },
     {
-      "person_id": 112845,
-      "name": "Klara Margetts",
+      "person_id": 112815,
+      "name": "Dean Margetts",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -23067,16 +23067,16 @@
       "ward_name": "Surrey Docks"
     },
     {
-      "person_id": 124945,
-      "name": "Lu O'Shea",
+      "person_id": 40305,
+      "name": "John Anthony O'Shea",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Acocks Green"
     },
     {
-      "person_id": 40305,
-      "name": "John Anthony O'Shea",
+      "person_id": 124945,
+      "name": "Lu O'Shea",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -24171,16 +24171,16 @@
       "ward_name": "Harrow Weald"
     },
     {
-      "person_id": 108793,
-      "name": "Sofia Patel",
+      "person_id": 137950,
+      "name": "Mukesh Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
       "ward_name": "East Ham"
     },
     {
-      "person_id": 137950,
-      "name": "Mukesh Patel",
+      "person_id": 108793,
+      "name": "Sofia Patel",
       "party_name": "Labour Party",
       "council_slug": "newham",
       "council_name": "Newham",
@@ -26947,16 +26947,16 @@
       "ward_name": "Frinton & Walton"
     },
     {
-      "person_id": 16104,
-      "name": "Diane Roscoe",
+      "person_id": 122763,
+      "name": "David Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Blundellsands"
     },
     {
-      "person_id": 122763,
-      "name": "David Roscoe",
+      "person_id": 16104,
+      "name": "Diane Roscoe",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -29059,16 +29059,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31899,16 +31899,16 @@
       "ward_name": "Washington North"
     },
     {
-      "person_id": 135895,
-      "name": "Ade Walker",
+      "person_id": 135896,
+      "name": "Amy Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 135896,
-      "name": "Amy Walker",
+      "person_id": 135895,
+      "name": "Ade Walker",
       "party_name": "Labour Party",
       "council_slug": "walsall",
       "council_name": "Walsall",
@@ -32787,16 +32787,16 @@
       "ward_name": "Birstall & Birkenshaw"
     },
     {
-      "person_id": 37567,
-      "name": "Roger William Wilkes",
+      "person_id": 128592,
+      "name": "Margaret Wilkes",
       "party_name": "Labour Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
       "ward_name": "Thistleberry"
     },
     {
-      "person_id": 128592,
-      "name": "Margaret Wilkes",
+      "person_id": 37567,
+      "name": "Roger William Wilkes",
       "party_name": "Labour Party",
       "council_slug": "newcastle-under-lyme",
       "council_name": "Newcastle Under Lyme",
