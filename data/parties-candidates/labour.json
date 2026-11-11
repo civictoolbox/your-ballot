@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "generated_at": "2026-11-10T11:07:36+00:00",
+    "generated_at": "2026-11-11T10:54:03+00:00",
     "party_key": "labour",
     "display_name": "Labour Party",
     "candidate_count": 4226,
@@ -3347,16 +3347,16 @@
       "ward_name": "Boleyn"
     },
     {
-      "person_id": 45958,
-      "name": "Kastriot Berberi",
+      "person_id": 91879,
+      "name": "Marsela Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
       "ward_name": "Forest"
     },
     {
-      "person_id": 91879,
-      "name": "Marsela Berberi",
+      "person_id": 45958,
+      "name": "Kastriot Berberi",
       "party_name": "Labour Party",
       "council_slug": "waltham-forest",
       "council_name": "Waltham Forest",
@@ -23067,16 +23067,16 @@
       "ward_name": "Surrey Docks"
     },
     {
-      "person_id": 40305,
-      "name": "John Anthony O'Shea",
+      "person_id": 124945,
+      "name": "Lu O'Shea",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
       "ward_name": "Acocks Green"
     },
     {
-      "person_id": 124945,
-      "name": "Lu O'Shea",
+      "person_id": 40305,
+      "name": "John Anthony O'Shea",
       "party_name": "Labour Party",
       "council_slug": "birmingham",
       "council_name": "Birmingham",
@@ -23835,16 +23835,16 @@
       "ward_name": "Forest Gate South"
     },
     {
-      "person_id": 55196,
-      "name": "Catie Page",
+      "person_id": 106718,
+      "name": "Chris Page",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
       "ward_name": "Formby East"
     },
     {
-      "person_id": 106718,
-      "name": "Chris Page",
+      "person_id": 55196,
+      "name": "Catie Page",
       "party_name": "Labour Party",
       "council_slug": "sefton",
       "council_name": "Sefton",
@@ -25955,7 +25955,7 @@
       "ward_name": "Greets Green & Lyng"
     },
     {
-      "person_id": 133563,
+      "person_id": 14679,
       "name": "John Rankin",
       "party_name": "Labour Party",
       "council_slug": "east-sussex",
@@ -25963,7 +25963,7 @@
       "ward_name": "Hollington & Wishing Tree"
     },
     {
-      "person_id": 133563,
+      "person_id": 14679,
       "name": "John Rankin",
       "party_name": "Labour Party",
       "council_slug": "hastings",
@@ -29059,16 +29059,16 @@
       "ward_name": "Stowmarket West"
     },
     {
-      "person_id": 134233,
-      "name": "George Thomas Smith",
+      "person_id": 134232,
+      "name": "Angela Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
       "ward_name": "Pallion & Ford"
     },
     {
-      "person_id": 134232,
-      "name": "Angela Smith",
+      "person_id": 134233,
+      "name": "George Thomas Smith",
       "party_name": "Labour Party",
       "council_slug": "sunderland",
       "council_name": "Sunderland",
@@ -31899,14 +31899,6 @@
       "ward_name": "Washington North"
     },
     {
-      "person_id": 135895,
-      "name": "Ade Walker",
-      "party_name": "Labour Party",
-      "council_slug": "walsall",
-      "council_name": "Walsall",
-      "ward_name": "Darlaston South"
-    },
-    {
       "person_id": 135896,
       "name": "Amy Walker",
       "party_name": "Labour Party",
@@ -31915,16 +31907,24 @@
       "ward_name": "Darlaston South"
     },
     {
-      "person_id": 38560,
-      "name": "Ray Wall",
+      "person_id": 135895,
+      "name": "Ade Walker",
+      "party_name": "Labour Party",
+      "council_slug": "walsall",
+      "council_name": "Walsall",
+      "ward_name": "Darlaston South"
+    },
+    {
+      "person_id": 38587,
+      "name": "Lauren Marie Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
       "ward_name": "North Hanwell"
     },
     {
-      "person_id": 38587,
-      "name": "Lauren Marie Wall",
+      "person_id": 38560,
+      "name": "Ray Wall",
       "party_name": "Labour Party",
       "council_slug": "ealing",
       "council_name": "Ealing",
