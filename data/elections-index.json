@@ -1,11 +1,11 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-11-17T11:47:53+00:00",
+    "generated_at": "2026-11-18T11:37:35+00:00",
     "source": "Democracy Club YNR CSV export",
     "council_count": 156,
     "ward_count": 2971,
-    "candidate_count": 25060,
+    "candidate_count": 25059,
     "seat_count": 5068
   },
   "councils": [
@@ -2067,7 +2067,7 @@
       "slug": "kirklees",
       "name": "Kirklees",
       "ward_count": 23,
-      "candidate_count": 380,
+      "candidate_count": 379,
       "seat_count": 69,
       "wards": [
         "Almondbury",

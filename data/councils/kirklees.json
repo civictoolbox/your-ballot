@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-11-17T11:47:53+00:00",
+    "generated_at": "2026-11-18T11:37:35+00:00",
     "council_slug": "kirklees",
     "council_name": "Kirklees"
   },
@@ -513,13 +513,13 @@
           "party_name": "Green Party"
         },
         {
-          "person_id": 53021,
-          "name": "Andrew Charles Pinnock",
+          "person_id": 8622,
+          "name": "Kathryn Mary Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 8622,
-          "name": "Kathryn Mary Pinnock",
+          "person_id": 53021,
+          "name": "Andrew Charles Pinnock",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1433,13 +1433,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 97900,
-          "name": "Gill Long",
+          "person_id": 75259,
+          "name": "Stephen James Long",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 75259,
-          "name": "Stephen James Long",
+          "person_id": 97900,
+          "name": "Gill Long",
           "party_name": "Liberal Democrats"
         },
         {
@@ -1521,13 +1521,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 136931,
-          "name": "Alex Green",
+          "person_id": 53057,
+          "name": "Chris Green",
           "party_name": "Green Party"
         },
         {
-          "person_id": 53057,
-          "name": "Chris Green",
+          "person_id": 136931,
+          "name": "Alex Green",
           "party_name": "Green Party"
         },
         {
@@ -1586,7 +1586,7 @@
       "ward_name": "Holme Valley South",
       "ballot_paper_id": "local.kirklees.holme-valley-south.2026-05-07",
       "seats_contested": 3,
-      "candidate_count": 15,
+      "candidate_count": 14,
       "candidates": [
         {
           "person_id": 137565,
@@ -1602,11 +1602,6 @@
           "person_id": 86823,
           "name": "Damian Craig Brook",
           "party_name": "Conservative and Unionist Party"
-        },
-        {
-          "person_id": 137567,
-          "name": "Robert Francis Butler",
-          "party_name": "Reform UK"
         },
         {
           "person_id": 73537,
@@ -1853,24 +1848,24 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 133898,
-          "name": "Daniel Francis Michael Friend",
-          "party_name": "Green Party"
-        },
-        {
           "person_id": 133899,
           "name": "Maya Elizabeth Friend",
           "party_name": "Green Party"
         },
         {
-          "person_id": 133901,
-          "name": "George Mason Hall",
-          "party_name": "Labour Party"
+          "person_id": 133898,
+          "name": "Daniel Francis Michael Friend",
+          "party_name": "Green Party"
         },
         {
           "person_id": 133900,
           "name": "David James Hall",
           "party_name": "Conservative and Unionist Party"
+        },
+        {
+          "person_id": 133901,
+          "name": "George Mason Hall",
+          "party_name": "Labour Party"
         },
         {
           "person_id": 109864,
