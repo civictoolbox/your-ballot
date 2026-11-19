@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-11-18T11:37:35+00:00",
+    "generated_at": "2026-11-19T11:35:26+00:00",
     "council_slug": "wakefield",
     "council_name": "Wakefield"
   },
@@ -38,13 +38,13 @@
           "party_name": "Independent"
         },
         {
-          "person_id": 125440,
-          "name": "Yvette Amanda Dorothy McKinney",
+          "person_id": 125439,
+          "name": "Charles Patrick McKinney",
           "party_name": "Green Party"
         },
         {
-          "person_id": 125439,
-          "name": "Charles Patrick McKinney",
+          "person_id": 125440,
+          "name": "Yvette Amanda Dorothy McKinney",
           "party_name": "Green Party"
         },
         {
@@ -280,13 +280,13 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 8548,
-          "name": "Penny Ashton",
+          "person_id": 5269,
+          "name": "Steven Ashton",
           "party_name": "Reform UK"
         },
         {
-          "person_id": 5269,
-          "name": "Steven Ashton",
+          "person_id": 8548,
+          "name": "Penny Ashton",
           "party_name": "Reform UK"
         },
         {
@@ -1324,7 +1324,7 @@
           "party_name": "Reform UK"
         },
         {
-          "person_id": 130969,
+          "person_id": 44841,
           "name": "David John Rowntree Herdson",
           "party_name": "Liberal Democrats"
         },
@@ -1538,14 +1538,14 @@
           "party_name": "Labour Party"
         },
         {
-          "person_id": 17221,
-          "name": "Martyn Johnson",
-          "party_name": "Independent"
-        },
-        {
           "person_id": 130545,
           "name": "Andrew Johnson",
           "party_name": "Green Party"
+        },
+        {
+          "person_id": 17221,
+          "name": "Martyn Johnson",
+          "party_name": "Independent"
         },
         {
           "person_id": 62818,
