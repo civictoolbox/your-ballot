@@ -1,7 +1,7 @@
 {
   "_meta": {
     "election_date": "2026-05-07",
-    "generated_at": "2026-11-23T12:32:02+00:00",
+    "generated_at": "2026-11-24T13:39:10+00:00",
     "council_slug": "basingstoke-and-deane",
     "council_name": "Basingstoke and Deane"
   },
@@ -358,13 +358,13 @@
           "party_name": "Basingstoke & Deane Independents"
         },
         {
-          "person_id": 97251,
-          "name": "Hannah Lilian Jane Cooper",
+          "person_id": 9684,
+          "name": "Robert Charles Cooper",
           "party_name": "Liberal Democrats"
         },
         {
-          "person_id": 9684,
-          "name": "Robert Charles Cooper",
+          "person_id": 97251,
+          "name": "Hannah Lilian Jane Cooper",
           "party_name": "Liberal Democrats"
         },
         {
@@ -426,7 +426,7 @@
           "party_name": "Conservative and Unionist Party"
         },
         {
-          "person_id": 129441,
+          "person_id": 9713,
           "name": "Duncan Philip Stone",
           "party_name": "Reform UK"
         }
